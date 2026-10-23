@@ -39,6 +39,21 @@ bash scripts/pronounce.sh audio.wav "sentence"  # 音素级分析
 | 模型下载 | Hugging Face 镜像 | 获取权重 | 本环境可访问 | 官方站点（不可直连） |
 | 自动化 | `scripts/` | 启动、打分、TTS、ASR | 少记命令 | 手动执行 |
 
+### 已安装工具清单
+
+| 类别 | 已安装 | 状态 / 用途 |
+|---|---|---|
+| 音频 | `ffmpeg`、`ffprobe` | 转码、查看时长/格式 |
+| 发音分析 | OpenPronounce CLI + 网页 | 词/音素级诊断 |
+| TTS | Piper `en_US-lessac-medium` | 本地参考音 |
+| ASR | Whisper `base.en`、Vosk small | 可懂度检查 |
+| 文档 | `pandoc` | DOCX → Markdown |
+| 下载/版本 | `curl`、`wget`、`aria2c`、`git`、`jq` | 模型下载、版本管理、JSON |
+| 容器 | Docker CLI 29.5.3 | 已安装但 daemon 未运行；当前不用 |
+| Python 运行时 | venv + torch/transformers/fastapi/uvicorn/librosa/soundfile | 所有 CLI 和网页依赖 |
+| Windows GUI | Obsidian、Audacity、Anki | 不在 WSL 内，需在 Windows 用 winget 安装 |
+| 未安装 | Kokoro、sox、sqlite3 | Kokoro 有 Python 3.13 冲突；sox/sqlite3 当前不需要 |
+
 ## 2. 从零搭建（可复现）
 
 环境基线：Debian 13（WSL2）· Python 3.13 · CPU PyTorch · 无 GPU 依赖。
@@ -187,6 +202,20 @@ HF_HUB_OFFLINE=1 bash scripts/pronounce.sh recording.wav "sentence"
 
 离线时 Piper、OpenPronounce、Whisper、Vosk 都可正常工作；只有模型下载需要网络。
 
+## 3.5 输入与时长限制
+
+| 输入 | 硬限制 | 建议范围 | 原因 |
+|---|---|---|---|
+| 网页录音 | **60 秒**（`maxDuration=60000`），静音 2 秒自动停止 | 5–30 秒 | 一句到三句，便于对齐和修正 |
+| 网页上传 | 服务端无显式大小上限 | 5–60 秒/文件 | 受内存和 CPU 限制 |
+| CLI 音频 | 无显式上限 | 5–30 秒 | Wav2Vec2 训练片段较短；太长会慢且对齐变差 |
+| 目标文本 | 无 `maxlength` | 1–2 句，约 30 词以内 | 音素对齐和 DTW 随长度变慢 |
+| Whisper ASR | 30 秒窗口，长音频自动切块 | 练习句 60 秒以内 | `base.en` 是轻量模型 |
+| Vosk | 无硬限制，要求 16 kHz 单声道 | 任意练习句 | 本脚本会自动转 16 kHz |
+| Piper TTS | 无硬限制 | 一次一句 | 长文本会分块合成 |
+
+结论：**练习用 5–30 秒、1–2 句话最合适**。网页录音超过 60 秒会自动停止；需要更长材料时，切成多段分别分析。
+
 ## 4. 工具搭配：什么场景用什么
 
 | 任务 | 首选 | 不要用 | 原因 |
@@ -209,6 +238,65 @@ HF_HUB_OFFLINE=1 bash scripts/pronounce.sh recording.wav "sentence"
 3. **Piper 负责稳定，gTTS 只做应急。** 本环境 gTTS 会卡住，不要用。
 4. **OpenPronounce 负责诊断，ASR 负责可懂度。** 两者结论不一致时，以“人耳是否能听懂”为准。
 5. **Obsidian 负责“查”，Anki 负责“记”。** 不要把所有内容同时维护两份。
+
+### 4.1 工具重叠与冲突
+
+| 重叠 / 冲突 | 选择 | 注意 |
+|---|---|---|
+| Piper vs gTTS vs Kokoro | **Piper** | gTTS 需要 Google，本环境会卡；Kokoro 在 Python 3.13 不可用 |
+| OpenPronounce vs Whisper/Vosk | 两者都要，但用途不同 | OpenPronounce 看音素错误；ASR 看整句可懂度；不要用 ASR 分数代替发音分 |
+| Whisper vs Vosk | Whisper 做最终判断，Vosk 做快速检查 | 不要每句都同时跑两个；它们输出不可直接比较 |
+| 网页 UI vs CLI | 网页做单句录音，CLI 做批量/可重复 | 同一端口只能跑一个网页服务 |
+| Docker vs 原生 venv | 当前用**原生 venv** | 两者都是 OpenPronounce；同时开会抢 8000 端口 |
+| Obsidian vs Anki | Obsidian 管上下文，Anki 管间隔重复 | 不要把整本词库复制两份 |
+| 系统 pip vs venv | 永远用 `~/english/.venv` | 不要全局 `pip install`，避免污染系统 Python |
+| CPU torch vs CUDA torch | 当前用 **CPU 版** | 没有 GPU 时不要装 CUDA 版，体积大且可能冲突 |
+| ffmpeg vs Audacity | ffmpeg 批量转码，Audacity 手动剪辑 | 不冲突，按任务选 |
+
+### 4.2 使用场景与切入时机
+
+| 阶段 / 触发条件 | 工具 | 具体动作 | 时间 |
+|---|---|---|---|
+| 首次搭建、换机器、环境异常 | `setup.sh` / `check-env.sh` | 安装或自检 | 5–10 min |
+| 每天开始，复习昨天 | Obsidian 当日日志 | 不看稿说昨天 3–5 句 | 3 min |
+| 需要跟读示范音 | Piper `tts.sh` | 整句 → 意群，听 2–3 遍 | 2 min |
+| 跟读后要即时反馈 | 网页 UI（单句）/ CLI（批量） | 录音 → 提交 → 看 Score/音素 | 5 min |
+| 不确定是否可懂 | Vosk 快速 / Whisper 最终 | 看关键词、数字、否定词 | 10–20 s |
+| 某个词反复错 | OpenPronounce 音素视图 + 错题本 | 只改 1–2 个音 | 5 min |
+| 每天结束 | Obsidian 日志 | 写 3 句书面句 + 记录问题 | 5 min |
+| 每周复盘 | 周复盘模板 | 对比本周/上周录音，选 3 个问题 | 15 min |
+| 面试前 1–2 周 | `mock-interview` + 录音 | 15 分钟模拟，回听打分 | 每周 1–2 次 |
+| 读论文 | 词库 04 + Obsidian 笔记 | 读摘要 → 口头总结 60 秒 → 写 3 句 | 每天 20 min |
+| 写论文 / 项目总结 | 词库 05 + 写作模板 | 用固定句式写摘要/局限 | 每周 1 次 |
+| 固定块需要间隔复习 | Anki | 中文提示 → 说英文；只做产出卡 | 每天 5–10 张 |
+| 需要剪辑/波形对比 | Audacity（Windows） | 裁剪、并排对比 | 按需 |
+| 音频格式不兼容 | ffmpeg | `-ar 16000 -ac 1` | 按需 |
+| 新增 DOCX 资料 | pandoc | 转 Markdown 后放入 `09_sources` | 按需 |
+| 批量分析/自动化 | `scripts/` | CLI + 日志 + JSON | 按需 |
+| 模型缺失/下载慢 | hf-mirror + aria2 | 只在新环境或升级时用 | 按需 |
+| 想容器化复现 | Docker | 仅在需要隔离环境时启用 | 按需 |
+
+### 4.3 一句话决策树
+
+```text
+要练口语？
+├─ 需要示范音 → Piper TTS
+├─ 需要录音和即时反馈 → 网页 UI（≤60 秒）
+├─ 需要批量/重复分析 → CLI
+└─ 录完了
+   ├─ 想知道是否听得懂 → Vosk（快）/ Whisper（准）
+   ├─ 想知道哪个音错 → OpenPronounce
+   └─ 想长期记住 → 句子卡 / Anki
+```
+
+### 4.4 不该用的场景
+
+- 不要用 gTTS 生成参考音（本环境会卡）。
+- 不要用 Whisper 的转写结果当“发音分数”。
+- 不要每句都同时跑 Whisper 和 Vosk。
+- 不要在 8000 端口同时开两个网页服务或 Docker 容器。
+- 不要把项目和模型依赖装进系统 Python。
+- 不要为了分数反复重录同一句；分数只是线索。
 
 ## 5. 使用最佳实践
 
