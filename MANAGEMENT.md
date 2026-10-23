@@ -137,7 +137,7 @@ review: 2026-10-30    # 可选：下次复习日期
 └── english-speaking-lab/  # 本 vault
 ```
 
-vault 内 `scripts/` 只放薄封装，详细说明见 [[scripts/README|脚本说明]]。
+vault 内 `scripts/` 只放薄封装，详细说明见 [[scripts/README|脚本说明]]；从零搭建、工具搭配和最佳实践见 [[TOOLING|工具手册]]。
 
 ## 备份与版本管理
 

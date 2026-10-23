@@ -12,6 +12,7 @@ updated: 2026-10-23
 
 | 脚本 | 作用 | 示例 |
 |---|---|---|
+| `setup.sh` | 从零搭建环境（可重复执行） | `bash scripts/setup.sh` |
 | `check-env.sh` | 检查工具、Python 包和模型 | `bash scripts/check-env.sh` |
 | `start-web.sh` | 启动 OpenPronounce 网页界面 | `bash scripts/start-web.sh` |
 | `pronounce.sh` | 对录音做音素级打分 | `bash scripts/pronounce.sh a.wav "sentence"` |
