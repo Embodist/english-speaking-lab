@@ -21,6 +21,10 @@ updated: 2026-10-23
 - 每周：`YYYY-Www.md`
 - 归档：`archive/`
 
+## 自动报告
+
+`bash scripts/lab.sh analyze ...` 会把统一报告写入 `07_review-log/reports/`，并在当天日志的“自动记录”下追加链接。
+
 ## 每日记录最少包含
 
 1. 今日场景

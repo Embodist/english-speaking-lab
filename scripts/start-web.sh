@@ -18,7 +18,14 @@ export HF_ENDPOINT="${HF_ENDPOINT:-https://hf-mirror.com}"
 export OPENPRONOUNCE_TTS="${OPENPRONOUNCE_TTS:-piper}"
 export OPENPRONOUNCE_TTS_VOICE="${OPENPRONOUNCE_TTS_VOICE:-en_US-lessac-medium}"
 
+LAB_PAGE="$ROOT/scripts/lab-web.html"
+if [[ -f "$LAB_PAGE" ]]; then
+  mkdir -p "$REPO/static"
+  cp "$LAB_PAGE" "$REPO/static/lab.html"
+fi
+
 echo "Starting OpenPronounce on http://localhost:$PORT"
+echo "Unified lab page: http://localhost:$PORT/static/lab.html"
 echo "Press Ctrl+C to stop."
 cd "$REPO"
 exec "$ENVDIR/bin/uvicorn" server:app --host 127.0.0.1 --port "$PORT"

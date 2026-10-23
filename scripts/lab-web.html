@@ -1,0 +1,285 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>English Lab · TTS + ASR + 发音分析</title>
+<style>
+  :root { --bg:#f6f5f2; --card:#fff; --ink:#1d1c1a; --muted:#6b6862; --line:#e3e0da; --accent:#2563eb; --good:#15803d; --bad:#b91c1c; }
+  * { box-sizing: border-box; }
+  body { margin:0; background:var(--bg); color:var(--ink); font:15px/1.5 system-ui,-apple-system,"Segoe UI",Roboto,"Noto Sans SC",sans-serif; }
+  header { max-width:900px; margin:0 auto; padding:24px 20px 8px; display:flex; gap:16px; align-items:baseline; flex-wrap:wrap; }
+  header h1 { font-size:22px; margin:0; }
+  header a { color:var(--accent); text-decoration:none; font-size:14px; }
+  main { max-width:900px; margin:0 auto; padding:12px 20px 60px; display:grid; gap:16px; }
+  .card { background:var(--card); border:1px solid var(--line); border-radius:14px; padding:18px; }
+  .card h2 { font-size:15px; margin:0 0 12px; color:var(--muted); font-weight:600; letter-spacing:.02em; }
+  textarea { width:100%; min-height:76px; resize:vertical; border:1px solid var(--line); border-radius:10px; padding:10px 12px; font:inherit; }
+  .row { display:flex; gap:10px; align-items:center; flex-wrap:wrap; margin-top:10px; }
+  button { border:1px solid var(--line); background:#fff; color:var(--ink); padding:9px 14px; border-radius:10px; font:inherit; cursor:pointer; }
+  button:hover { border-color:#c9c5bd; }
+  button.primary { background:var(--accent); border-color:var(--accent); color:#fff; }
+  button:disabled { opacity:.5; cursor:not-allowed; }
+  button.danger { background:#fee2e2; border-color:#fecaca; color:var(--bad); }
+  audio { height:36px; max-width:100%; }
+  .status { color:var(--muted); font-size:13px; min-height:20px; margin:8px 0 0; }
+  .grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(180px,1fr)); gap:12px; margin-top:14px; }
+  .metric { border:1px solid var(--line); border-radius:12px; padding:12px 14px; }
+  .metric .label { font-size:12px; color:var(--muted); }
+  .metric .value { font-size:20px; font-weight:650; margin-top:4px; word-break:break-word; }
+  .score { font-size:38px; line-height:1; }
+  table { width:100%; border-collapse:collapse; margin-top:12px; font-size:14px; }
+  th, td { text-align:left; padding:8px 10px; border-bottom:1px solid var(--line); }
+  th { color:var(--muted); font-weight:600; }
+  .muted { color:var(--muted); }
+  .good { color:var(--good); }
+  .bad { color:var(--bad); }
+  .error { color:var(--bad); }
+  input[type=file] { max-width:100%; font:inherit; }
+  @media (max-width:600px) { .card { padding:14px; } }
+</style>
+</head>
+<body>
+<header>
+  <h1>English Lab</h1>
+  <a href="/">OpenPronounce 原生界面</a>
+  <a href="/static/lab.html">刷新</a>
+  <span class="muted" style="font-size:13px">TTS 参考音 · 录音 · 发音分析 · ASR</span>
+</header>
+<main>
+  <section class="card">
+    <h2>1 · 目标句子</h2>
+    <textarea id="sentence">I haven't identified the root cause yet.</textarea>
+    <div class="row">
+      <button id="ttsBtn">生成参考音</button>
+      <audio id="refAudio" controls></audio>
+      <a id="refDownload" class="muted" download hidden>下载参考音</a>
+    </div>
+    <p id="ttsStatus" class="status"></p>
+  </section>
+
+  <section class="card">
+    <h2>2 · 录音或上传</h2>
+    <div class="row">
+      <button id="recordBtn" class="primary">开始录音</button>
+      <span id="timer" class="muted">00:00 / 01:00</span>
+      <input id="fileInput" type="file" accept="audio/*">
+    </div>
+    <div class="row">
+      <audio id="myAudio" controls></audio>
+    </div>
+    <p id="recordStatus" class="status"></p>
+  </section>
+
+  <section class="card">
+    <h2>3 · 分析</h2>
+    <div class="row">
+      <button id="analyzeBtn" class="primary" disabled>分析（发音 + ASR）</button>
+      <button id="reportBtn" disabled>下载 Markdown 报告</button>
+    </div>
+    <p id="analyzeStatus" class="status">先录音或选择音频文件。</p>
+    <div id="results"></div>
+  </section>
+</main>
+
+<script>
+(() => {
+  const $ = id => document.getElementById(id);
+  const state = { recorder: null, stream: null, chunks: [], blob: null, timer: null, seconds: 0, result: null };
+
+  const setStatus = (id, text, isError = false) => {
+    const el = $(id);
+    el.textContent = text;
+    el.classList.toggle('error', isError);
+  };
+
+  const fmt = s => `${String(Math.floor(s / 60)).padStart(2, '0')}:${String(s % 60).padStart(2, '0')}`;
+
+  const setAudio = (blob, target) => {
+    const url = URL.createObjectURL(blob);
+    target.src = url;
+    return url;
+  };
+
+  const resetResults = () => {
+    state.result = null;
+    $('results').innerHTML = '';
+    $('reportBtn').disabled = true;
+  };
+
+  const stopTracks = () => {
+    if (state.stream) state.stream.getTracks().forEach(t => t.stop());
+    state.stream = null;
+  };
+
+  // TTS reference
+  $('ttsBtn').addEventListener('click', async () => {
+    const text = $('sentence').value.trim();
+    if (!text) return setStatus('ttsStatus', '先输入句子。', true);
+    $('ttsBtn').disabled = true;
+    setStatus('ttsStatus', '生成中…（首次会加载模型）');
+    try {
+      const form = new FormData();
+      form.append('text', text);
+      form.append('lang', 'en');
+      const res = await fetch('/tts', { method: 'POST', body: form });
+      if (!res.ok) throw new Error(await res.text());
+      const blob = await res.blob();
+      const url = setAudio(blob, $('refAudio'));
+      const link = $('refDownload');
+      link.href = url;
+      link.download = 'reference.wav';
+      link.hidden = false;
+      setStatus('ttsStatus', '参考音已生成。先听 2–3 遍，再跟读。');
+    } catch (e) {
+      setStatus('ttsStatus', `生成失败：${e.message}`, true);
+    } finally {
+      $('ttsBtn').disabled = false;
+    }
+  });
+
+  // Recording
+  const startRecording = async () => {
+    if (!navigator.mediaDevices || !window.MediaRecorder) {
+      return setStatus('recordStatus', '浏览器不支持录音，请用文件上传。', true);
+    }
+    try {
+      state.stream = await navigator.mediaDevices.getUserMedia({ audio: true });
+    } catch (e) {
+      return setStatus('recordStatus', '无法访问麦克风，请检查浏览器权限。', true);
+    }
+    state.chunks = [];
+    state.seconds = 0;
+    state.recorder = new MediaRecorder(state.stream);
+    state.recorder.ondataavailable = e => { if (e.data.size) state.chunks.push(e.data); };
+    state.recorder.onstop = () => {
+      clearInterval(state.timer);
+      state.blob = new Blob(state.chunks, { type: state.recorder.mimeType || 'audio/webm' });
+      setAudio(state.blob, $('myAudio'));
+      $('analyzeBtn').disabled = false;
+      $('recordBtn').textContent = '重新录音';
+      $('recordBtn').classList.remove('danger');
+      setStatus('recordStatus', `录音完成（${fmt(state.seconds)}）。可以分析。`);
+      stopTracks();
+    };
+    state.recorder.start();
+    $('recordBtn').textContent = '停止录音';
+    $('recordBtn').classList.add('danger');
+    setStatus('recordStatus', '录音中… 最长 60 秒。');
+    $('timer').textContent = '00:00 / 01:00';
+    state.timer = setInterval(() => {
+      state.seconds += 1;
+      $('timer').textContent = `${fmt(state.seconds)} / 01:00`;
+      if (state.seconds >= 60) state.recorder.stop();
+    }, 1000);
+  };
+
+  const stopRecording = () => {
+    if (state.recorder && state.recorder.state === 'recording') state.recorder.stop();
+  };
+
+  $('recordBtn').addEventListener('click', () => {
+    if (state.recorder && state.recorder.state === 'recording') stopRecording();
+    else { resetResults(); startRecording(); }
+  });
+
+  $('fileInput').addEventListener('change', e => {
+    const file = e.target.files[0];
+    if (!file) return;
+    resetResults();
+    state.blob = file;
+    setAudio(file, $('myAudio'));
+    $('analyzeBtn').disabled = false;
+    setStatus('recordStatus', `已选择：${file.name}`);
+  });
+
+  // Analysis
+  $('analyzeBtn').addEventListener('click', async () => {
+    const text = $('sentence').value.trim();
+    if (!text) return setStatus('analyzeStatus', '先输入目标句子。', true);
+    if (!state.blob) return setStatus('analyzeStatus', '先录音或选择音频文件。', true);
+    $('analyzeBtn').disabled = true;
+    $('reportBtn').disabled = true;
+    setStatus('analyzeStatus', '分析中…首次请求可能需要 10–20 秒。');
+    $('results').innerHTML = '';
+
+    const file = state.blob instanceof File ? state.blob : new File([state.blob], 'recording.webm', { type: state.blob.type || 'audio/webm' });
+    const form = new FormData();
+    form.append('file', file, file.name);
+    form.append('expected_text', text);
+    form.append('lang', 'en');
+
+    try {
+      const [pronRes, asrForm] = await Promise.all([
+        fetch('/pronunciation', { method: 'POST', body: form }),
+        (() => {
+          const f = new FormData();
+          f.append('file', file, file.name);
+          f.append('lang', 'en');
+          return fetch('/speech2text', { method: 'POST', body: f });
+        })()
+      ]);
+      if (!pronRes.ok) throw new Error(await pronRes.text());
+      if (!asrForm.ok) throw new Error(await asrForm.text());
+      const pron = await pronRes.json();
+      const asr = await asrForm.json();
+      state.result = { pron, asr, text, at: new Date() };
+      render(pron, asr);
+      $('reportBtn').disabled = false;
+      setStatus('analyzeStatus', '完成。分数只作线索，一次只改 1–2 个问题。');
+    } catch (e) {
+      setStatus('analyzeStatus', `分析失败：${e.message}`, true);
+    } finally {
+      $('analyzeBtn').disabled = false;
+    }
+  });
+
+  const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+
+  const render = (pron, asr) => {
+    const diffs = pron.differences || {};
+    const errors = diffs.errors || [];
+    const heard = (diffs.heard_phones || []).join(' ');
+    const score = pron.score;
+    const words = errors.map(e => e.word).filter(Boolean);
+    const rows = errors.length
+      ? errors.map(e => `<tr><td>${esc(e.word)}</td><td class="muted">/${esc(e.expected)}/</td><td>/${esc(e.actual)}/</td></tr>`).join('')
+      : '<tr><td colspan="3" class="good">未检测到明显误发音</td></tr>';
+
+    $('results').innerHTML = `
+      <div class="grid">
+        <div class="metric"><div class="label">OpenPronounce 分数</div><div class="value score">${esc(score)}</div></div>
+        <div class="metric"><div class="label">系统转写</div><div class="value" style="font-size:15px">${esc(pron.transcribe || '')}</div></div>
+        <div class="metric"><div class="label">ASR 可懂度</div><div class="value" style="font-size:15px">${esc(asr.transcript || '')}</div></div>
+        <div class="metric"><div class="label">误发音词</div><div class="value" style="font-size:15px">${words.length ? esc(words.join(', ')) : '<span class="good">无</span>'}</div></div>
+      </div>
+      <p class="muted" style="margin-top:14px">识别音素：/${esc(heard)}/</p>
+      <table>
+        <thead><tr><th>词</th><th>期望</th><th>实际</th></tr></thead>
+        <tbody>${rows}</tbody>
+      </table>
+      <p class="muted" style="margin-top:12px">下一步：只选 1–2 个最影响理解的问题，重录一次并在日志里记录。</p>
+    `;
+  };
+
+  $('reportBtn').addEventListener('click', () => {
+    if (!state.result) return;
+    const { pron, asr, text, at } = state.result;
+    const diff = pron.differences || {};
+    const errors = diff.errors || [];
+    const stamp = at.toISOString().slice(0, 16).replace('T', ' ');
+    const errorLines = errors.length
+      ? errors.map(e => `- ${e.word}: /${e.expected}/ → /${e.actual}/`).join('\n')
+      : '- 无';
+    const md = `---\ntype: report\ntitle: "练习报告 ${stamp}"\nsentence: ${JSON.stringify(text)}\nscore: ${pron.score}\ntags: [status/learning, skill/pronunciation]\ncreated: ${stamp.slice(0,10)}\n---\n\n# 练习报告 · ${stamp}\n\n## 句子\n\n> ${text}\n\n## 结果\n\n| 项目 | 值 |\n|---|---|\n| 分数 | ${pron.score} |\n| 系统转写 | ${pron.transcribe || ''} |\n| ASR | ${asr.transcript || ''} |\n| 识别音素 | /${(diff.heard_phones || []).join(' ')}/ |\n\n## 误发音\n\n${errorLines}\n\n## 下一步\n\n- [ ] 只改 1–2 个问题\n- [ ] 重录并对比\n- [ ] 记入发音错题本\n`;
+    const blob = new Blob([md], { type: 'text/markdown;charset=utf-8' });
+    const a = document.createElement('a');
+    a.href = URL.createObjectURL(blob);
+    a.download = `english-report-${at.toISOString().slice(0, 16).replace(/[:T]/g, '-')}.md`;
+    a.click();
+    setTimeout(() => URL.revokeObjectURL(a.href), 1000);
+  });
+})();
+</script>
+</body>
+</html>

@@ -56,7 +56,13 @@ Vosk ASR      ok
 
    首次启动会提示加载模型；保持终端窗口开启。
 
-2. 在 **Windows 浏览器** 打开 <http://localhost:8000>（WSL2 会自动转发 localhost）。
+2. 在 **Windows 浏览器** 打开统一练习页：
+
+   <http://localhost:8000/static/lab.html>
+
+   或原生界面 <http://localhost:8000>（WSL2 会自动转发 localhost）。
+
+   统一页里可以：生成 Piper 参考音 → 录音/上传 → 发音分析 + ASR → 下载 Markdown 报告。
 
 3. 允许浏览器使用麦克风。
 
@@ -156,8 +162,13 @@ cd ~/english/english-speaking-lab
 bash scripts/new-day.sh                  # 1. 生成今天的记录
 bash scripts/tts.sh "今天的句子"          # 2. 生成参考音
 # 3. 跟读 → 录音 → 存到 11_attachments/
-bash scripts/asr.sh 11_attachments/xxx.wav            # 4. 可懂度
-bash scripts/pronounce.sh 11_attachments/xxx.wav "句子"  # 5. 音素分析
+
+# 4. 一条命令跑完 TTS + ASR + 发音，并写报告/日志
+bash scripts/lab.sh analyze 11_attachments/xxx.wav "句子" --engine both
+
+# 或分步跑
+bash scripts/asr.sh 11_attachments/xxx.wav            # 可懂度
+bash scripts/pronounce.sh 11_attachments/xxx.wav "句子"  # 音素分析
 # 6. 只改 1–2 点 → 再录 → 填记录
 ```
 

@@ -73,13 +73,14 @@ cd ~/english/english-speaking-lab
 
 bash scripts/check-env.sh                              # 环境自检
 bash scripts/start-web.sh                              # 网页界面 → http://localhost:8000
+bash scripts/lab.sh analyze recording.wav "I haven't identified the root cause yet."  # TTS+ASR+发音+报告
 bash scripts/pronounce.sh recording.wav "I haven't identified the root cause yet."
 bash scripts/tts.sh "The main trade-off is accuracy versus latency." -o 11_attachments/reference/tradeoff.wav
 bash scripts/asr.sh recording.wav                      # 检查是否被识别成目标句
 bash scripts/new-day.sh                                # 生成今天的练习记录
 ```
 
-完整工具体验步骤见 [[QUICKSTART|工具体验指南]]。
+统一练习页：`http://localhost:8000/static/lab.html`（参考音 + 录音 + 发音 + ASR）。完整工具体验步骤见 [[QUICKSTART|工具体验指南]]，搭建与搭配见 [[TOOLING|工具手册]]。
 
 > [!note] 工具只是反馈手段
 > AI 分数会受麦克风、噪声和专有名词影响。真正有效的是：**固定句子 → 录音 → 只改一个点 → 再录 → 一周后对比**。
