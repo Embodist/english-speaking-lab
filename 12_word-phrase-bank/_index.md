@@ -34,6 +34,9 @@ updated: 2026-10-23
 | [[12_word-phrase-bank/07-security-music-terms\|安全与音乐术语]] | 安全分析、音乐生成、多模态 | 40 |
 | [[12_word-phrase-bank/08-connectors-smalltalk\|连接词与寒暄]] | 逻辑连接、澄清、日常寒暄 | 40 |
 | [[12_word-phrase-bank/09-programmer-work-map\|程序员工作全景]] | 15 个环节的关键点与表达 | 15 类 |
+| [[12_word-phrase-bank/10-fixed-chunks\|固定搭配与高频句型]] | 预制块：搭配、框架、话语标记 | 165 |
+
+合计约 **518 条**（与核心动词/会议条目有少量重叠，重叠项按复习处理）。
 
 ## 三遍学习法
 
@@ -65,6 +68,7 @@ updated: 2026-10-23
 
 ## 相关
 
+- [[SCOPE|记录与扩展边界]]——哪些必须记、哪些以后再说
 - [[LEARNING-PATH|学习路径]]
 - [[08_sentence-library/_index|句子库（整句）]]
 - [[01_pronunciation/tech-terms|技术名词发音]]

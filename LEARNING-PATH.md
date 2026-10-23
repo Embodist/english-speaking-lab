@@ -16,7 +16,7 @@ updated: 2026-10-23
 | 时间 | 动作 | 具体做法 | 产出 |
 |---|---|---|---|
 | 0–5 min | 复习 | 昨天 5 个词条，遮住中文，各说一句 | 录音 1 段 |
-| 5–10 min | 学新词（说） | 从词库选 5 个 S 级词条，看英文例句，大声读 3 遍 | 5 句口语 |
+| 5–10 min | 学新块（说） | 从词库选 5 个 S 级词条，或 10 条固定块，大声读 3 遍 | 5–10 句口语 |
 | 10–15 min | 跟读 | 用 `scripts/tts.sh` 生成参考音，影子跟读 | 参考音 |
 | 15–20 min | 录音（说） | 用 5 个词各说一句**你工作里真实会说的话**，一次录完 | 录音 1 段 |
 | 20–24 min | 写 | 选 3 个词，各写一句能放进 PR / 邮件 / 论文笔记的句子 | 3 句书面 |
@@ -54,28 +54,29 @@ updated: 2026-10-23
 
 ### 第 1 周：说清楚日常开发
 
-- 词库：[[12_word-phrase-bank/01-core-verbs|核心动词]] 的 S 级 20 个 + [[12_word-phrase-bank/02-engineering-terms|工程术语]] 的 S 级 20 个。
+- 词库：[[12_word-phrase-bank/01-core-verbs|核心动词]] S 级 20 个 + [[12_word-phrase-bank/10-fixed-chunks|固定块库]] A 节 30 条。
+- 原则：固定块优先，每条只替换一个槽位，不自由造句。
 - 场景：[[02_daily-work/standup|站会]]、[[02_daily-work/bug-report|Bug 定位]]。
 - 每天：5 个词 → 5 句口语 → 3 句书面。
 - 周末：录 2 分钟“本周工作汇报”，对比 Day 1 基线。
 
 ### 第 2 周：会议与协作
 
-- 词库：[[12_word-phrase-bank/03-meetings-collaboration|会议与协作]] 30 条 + 工程术语 A 级 15 个。
+- 词库：[[12_word-phrase-bank/03-meetings-collaboration|会议与协作]] 30 条 + [[12_word-phrase-bank/10-fixed-chunks|固定块库]] B/C 节。
 - 场景：[[02_daily-work/meeting|会议发言]]、[[02_daily-work/code-review|PR Review]]、[[02_daily-work/email-slack|Slack/邮件]]。
 - 每天：3 条会议短语 → 模拟一次发言；写 1 条 Slack 更新。
 - 周末：主持一次 10 分钟模拟会议并总结行动项。
 
 ### 第 3 周：论文阅读 + AI 术语
 
-- 词库：[[12_word-phrase-bank/04-paper-reading|论文阅读]] 30 个 + [[12_word-phrase-bank/06-ai-llm-terms|AI/LLM 术语]] 25 个。
+- 词库：[[12_word-phrase-bank/04-paper-reading|论文阅读]] 30 个 + [[12_word-phrase-bank/06-ai-llm-terms|AI/LLM 术语]] 25 个 + 固定块库 E 节。
 - 每天：读 1 篇论文摘要，用 3 句话口头总结；写 1 段阅读笔记。
 - 参考：[[13_tech-frameworks/llm-model-capabilities|LLM 与模型能力]]。
 - 周末：选一篇论文，做 5 分钟英文讲解（问题 → 方法 → 结果 → 局限）。
 
 ### 第 4 周：论文写作 + 技术深度
 
-- 词库：[[12_word-phrase-bank/05-paper-writing|论文写作]] 25 条 + [[13_tech-frameworks/_index|技术框架]]。
+- 词库：[[12_word-phrase-bank/05-paper-writing|论文写作]] 25 条 + [[12_word-phrase-bank/10-fixed-chunks|固定块库]] D/E/F 节 + [[13_tech-frameworks/_index|技术框架]]。
 - 产出：写一段 150 词英文摘要/项目总结；录一次 15 分钟模拟面试。
 - 周末：重录 Day 1 自我介绍，比较关键词、停顿和结构。
 
