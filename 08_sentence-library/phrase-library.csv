@@ -1,0 +1,112 @@
+﻿类别,English,中文,Example,练习提示
+自我介绍,I’m an AI engineer with a background in Python backend development and cybersecurity.,我是一名拥有 Python 后端和网络安全背景的 AI 工程师。,I’m an AI engineer with a background in Python backend development and cybersecurity.,开场定位
+自我介绍,"My background sits at the intersection of backend engineering, cybersecurity, and applied AI.",我的经历处在后端工程、网络安全和应用型 AI 的交叉点。,My background sits at the intersection of backend engineering and applied AI.,职业故事
+自我介绍,"I have around ten years of experience across software engineering, cybersecurity, and AI applications.",我在软件工程、网络安全和 AI 应用领域有约十年经验。,I have around ten years of experience across software engineering and cybersecurity.,确认时间线
+自我介绍,My current focus is building agentic workflows and multimodal music applications.,我目前专注于智能体工作流和多模态音乐应用。,My current focus is building agentic workflows for music creation.,当前岗位
+自我介绍,"I’m particularly interested in turning research models into reliable, production-ready systems.",我尤其关注把研究模型变成可靠的生产系统。,I’m interested in turning research models into reliable services.,岗位动机
+自我介绍,I’m looking for a role where I can combine AI engineering and system design.,我希望找到能够结合 AI 工程和系统设计的岗位。,I’m looking for a role where I can solve real user problems.,求职目标
+自我介绍,The common thread throughout my career is building practical systems.,贯穿我职业经历的主线是构建实用系统。,"The common thread is connecting data, models, tools, and operations.",职业路径
+自我介绍,"I can work across retrieval, orchestration, model serving, and operational reliability.",我能够覆盖检索、编排、模型服务和运行可靠性。,I can work across retrieval and model serving.,能力总结
+自我介绍,I contributed to the project by improving the retrieval pipeline.,我通过优化检索流水线为项目做出贡献。,I contributed to the project by improving retrieval and reranking.,贡献边界
+自我介绍,I was responsible for the model-serving API.,我负责模型服务 API。,I was responsible for input validation and monitoring.,职责表达
+Agent与工具调用,orchestrate multiple tools,编排多个工具,I orchestrate multiple tools into an end-to-end workflow.,动词搭配
+Agent与工具调用,a graph-based workflow,图式工作流,A graph-based workflow makes state transitions explicit.,架构解释
+Agent与工具调用,intent understanding,意图理解,The workflow starts with intent understanding.,流程步骤
+Agent与工具调用,tool calling,工具调用,The agent uses tool calling to run specialized operations.,核心概念
+Agent与工具调用,validate tool outputs,验证工具输出,We validate tool outputs before proceeding.,可靠性
+Agent与工具调用,persist the workflow state,持久化工作流状态,We persist the workflow state so a job can resume.,可靠性
+Agent与工具调用,resume an interrupted task,恢复中断任务,The user can resume an interrupted task.,长任务
+Agent与工具调用,bounded retries,有限重试,We use bounded retries for transient errors.,失败处理
+Agent与工具调用,a fallback path,降级/备用路径,"If the tool fails, we can switch to a fallback path.",失败处理
+Agent与工具调用,least-privilege permissions,最小权限,We use least-privilege permissions for tool execution.,安全
+Agent与工具调用,treat tool output as untrusted input,将工具输出视为不可信输入,We treat tool output as untrusted input.,提示注入
+Agent与工具调用,human approval for sensitive actions,敏感操作需要人工审批,We require human approval for sensitive actions.,安全控制
+Agent与工具调用,make the workflow observable,让工作流可观测,Structured logs make the workflow observable.,运维
+Agent与工具调用,handle long-running jobs,处理长时间运行任务,We need a queue to handle long-running jobs.,异步任务
+Agent与工具调用,separate deterministic steps from model-driven decisions,将确定性步骤与模型决策分离,I separate deterministic steps from model-driven decisions.,Agent设计
+RAG与检索,document parsing and chunking,文档解析与切分,The pipeline starts with document parsing and chunking.,RAG流程
+RAG与检索,attach metadata to each chunk,为每个分块添加元数据,We attach metadata to each chunk for filtering.,数据工程
+RAG与检索,generate embeddings,生成向量表示,We generate embeddings and index them.,向量检索
+RAG与检索,vector retrieval,向量检索,Vector retrieval helps find semantically related passages.,RAG
+RAG与检索,hybrid search,混合检索,Hybrid search combines vector and keyword retrieval.,RAG
+RAG与检索,semantic reranking,语义重排序,Semantic reranking improves the ordering of candidates.,RAG
+RAG与检索,domain-specific terminology,领域专用术语,The system must handle domain-specific terminology.,检索挑战
+RAG与检索,retrieval recall at k,前 k 个结果的召回率,I measure retrieval recall at k.,评估
+RAG与检索,groundedness of the answer,答案的依据性,We evaluate the groundedness of the answer.,评估
+RAG与检索,a held-out evaluation set,留出评测集,We compare changes on a held-out evaluation set.,评估
+RAG与检索,the baseline system,基线系统,We compare the new version against the baseline system.,评估
+RAG与检索,retrieval quality versus answer quality,检索质量与答案质量,We evaluate retrieval quality separately from answer quality.,RAG评估
+RAG与检索,stale or irrelevant context,过期或无关上下文,Irrelevant context can reduce answer quality.,RAG风险
+RAG与检索,document-level access control,文档级访问控制,We apply document-level access control before retrieval.,安全
+模型与推理,parameter-efficient fine-tuning,参数高效微调,LoRA is a parameter-efficient fine-tuning method.,微调
+模型与推理,a representative training dataset,有代表性的训练数据集,We need a representative training dataset.,训练
+模型与推理,a held-out test set,留出的测试集,We evaluate the model on a held-out test set.,评估
+模型与推理,regression risk,回归风险,We also need to monitor regression risk.,模型质量
+模型与推理,inference throughput,推理吞吐量,We track inference throughput under load.,服务指标
+模型与推理,time to first token,首 token 延迟,Time to first token is important for interactive use.,服务指标
+模型与推理,inter-token latency,token 间延迟,We monitor inter-token latency as well.,服务指标
+模型与推理,GPU memory utilization,GPU 显存利用率,We monitor GPU memory utilization.,资源管理
+模型与推理,model versioning,模型版本管理,Model versioning makes rollbacks safer.,部署
+模型与推理,roll out a new model version,发布新模型版本,We roll out a new model version gradually.,部署
+模型与推理,roll back the release,回滚发布,We can roll back the release if metrics degrade.,部署
+模型与推理,resource limits and timeouts,资源限制和超时,The service enforces resource limits and timeouts.,可靠性
+模型与推理,load testing,负载测试,We run load testing before production.,工程化
+音乐多模态,cross-modal retrieval,跨模态检索,The system supports cross-modal retrieval between text and audio.,多模态
+音乐多模态,audio and text embeddings,音频与文本向量,We align audio and text embeddings in a shared space.,多模态
+音乐多模态,humming-based search,基于哼唱的搜索,Users can search with humming-based queries.,音乐检索
+音乐多模态,mood-based retrieval,基于情绪的检索,Mood-based retrieval requires robust representations.,音乐检索
+音乐多模态,voice conversion,歌声转换,The workflow includes a voice-conversion step.,音乐Agent
+音乐多模态,pitch extraction,音高提取,Pitch extraction provides useful control signals.,音乐Agent
+音乐多模态,harmony analysis,和声分析,Harmony analysis is one of the specialized tools.,音乐Agent
+音乐多模态,audio post-processing,音频后处理,The final stage performs audio post-processing.,音乐Agent
+音乐多模态,musical coherence,音乐连贯性,We evaluate musical coherence with human listeners.,评估
+音乐多模态,preserve the reference melody,保留参考旋律,The system should preserve the reference melody where required.,质量
+音乐多模态,perceptual quality,感知质量,Perceptual quality cannot be captured by one metric alone.,评估
+音乐多模态,copyright and compliance checks,版权与合规检查,We include copyright and compliance checks in the workflow.,安全
+安全与SOAR,security alert triage,安全告警研判,The workflow supports security alert triage.,安全运营
+安全与SOAR,reduce alert noise,减少告警噪声,We combine filtering and semantic analysis to reduce alert noise.,安全运营
+安全与SOAR,false-positive filtering,误报过滤,False-positive filtering helps analysts focus on real threats.,安全运营
+安全与SOAR,high-risk incidents,高风险事件,The process prioritizes high-risk incidents.,安全运营
+安全与SOAR,correlate events across sources,跨来源关联事件,We correlate events across different data sources.,安全分析
+安全与SOAR,map alerts to attack techniques,将告警映射到攻击技术,We map alerts to attack techniques in the ATT&CK framework.,ATT&CK
+安全与SOAR,a knowledge graph,知识图谱,The knowledge graph connects vulnerabilities and threat intelligence.,安全数据
+安全与SOAR,automated rule reasoning,自动化规则推演,The system supports automated rule reasoning.,安全AI
+安全与SOAR,a high-availability deployment,高可用部署,We designed a high-availability deployment.,架构
+安全与SOAR,threat detection logic,威胁检测逻辑,I worked on threat detection logic and log enrichment.,安全工程
+推理与权衡,The main trade-off is…,主要权衡是……,The main trade-off is lower latency versus higher memory usage.,权衡
+推理与权衡,"The benefit is…, but the cost is…",好处是……，代价是……,"The benefit is better recall, but the cost is additional latency.",权衡
+推理与权衡,I would validate this assumption with a benchmark.,我会用基准测试验证这个假设。,I would validate this assumption with a benchmark before committing to the design.,验证
+推理与权衡,Based on the evidence…,基于现有证据……,"Based on the evidence, retrieval is the bottleneck.",分析
+推理与权衡,Let me separate facts from assumptions.,我先把事实和假设分开。,Let me separate the facts from the assumptions I’m making.,严谨表达
+推理与权衡,The right choice depends on the workload.,正确选择取决于工作负载。,The right choice depends on the workload and failure model.,系统设计
+推理与权衡,I haven’t measured that directly.,我没有直接测量过这个指标。,"I haven’t measured that directly, so I would run a benchmark.",诚实表达
+推理与权衡,I don’t want to overstate my experience.,我不想夸大自己的经验。,"I haven’t used it in production, so I don’t want to overstate my experience.",真实性
+推理与权衡,Could we clarify the acceptance criteria?,我们能否明确验收标准？,Could we clarify the acceptance criteria before implementation?,需求澄清
+推理与权衡,I would compare both approaches against the same test set.,我会用相同测试集比较两种方案。,I would compare both approaches against the same test set.,实验设计
+日常工作,I’m currently blocked by…,我目前被……阻塞。,I’m currently blocked by a missing API credential.,站会
+日常工作,I’ll share an update after…,在……之后我会同步进展。,I’ll share an update after I finish the benchmark.,进度同步
+日常工作,Could you review this pull request?,能否帮忙评审这个 PR？,Could you review this pull request when you have time?,代码评审
+日常工作,I’ve addressed the review comments.,我已经处理了评审意见。,I’ve addressed the review comments and pushed an update.,代码评审
+日常工作,Could we add a regression test?,我们能否增加一个回归测试？,Could we add a regression test for this edge case?,测试
+日常工作,The issue is still under investigation.,问题仍在调查中。,The root cause is still under investigation.,故障沟通
+日常工作,Let’s mitigate the impact first.,我们先减轻影响。,"Let’s mitigate the impact first, then investigate the root cause.",故障
+日常工作,The stack trace points to…,堆栈跟踪指向……,The stack trace points to the database layer.,排障
+日常工作,Let me make sure I understand correctly.,让我确认一下我是否理解正确。,Let me make sure I understand correctly: we need to improve latency without changing the API contract.,会议
+日常工作,I’ll follow up after the meeting.,我会在会后跟进。,I’ll follow up after the meeting with the benchmark results.,会议
+日常工作,What are the next steps?,下一步是什么？,"What are the next steps, and who owns each task?",会议
+日常工作,I need to clarify one requirement.,我需要澄清一个需求。,I need to clarify one requirement before finalizing the design.,会议
+日常工作,"I agree with the direction, but…",我同意总体方向，但是……,"I agree with the direction, but we should validate the assumption first.",沟通
+日常工作,Could we compare the options?,我们能否比较一下几个方案？,Could we compare the options based on latency and reliability?,沟通
+日常工作,I’ll create a follow-up task.,我会创建后续任务。,"This is out of scope for now, so I’ll create a follow-up task.",项目管理
+连接表达与行为面试,"First, I would…",首先，我会……,"First, I would reproduce the issue and collect evidence.",连接表达
+连接表达与行为面试,"After that, I would…",之后，我会……,"After that, I would isolate the bottleneck.",连接表达
+连接表达与行为面试,"As a result,…",因此/最终……,"As a result, the service became easier to monitor.",结果
+连接表达与行为面试,One limitation is…,一个局限是……,One limitation is that the metric does not capture user preference.,讨论限制
+连接表达与行为面试,I learned that…,我学到……,I learned that evaluation needs to reflect real usage.,STAR
+连接表达与行为面试,My responsibility was to…,我的职责是……,My responsibility was to investigate the issue.,STAR
+连接表达与行为面试,I chose this approach because…,我选择这种方案是因为……,I chose this approach because it was easier to validate.,STAR
+连接表达与行为面试,I would prioritize… based on…,我会基于……优先处理……,I would prioritize tasks based on impact and risk.,行为面试
+连接表达与行为面试,I clarified the constraints before choosing a solution.,我在选择方案前澄清了约束。,I clarified the constraints before choosing a solution.,行为面试
+连接表达与行为面试,Could you tell me more about the team’s engineering challenges?,可以介绍一下团队面临的工程挑战吗？,Could you tell me more about the team’s engineering challenges?,反问面试官
+连接表达与行为面试,What would success look like in the first 90 days?,入职前 90 天的成功标准是什么？,What would success look like in the first 90 days?,反问面试官
+连接表达与行为面试,How do you evaluate model quality in production?,你们如何评估生产环境中的模型质量？,How do you evaluate model quality in production?,反问面试官

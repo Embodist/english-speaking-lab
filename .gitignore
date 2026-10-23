@@ -1,0 +1,13 @@
+.trash/
+.obsidian/workspace.json
+.obsidian/cache
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+
+# 录音文件体积大，默认不纳入 git；需要时移除下面两行
+11_attachments/**/*.wav
+11_attachments/**/*.m4a
+11_attachments/**/*.mp3
