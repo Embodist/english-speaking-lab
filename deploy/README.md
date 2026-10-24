@@ -40,7 +40,7 @@ bash scripts/upload-weights.sh
 - `models.tar`（约 2.6GB，含 HF/Piper/Whisper/Vosk）
 - `models.tar.sha256`（相对文件名，供容器校验）
 
-> 2026-10-24 实测：`storage1` 桶返回 503/timeout（RustFS 自身扫描/heal 报错），`rustfs` 作为桶名被 RustFS 判为非法；因此新建了 `english-lab` 桶。若 `storage1` 恢复，可设置 `RUSTFS_BUCKET=storage1` 重新上传。
+> 2026-10-24 实测：`storage1` 桶首次整包上传返回 503/timeout；改用 16M 分片后成功。`rustfs` 作为桶名被 RustFS 判为非法，因此另建了 `english-lab` 桶。两处内容一致；默认建议用 `english-lab`，需要时设置 `RUSTFS_BUCKET=storage1`。上传结果与校验值见 [[deploy/upload-status|RustFS 权重上传记录]]。
 
 > endpoint 是 Windows 上 RustFS 的 S3 地址。WSL 里可用 `http://<Windows-IP>:9000`；Windows IP 会变化，用 `ipconfig` 确认。
 
