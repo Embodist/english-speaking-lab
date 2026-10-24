@@ -36,14 +36,28 @@ Vosk ASR      ok
 
 ## 第 1 步：用 Obsidian 打开 vault
 
-1. 在 Windows 资源管理器地址栏输入 `\\wsl$\`，进入你的发行版（如 `Ubuntu`）。
-2. 打开 `home/user/english/english-speaking-lab`。
-3. Obsidian → **Open folder as vault** → 选择该文件夹。
-4. 打开 `README.md`，点击右上角图钉固定为首页。
+**推荐（本机已配置）**：
+
+1. Obsidian → **Open folder as vault** → 选择 `F:\Obsidian\EnglishVault`。
+2. 打开 `README.md`，点击右上角图钉固定为首页。
+
+该路径是指向 WSL vault 的 Windows 符号链接：
+
+```text
+F:\Obsidian\EnglishVault
+  → \\wsl.localhost\debian13\home\user\english\english-speaking-lab
+```
+
+也可以直接打开 UNC 路径：
+
+```text
+\\wsl.localhost\debian13\home\user\english\english-speaking-lab
+```
+
+> 不要打开 `E:\english` 或 `\\wsl.localhost\debian13\home\user\english`：它们是父目录，包含 `.venv`/模型（约 2.7GB），Obsidian 会索引大量无关文件。
+> Windows 侧说明见 `F:\Obsidian\README-Windows.md`。
 
 已预置：附件目录 `11_attachments`、模板目录 `10_templates`、新笔记进入 `00_inbox`。
-
-> 如果 Windows 无法访问 `\\wsl$`，可把 vault 复制到 `F:\English_Study\english-speaking-lab`，但工具脚本仍需在 WSL 中运行。
 
 ## 第 2 步：体验网页界面（推荐第一次用）
 
@@ -177,7 +191,7 @@ bash scripts/pronounce.sh 11_attachments/xxx.wav "句子"  # 音素分析
 在 **Windows PowerShell**（不是 WSL）中安装，录音和复习体验最好：
 
 ```powershell
-winget install Obsidian.Obsidian      # 打开 vault：\\wsl$\Ubuntu\home\user\english\english-speaking-lab
+winget install Obsidian.Obsidian      # 打开 vault：F:\Obsidian\EnglishVault（或 \\wsl.localhost\<发行版>\home\<用户>\english\english-speaking-lab）
 winget install Audacity.Audacity      # 录音、剪辑、波形对比
 winget install Anki.Anki              # 间隔重复（导入方法见 08_sentence-library/anki-import-guide.md）
 ```
