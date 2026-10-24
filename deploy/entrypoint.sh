@@ -23,7 +23,7 @@ if [[ "${LAB_SYNC_MODELS:-1}" == "1" && -n "${RUSTFS_ENDPOINT:-}" && ! -f /model
   export RCLONE_CONFIG_RUSTFS_REGION="${RUSTFS_REGION:-us-east-1}"
   export RCLONE_CONFIG_RUSTFS_FORCE_PATH_STYLE="${RUSTFS_FORCE_PATH_STYLE:-true}"
 
-  TARGET="rustfs:${RUSTFS_BUCKET:-storage1}/${RUSTFS_PREFIX:-rustfs/english-lab/models}"
+  TARGET="rustfs:${RUSTFS_BUCKET:-english-lab}/${RUSTFS_PREFIX:-rustfs/english-lab/models}"
   echo "Syncing models from $TARGET to /models"
   mkdir -p /models
   rclone copy "$TARGET/" /models --include "models.tar" --include "models.tar.sha256" \

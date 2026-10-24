@@ -10,7 +10,7 @@ services:
       OPENPRONOUNCE_TTS: piper
       OPENPRONOUNCE_TTS_VOICE: en_US-lessac-medium
       RUSTFS_ENDPOINT: ${RUSTFS_ENDPOINT:-}
-      RUSTFS_BUCKET: ${RUSTFS_BUCKET:-storage1}
+      RUSTFS_BUCKET: ${RUSTFS_BUCKET:-english-lab}
       RUSTFS_PREFIX: ${RUSTFS_PREFIX:-rustfs/english-lab/models}
       RUSTFS_REGION: ${RUSTFS_REGION:-us-east-1}
       RUSTFS_FORCE_PATH_STYLE: ${RUSTFS_FORCE_PATH_STYLE:-true}

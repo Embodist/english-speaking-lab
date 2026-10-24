@@ -6,7 +6,7 @@
 #   RUSTFS_ACCESS_KEY
 #   RUSTFS_SECRET_KEY
 # Optional:
-#   RUSTFS_BUCKET     default storage1
+#   RUSTFS_BUCKET     default english-lab
 #   RUSTFS_PREFIX     default rustfs/english-lab/models
 #   RUSTFS_REGION     default us-east-1
 #   BUNDLE            default ~/english/model-bundle
@@ -21,7 +21,7 @@ set -euo pipefail
 ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 BUNDLE="${BUNDLE:-$HOME/english/model-bundle}"
 ENDPOINT="${RUSTFS_ENDPOINT:-}"
-BUCKET="${RUSTFS_BUCKET:-storage1}"
+BUCKET="${RUSTFS_BUCKET:-english-lab}"
 PREFIX="${RUSTFS_PREFIX:-rustfs/english-lab/models}"
 REGION="${RUSTFS_REGION:-us-east-1}"
 ACCESS="${RUSTFS_ACCESS_KEY:-}"
