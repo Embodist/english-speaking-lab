@@ -9,6 +9,8 @@ review: 2026-10-24
 
 # 自我介绍
 
+> 基于真实简历的 30 秒 / 60 秒 / 2 分钟版本见 [[15_resume/self-introduction|简历版自我介绍]]。
+
 ## 30 秒版本
 
 > Hi, I’m an AI engineer with a background in Python backend development and cybersecurity. Over the past ten years, I’ve worked on security analytics, NLP-based detection, and LLM-powered applications. My current focus is building agentic workflows for music creation. I’m looking for a role where I can combine AI engineering, system design, and hands-on delivery.

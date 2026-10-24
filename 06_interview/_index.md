@@ -15,6 +15,7 @@ updated: 2026-10-23
 | 内容 | 笔记 |
 |---|---|
 | 自我介绍（30 秒 / 60–90 秒） | [[06_interview/introduction\|自我介绍]] |
+| 简历版表达（真实经历） | [[15_resume/_index\|简历与自我介绍]] |
 | 项目故事（Goal → Result） | [[06_interview/project-stories\|项目故事]] |
 | 模拟面试与高频题 | [[06_interview/mock-interview\|模拟面试]] |
 | 速记卡 | [[09_sources/04_面试速记卡\|面试速记卡]] |

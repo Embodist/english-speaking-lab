@@ -35,6 +35,7 @@ updated: 2026-10-23
 | 词与短语库 | 词典级词条：说 / 写 / 读 | [[12_word-phrase-bank/_index\|词与短语库]] |
 | 技术与框架 | LLM、Agent、音乐 AI、RAG 服务 | [[13_tech-frameworks/_index\|技术与框架]] |
 | LLM 论文 | 168 篇论文词表与阅读流程 | [[14_llm-papers/_index\|LLM 论文]] |
+| 简历表达 | 10 年安全 + AI 的英文叙事 | [[15_resume/_index\|简历与自我介绍]] |
 | 原始资料 | 手册、速记卡、CSV（只读） | [[09_sources/_index\|原始资料]] |
 | 模板 | 新建笔记从这里取 | [[10_templates/_index\|模板]] |
 | 录音附件 | 所有录音文件 | `11_attachments/` |
@@ -56,6 +57,7 @@ updated: 2026-10-23
 | 要讲安全项目 | [[04_security/_index\|安全分析]] |
 | 要讲音乐 Agent | [[05_music-agent/_index\|音乐 Agent]] |
 | 要读 LLM 论文 | [[14_llm-papers/_index\|LLM 论文阅读与词汇]] |
+| 准备自我介绍/简历 | [[15_resume/_index\|简历与自我介绍]] |
 | 不知道今天练什么 | [[STUDY-PLAN#每周节奏\|每周节奏]] |
 
 > 更完整的“说 → 写 → 读”30 分钟版本和四周路径见 [[LEARNING-PATH|学习路径]]。
