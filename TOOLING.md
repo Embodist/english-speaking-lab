@@ -418,6 +418,7 @@ HF_HUB_OFFLINE=1 bash scripts/pronounce.sh recording.wav "sentence"
 
 ## 相关
 
+- [[NEW-MACHINE|新机器安装手册]]
 - [[deploy/README|Docker Swarm 部署]]
 - [[deploy/RESOURCE-PLAN|资源占用规划]]
 - [[QUICKSTART|工具体验指南]]

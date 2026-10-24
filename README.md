@@ -20,6 +20,7 @@ updated: 2026-10-23
 | 训练总纲 | 训练方法、评分、30 天计划 | [[STUDY-PLAN\|学习计划]] |
 | 工具上手 | 从启动到第一次打分 | [[QUICKSTART\|工具体验指南]] |
 | 工具手册 | 搭建、搭配、最佳实践 | [[TOOLING\|工具手册]] |
+| 新机器 | 一键安装手册与脚本 | [[NEW-MACHINE\|新机器安装]] |
 | 部署 | Docker Swarm + RustFS | [[deploy/README\|部署]] |
 | 资源规划 | CPU / GPU / 内存 / 磁盘预算 | [[deploy/RESOURCE-PLAN\|资源规划]] |
 | 目录规范 | 命名、标签、维护流程 | [[MANAGEMENT\|管理规范]] |

@@ -40,10 +40,25 @@ if [[ "${LAB_SYNC_MODELS:-1}" == "1" && -n "${RUSTFS_ENDPOINT:-}" && ! -f /model
   fi
 fi
 
-if [[ -d /models/huggingface/hub/models--facebook--wav2vec2-large-960h && \
-      -d /models/vosk-model-small-en-us-0.15 ]]; then
-  touch /models/.ready
-  export HF_HUB_OFFLINE=1
+REQUIRED=(
+  /models/huggingface/hub/models--facebook--wav2vec2-large-960h
+  /models/huggingface/hub/models--facebook--wav2vec2-lv-60-espeak-cv-ft
+  /models/huggingface/hub/models--rhasspy--piper-voices
+  /models/home/.cache/whisper/base.en.pt
+  /models/vosk-model-small-en-us-0.15
+)
+MISSING=()
+for p in "${REQUIRED[@]}"; do
+  [[ -e "$p" ]] || MISSING+=("$p")
+done
+if ((${#MISSING[@]})); then
+  echo "ERROR: required model files are missing:" >&2
+  printf '  - %s\n' "${MISSING[@]}" >&2
+  echo "Set RUSTFS_ENDPOINT + secrets to sync, or pre-populate the /models volume." >&2
+  exit 1
 fi
+
+touch /models/.ready
+export HF_HUB_OFFLINE=1
 
 exec uvicorn lab_server:app --host 0.0.0.0 --port 8000 --app-dir /app/scripts

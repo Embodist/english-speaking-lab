@@ -20,6 +20,9 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
       ffmpeg espeak-ng git curl ca-certificates rclone tini \
     && rm -rf /var/lib/apt/lists/*
 
+# PyTorch CUDA images use /opt/conda/bin/python. lab_server expects $ENVDIR/bin/python.
+RUN if [ ! -e /usr/local/bin/python ]; then ln -s "$(command -v python)" /usr/local/bin/python; fi
+
 RUN pip install --no-cache-dir --upgrade pip \
  && pip install --no-cache-dir "openpronounce[app]" "openpronounce[tts-piper]" openai-whisper vosk \
  && python -c "import torch; assert torch.version.cuda is not None, 'CPU torch installed'; print('torch', torch.__version__, 'cuda', torch.version.cuda)"

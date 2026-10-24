@@ -124,10 +124,25 @@ docker build -f deploy/Dockerfile.gpu -t english-lab-gpu:latest .
   ```bash
   docker run --rm --gpus all nvidia/cuda:12.4.0-base-ubuntu22.04 nvidia-smi
   ```
+- **Swarm 节点使用 NVIDIA 作为默认 runtime**（Swarm 不支持 `docker run --gpus` 那套参数）。在 GPU 节点的 `/etc/docker/daemon.json` 中配置并重启 Docker：
+  ```json
+  {
+    "default-runtime": "nvidia",
+    "runtimes": {
+      "nvidia": { "path": "nvidia-container-runtime", "args": [] }
+    }
+  }
+  ```
 - Swarm 节点打标签（GPU stack 用标签调度）：
   ```bash
   docker node update --label-add gpu=true $(docker node ls -q | head -1)
   ```
+- 可选：让 Swarm 感知 GPU 资源（硬性调度）：
+  ```bash
+  docker node update --generic-resource-add nvidia.com/gpu=1 <node>
+  ```
+  然后在 `swarm-stack.gpu.yml` 的 `deploy.resources.reservations` 下加入
+  `generic_resources: [{discrete_resource_spec: {kind: "nvidia.com/gpu", value: 1}}]`。
 
 部署 GPU stack：
 
@@ -172,7 +187,30 @@ LAB_IMAGE=english-lab:v2 docker stack deploy -c deploy/swarm-stack.yml englishla
 docker service rollback englishlab_lab
 ```
 
-## 10. 常见问题
+## 10. 部署前检查
+
+```bash
+bash deploy/validate.sh
+```
+
+它会检查：
+
+- 两个 stack 的 YAML 与 `docker compose config`
+- `entrypoint.sh` / 上传脚本的 shell 语法
+- Python 脚本语法
+- Dockerfile、lab 页面、入口脚本是否存在
+- Docker daemon 是否可用（不可用时只做静态检查）
+- RustFS secrets 是否存在（daemon 可用时）
+
+另外确认：
+
+- [ ] `deploy/rustfs.env` 已配置 endpoint/bucket/prefix
+- [ ] `docker secret` 已创建
+- [ ] `/models` 卷已有模型，或 `RUSTFS_ENDPOINT` + secrets 可同步
+- [ ] 8000 端口未被本地服务占用
+- [ ] GPU 部署时节点有 `gpu=true` 标签且默认 runtime 为 nvidia
+
+## 11. 常见问题
 
 | 现象 | 原因 / 解决 |
 |---|---|
@@ -184,7 +222,7 @@ docker service rollback englishlab_lab
 | 无法访问 RustFS | 确认 Windows 防火墙、endpoint IP、path-style 设置 |
 | `docker info` 连不上 | Docker daemon 未启动；先启动 Docker Desktop/Engine |
 
-## 11. 安全
+## 12. 安全
 
 - RustFS 的默认凭据很弱，先修改 access/secret；不要提交到 git。
 - 生产环境用 TLS endpoint，别用明文 HTTP 传模型。
