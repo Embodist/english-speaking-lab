@@ -17,6 +17,7 @@ updated: 2026-10-23
 | `lab.sh` | 统一流水线：TTS + ASR + 发音 + 报告 | `bash scripts/lab.sh analyze a.wav "sentence"` |
 | `lab_server.py` | 同源 API：`/lab`、`/lab/asr`、`/lab/save` | 由 `start-web.sh` 启动 |
 | `upload-weights.sh` | 打包并上传模型权重到 RustFS | `bash scripts/upload-weights.sh` |
+| `rustfs-public-read.sh` | 设置/查看/回滚模型前缀公共读 | `bash scripts/rustfs-public-read.sh status` |
 | `lab-web.html` | 统一网页（TTS/录音/发音/Whisper/Vosk） | 启动后打开 `/lab` |
 | `start-web.sh` | 启动 OpenPronounce 网页界面 | `bash scripts/start-web.sh` |
 | `pronounce.sh` | 对录音做音素级打分 | `bash scripts/pronounce.sh a.wav "sentence"` |
@@ -41,3 +42,4 @@ updated: 2026-10-23
 - 录音和模型不进 git；`.gitignore` 已排除音频。
 - `start-web.sh` 会启动 `lab_server.py`，统一网页地址为 `http://localhost:8000/lab`；`/static/lab.html` 作为静态备用入口。
 - `/lab/asr` 支持 `engine=whisper|vosk|both`；`/lab/save` 把报告写入 `07_review-log/reports/`。
+- RustFS 公共读只开放模型前缀，说明见 [[deploy/RUSTFS-PUBLIC-READ|RustFS 模型公共读]]。

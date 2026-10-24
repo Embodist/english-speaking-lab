@@ -55,6 +55,22 @@ bash scripts/upload-weights.sh
 RUSTFS_BUCKET=storage1 bash scripts/upload-weights.sh
 ```
 
+## 公共读
+
+两个 bucket 的模型前缀已配置匿名只读：
+
+- `english-lab/rustfs/english-lab/models/*`
+- `storage1/rustfs/english-lab/models/*`
+
+公共 URL 示例：
+
+```text
+http://localhost:9000/english-lab/rustfs/english-lab/models/models.tar
+http://localhost:9000/english-lab/rustfs/english-lab/models/models.tar.sha256
+```
+
+管理脚本：`scripts/rustfs-public-read.sh`（`apply|status|remove`），详细说明见 [[deploy/RUSTFS-PUBLIC-READ|RustFS 模型公共读]]。策略修改不需要重启 RustFS 或 lab 服务。
+
 ## 注意
 
 - 不记录 access/secret；上传使用环境变量，Docker 使用 secrets。

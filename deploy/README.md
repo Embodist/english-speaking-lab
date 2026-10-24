@@ -44,6 +44,8 @@ bash scripts/upload-weights.sh
 
 > 2026-10-24 实测：`storage1` 桶首次整包上传返回 503/timeout；改用 16M 分片后成功。`rustfs` 作为桶名被 RustFS 判为非法，因此另建了 `english-lab` 桶。两处内容一致；默认建议用 `english-lab`，需要时设置 `RUSTFS_BUCKET=storage1`。上传结果与校验值见 [[deploy/upload-status|RustFS 权重上传记录]]。
 
+模型前缀已配置公共读（只读、只限 `rustfs/english-lab/models/*`），见 [[deploy/RUSTFS-PUBLIC-READ|RustFS 模型公共读]]。
+
 > endpoint 是 Windows 上 RustFS 的 S3 地址。WSL 里可用 `http://<Windows-IP>:9000`；Windows IP 会变化，用 `ipconfig` 确认。
 
 ## 2. 构建镜像
@@ -234,6 +236,7 @@ bash deploy/validate.sh
 - [[deploy/ADR-001-cpu-first|ADR-001：CPU-first 决策]]
 - [[deploy/RESOURCE-PLAN|资源占用规划]]
 - [[deploy/upload-status|RustFS 权重上传记录]]
+- [[deploy/RUSTFS-PUBLIC-READ|RustFS 模型公共读]]
 - [[TOOLING|工具搭建与搭配]]
 - [[QUICKSTART|工具体验指南]]
 - [[scripts/README|脚本说明]]
