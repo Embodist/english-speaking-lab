@@ -82,19 +82,31 @@ winget install Audacity.Audacity
 winget install Anki.Anki
 ```
 
-Obsidian 打开 `\\wsl.localhost\<发行版>\home\<用户>\english\english-speaking-lab` 作为 vault。
-
-本机还创建了更短的 Windows 路径：
+推荐用 **D: 原生镜像**，Obsidian 打开：
 
 ```text
-F:\Obsidian\EnglishVault
+D:\Obsidian\EnglishVault
 ```
 
-新机器可在 PowerShell 中创建（需要 WSL 正在运行）：
+首次创建（Windows 侧）：
 
 ```powershell
-New-Item -ItemType SymbolicLink -Path "F:\Obsidian\EnglishVault" `
-  -Target "\\wsl.localhost\<发行版>\home\<用户>\english\english-speaking-lab"
+mkdir D:\Obsidian
+git clone https://github.com/Embodist/english-speaking-lab.git D:\Obsidian\EnglishVault
+```
+
+之后在 WSL 中同步：
+
+```bash
+cd ~/english/english-speaking-lab
+bash scripts/sync-windows.sh push   # WSL 修改后 → D:
+bash scripts/sync-windows.sh pull   # Obsidian 修改后 → WSL
+```
+
+也可以直接用 UNC 路径打开（不推荐长期使用）：
+
+```text
+\\wsl.localhost\<发行版>\home\<用户>\english\english-speaking-lab
 ```
 
 不要打开包含 `.venv`/模型的父目录，否则 Obsidian 会索引大量无关文件。

@@ -15,5 +15,18 @@
   "word-count": true,
   "bookmarks": true,
   "random-note": false,
-  "canvas": true
+  "canvas": true,
+  "footnotes": false,
+  "daily-notes": true,
+  "note-composer": true,
+  "command-palette": true,
+  "slash-command": false,
+  "editor-status": true,
+  "zk-prefixer": false,
+  "slides": false,
+  "workspaces": false,
+  "publish": false,
+  "sync": true,
+  "bases": true,
+  "webviewer": false
 }

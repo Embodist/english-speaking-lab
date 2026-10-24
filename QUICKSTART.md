@@ -36,26 +36,30 @@ Vosk ASR      ok
 
 ## 第 1 步：用 Obsidian 打开 vault
 
-**推荐（本机已配置）**：
+**推荐（本机已配置 D: 原生镜像）**：
 
-1. Obsidian → **Open folder as vault** → 选择 `F:\Obsidian\EnglishVault`。
+1. Obsidian → **Open folder as vault** → 选择 `D:\Obsidian\EnglishVault`。
 2. 打开 `README.md`，点击右上角图钉固定为首页。
 
-该路径是指向 WSL vault 的 Windows 符号链接：
+关系：
 
 ```text
-F:\Obsidian\EnglishVault
-  → \\wsl.localhost\debian13\home\user\english\english-speaking-lab
+WSL 源仓库：~/english/english-speaking-lab
+Windows 镜像：D:\Obsidian\EnglishVault
 ```
 
-也可以直接打开 UNC 路径：
+同步：
 
-```text
-\\wsl.localhost\debian13\home\user\english\english-speaking-lab
+```bash
+cd ~/english/english-speaking-lab
+bash scripts/sync-windows.sh push   # WSL 修改后 → D:
+bash scripts/sync-windows.sh pull   # Obsidian 修改后 → WSL
+bash scripts/sync-windows.sh status # 查看差异
 ```
 
+> Windows 侧说明见 `D:\Obsidian\README-Windows.md`。
 > 不要打开 `E:\english` 或 `\\wsl.localhost\debian13\home\user\english`：它们是父目录，包含 `.venv`/模型（约 2.7GB），Obsidian 会索引大量无关文件。
-> Windows 侧说明见 `F:\Obsidian\README-Windows.md`。
+> UNC 路径只作为备用：`\\wsl.localhost\debian13\home\user\english\english-speaking-lab`。
 
 已预置：附件目录 `11_attachments`、模板目录 `10_templates`、新笔记进入 `00_inbox`。
 
