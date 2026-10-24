@@ -63,6 +63,26 @@ bash scripts/sync-windows.sh status # 查看差异
 
 已预置：附件目录 `11_attachments`、模板目录 `10_templates`、新笔记进入 `00_inbox`。
 
+## Windows 一键同步（E:）
+
+本机已在 `E:\english` 放好三个双击脚本：
+
+| 脚本 | 方向 | 用途 |
+|---|---|---|
+| `Sync-WSL-to-E.bat` | WSL → D → E | 日常推荐；WSL/Claude 改完后一键同步到 E: |
+| `Sync-D-to-E.bat` | D → E | D: 已是最新时，只同步到 E: |
+| `Sync-E-to-WSL.bat` | E → D → WSL | 在 E: 的 Obsidian 编辑后回传（会确认） |
+
+桌面快捷方式：`Sync English Vault.lnk`（指向 `Sync-WSL-to-E.bat`）。
+
+Obsidian 请打开：
+
+```text
+E:\english\english-speaking-lab
+```
+
+不要打开 `E:\english` 父目录。说明与备份规则见 `E:\english\README-Sync.txt`。
+
 ## 第 2 步：体验网页界面（推荐第一次用）
 
 1. 在 WSL 终端启动服务：
