@@ -23,6 +23,23 @@ else
 fi
 
 echo
+echo "== GPU =="
+if command -v nvidia-smi >/dev/null 2>&1; then
+  nvidia-smi --query-gpu=name,memory.total,memory.used --format=csv,noheader 2>/dev/null || echo "nvidia-smi present (query failed)"
+else
+  echo "nvidia-smi missing"
+fi
+"$ENVDIR/bin/python" - <<'EOF' 2>/dev/null || true
+try:
+    import torch
+    print("torch cuda :", torch.cuda.is_available(), "| build:", torch.version.cuda)
+    if torch.cuda.is_available():
+        p = torch.cuda.get_device_properties(0)
+        print("gpu        :", p.name, f"| VRAM {p.total_memory/1e9:.1f} GB")
+except Exception as e:
+    print("torch cuda : unavailable", e)
+EOF
+
 echo "== Optional tools =="
 "$ENVDIR/bin/python" - <<'EOF' 2>/dev/null || true
 mods = {

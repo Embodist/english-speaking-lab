@@ -105,7 +105,49 @@ curl http://localhost:8000/health
 
 首次启动会从 RustFS 下载 2.6GB 并解压，`start_period` 设为 120 秒；慢网络下会先 unhealthy，等同步完成即可。
 
-## 7. 多节点
+## 7. GPU 部署（可选）
+
+本机有 NVIDIA Quadro P1000（4GB VRAM），WSL 的 `nvidia-smi` 正常，但当前 PyTorch 是 CPU 版。GPU 镜像使用 CUDA 基础镜像，单独构建：
+
+```bash
+docker build -f deploy/Dockerfile.gpu -t english-lab-gpu:latest .
+```
+
+> 基础镜像为 `pytorch/pytorch:2.6.0-cuda12.4-cudnn9-runtime`。若该 tag 在你所在网络/架构不可用，换成同系列 CUDA runtime tag（例如 `2.5.1-cuda12.4-cudnn9-runtime`），并确认 `python -c "import torch; print(torch.version.cuda)"` 非空。
+
+前提：
+
+- Windows NVIDIA 驱动 + WSL2 GPU 支持（`nvidia-smi` 正常）。
+- Docker 主机安装 `nvidia-container-toolkit`，Docker 能识别 GPU：
+  ```bash
+  docker run --rm --gpus all nvidia/cuda:12.4.0-base-ubuntu22.04 nvidia-smi
+  ```
+- Swarm 节点打标签（GPU stack 用标签调度）：
+  ```bash
+  docker node update --label-add gpu=true $(docker node ls -q | head -1)
+  ```
+
+部署 GPU stack：
+
+```bash
+docker stack deploy -c deploy/swarm-stack.gpu.yml englishlab-gpu
+```
+
+默认是 **混合模式**：OpenPronounce 在 CPU，Whisper 在 GPU（约 1–1.5 GB 显存），适合 4GB 的 P1000。其他模式：
+
+| 模式 | 环境变量 | 显存 | 适用 |
+|---|---|---|---|
+| 混合（默认） | `OPENPRONOUNCE_DEVICE=cpu`、`WHISPER_DEVICE=cuda` | ~1–1.5 GB | P1000 4GB |
+| 发音 GPU | `OPENPRONOUNCE_DEVICE=cuda`、`WHISPER_DEVICE=cpu` | ~2.5–3 GB | 4GB 卡上限 |
+| 全 GPU | 两者都 `cuda` | ≥8 GB | 大显存卡 |
+
+注意：
+
+- P1000 是 Pascal，FP16 很慢，默认 `WHISPER_FP16=0`。
+- 4GB 显存不要同时把两个 Wav2Vec2 和 Whisper 都放 GPU。
+- 资源预算见 [[deploy/RESOURCE-PLAN|资源占用规划]]。
+
+## 8. 多节点
 
 当前 stack 假设单节点：
 
@@ -119,7 +161,7 @@ curl http://localhost:8000/health
       - node.labels.english-lab == true
   ```
 
-## 8. 更新与回滚
+## 9. 更新与回滚
 
 ```bash
 docker build -f deploy/Dockerfile -t english-lab:v2 .
@@ -128,7 +170,7 @@ LAB_IMAGE=english-lab:v2 docker stack deploy -c deploy/swarm-stack.yml englishla
 docker service rollback englishlab_lab
 ```
 
-## 9. 常见问题
+## 10. 常见问题
 
 | 现象 | 原因 / 解决 |
 |---|---|
@@ -140,7 +182,7 @@ docker service rollback englishlab_lab
 | 无法访问 RustFS | 确认 Windows 防火墙、endpoint IP、path-style 设置 |
 | `docker info` 连不上 | Docker daemon 未启动；先启动 Docker Desktop/Engine |
 
-## 10. 安全
+## 11. 安全
 
 - RustFS 的默认凭据很弱，先修改 access/secret；不要提交到 git。
 - 生产环境用 TLS endpoint，别用明文 HTTP 传模型。
@@ -149,6 +191,8 @@ docker service rollback englishlab_lab
 
 ## 相关
 
+- [[deploy/RESOURCE-PLAN|资源占用规划]]
+- [[deploy/upload-status|RustFS 权重上传记录]]
 - [[TOOLING|工具搭建与搭配]]
 - [[QUICKSTART|工具体验指南]]
 - [[scripts/README|脚本说明]]

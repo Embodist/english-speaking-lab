@@ -21,6 +21,7 @@ updated: 2026-10-23
 | 工具上手 | 从启动到第一次打分 | [[QUICKSTART\|工具体验指南]] |
 | 工具手册 | 搭建、搭配、最佳实践 | [[TOOLING\|工具手册]] |
 | 部署 | Docker Swarm + RustFS | [[deploy/README\|部署]] |
+| 资源规划 | CPU / GPU / 内存 / 磁盘预算 | [[deploy/RESOURCE-PLAN\|资源规划]] |
 | 目录规范 | 命名、标签、维护流程 | [[MANAGEMENT\|管理规范]] |
 | 发音训练 | 发音纠正、错题本、录音基线 | [[01_pronunciation/_index\|发音训练]] |
 | 日常工作 | 站会、Bug、PR、会议、邮件 | [[02_daily-work/_index\|日常工作]] |

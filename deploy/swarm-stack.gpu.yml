@@ -1,0 +1,78 @@
+version: "3.8"
+
+# GPU profiles:
+# - Hybrid (default): OpenPronounce on CPU, Whisper on GPU (~1-1.5 GB VRAM).
+# - Pronunciation GPU: OPENPRONOUNCE_DEVICE=cuda, WHISPER_DEVICE=cpu (~2.5-3 GB VRAM).
+# - Full GPU: both cuda, needs >=8 GB VRAM. Not recommended on Quadro P1000 4 GB.
+
+services:
+  lab:
+    image: ${LAB_GPU_IMAGE:-english-lab-gpu:latest}
+    ports:
+      - "8000:8000"
+    environment:
+      HF_ENDPOINT: https://hf-mirror.com
+      OPENPRONOUNCE_TTS: piper
+      OPENPRONOUNCE_TTS_VOICE: en_US-lessac-medium
+      OPENPRONOUNCE_DEVICE: ${OPENPRONOUNCE_DEVICE:-cpu}
+      WHISPER_DEVICE: ${WHISPER_DEVICE:-cuda}
+      WHISPER_FP16: ${WHISPER_FP16:-0}
+      NVIDIA_VISIBLE_DEVICES: all
+      NVIDIA_DRIVER_CAPABILITIES: compute,utility
+      PYTORCH_CUDA_ALLOC_CONF: expandable_segments:True
+      OMP_NUM_THREADS: "4"
+      MKL_NUM_THREADS: "4"
+      RUSTFS_ENDPOINT: ${RUSTFS_ENDPOINT:-}
+      RUSTFS_BUCKET: ${RUSTFS_BUCKET:-english-lab}
+      RUSTFS_PREFIX: ${RUSTFS_PREFIX:-rustfs/english-lab/models}
+      RUSTFS_REGION: ${RUSTFS_REGION:-us-east-1}
+      RUSTFS_FORCE_PATH_STYLE: ${RUSTFS_FORCE_PATH_STYLE:-true}
+      LAB_SYNC_MODELS: ${LAB_SYNC_MODELS:-1}
+    secrets:
+      - rustfs_access_key
+      - rustfs_secret_key
+    volumes:
+      - lab-models:/models
+      - lab-reports:/app/07_review-log/reports
+      - lab-attachments:/app/11_attachments
+    healthcheck:
+      test: ["CMD-SHELL", "curl -fsS http://127.0.0.1:8000/health || exit 1"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 120s
+    deploy:
+      replicas: 1
+      placement:
+        constraints:
+          - node.labels.gpu == true
+      restart_policy:
+        condition: on-failure
+        delay: 10s
+        max_attempts: 5
+      update_config:
+        order: stop-first
+        parallelism: 1
+        delay: 10s
+      resources:
+        limits:
+          cpus: "4.0"
+          memory: 5G
+        reservations:
+          memory: 3G
+    logging:
+      driver: json-file
+      options:
+        max-size: "10m"
+        max-file: "3"
+
+volumes:
+  lab-models:
+  lab-reports:
+  lab-attachments:
+
+secrets:
+  rustfs_access_key:
+    external: true
+  rustfs_secret_key:
+    external: true

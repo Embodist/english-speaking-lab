@@ -19,10 +19,24 @@ VOSK_DEFAULT = ROOT.parent / "models" / "vosk-model-small-en-us-0.15"
 
 
 def transcribe_whisper(path: Path) -> str:
+    import torch
     import whisper
 
-    model = whisper.load_model("base.en")
-    result = model.transcribe(str(path), language="en", fp16=False)
+    if torch.cuda.is_available() and os.environ.get("WHISPER_DEVICE", "cuda") != "cpu":
+        device = os.environ.get("WHISPER_DEVICE", "cuda")
+    else:
+        device = "cpu"
+
+    model = whisper.load_model("base.en", device=device)
+
+    # Pascal (sm_61, e.g. Quadro P1000) has very slow FP16 throughput.
+    fp16 = False
+    if device.startswith("cuda"):
+        major = torch.cuda.get_device_capability(0)[0]
+        fp16 = major >= 7 and os.environ.get("WHISPER_FP16", "1") != "0"
+
+    print(f"[asr] whisper device={device} fp16={fp16}", file=sys.stderr)
+    result = model.transcribe(str(path), language="en", fp16=fp16)
     return result["text"].strip()
 
 
