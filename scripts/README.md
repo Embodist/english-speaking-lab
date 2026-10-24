@@ -16,6 +16,7 @@ updated: 2026-10-23
 | `check-env.sh` | 检查工具、Python 包和模型 | `bash scripts/check-env.sh` |
 | `lab.sh` | 统一流水线：TTS + ASR + 发音 + 报告 | `bash scripts/lab.sh analyze a.wav "sentence"` |
 | `lab_server.py` | 同源 API：`/lab`、`/lab/asr`、`/lab/save` | 由 `start-web.sh` 启动 |
+| `upload-weights.sh` | 打包并上传模型权重到 RustFS | `bash scripts/upload-weights.sh` |
 | `lab-web.html` | 统一网页（TTS/录音/发音/Whisper/Vosk） | 启动后打开 `/lab` |
 | `start-web.sh` | 启动 OpenPronounce 网页界面 | `bash scripts/start-web.sh` |
 | `pronounce.sh` | 对录音做音素级打分 | `bash scripts/pronounce.sh a.wav "sentence"` |

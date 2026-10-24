@@ -8,6 +8,8 @@ updated: 2026-10-23
 
 # Anki 导入指南
 
+> 论文词汇（1,282 去重词 + 246 核心词）请用专门的 [[14_llm-papers/anki-import|论文词汇 Anki 导入]]。
+
 ## 准备
 
 - 文件：`08_sentence-library/phrase-library.csv`（UTF-8，逗号分隔）

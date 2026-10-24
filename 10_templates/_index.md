@@ -17,6 +17,7 @@ updated: 2026-10-23
 | [[10_templates/project-story\|项目故事]] | 面试项目讲述（Goal → Result） |
 | [[10_templates/weekly-review\|周复盘]] | 每周 15 分钟维护 |
 | [[10_templates/topic-note\|主题笔记]] | 新增技术主题时复制 |
+| [[10_templates/paper-note\|论文笔记]] | 读论文时记录问题/方法/词汇/复述 |
 
 ## 使用方式
 

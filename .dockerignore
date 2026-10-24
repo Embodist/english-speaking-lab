@@ -1,0 +1,11 @@
+.git
+.obsidian
+.venv
+11_attachments
+09_sources
+14_llm-papers
+07_review-log
+deploy/rustfs.env
+deploy/secrets
+*.docx
+**/__pycache__

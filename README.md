@@ -20,6 +20,7 @@ updated: 2026-10-23
 | 训练总纲 | 训练方法、评分、30 天计划 | [[STUDY-PLAN\|学习计划]] |
 | 工具上手 | 从启动到第一次打分 | [[QUICKSTART\|工具体验指南]] |
 | 工具手册 | 搭建、搭配、最佳实践 | [[TOOLING\|工具手册]] |
+| 部署 | Docker Swarm + RustFS | [[deploy/README\|部署]] |
 | 目录规范 | 命名、标签、维护流程 | [[MANAGEMENT\|管理规范]] |
 | 发音训练 | 发音纠正、错题本、录音基线 | [[01_pronunciation/_index\|发音训练]] |
 | 日常工作 | 站会、Bug、PR、会议、邮件 | [[02_daily-work/_index\|日常工作]] |
@@ -31,6 +32,7 @@ updated: 2026-10-23
 | 句子库 | 111 条按场景分类的高频句 | [[08_sentence-library/_index\|句子库]] |
 | 词与短语库 | 词典级词条：说 / 写 / 读 | [[12_word-phrase-bank/_index\|词与短语库]] |
 | 技术与框架 | LLM、Agent、音乐 AI、RAG 服务 | [[13_tech-frameworks/_index\|技术与框架]] |
+| LLM 论文 | 168 篇论文词表与阅读流程 | [[14_llm-papers/_index\|LLM 论文]] |
 | 原始资料 | 手册、速记卡、CSV（只读） | [[09_sources/_index\|原始资料]] |
 | 模板 | 新建笔记从这里取 | [[10_templates/_index\|模板]] |
 | 录音附件 | 所有录音文件 | `11_attachments/` |
@@ -51,6 +53,7 @@ updated: 2026-10-23
 | 要讲 RAG / Agent | [[03_ai-agent-rag/_index\|AI 与 RAG]] |
 | 要讲安全项目 | [[04_security/_index\|安全分析]] |
 | 要讲音乐 Agent | [[05_music-agent/_index\|音乐 Agent]] |
+| 要读 LLM 论文 | [[14_llm-papers/_index\|LLM 论文阅读与词汇]] |
 | 不知道今天练什么 | [[STUDY-PLAN#每周节奏\|每周节奏]] |
 
 > 更完整的“说 → 写 → 读”30 分钟版本和四周路径见 [[LEARNING-PATH|学习路径]]。

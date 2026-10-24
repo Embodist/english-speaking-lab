@@ -11,3 +11,7 @@ Thumbs.db
 11_attachments/**/*.wav
 11_attachments/**/*.m4a
 11_attachments/**/*.mp3
+
+# RustFS 连接配置与密钥
+deploy/rustfs.env
+deploy/secrets/

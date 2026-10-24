@@ -70,6 +70,7 @@ updated: 2026-10-23
 ### 第 3 周：论文阅读 + AI 术语
 
 - 词库：[[12_word-phrase-bank/04-paper-reading|论文阅读]] 30 个 + [[12_word-phrase-bank/06-ai-llm-terms|AI/LLM 术语]] 25 个 + 固定块库 E 节。
+- 论文专项：[[14_llm-papers/_index|LLM 论文阅读与词汇]]（先核心学术语言，再按阶段逐篇）。
 - 每天：读 1 篇论文摘要，用 3 句话口头总结；写 1 段阅读笔记。
 - 参考：[[13_tech-frameworks/llm-model-capabilities|LLM 与模型能力]]。
 - 周末：选一篇论文，做 5 分钟英文讲解（问题 → 方法 → 结果 → 局限）。

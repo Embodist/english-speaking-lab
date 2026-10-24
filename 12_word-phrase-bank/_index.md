@@ -69,6 +69,7 @@ updated: 2026-10-23
 ## 相关
 
 - [[SCOPE|记录与扩展边界]]——哪些必须记、哪些以后再说
+- [[14_llm-papers/_index|LLM 论文阅读与词汇]]
 - [[LEARNING-PATH|学习路径]]
 - [[08_sentence-library/_index|句子库（整句）]]
 - [[01_pronunciation/tech-terms|技术名词发音]]

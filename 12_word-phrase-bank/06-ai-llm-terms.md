@@ -77,6 +77,7 @@ updated: 2026-10-23
 ## 相关
 
 - [[12_word-phrase-bank/_index|词与短语库]]
+- [[14_llm-papers/_index|LLM 论文阅读与词汇]]
 - [[03_ai-agent-rag/_index|AI 与 RAG 项目表达]]
 - [[13_tech-frameworks/llm-model-capabilities|LLM 与模型能力记录]]
 - [[LEARNING-PATH|学习路径]]

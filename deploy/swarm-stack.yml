@@ -1,0 +1,64 @@
+version: "3.8"
+
+services:
+  lab:
+    image: ${LAB_IMAGE:-english-lab:latest}
+    ports:
+      - "8000:8000"
+    environment:
+      HF_ENDPOINT: https://hf-mirror.com
+      OPENPRONOUNCE_TTS: piper
+      OPENPRONOUNCE_TTS_VOICE: en_US-lessac-medium
+      RUSTFS_ENDPOINT: ${RUSTFS_ENDPOINT:-}
+      RUSTFS_BUCKET: ${RUSTFS_BUCKET:-storage1}
+      RUSTFS_PREFIX: ${RUSTFS_PREFIX:-rustfs/english-lab/models}
+      RUSTFS_REGION: ${RUSTFS_REGION:-us-east-1}
+      RUSTFS_FORCE_PATH_STYLE: ${RUSTFS_FORCE_PATH_STYLE:-true}
+      LAB_SYNC_MODELS: ${LAB_SYNC_MODELS:-1}
+    secrets:
+      - rustfs_access_key
+      - rustfs_secret_key
+    volumes:
+      - lab-models:/models
+      - lab-reports:/app/07_review-log/reports
+      - lab-attachments:/app/11_attachments
+    healthcheck:
+      test: ["CMD-SHELL", "curl -fsS http://127.0.0.1:8000/health || exit 1"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 120s
+    deploy:
+      replicas: 1
+      placement:
+        constraints:
+          - node.role == manager
+      restart_policy:
+        condition: on-failure
+        delay: 10s
+        max_attempts: 5
+      update_config:
+        order: stop-first
+        parallelism: 1
+        delay: 10s
+      resources:
+        limits:
+          memory: 6G
+        reservations:
+          memory: 3G
+    logging:
+      driver: json-file
+      options:
+        max-size: "10m"
+        max-file: "3"
+
+volumes:
+  lab-models:
+  lab-reports:
+  lab-attachments:
+
+secrets:
+  rustfs_access_key:
+    external: true
+  rustfs_secret_key:
+    external: true

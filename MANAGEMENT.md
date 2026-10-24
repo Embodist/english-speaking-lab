@@ -37,6 +37,7 @@ updated: 2026-10-23
 | `11_attachments/` | 录音、截图等二进制附件 | Markdown 笔记 |
 | `12_word-phrase-bank/` | 词典级词条（说 / 写 / 读） | 整句对话（放句子库） |
 | `13_tech-frameworks/` | LLM、Agent、音乐、RAG 能力记录 | 具体项目故事（放面试目录） |
+| `14_llm-papers/` | LLM 论文逐篇词汇、阅读流程、Anki CSV | 通用论文句式（放 04/05） |
 
 ## 命名规范
 
@@ -95,8 +96,8 @@ review: 2026-10-30    # 可选：下次复习日期
 
 例如要加“数据工程”：
 
-1. 新建 `14_data-engineering/`。
-2. 复制 [[10_templates/topic-note|主题笔记模板]]，存为 `14_data-engineering/_index.md`。
+1. 新建 `15_data-engineering/`。
+2. 复制 [[10_templates/topic-note|主题笔记模板]]，存为 `15_data-engineering/_index.md`。
 3. 在 [[README|主页]] 导航表和本文件的目录地图各加一行。
 4. 新句子卡加 `topic/data-engineering` 标签。
 
@@ -134,7 +135,9 @@ review: 2026-10-30    # 可选：下次复习日期
 ├── .venv/                 # Python 环境
 ├── OpenPronounce/         # 网页界面源码
 ├── models/                # Vosk 模型
+├── model-bundle/          # 上传 RustFS 的 models.tar
 └── english-speaking-lab/  # 本 vault
+    └── deploy/            # Dockerfile + Swarm stack
 ```
 
 vault 内 `scripts/` 只放薄封装，详细说明见 [[scripts/README|脚本说明]]；从零搭建、工具搭配和最佳实践见 [[TOOLING|工具手册]]。
