@@ -80,7 +80,7 @@ bash scripts/asr.sh recording.wav                      # 检查是否被识别�
 bash scripts/new-day.sh                                # 生成今天的练习记录
 ```
 
-统一练习页：`http://localhost:8000/static/lab.html`（参考音 + 录音 + 发音 + ASR）。完整工具体验步骤见 [[QUICKSTART|工具体验指南]]，搭建与搭配见 [[TOOLING|工具手册]]。
+统一练习页：`http://localhost:8000/lab`（参考音 + 录音 + 发音 + Whisper/Vosk）。完整工具体验步骤见 [[QUICKSTART|工具体验指南]]，搭建与搭配见 [[TOOLING|工具手册]]。
 
 > [!note] 工具只是反馈手段
 > AI 分数会受麦克风、噪声和专有名词影响。真正有效的是：**固定句子 → 录音 → 只改一个点 → 再录 → 一周后对比**。

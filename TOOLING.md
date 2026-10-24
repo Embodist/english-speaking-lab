@@ -23,7 +23,7 @@ bash scripts/asr.sh audio.wav    # 可懂度检查
 bash scripts/pronounce.sh audio.wav "sentence"  # 音素级分析
 ```
 
-统一网页：<http://localhost:8000/static/lab.html>（参考音 + 录音 + 发音 + ASR + 报告下载）。
+统一网页：<http://localhost:8000/lab>（参考音 + 录音 + 发音 + Whisper/Vosk + 报告保存/下载）。
 
 原则：**模型缓存不要删、下载走 hf-mirror、TTS 固定 Piper 一个声音、一次只改一个变量。**
 
@@ -41,7 +41,7 @@ bash scripts/pronounce.sh audio.wav "sentence"  # 音素级分析
 | 音频转换 | ffmpeg | m4a/mp3 → 16k mono wav | 通用、可靠 | Audacity |
 | 模型下载 | Hugging Face 镜像 | 获取权重 | 本环境可访问 | 官方站点（不可直连） |
 | 自动化 | `scripts/` | 启动、打分、TTS、ASR | 少记命令 | 手动执行 |
-| 统一入口 | `lab.sh` / `/static/lab.html` | 串起 TTS + ASR + 发音 + 报告 | 少切换工具 | 分步脚本 |
+| 统一入口 | `lab.sh` / `/lab` | 串起 TTS + Whisper/Vosk + 发音 + 报告 | 少切换工具 | 分步脚本 |
 
 ### 已安装工具清单
 
@@ -265,7 +265,8 @@ HF_HUB_OFFLINE=1 bash scripts/pronounce.sh recording.wav "sentence"
 | 每天开始，复习昨天 | Obsidian 当日日志 | 不看稿说昨天 3–5 句 | 3 min |
 | 需要跟读示范音 | Piper `tts.sh` | 整句 → 意群，听 2–3 遍 | 2 min |
 | 跟读后要即时反馈 | 网页 UI（单句）/ CLI（批量） | 录音 → 提交 → 看 Score/音素 | 5 min |
-| 想在一个页面完成全部步骤 | 统一练习页 | 打开 `/static/lab.html`：参考音 → 录音 → 发音 + ASR | 5 min |
+| 想在一个页面完成全部步骤 | 统一练习页 | 打开 `/lab`：参考音 → 录音 → 发音 + Whisper/Vosk | 5 min |
+| 网页上切换 ASR 引擎 | 统一页下拉框 | Whisper（准）/ Vosk（快）/ both；对应 `/lab/asr` | - |
 | 想一条命令生成报告 | `lab.sh analyze` | TTS + ASR + 发音 + Markdown 报告 + 日志 | 1 min |
 | 不确定是否可懂 | Vosk 快速 / Whisper 最终 | 看关键词、数字、否定词 | 10–20 s |
 | 某个词反复错 | OpenPronounce 音素视图 + 错题本 | 只改 1–2 个音 | 5 min |
@@ -286,7 +287,7 @@ HF_HUB_OFFLINE=1 bash scripts/pronounce.sh recording.wav "sentence"
 
 ```text
 要练口语？
-├─ 想一站式 → 统一练习页 /static/lab.html 或 lab.sh analyze
+├─ 想一站式 → 统一练习页 /lab 或 lab.sh analyze
 ├─ 需要示范音 → Piper TTS
 ├─ 需要录音和即时反馈 → 网页 UI（≤60 秒）
 ├─ 需要批量/重复分析 → CLI

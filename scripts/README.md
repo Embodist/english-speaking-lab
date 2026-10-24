@@ -15,7 +15,8 @@ updated: 2026-10-23
 | `setup.sh` | 从零搭建环境（可重复执行） | `bash scripts/setup.sh` |
 | `check-env.sh` | 检查工具、Python 包和模型 | `bash scripts/check-env.sh` |
 | `lab.sh` | 统一流水线：TTS + ASR + 发音 + 报告 | `bash scripts/lab.sh analyze a.wav "sentence"` |
-| `lab-web.html` | 统一网页（TTS/录音/发音/ASR） | 启动后打开 `/static/lab.html` |
+| `lab_server.py` | 同源 API：`/lab`、`/lab/asr`、`/lab/save` | 由 `start-web.sh` 启动 |
+| `lab-web.html` | 统一网页（TTS/录音/发音/Whisper/Vosk） | 启动后打开 `/lab` |
 | `start-web.sh` | 启动 OpenPronounce 网页界面 | `bash scripts/start-web.sh` |
 | `pronounce.sh` | 对录音做音素级打分 | `bash scripts/pronounce.sh a.wav "sentence"` |
 | `tts.sh` | 用 Piper 生成参考音 | `bash scripts/tts.sh "sentence"` |
@@ -37,4 +38,5 @@ updated: 2026-10-23
 
 - 脚本依赖路径 `~/english`，移动环境后需同步修改或设置上面的环境变量。
 - 录音和模型不进 git；`.gitignore` 已排除音频。
-- `start-web.sh` 会把 `lab-web.html` 复制到 `OpenPronounce/static/lab.html`，网页地址为 `http://localhost:8000/static/lab.html`。
+- `start-web.sh` 会启动 `lab_server.py`，统一网页地址为 `http://localhost:8000/lab`；`/static/lab.html` 作为静态备用入口。
+- `/lab/asr` 支持 `engine=whisper|vosk|both`；`/lab/save` 把报告写入 `07_review-log/reports/`。

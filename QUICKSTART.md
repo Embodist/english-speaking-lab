@@ -58,7 +58,7 @@ Vosk ASR      ok
 
 2. 在 **Windows 浏览器** 打开统一练习页：
 
-   <http://localhost:8000/static/lab.html>
+   <http://localhost:8000/lab>
 
    或原生界面 <http://localhost:8000>（WSL2 会自动转发 localhost）。
 

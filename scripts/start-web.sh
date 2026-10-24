@@ -25,7 +25,9 @@ if [[ -f "$LAB_PAGE" ]]; then
 fi
 
 echo "Starting OpenPronounce on http://localhost:$PORT"
-echo "Unified lab page: http://localhost:$PORT/static/lab.html"
+echo "Unified lab page:    http://localhost:$PORT/lab"
+echo "OpenPronounce UI:    http://localhost:$PORT/"
 echo "Press Ctrl+C to stop."
-cd "$REPO"
-exec "$ENVDIR/bin/uvicorn" server:app --host 127.0.0.1 --port "$PORT"
+cd "$ROOT/scripts"
+export PYTHONPATH="$REPO${PYTHONPATH:+:$PYTHONPATH}"
+exec "$ENVDIR/bin/uvicorn" lab_server:app --host 127.0.0.1 --port "$PORT"

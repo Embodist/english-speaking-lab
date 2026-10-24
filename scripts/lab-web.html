@@ -3,14 +3,16 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>English Lab · TTS + ASR + 发音分析</title>
+<title>English Lab · TTS + Whisper/Vosk + 发音分析</title>
 <style>
   :root { --bg:#f6f5f2; --card:#fff; --ink:#1d1c1a; --muted:#6b6862; --line:#e3e0da; --accent:#2563eb; --good:#15803d; --bad:#b91c1c; }
   * { box-sizing: border-box; }
   body { margin:0; background:var(--bg); color:var(--ink); font:15px/1.5 system-ui,-apple-system,"Segoe UI",Roboto,"Noto Sans SC",sans-serif; }
-  header { max-width:900px; margin:0 auto; padding:24px 20px 8px; display:flex; gap:16px; align-items:baseline; flex-wrap:wrap; }
+  header { max-width:900px; margin:0 auto; padding:24px 20px 6px; display:flex; gap:16px; align-items:baseline; flex-wrap:wrap; }
   header h1 { font-size:22px; margin:0; }
   header a { color:var(--accent); text-decoration:none; font-size:14px; }
+  .steps { max-width:900px; margin:0 auto; padding:6px 20px 0; display:flex; gap:8px; flex-wrap:wrap; }
+  .steps span { font-size:12px; color:var(--muted); border:1px solid var(--line); background:#fff; border-radius:999px; padding:4px 10px; }
   main { max-width:900px; margin:0 auto; padding:12px 20px 60px; display:grid; gap:16px; }
   .card { background:var(--card); border:1px solid var(--line); border-radius:14px; padding:18px; }
   .card h2 { font-size:15px; margin:0 0 12px; color:var(--muted); font-weight:600; letter-spacing:.02em; }
@@ -21,6 +23,7 @@
   button.primary { background:var(--accent); border-color:var(--accent); color:#fff; }
   button:disabled { opacity:.5; cursor:not-allowed; }
   button.danger { background:#fee2e2; border-color:#fecaca; color:var(--bad); }
+  select { border:1px solid var(--line); border-radius:9px; padding:8px 10px; font:inherit; background:#fff; }
   audio { height:36px; max-width:100%; }
   .status { color:var(--muted); font-size:13px; min-height:20px; margin:8px 0 0; }
   .grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(180px,1fr)); gap:12px; margin-top:14px; }
@@ -43,9 +46,11 @@
 <header>
   <h1>English Lab</h1>
   <a href="/">OpenPronounce 原生界面</a>
-  <a href="/static/lab.html">刷新</a>
-  <span class="muted" style="font-size:13px">TTS 参考音 · 录音 · 发音分析 · ASR</span>
+  <span class="muted" style="font-size:13px">TTS 参考音 · 录音 · 发音分析 · Whisper/Vosk</span>
 </header>
+<div class="steps">
+  <span>① 生成参考音</span><span>② 录音或上传</span><span>③ 分析（发音 + Whisper/Vosk）</span><span>④ 保存报告</span>
+</div>
 <main>
   <section class="card">
     <h2>1 · 目标句子</h2>
@@ -59,7 +64,7 @@
   </section>
 
   <section class="card">
-    <h2>2 · 录音或上传</h2>
+    <h2>2 · 录音或上传（最长 60 秒）</h2>
     <div class="row">
       <button id="recordBtn" class="primary">开始录音</button>
       <span id="timer" class="muted">00:00 / 01:00</span>
@@ -68,14 +73,22 @@
     <div class="row">
       <audio id="myAudio" controls></audio>
     </div>
-    <p id="recordStatus" class="status"></p>
+    <p id="recordStatus" class="status">录音或选择文件后，第 3 节的“分析”按钮才会启用。</p>
   </section>
 
   <section class="card">
-    <h2>3 · 分析</h2>
+    <h2>3 · 分析（OpenPronounce + Whisper/Vosk）</h2>
     <div class="row">
+      <label class="muted">ASR 引擎
+        <select id="asrEngine">
+          <option value="whisper">Whisper base.en（准）</option>
+          <option value="vosk">Vosk small（快）</option>
+          <option value="both">两者都跑</option>
+        </select>
+      </label>
       <button id="analyzeBtn" class="primary" disabled>分析（发音 + ASR）</button>
-      <button id="reportBtn" disabled>下载 Markdown 报告</button>
+      <button id="saveBtn" disabled>保存到学习库</button>
+      <button id="reportBtn" disabled>下载 Markdown</button>
     </div>
     <p id="analyzeStatus" class="status">先录音或选择音频文件。</p>
     <div id="results"></div>
@@ -94,6 +107,7 @@
   };
 
   const fmt = s => `${String(Math.floor(s / 60)).padStart(2, '0')}:${String(s % 60).padStart(2, '0')}`;
+  const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 
   const setAudio = (blob, target) => {
     const url = URL.createObjectURL(blob);
@@ -105,6 +119,7 @@
     state.result = null;
     $('results').innerHTML = '';
     $('reportBtn').disabled = true;
+    $('saveBtn').disabled = true;
   };
 
   const stopTracks = () => {
@@ -112,7 +127,6 @@
     state.stream = null;
   };
 
-  // TTS reference
   $('ttsBtn').addEventListener('click', async () => {
     const text = $('sentence').value.trim();
     if (!text) return setStatus('ttsStatus', '先输入句子。', true);
@@ -138,7 +152,6 @@
     }
   });
 
-  // Recording
   const startRecording = async () => {
     if (!navigator.mediaDevices || !window.MediaRecorder) {
       return setStatus('recordStatus', '浏览器不支持录音，请用文件上传。', true);
@@ -193,39 +206,42 @@
     setStatus('recordStatus', `已选择：${file.name}`);
   });
 
-  // Analysis
   $('analyzeBtn').addEventListener('click', async () => {
     const text = $('sentence').value.trim();
     if (!text) return setStatus('analyzeStatus', '先输入目标句子。', true);
     if (!state.blob) return setStatus('analyzeStatus', '先录音或选择音频文件。', true);
+    const engine = $('asrEngine').value;
     $('analyzeBtn').disabled = true;
     $('reportBtn').disabled = true;
-    setStatus('analyzeStatus', '分析中…首次请求可能需要 10–20 秒。');
+    $('saveBtn').disabled = true;
+    setStatus('analyzeStatus', `分析中…（ASR: ${engine}；首次约 10–20 秒）`);
     $('results').innerHTML = '';
 
     const file = state.blob instanceof File ? state.blob : new File([state.blob], 'recording.webm', { type: state.blob.type || 'audio/webm' });
-    const form = new FormData();
-    form.append('file', file, file.name);
-    form.append('expected_text', text);
-    form.append('lang', 'en');
+
+    const pronForm = new FormData();
+    pronForm.append('file', file, file.name);
+    pronForm.append('expected_text', text);
+    pronForm.append('lang', 'en');
+
+    const asrForm = new FormData();
+    asrForm.append('file', file, file.name);
+    asrForm.append('engine', engine);
+    asrForm.append('lang', 'en');
 
     try {
-      const [pronRes, asrForm] = await Promise.all([
-        fetch('/pronunciation', { method: 'POST', body: form }),
-        (() => {
-          const f = new FormData();
-          f.append('file', file, file.name);
-          f.append('lang', 'en');
-          return fetch('/speech2text', { method: 'POST', body: f });
-        })()
+      const [pronRes, asrRes] = await Promise.all([
+        fetch('/pronunciation', { method: 'POST', body: pronForm }),
+        fetch('/lab/asr', { method: 'POST', body: asrForm })
       ]);
       if (!pronRes.ok) throw new Error(await pronRes.text());
-      if (!asrForm.ok) throw new Error(await asrForm.text());
+      if (!asrRes.ok) throw new Error(await asrRes.text());
       const pron = await pronRes.json();
-      const asr = await asrForm.json();
-      state.result = { pron, asr, text, at: new Date() };
+      const asr = await asrRes.json();
+      state.result = { pron, asr, text, at: new Date(), engine };
       render(pron, asr);
       $('reportBtn').disabled = false;
+      $('saveBtn').disabled = false;
       setStatus('analyzeStatus', '完成。分数只作线索，一次只改 1–2 个问题。');
     } catch (e) {
       setStatus('analyzeStatus', `分析失败：${e.message}`, true);
@@ -234,26 +250,32 @@
     }
   });
 
-  const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
-
   const render = (pron, asr) => {
     const diffs = pron.differences || {};
     const errors = diffs.errors || [];
     const heard = (diffs.heard_phones || []).join(' ');
-    const score = pron.score;
     const words = errors.map(e => e.word).filter(Boolean);
+    const transcripts = asr.transcripts || {};
+    const asrRows = Object.entries(transcripts)
+      .map(([name, text]) => `<tr><td>${esc(name)}</td><td>${esc(text || '(empty)')}</td></tr>`)
+      .join('');
     const rows = errors.length
       ? errors.map(e => `<tr><td>${esc(e.word)}</td><td class="muted">/${esc(e.expected)}/</td><td>/${esc(e.actual)}/</td></tr>`).join('')
       : '<tr><td colspan="3" class="good">未检测到明显误发音</td></tr>';
 
     $('results').innerHTML = `
       <div class="grid">
-        <div class="metric"><div class="label">OpenPronounce 分数</div><div class="value score">${esc(score)}</div></div>
-        <div class="metric"><div class="label">系统转写</div><div class="value" style="font-size:15px">${esc(pron.transcribe || '')}</div></div>
-        <div class="metric"><div class="label">ASR 可懂度</div><div class="value" style="font-size:15px">${esc(asr.transcript || '')}</div></div>
+        <div class="metric"><div class="label">OpenPronounce 分数</div><div class="value score">${esc(pron.score)}</div></div>
+        <div class="metric"><div class="label">OpenPronounce 转写</div><div class="value" style="font-size:15px">${esc(pron.transcribe || '')}</div></div>
         <div class="metric"><div class="label">误发音词</div><div class="value" style="font-size:15px">${words.length ? esc(words.join(', ')) : '<span class="good">无</span>'}</div></div>
       </div>
       <p class="muted" style="margin-top:14px">识别音素：/${esc(heard)}/</p>
+      <h3 style="font-size:14px;margin:18px 0 0">ASR 可懂度（${esc(asr.engine)}）</h3>
+      <table>
+        <thead><tr><th>引擎</th><th>转写</th></tr></thead>
+        <tbody>${asrRows}</tbody>
+      </table>
+      <h3 style="font-size:14px;margin:18px 0 0">音素错误</h3>
       <table>
         <thead><tr><th>词</th><th>期望</th><th>实际</th></tr></thead>
         <tbody>${rows}</tbody>
@@ -262,22 +284,48 @@
     `;
   };
 
-  $('reportBtn').addEventListener('click', () => {
-    if (!state.result) return;
-    const { pron, asr, text, at } = state.result;
+  const buildMarkdown = () => {
+    const { pron, asr, text, at, engine } = state.result;
     const diff = pron.differences || {};
     const errors = diff.errors || [];
+    const transcripts = asr.transcripts || {};
     const stamp = at.toISOString().slice(0, 16).replace('T', ' ');
     const errorLines = errors.length
       ? errors.map(e => `- ${e.word}: /${e.expected}/ → /${e.actual}/`).join('\n')
       : '- 无';
-    const md = `---\ntype: report\ntitle: "练习报告 ${stamp}"\nsentence: ${JSON.stringify(text)}\nscore: ${pron.score}\ntags: [status/learning, skill/pronunciation]\ncreated: ${stamp.slice(0,10)}\n---\n\n# 练习报告 · ${stamp}\n\n## 句子\n\n> ${text}\n\n## 结果\n\n| 项目 | 值 |\n|---|---|\n| 分数 | ${pron.score} |\n| 系统转写 | ${pron.transcribe || ''} |\n| ASR | ${asr.transcript || ''} |\n| 识别音素 | /${(diff.heard_phones || []).join(' ')}/ |\n\n## 误发音\n\n${errorLines}\n\n## 下一步\n\n- [ ] 只改 1–2 个问题\n- [ ] 重录并对比\n- [ ] 记入发音错题本\n`;
-    const blob = new Blob([md], { type: 'text/markdown;charset=utf-8' });
+    const asrLines = Object.entries(transcripts)
+      .map(([name, transcript]) => `| ${name} | ${transcript || '(empty)'} |`)
+      .join('\n');
+    return `---\ntype: report\ntitle: "练习报告 ${stamp}"\nsentence: ${JSON.stringify(text)}\nscore: ${pron.score}\nasr_engine: "${engine}"\ntags: [status/learning, skill/pronunciation]\ncreated: ${stamp.slice(0,10)}\n---\n\n# 练习报告 · ${stamp}\n\n## 句子\n\n> ${text}\n\n## 结果\n\n| 项目 | 值 |\n|---|---|\n| OpenPronounce 分数 | ${pron.score} |\n| OpenPronounce 转写 | ${pron.transcribe || ''} |\n| 识别音素 | /${(diff.heard_phones || []).join(' ')}/ |\n\n## ASR 可懂度\n\n| 引擎 | 转写 |\n|---|---|\n${asrLines}\n\n## 误发音\n\n${errorLines}\n\n## 下一步\n\n- [ ] 只改 1–2 个问题\n- [ ] 重录并对比\n- [ ] 记入发音错题本\n`;
+  };
+
+  $('reportBtn').addEventListener('click', () => {
+    if (!state.result) return;
+    const blob = new Blob([buildMarkdown()], { type: 'text/markdown;charset=utf-8' });
     const a = document.createElement('a');
     a.href = URL.createObjectURL(blob);
-    a.download = `english-report-${at.toISOString().slice(0, 16).replace(/[:T]/g, '-')}.md`;
+    a.download = `english-report-${new Date().toISOString().slice(0, 16).replace(/[:T]/g, '-')}.md`;
     a.click();
     setTimeout(() => URL.revokeObjectURL(a.href), 1000);
+  });
+
+  $('saveBtn').addEventListener('click', async () => {
+    if (!state.result) return;
+    $('saveBtn').disabled = true;
+    setStatus('analyzeStatus', '保存中…');
+    try {
+      const form = new FormData();
+      form.append('markdown', buildMarkdown());
+      form.append('filename', 'english-report');
+      const res = await fetch('/lab/save', { method: 'POST', body: form });
+      if (!res.ok) throw new Error(await res.text());
+      const data = await res.json();
+      setStatus('analyzeStatus', `已保存：${data.path}`);
+    } catch (e) {
+      setStatus('analyzeStatus', `保存失败：${e.message}`, true);
+    } finally {
+      $('saveBtn').disabled = false;
+    }
   });
 })();
 </script>
