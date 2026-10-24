@@ -72,6 +72,8 @@ updated: 2026-10-23
 
 ## 工具速查
 
+> 当前运行模式：**CPU-only**。GPU 镜像与 Swarm stack 已准备，但暂不启用；原因与切换条件见 [[deploy/ADR-001-cpu-first|ADR-001]]。
+
 ```bash
 cd ~/english/english-speaking-lab
 

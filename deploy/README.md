@@ -1,5 +1,7 @@
 # Docker Swarm 部署
 
+> 当前决策：**CPU-only**，暂不部署 Swarm/GPU。GPU 镜像与 stack 作为备选保留；理由与切换条件见 [[deploy/ADR-001-cpu-first|ADR-001]]。
+
 把统一服务（OpenPronounce + Piper + Whisper/Vosk + 统一网页）部署成 Swarm 服务。模型权重从 RustFS/S3 拉取，避免把 2.6GB 打进镜像。
 
 ```text
@@ -105,7 +107,7 @@ curl http://localhost:8000/health
 
 首次启动会从 RustFS 下载 2.6GB 并解压，`start_period` 设为 120 秒；慢网络下会先 unhealthy，等同步完成即可。
 
-## 7. GPU 部署（可选）
+## 7. GPU 部署（备选，当前未启用）
 
 本机有 NVIDIA Quadro P1000（4GB VRAM），WSL 的 `nvidia-smi` 正常，但当前 PyTorch 是 CPU 版。GPU 镜像使用 CUDA 基础镜像，单独构建：
 
@@ -191,6 +193,7 @@ docker service rollback englishlab_lab
 
 ## 相关
 
+- [[deploy/ADR-001-cpu-first|ADR-001：CPU-first 决策]]
 - [[deploy/RESOURCE-PLAN|资源占用规划]]
 - [[deploy/upload-status|RustFS 权重上传记录]]
 - [[TOOLING|工具搭建与搭配]]

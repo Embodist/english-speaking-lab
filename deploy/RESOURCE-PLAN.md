@@ -8,6 +8,9 @@ updated: 2026-10-24
 
 # 资源占用规划
 
+> [!important] 当前决策：CPU-first
+> 现阶段使用 CPU-only 本地服务；GPU 镜像与 Swarm stack 作为备选保留，暂不启用。理由与切换条件见 [[deploy/ADR-001-cpu-first|ADR-001]]。
+
 ## 一、当前实测（2026-10-24）
 
 | 资源 | 当前情况 |
@@ -47,7 +50,7 @@ updated: 2026-10-24
 - PyTorch 线程限制：`OMP_NUM_THREADS=4`、`MKL_NUM_THREADS=4`，给系统留 2 线程。
 - 目标：内存可用 ≥1 GB，Swap 使用 <1 GB；Swap 持续增长时先停掉多余服务。
 
-### GPU 混合（P1000 4GB 推荐）
+### GPU 混合（备选，当前未启用；P1000 4GB 若启用则用此模式）
 
 - OpenPronounce 留在 CPU，Whisper 用 GPU：
   `OPENPRONOUNCE_DEVICE=cpu`、`WHISPER_DEVICE=cuda`、`WHISPER_FP16=0`。
@@ -119,12 +122,13 @@ docker service logs -f englishlab_lab
 | 发音分析 p95 | CPU < 15s；GPU < 8s |
 | 错误率 | < 1% |
 
-## 七、当前建议
+## 七、当前建议（CPU-first）
 
-1. **先保持本地 CPU 服务**用于个人练习；GPU 镜像已写好，但 Docker daemon 未启动，且 4GB 显存限制明显。
-2. 若要上 GPU，先用 **hybrid**（OpenPronounce CPU + Whisper GPU），用同一句录音对比 CPU/GPU 的耗时和正确率。
+1. **保持本地 CPU 服务**用于个人练习；不启用 GPU、不部署 Swarm（见 [[deploy/ADR-001-cpu-first|ADR-001]]）。
+2. GPU 镜像与 stack 保留为备选；只有满足 ADR 里的重新评估条件（≥30% 加速、并发 >2、≥8GB VRAM 等）再切换。
 3. 不要在同一台机器同时运行本地服务和 Swarm 服务（8000 端口冲突 + 内存不足）。
 4. RustFS 默认凭据较弱，部署前修改；两处权重保留一份即可，另一份作备份。
+5. 日常监控：`free -h`、`df -h /`、`curl localhost:8000/health`；目标是可用内存 ≥1GB、Swap <1GB。
 
 ## 相关
 
