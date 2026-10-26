@@ -26,6 +26,7 @@ updated: 2026-10-23
 | [[13_tech-frameworks/agent-frameworks\|Agent 与工作流框架]] | LangChain、LangGraph、ReAct、工具调用、状态 |
 | [[13_tech-frameworks/music-ai-stack\|音乐 AI 技术栈]] | 生成、翻唱、分离、转换、音高/和声、跨模态 |
 | [[13_tech-frameworks/rag-eval-serving\|RAG、评测与服务]] | 检索、重排、评测指标、vLLM/批量推理 |
+| [[13_tech-frameworks/translation-model\|中译英翻译模型]] | Hy-MT2-1.8B、llama-server、GPU、术语表 |
 
 ## 每个能力的记录格式
 

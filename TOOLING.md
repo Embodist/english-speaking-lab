@@ -44,6 +44,7 @@ bash scripts/pronounce.sh audio.wav "sentence"  # 音素级分析
 | 模型下载 | Hugging Face 镜像 | 获取权重 | 本环境可访问 | 官方站点（不可直连） |
 | 自动化 | `scripts/` | 启动、打分、TTS、ASR | 少记命令 | 手动执行 |
 | 统一入口 | `lab.sh` / `/lab` | 串起 TTS + Whisper/Vosk + 发音 + 报告 | 少切换工具 | 分步脚本 |
+| 中译英草稿 | llama-server + Hy-MT2-1.8B Q6_K | 中文思路 → 英文草稿 | 本地 GPU，1.6GB 显存 | 在线翻译 API（隐私） |
 
 ### 已安装工具清单
 
@@ -257,6 +258,8 @@ HF_HUB_OFFLINE=1 bash scripts/pronounce.sh recording.wav "sentence"
 | Obsidian vs Anki | Obsidian 管上下文，Anki 管间隔重复 | 不要把整本词库复制两份 |
 | 系统 pip vs venv | 永远用 `~/english/.venv` | 不要全局 `pip install`，避免污染系统 Python |
 | CPU torch vs CUDA torch | 当前用 **CPU 版** | 没有 GPU 时不要装 CUDA 版，体积大且可能冲突 |
+| 翻译模型 vs 其他 GPU 模型 | 翻译用 GPU，发音/ASR 用 CPU | P1000 只有 4GB；不要同时跑 GPU 版 OpenPronounce/Whisper |
+| 翻译模型 vs 口语训练 | 翻译只做草稿 | 不要背译文；先自己说，再用翻译对照 |
 | ffmpeg vs Audacity | ffmpeg 批量转码，Audacity 手动剪辑 | 不冲突，按任务选 |
 
 ### 4.2 使用场景与切入时机
@@ -277,6 +280,7 @@ HF_HUB_OFFLINE=1 bash scripts/pronounce.sh recording.wav "sentence"
 | 面试前 1–2 周 | `mock-interview` + 录音 | 15 分钟模拟，回听打分 | 每周 1–2 次 |
 | 读论文 | 词库 04 + Obsidian 笔记 | 读摘要 → 口头总结 60 秒 → 写 3 句 | 每天 20 min |
 | 写论文 / 项目总结 | 词库 05 + 写作模板 | 用固定句式写摘要/局限 | 每周 1 次 |
+| 中文思路 → 英文草稿 | `translate.sh` + Hy-MT2 | 启动 GPU 翻译 → 核对专名/数字 → 自己改写 | 5–20 s |
 | 固定块需要间隔复习 | Anki | 中文提示 → 说英文；只做产出卡 | 每天 5–10 张 |
 | 需要剪辑/波形对比 | Audacity（Windows） | 裁剪、并排对比 | 按需 |
 | 音频格式不兼容 | ffmpeg | `-ar 16000 -ac 1` | 按需 |
@@ -289,6 +293,7 @@ HF_HUB_OFFLINE=1 bash scripts/pronounce.sh recording.wav "sentence"
 
 ```text
 要练口语？
+├─ 需要中文→英文草稿 → translate.sh（GPU，8081）
 ├─ 想一站式 → 统一练习页 /lab 或 lab.sh analyze
 ├─ 需要示范音 → Piper TTS
 ├─ 需要录音和即时反馈 → 网页 UI（≤60 秒）
@@ -306,6 +311,7 @@ HF_HUB_OFFLINE=1 bash scripts/pronounce.sh recording.wav "sentence"
 - 不要每句都同时跑 Whisper 和 Vosk。
 - 不要在 8000 端口同时开两个网页服务或 Docker 容器。
 - 不要把项目和模型依赖装进系统 Python。
+- 不要把翻译模型当最终答案；公司名、产品名、数字必须核对。
 - 不要为了分数反复重录同一句；分数只是线索。
 
 ## 5. 使用最佳实践
@@ -393,6 +399,8 @@ HF_HUB_OFFLINE=1 bash scripts/pronounce.sh recording.wav "sentence"
 | Vosk | 0.3.45 | `vosk-model-small-en-us-0.15` |
 | ffmpeg | 7.1.5 | 音频转换 |
 | eSpeak NG | 1.52.0 | 音素化 |
+| llama.cpp | b11889（CUDA 12.8） | 翻译服务，P1000 GPU |
+| Hy-MT2 | 1.8B Q6_K（1.47GB） | 中译英草稿，端口 8081 |
 
 ## 8. 已知限制
 
@@ -400,7 +408,9 @@ HF_HUB_OFFLINE=1 bash scripts/pronounce.sh recording.wav "sentence"
 - 自动分数受麦克风、噪声、专有名词影响，不能替代人耳判断。
 - Whisper `base.en` 不是发音评分器，只是可懂度参考。
 - 每次 CLI 分析会重新加载模型，约 6–12 秒；不适合实时对话评分。
-- 本机无 GPU，批量分析较慢；需要时可换 GPU 环境。
+- 发音/ASR 仍用 CPU 版 PyTorch；翻译单独用 llama.cpp CUDA 和 P1000 4GB。
+- 翻译模型是 1.8B：长难句会偏直译，公司名/产品名可能幻觉，必须用术语表并人工核对。
+- 翻译模型上下文 2048，长文要分段；不要和 GPU 版 OpenPronounce/Whisper 同时跑。
 - Kokoro 在 Python 3.13 下不可用；Piper 已覆盖需求。
 
 ## 9. 搭建检查清单
@@ -419,6 +429,7 @@ HF_HUB_OFFLINE=1 bash scripts/pronounce.sh recording.wav "sentence"
 ## 相关
 
 - [[NEW-MACHINE|新机器安装手册]]
+- [[13_tech-frameworks/translation-model|中译英翻译模型]]
 - [[deploy/README|Docker Swarm 部署]]
 - [[deploy/RESOURCE-PLAN|资源占用规划]]
 - [[QUICKSTART|工具体验指南]]

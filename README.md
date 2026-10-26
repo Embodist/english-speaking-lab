@@ -75,7 +75,7 @@ updated: 2026-10-23
 
 ## 工具速查
 
-> 当前运行模式：**CPU-only**。GPU 镜像与 Swarm stack 已准备，但暂不启用；原因与切换条件见 [[deploy/ADR-001-cpu-first|ADR-001]]。
+> 当前运行模式：**发音/ASR 用 CPU**；可选中译英翻译服务单独用 GPU（P1000 4GB，端口 8081）。Swarm/GPU 镜像仍备选，见 [[deploy/ADR-001-cpu-first|ADR-001]]。
 
 ```bash
 cd ~/english/english-speaking-lab
@@ -87,9 +87,14 @@ bash scripts/pronounce.sh recording.wav "I haven't identified the root cause yet
 bash scripts/tts.sh "The main trade-off is accuracy versus latency." -o 11_attachments/reference/tradeoff.wav
 bash scripts/asr.sh recording.wav                      # 检查是否被识别成目标句
 bash scripts/new-day.sh                                # 生成今天的练习记录
+
+# 可选：中文 -> 英文草稿（单独占用 GPU）
+bash scripts/start-translate.sh --background           # 8081，首次加载约 27s
+bash scripts/translate.sh "我在腾讯云负责基于大模型的恶意流量分析。"
+bash scripts/stop-translate.sh
 ```
 
-统一练习页：`http://localhost:8000/lab`（参考音 + 录音 + 发音 + Whisper/Vosk）。完整工具体验步骤见 [[QUICKSTART|工具体验指南]]，搭建与搭配见 [[TOOLING|工具手册]]。
+统一练习页：`http://localhost:8000/lab`（参考音 + 录音 + 发音 + Whisper/Vosk）。中译英草稿见 [[13_tech-frameworks/translation-model|Hy-MT2 翻译模型]]。完整工具体验步骤见 [[QUICKSTART|工具体验指南]]，搭建与搭配见 [[TOOLING|工具手册]]。
 
 > [!note] 工具只是反馈手段
 > AI 分数会受麦克风、噪声和专有名词影响。真正有效的是：**固定句子 → 录音 → 只改一个点 → 再录 → 一周后对比**。

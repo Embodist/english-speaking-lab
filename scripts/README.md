@@ -16,6 +16,9 @@ updated: 2026-10-23
 | `check-env.sh` | 检查工具、Python 包和模型 | `bash scripts/check-env.sh` |
 | `lab.sh` | 统一流水线：TTS + ASR + 发音 + 报告 | `bash scripts/lab.sh analyze a.wav "sentence"` |
 | `lab_server.py` | 同源 API：`/lab`、`/lab/asr`、`/lab/save` | 由 `start-web.sh` 启动 |
+| `start-translate.sh` | 启动 Hy-MT2 翻译服务（GPU，8081） | `bash scripts/start-translate.sh --background` |
+| `translate.sh` | 中文 → 英文草稿 | `bash scripts/translate.sh "中文"` |
+| `stop-translate.sh` | 停止翻译服务 | `bash scripts/stop-translate.sh` |
 | `upload-weights.sh` | 打包并上传模型权重到 RustFS | `bash scripts/upload-weights.sh` |
 | `rustfs-public-read.sh` | 设置/查看/回滚模型前缀公共读 | `bash scripts/rustfs-public-read.sh status` |
 | `sync-windows.sh` | WSL ↔ D: Obsidian 镜像同步 | `bash scripts/sync-windows.sh status` |

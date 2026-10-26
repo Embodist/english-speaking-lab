@@ -126,6 +126,7 @@ bash scripts/sync-windows.sh pull   # Obsidian 修改后 → WSL
 
 - **Docker Swarm + RustFS**：见 [[deploy/README|部署]]
 - **GPU 推理**：见 [[deploy/README#7. GPU 部署（备选，当前未启用）|GPU 部署]]（建议 ≥8GB VRAM）
+- **中译英草稿**：[[13_tech-frameworks/translation-model|Hy-MT2-1.8B + llama-server]]（4GB 显存可跑，另需约 2GB 磁盘）
 - **Anki 卡组**：见 [[14_llm-papers/anki-import|论文词汇 Anki 导入]]
 
 ## 相关

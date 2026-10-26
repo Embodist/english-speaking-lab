@@ -10,6 +10,8 @@ updated: 2026-10-24
 
 > 来源：`~/resume-latex/resume_ai_security_en.tex`（外部简历，未复制联系方式进仓库）。
 > 这里不是简历复刻，而是**面试可说的版本**：先结论、再项目、再取舍。
+>
+> 需要中文→英文草稿时，用 [[13_tech-frameworks/translation-model|Hy-MT2-1.8B]]（`scripts/translate.sh`）；只做草稿，最终用你自己的话。
 
 ## 你的定位（一句话）
 

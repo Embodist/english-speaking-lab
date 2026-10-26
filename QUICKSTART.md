@@ -210,12 +210,32 @@ bash scripts/pronounce.sh 11_attachments/xxx.wav "句子"  # 音素分析
 # 6. 只改 1–2 点 → 再录 → 填记录
 ```
 
+## 可选：中文 → 英文草稿（GPU）
+
+适合把中文思路快速变成英文草稿，再自己改写。**不要直接背译文。**
+
+```bash
+# 后台启动，GPU，端口 8081
+bash scripts/start-translate.sh --background
+
+bash scripts/translate.sh "我在腾讯云负责基于大模型的恶意流量分析。"
+bash scripts/translate.sh --style "技术面试口语" "我主导了告警分类项目。"
+
+# 停止，释放显存
+bash scripts/stop-translate.sh
+```
+
+- 模型：`tencent/Hy-MT2-1.8B-GGUF` Q6_K，Apache-2.0
+- 显存：约 1.6GB；P1000 4GB 可跑
+- 默认术语表：`15_resume/translation-glossary.txt`（公司名/技术缩写）
+- 详细说明与下载步骤：[[13_tech-frameworks/translation-model|Hy-MT2 翻译模型]]
+
 ## 可选：Windows 端 GUI 工具
 
 在 **Windows PowerShell**（不是 WSL）中安装，录音和复习体验最好：
 
 ```powershell
-winget install Obsidian.Obsidian      # 打开 vault：F:\Obsidian\EnglishVault（或 \\wsl.localhost\<发行版>\home\<用户>\english\english-speaking-lab）
+winget install Obsidian.Obsidian      # 打开 vault：D:\Obsidian\EnglishVault 或 E:\english\english-speaking-lab
 winget install Audacity.Audacity      # 录音、剪辑、波形对比
 winget install Anki.Anki              # 间隔重复（导入方法见 08_sentence-library/anki-import-guide.md）
 ```
