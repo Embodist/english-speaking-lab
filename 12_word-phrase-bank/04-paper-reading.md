@@ -11,6 +11,7 @@ updated: 2026-10-23
 目标：30 分钟读懂一篇 AI 论文的骨架，并能用英文口头总结。**先说，再写笔记，最后回到原文。**
 
 > 你整理的 168 篇 LLM/多模态/音乐/世界模型论文词汇，见 [[14_llm-papers/_index|LLM 论文阅读与词汇]]。
+> 10k 词库：[[14_llm-papers/vocabulary-10k/_index|论文 10k 词库]]；每日计划：[[14_llm-papers/reading-plan|12 周阅读计划]]；逐篇包：[[14_llm-papers/packs/_index|168 篇阅读包]]。
 
 ## 30 分钟阅读流程
 

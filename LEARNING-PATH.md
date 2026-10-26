@@ -31,6 +31,10 @@ updated: 2026-10-23
 > **写**：先写中文，再翻译，最后用固定块改写。
 > 不要用它评分或背译文。见 [[13_tech-frameworks/translation-model|Hy-MT2 翻译模型]]。
 
+> [!tip] 论文阅读日
+> 每周 3 篇论文：读前扫 8–12 个词 → 读 abstract/intro/图表 → 60 秒复述 + 写 3 句 → 10 个词进 Anki。
+> 12 周路径见 [[14_llm-papers/reading-plan|论文阅读 12 周计划]]；词库见 [[14_llm-papers/vocabulary-10k/_index|论文 10k 词库]]；逐篇包见 [[14_llm-papers/packs/_index|168 篇阅读包]]。
+
 ## 二、每个词条的三遍法
 
 ### 第 1 遍：说（必须）

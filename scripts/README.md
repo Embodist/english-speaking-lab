@@ -22,6 +22,8 @@ updated: 2026-10-23
 | `upload-weights.sh` | 打包并上传模型权重到 RustFS | `bash scripts/upload-weights.sh` |
 | `rustfs-public-read.sh` | 设置/查看/回滚模型前缀公共读 | `bash scripts/rustfs-public-read.sh status` |
 | `sync-windows.sh` | WSL ↔ D: Obsidian 镜像同步 | `bash scripts/sync-windows.sh status` |
+| `build_vocab_10k.py` | 从 PDF/ECDICT 生成 10k 词库 | `python scripts/build_vocab_10k.py` |
+| `build_reading_packs.py` | 生成 168 篇论文阅读包 | `python scripts/build_reading_packs.py` |
 | `lab-web.html` | 统一网页（TTS/录音/发音/Whisper/Vosk） | 启动后打开 `/lab` |
 | `start-web.sh` | 启动 OpenPronounce 网页界面 | `bash scripts/start-web.sh` |
 | `pronounce.sh` | 对录音做音素级打分 | `bash scripts/pronounce.sh a.wav "sentence"` |

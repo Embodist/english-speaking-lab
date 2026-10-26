@@ -1,0 +1,469 @@
+---
+type: dictionary
+title: 论文领域短语
+tags: [library/word-bank, skill/reading]
+---
+
+# 论文领域短语
+
+> 多词术语按论文原句保留；先理解结构，再记整块。
+
+- **dispensing with** — 摒弃、省去（dispense with 意为不再需要某事物）｜“"dispensing with recurrence and convolutions entirely"”
+- **state-of-the-art** — 最先进的、当前最优的（常缩写为 SOTA）｜“"a new single-model state-of-the-art BLEU score"”
+- **constituency parsing** — 成分句法分析（把句子按短语结构解析成语法树的任务）｜“"applying it successfully to English constituency parsing"”
+- **governed by** — 受……支配、受……制约（be governed by 遵循某种规则）｜“"human expressions governed by grammatical rules"”
+- **multi-sensory** — 多感官的（能处理视觉、文本等多种感官信息）｜“"extend large language models (LLMs) with multi-sensory skills"”
+- **visual referring prompting** — 视觉指代提示（通过在输入图像上画标记来指示模型关注的对象）｜“"such as visual referring prompting"”
+- **pros and cons** — 优缺点、利与弊（指同一任务不同方法的长处与不足）｜“"as well as the pros and cons of"”
+- **autonomous driving** — 自动驾驶（autonomous 自主的 + driving 驾驶）｜“"including generative games, autonomous driving, robotics, and"”
+- **embark on** — 着手、开始（embark on an exploration 开始一项探索）｜“"we embark on a comprehensive exploration of"”
+- **delve into** — 深入探究（delve into the intricacies 深入复杂的细节）｜“"we delve into the intricacies inherent in"”
+- **pre-train** — 预训练（先在大规模无标注文本上训练通用模型）｜“"BERT is designed to pre-train deep bidirectional representations from unlabeled text"”
+- **fine-tuned** — 微调（在预训练模型上用小规模任务数据继续训练）｜“"the pre-trained BERT model can be fine-tuned with just one additional output layer"”
+- **supervised learning** — 监督学习（用带标签数据训练）｜“"are typically approached with supervised learning on task-specific datasets"”
+- **conditioned on** — 以……为条件（把……作为输入提供给模型）｜“"When conditioned on a document plus questions"”
+- **zero-shot task transfer** — 零样本任务迁移（不经训练直接迁移到新任务）｜“"essential to the success of zero-shot task transfer"”
+- **few-shot** — 少样本的（只用极少示例学习新任务）｜“"test its performance in the few-shot setting"”
+- **fine-tuning** — 微调（用任务数据在预训练模型上继续训练）｜“"followed by fine-tuning on a specific task"”
+- **task-agnostic** — 任务无关的（不针对特定任务设计结构）｜“"While typically task-agnostic in architecture, this method still requires"”
+- **scaling up** — 扩大（模型）规模｜“"we show that scaling up language models greatly improves task-agnostic"”
+- **on-the-fly** — 临场的、即时的（需要即时推理）｜“"several tasks that require on-the-fly reasoning or domain adaptation"”
+- **scaling laws** — 规模定律（性能随规模变化的规律）｜“"We study empirical scaling laws for language model performance"”
+- **cross-entropy** — 交叉熵（衡量预测分布与真实分布差异的损失）｜“"language model performance on the cross-entropy loss"”
+- **power-law** — 幂律（呈幂函数关系的规律）｜“"The loss scales as a power-law with model size"”
+- **orders of magnitude** — 数量级（每十倍为一个数量级）｜“"with some trends spanning more than seven orders of magnitude"”
+- **sample-efficient** — 样本高效的（用较少数据达到较好效果）｜“"Larger models are significantly more sample-efficient"”
+- **compute-optimal** — 算力最优的（给定算力下训练效果最优）｜“"we find that for compute-optimal training"”
+- **reinforcement learning** — 强化学习（通过奖励信号学习策略）｜“"using reinforcement learning from human feedback"”
+- **self-critiques** — 自我批评（模型审视并指出自己输出的问题）｜“"we sample from an initial model, then generate self-critiques and revisions"”
+- **preference model** — 偏好模型（学习判断两个输出哪个更好）｜“"train a preference model from this dataset of AI preferences"”
+- **reward signal** — 奖励信号（强化学习中的反馈）｜“"using the preference model as the reward signal"”
+- **rotary position embedding** — 旋转位置编码（RoPE，用旋转矩阵编码位置）｜“"we propose a novel method named Rotary Position Embedding(RoPE)"”
+- **rotation matrix** — 旋转矩阵｜“"the proposed RoPE encodes the absolute position with a rotation matrix"”
+- **theoretical analysis** — 理论分析｜“"we provide a theoretical analysis to explain some experimental results"”
+- **ranging in scale** — 规模从……不等｜“"ranging in scale from 7 billion to 70 billion parameters"”
+- **human evaluations** — 人工评估（由人来评判模型质量）｜“"based on our human evaluations for helpfulness and safety"”
+- **closed-source** — 闭源的（不公开模型权重）｜“"a suitable substitute for closed-source models"”
+- **low-rank** — 低秩的（用低维矩阵近似高维矩阵）｜“"We propose Low-Rank Adaptation, or LoRA, which freezes"”
+- **memory-hungry** — 耗内存的（内存占用大）｜“"Transformers are slow and memory-hungry on long sequences"”
+- **trading off** — 以……为代价换取｜“"trading off model quality to reduce the compute complexity"”
+- **wall-clock** — 实际耗时的（按真实时钟计算的运行时间）｜“"but often do not achieve wall-clock speedup"”
+- **accounting for** — 考虑到、计入｜“"accounting for reads and writes between levels of GPU memory"”
+- **key-value cache** — 键值缓存（KV 缓存，存储注意力计算所需的键值）｜“"the key-value cache (KV cache) memory for each request is huge"”
+- **grouped-query attention** — 分组查询注意力（GQA，多个查询头共享键值头）｜“"leverages grouped-query attention (GQA) for faster inference"”
+- **coupled with** — 与……结合｜“"coupled with sliding window attention (SWA)"”
+- **mixture of experts** — 专家混合（MoE，多个子网络按输入分工）｜“"We introduce Mixtral 8x7B, a Sparse Mixture of Experts (SMoE) language model"”
+- **active parameters** — 激活参数（实际参与计算的参数）｜“"but only uses 13B active parameters during inference"”
+- **sure-fire** — 稳操胜券的、必定有效的｜“"this trend of scaling is affirmed to be a sure-fire approach"”
+- **prior art** — 现有技术（此前最好的方法）｜“"compared to the prior art"”
+- **sparsely-activated** — 稀疏激活的（每次只运行部分参数）｜“"The result is a sparsely-activated model -- with outrageous numbers of parameters"”
+- **state space models** — 状态空间模型（SSM，一类序列建模方法）｜“"and structured state space models (SSMs) have been developed"”
+- **subquadratic-time** — 亚二次方时间的（比二次方更省计算）｜“"Many subquadratic-time architectures such as linear attention, gated convolution"”
+- **gated convolution** — 门控卷积（带门控机制的卷积）｜“"such as linear attention, gated convolution and recurrent models"”
+- **hardware-aware** — 硬件感知的（针对硬件特性设计算法）｜“"we design a hardware-aware parallel algorithm in recurrent mode"”
+- **bar exam** — 律师资格考试｜“"passing a simulated bar exam with a score"”
+- **pre-trained** — 预训练｜“"a Transformer-based model pre-trained to predict the next token in a document"”
+- **chain of thought** — 思维链（一系列中间推理步骤）｜“"via a simple method called chain of thought prompting"”
+- **factual lookup** — 事实查询（查证事实信息）｜“"such as arithmetic or factual lookup"”
+- **external tools** — 外部工具（模型之外的 API 等）｜“"LMs can teach themselves to use external tools via simple APIs"”
+- **self-supervised** — 自监督的（无需人工标注）｜“"This is done in a self-supervised way"”
+- **a handful of** — 少量的｜“"requiring nothing more than a handful of demonstrations for each API"”
+- **bootstrapping off** — 以……为基础自我提升｜“"by bootstrapping off their own generations"”
+- **zero-shot** — 零样本的（不提供示例直接完成任务）｜“"generalize zero-shot to new tasks"”
+- **instruction tuning** — 指令微调（用指令数据训练模型遵循指令）｜“"large scale instruction tuning and reinforcement learning"”
+- **preference modeling** — 偏好建模（学习用户的偏好）｜“"without any reinforcement learning or human preference modeling"”
+- **precise control** — 精确控制｜“"achieving precise control of their behavior is difficult"”
+- **relative quality** — 相对质量（样本之间的好坏比较）｜“"human labels of the relative quality of model generations"”
+- **closed form** — 闭式解（可直接计算的解析形式）｜“"enables extraction of the corresponding optimal policy in closed form"”
+- **classification loss** — 分类损失（分类任务的损失函数）｜“"with only a simple classification loss"”
+- **retrieval-augmented** — 检索增强的（结合检索与生成）｜“"We explore a general-purpose fine-tuning recipe for retrieval-augmented generation (RAG)"”
+- **knowledge-intensive** — 知识密集型的（需要大量外部知识）｜“"on a wide range of knowledge-intensive NLP tasks"”
+- **non-parametric** — 非参数化的（参数之外的外部记忆）｜“"explicit non-parametric memory can overcome this issue"”
+- **dense vector index** — 稠密向量索引（用于向量检索的结构）｜“"the non-parametric memory is a dense vector index of Wikipedia"”
+- **speculative decoding** — 推测解码（先猜测后验证的解码方法）｜“"we introduce speculative decoding - an algorithm to sample"”
+- **at the heart of** — 核心在于｜“"At the heart of our approach lie the observations"”
+- **speculative execution** — 推测执行（先假设后验证的并行执行）｜“"using speculative execution and a novel sampling method"”
+- **off-the-shelf** — 现成的（已有模型、无需改动）｜“"accelerate existing off-the-shelf models without retraining"”
+- **sample efficiency** — 样本效率（数据利用效率）｜“"predictably improve performance and sample efficiency on a wide range"”
+- **multi-step reasoning** — 多步推理（需要多步推导的问题）｜“"their ability to perform complex multi-step reasoning"”
+- **logical mistakes** — 逻辑错误｜“"even state-of-the-art models still regularly produce logical mistakes"”
+- **outcome supervision** — 结果监督（只对最终结果给反馈）｜“"to outcome supervision, which provides feedback for a final result"”
+- **process supervision** — 过程监督（对每一步推理给反馈）｜“"or process supervision, which provides feedback for each intermediate reasoning step"”
+- **representative subset** — 代表性子集｜“"from a representative subset of the MATH test set"”
+- **active learning** — 主动学习（挑选最有价值的样本标注）｜“"active learning significantly improves the efficacy of process supervision"”
+- **contingent upon** — 依赖于｜“"this success is heavily contingent upon extensive human-annotated demonstrations"”
+- **self-reflection** — 自我反思（检查自身推理是否正确）｜“"such as self-reflection, verification, and dynamic strategy adaptation"”
+- **powerful alternative** — 强大的替代方案｜“"are a powerful alternative to RNNs for moving information"”
+- **incremental inference** — 增量式推理（逐步生成、逐步计算）｜“"incremental inference (where such paralleization is impossible) is often slow"”
+- **memory-bandwidth** — 内存带宽（单位时间读写内存的量）｜“"due to the memory-bandwidth cost of repeatedly loading the large"”
+- **shared across** — 在所有……之间共享｜“"the keys and values are shared across all of the different attention "heads""”
+- **sourced from** — 来源于｜“"with 120B math-related tokens sourced from Common Crawl"”
+- **competition-level** — 竞赛级别的（数学竞赛难度）｜“"on the competition-level MATH benchmark"”
+- **relying on** — 依赖｜“"without relying on external toolkits and voting techniques"”
+- **attributed to** — 归因于｜“"is attributed to two key factors"”
+- **characterized by** — 以……为特征｜“"characterized by economical training and efficient inference"”
+- **top-tier** — 顶级的｜“"still achieve top-tier performance among open-source models"”
+- **cost-effective** — 成本高效的｜“"To achieve efficient inference and cost-effective training"”
+- **auxiliary-loss-free** — 无辅助损失的（不额外添加损失项）｜“"pioneers an auxiliary-loss-free strategy for load balancing"”
+- **load balancing** — 负载均衡（让各专家负载均匀）｜“"an auxiliary-loss-free strategy for load balancing"”
+- **multi-token prediction** — 多词元预测（一次预测多个词元）｜“"sets a multi-token prediction training objective for stronger performance"”
+- **comparable to** — 与……相当｜“"achieves performance comparable to leading closed-source models"”
+- **key-value retrieval** — 键值检索（从键值对中查找信息）｜“"multi-document question answering and key-value retrieval"”
+- **in particular** — 特别是｜“"In particular, we observe that performance is often highest"”
+- **context window** — 上下文窗口（模型能处理的输入长度）｜“"a compute-efficient method to extend the context window of such models"”
+- **compute-efficient** — 算力高效的（省计算资源）｜“"a compute-efficient method to extend the context window of such models"”
+- **de-facto** — 事实上的、实际通用的（指 Transformer 已成为 NLP 领域默认标准）｜“"has become the de-facto standard for natural language"”
+- **in conjunction with** — 与……结合（指注意力与卷积网络搭配使用）｜“"applied in conjunction with convolutional networks"”
+- **long-range** — 长程的、远距离的（捕捉序列中相隔很远的依赖）｜“"long-range interactions on sequential data, transformers"”
+- **inductive bias** — 归纳偏置（模型先天偏向某种结构，如 CNN 偏好局部）｜“"no inductive bias that prioritizes local interactions"”
+- **semantically-guided** — 语义引导的（按语义信息指导生成过程）｜“"semantically-guided synthesis of megapixel images"”
+- **dual-encoder** — 双编码器的（图像和文本各用一个编码器）｜“"A simple dual-encoder architecture learns to"”
+- **cross-modality** — 跨模态（跨越图像与文本两种模态）｜“"cross-modality search with complex text"”
+- **foundation model** — 基础模型（大规模预训练、可迁移到多任务的模型）｜“"large-scale pretrained foundation models is"”
+- **scale up** — 扩大规模（靠堆数据提升性能）｜“"scaling up the dataset with noisy"”
+- **end-to-end** — 端到端的（从输入到输出整体联合训练）｜“"end-to-end training of large-scale models"”
+- **open challenge** — 尚待解决的难题（尚未攻克的研究问题）｜“"an open challenge for multimodal machine learning"”
+- **fine-tune** — 微调（在任务数据上继续训练）｜“"outperforms models fine-tuned on thousands of"”
+- **artificial general intelligence** — 通用人工智能（简称 AGI）｜“"a key step toward artificial general intelligence"”
+- **chain-of-thought** — 思维链的（让模型逐步推理的提示方法）｜“"multimodal chain-of-thought prompting, on a"”
+- **gradient update** — 梯度更新（训练中更新参数的步骤，本文指不做任何训练）｜“"without any gradient updates or finetuning"”
+- **OCR-free** — 免 OCR 的（无需光学字符识别预处理）｜“"even OCR-free NLP (directly fed with"”
+- **cross-modal** — 跨模态的（知识在不同模态间迁移）｜“"benefit from cross-modal transfer, i.e.,"”
+- **machine-generated** — 机器生成的（由模型自动生成而非人工编写）｜“"machine-generated instruction-following data has improved"”
+- **general-purpose** — 通用目的的（不局限于单一任务）｜“"general-purpose visual and language understanding"”
+- **stem from** — 源于、来自（能力来源于……）｜“"stem from the utilization of sophisticated"”
+- **projection layer** — 投影层（把视觉特征映射到语言空间的网络层）｜“"with a frozen advanced LLM, Vicuna, using"”
+- **instruction-aware** — 指令感知的（能根据给定指令调整提取的特征）｜“"an instruction-aware Query Transformer, which extracts"”
+- **tailored to** — 针对……定制的（特征与给定指令相匹配）｜“"features tailored to the given instruction"”
+- **held-out** — 留出的（训练时未见、专用于测试的数据）｜“"across all 13 held-out datasets, substantially"”
+- **fully-connected** — 全连接的（每一层神经元全部相连的 MLP 结构）｜“"that the fully-connected vision-language cross-modal"”
+- **data-efficient** — 数据高效的（少量数据就能学好）｜“"powerful and data-efficient"”
+- **keep pace with** — 跟上……的步伐（视觉领域进展落后于 LLM）｜“"has not kept pace with LLMs"”
+- **pixel-level** — 像素级的（对每个像素做识别，如分割）｜“"such as image-level or pixel-level recognition"”
+- **data collection loop** — 数据采集闭环（用模型辅助收集数据再训练模型的循环）｜“"in a data collection loop, we built"”
+- **privacy respecting** — 尊重隐私的（不泄露个人信息）｜“"11M licensed and privacy respecting images"”
+- **out-of-the-box** — 开箱即用的（无需额外训练即可使用）｜“"enables novel emergent applications 'out-of-the-box'"”
+- **weak supervision** — 弱监督（用低质量、自动获取的标签训练）｜“"via Large-Scale Weak Supervision"”
+- **trade off** — 权衡、以……换取……（牺牲多样性换保真度）｜“"trade off diversity for fidelity"”
+- **text-conditional** — 文本条件的（生成受文本描述控制）｜“"the problem of text-conditional image synthesis"”
+- **classifier-free** — 无分类器的（不借助分类器梯度、更简单的引导方法）｜“"CLIP guidance and classifier-free guidance"”
+- **hinge on** — 取决于、关键在于（成功依托于……）｜“"hinges on the strength of diffusion"”
+- **high-fidelity** — 高保真的（生成质量与真实图像高度一致）｜“"diffusion models in high-fidelity image generation"”
+- **on par with** — 与……相当（与 COCO 数据本身水平相当）｜“"on par with the COCO data"”
+- **side-by-side** — 并排的（并排对比两种模型的输出）｜“"side-by-side comparisons, both in terms"”
+- **pixel space** — 像素空间（直接在像素层面操作）｜“"operate directly in pixel space"”
+- **latent space** — 隐空间、潜在空间（压缩后的低维特征空间）｜“"in the latent space of powerful"”
+- **super-resolution** — 超分辨率（把低分辨率图放大并补细节）｜“"semantic scene synthesis, and super-resolution, while"”
+- **conditional sampling** — 条件采样（受额外条件控制的采样方法）｜“"a new conditional sampling technique for"”
+- **latent variable** — 隐变量（未被观测、需推断的变量）｜“"continuous latent variables with intractable posterior"”
+- **recognition model** — 识别模型（本文中指近似后验的编码器网络）｜“"fitting an approximate inference model"”
+- **latent variable model** — 隐变量模型（含有未观测变量的生成模型）｜“"a class of latent variable models"”
+- **inspired by** — 受……启发（思想来源于非平衡热力学）｜“"inspired by considerations from nonequilibrium thermodynamics"”
+- **variational bound** — 变分界（用于训练的加权变分下界）｜“"a weighted variational bound designed according"”
+- **score matching** — 分数匹配（估计数据分布梯度的一种方法）｜“"denoising score matching with Langevin dynamics"”
+- **adversarial training** — 对抗训练（生成对抗网络的训练方式，本文无需使用）｜“"without adversarial training, yet they require"”
+- **Markov chain** — 马尔可夫链（状态转移只依赖当前状态的随机过程）｜“"a Markov chain for many steps"”
+- **wall-clock time** — 墙钟时间（实际经过的真实时间）｜“"in terms of wall-clock time compared"”
+- **prior distribution** — 先验分布；噪声所在的已知简单分布｜“"a known prior distribution by slowly injecting noise"”
+- **reverse-time** — 反向时间的；从先验分布还原回数据分布的｜“"a corresponding reverse-time SDE that transforms the prior"”
+- **vector field** — 向量场；概率路径上每个点处的速度方向场｜“"regressing vector fields of fixed conditional probability paths"”
+- **displacement interpolation** — 位移插值；最优传输中连接两个分布的过程｜“"Optimal Transport (OT) displacement interpolation to define"”
+- **novel view** — 新视角；相机未拍摄过的观察角度｜“"achieves state-of-the-art results for synthesizing novel views"”
+- **camera pose** — 相机位姿；拍摄时的位置与朝向｜“"a set of images with known camera poses"”
+- **real-time** — 实时的；满足交互式显示帧率｜“"no current method can achieve real-time display rates"”
+- **visibility-aware** — 可见性感知的；考虑遮挡关系的渲染｜“"we develop a fast visibility-aware rendering algorithm"”
+- **zero convolutions** — 零卷积；参数从零初始化的卷积层｜“"zero-initialized convolution layers) that progressively grow the parameters"”
+- **forward pass** — 前向传播；一次网络计算即完成编辑｜“"Since it performs edits in the forward pass"”
+- **pre-training** — 预训练；在大规模数据上先训练通用表征｜“"for Language-Image Pre-training (SigLIP)"”
+- **contrastive learning** — 对比学习；拉近匹配样本、推开不匹配样本｜“"Unlike standard contrastive learning with softmax normalization"”
+- **batch size** — 批大小；一次训练用的样本数量｜“"the sigmoid loss simultaneously allows further scaling up the batch size"”
+- **convolution-free** — 无卷积的；不依赖卷积网络结构｜“"We present a convolution-free approach to video classification"”
+- **self-attention** — 自注意力；序列内元素相互关注的机制｜“"built exclusively on self-attention over space and time"”
+- **divided attention** — 分离注意力；时间与空间注意力分开应用｜“"where temporal attention and spatial attention are separately applied"”
+- **domain shift** — 域偏移；预训练与目标任务数据分布不同｜“"Domain shift between pre-training and target datasets"”
+- **dual masking** — 双重掩码；编解码器分别掩码的策略｜“"we present a dual masking strategy for efficient pre-training"”
+- **computational cost** — 计算成本；训练消耗的算力｜“"can still further reduce the overall computational cost"”
+- **multi-sourced** — 多来源的；来自不同数据源｜“"on a diverse multi-sourced unlabeled dataset"”
+- **bells and whistles** — 花哨的附加功能；指复杂技巧｜“"Without bells and whistles, InternVideo achieves state-of-the-art"”
+- **instruction-following** — 指令遵循的；按指令完成任务的｜“"specifically for video instruction-following"”
+- **open-ended** — 开放式的；答案不固定的问答｜“"open-ended question-answering (QA), and multiple-choice QA"”
+- **vision-centric** — 以视觉为中心的；优先设计视觉组件｜“"a family of multimodal LLMs (MLLMs) designed with a vision-centric approach"”
+- **open-source** — 开源；公开代码与模型｜“"will be open-sourced to better support the research community"”
+- **mixture-of-experts** — 专家混合；每次只激活部分参数的架构｜“"Aria is a mixture-of-expert model with 3.9B and 3.5B activated"”
+- **activated parameters** — 激活参数；处理单个词元实际用到的参数｜“"activated parameters per visual token and text token"”
+- **any-to-any** — 任意到任意的；任意模态输入到任意模态输出｜“"an any-to-any multimodal language model that utilizes discrete representations"”
+- **akin to** — 类似于；如同……一样｜“"akin to the incorporation of new languages"”
+- **shared semantic space** — 共享语义空间；各模态共同的特征表示空间｜“"into a shared semantic space and then process them"”
+- **encoder-decoder** — 编码器-解码器；编码输入再解码输出的结构｜“"with a single encoder-decoder transformer model"”
+- **mixture of denoisers** — 去噪器混合；组合多种去噪目标的训练目标｜“"with a multimodal mixture of denoisers objective"”
+- **robotic manipulation** — 机器人操作；控制机械臂等动作任务｜“"video and audio understanding, and robotic manipulation"”
+- **external memory** — 外部记忆；模型之外的存储（如网页文档）｜“"from external memory (e.g., documents on the web)"”
+- **in-context learning** — 上下文学习；从示例中直接学习新任务｜“"multimodal in-context learning (e.g., image generation from demonstrations)"”
+- **conditioning signals** — 条件信号；控制生成内容的输入（如文本、图像）｜“"from a large variety of conditioning signals"”
+- **decoder-only** — 仅解码器的；没有编码器的 Transformer 结构｜“"employs a decoder-only transformer architecture that processes multimodal inputs"”
+- **frame rate** — 帧率；每秒播放的画面数｜“"with a frame rate of 16 fps"”
+- **compute budget** — 计算预算；可投入的算力总量｜“"at a fraction of their compute budget"”
+- **motion dynamics** — 运动动态；物体随时间运动的信息｜“"adding motion dynamics to existing high-quality personalized T2Is"”
+- **plug-and-play** — 即插即用的；无需改动即可接入｜“"a plug-and-play motion module that can be trained once"”
+- **performance gap** — 性能差距；业界与公众可用模型间的差距｜“"a notable performance gap between industry capabilities"”
+- **filming techniques** — 拍摄技法；镜头语言等高级效果｜“"and advanced filming techniques"”
+- **bridge the gap** — 弥合差距；拉近两个群体间的距离｜“"we aim to bridge the gap between closed-source and open-source communities"”
+- **push the boundaries** — 突破边界；把能力上限再提高｜“"designed to push the boundaries of video generation"”
+- **consumer-grade** — 消费级的；普通用户显卡可运行｜“"requiring only 8.19 GB VRAM, making it compatible"”
+- **aspect ratio** — 宽高比；画面的长宽比例｜“"with different aspect ratios and synchronized audio"”
+- **context length** — 上下文长度；模型一次能处理的序列规模｜“"a 30B parameter transformer trained with a maximum context length"”
+- **reap the benefits** — 收获收益；享受规模化带来的好处｜“"that allow us to reap the benefits of scaling pre-training data"”
+- **content-based** — 基于内容的（依据音频本身特征而非元数据）｜“"a content-based automatic music tagging algorithm"”
+- **benefit from** — 受益于｜“"more complex models benefit from more training data"”
+- **take advantage of** — 利用、发挥…的优势｜“"CRNNs take advantage of convolutional neural networks"”
+- **with respect to** — 就…而言、关于｜“"with respect to their performance and training time"”
+- **transfer learning** — 迁移学习（把某任务学到的知识用于另一任务）｜“"we present a transfer learning approach for"”
+- **concerned with** — 涉及、与…相关（研究领域关注的内容）｜“"a field concerned with browsing, searching, and"”
+- **manually-annotated** — 人工标注的（由人来打标签）｜“"a large-scale dataset of manually-annotated audio events"”
+- **order of magnitude** — 数量级（相差约 10 倍）｜“"spanning six orders of magnitude (~0.1 ms"”
+- **semi-supervised** — 半监督的（少量标注+大量无标注）｜“"the best semi-supervised methods while being conceptually"”
+- **as opposed to** — 与…不同、而非｜“"in videos as opposed to other embeddings"”
+- **building block** — 基本构件、核心组成单元｜“"as the main building block for end-to-end"”
+- **token-semantic** — 词元-语义的（把词元映射到语义特征）｜“"combined with a token-semantic module to map"”
+- **rely on** — 依赖｜“"meanwhile relying on pretrained vision models to"”
+- **masked language modelling** — 掩蔽语言建模（遮盖部分输入让模型预测）｜“"in the masked language modelling (MLM) style"”
+- **lead sheet** — 主旋律谱（只记旋律与和弦的简谱）｜“"a dataset of 1010 lead sheets in ABC notation"”
+- **condition on** — 以…为条件（生成时给定前序信息）｜“"sample conditioned on all previous ones"”
+- **thus far** — 迄今为止｜“"it has thus far seen limited application"”
+- **from scratch** — 从零开始（不依赖人类输入）｜“"four bars right from scratch (i.e. without"”
+- **self-reference** — 自指（音乐对自身的引用）｜“"Self-reference occurs on multiple timescales, from motifs"”
+- **at scale** — 大规模地（模型放大后）｜“"the combined model at scale can generate"”
+- **cherry-picked** — 精心挑选的（只挑好听样本展示）｜“"thousands of non cherry-picked samples at"”
+- **non-autoregressive** — 非自回归的（一次并行生成全部样本）｜“"The model is non-autoregressive, and converts the"”
+- **mel spectrogram** — 梅尔频谱图（按梅尔刻度划分的频谱图）｜“"neural vocoding conditioned on mel spectrogram"”
+- **in terms of** — 在…方面｜“"in terms of speech quality (MOS: 4.44"”
+- **trade-off** — 权衡（两类指标之间的取舍）｜“"tokenizers provide different trade-offs between reconstruction"”
+- **auto-regressive** — 自回归的（逐个预测生成）｜“"we propose AaudioGen, an auto-regressive generative model"”
+- **sequence-to-sequence** — 序列到序列的（输入输出都是序列）｜“"hierarchical sequence-to-sequence modeling task, and it"”
+- **lag behind** — 落后于（音频进展滞后）｜“"Its application to audio still lags behind"”
+- **style transfer** — 风格迁移（把音频换成另一种风格）｜“"audio manipulations (e.g., style transfer) in a"”
+- **gain attention** — 受到关注｜“"has recently gained attention for its ability"”
+- **in-context** — 上下文内的（上下文学习能力）｜“"such as in-context learning abilities and reusable"”
+- **shed light on** — 阐明、使…更清楚（本文原句用 over）｜“"we shed light over the importance of"”
+- **reverse diffusion** — 逆向扩散（扩散模型生成时的去噪过程）｜“"during the reverse diffusion process"”
+- **co-creation** — 共同创作（人与 AI 协作创作）｜“"a powerful music co-creation tool"”
+- **build upon** — 在此基础上构建（二次开发）｜“"and researchers to build upon"”
+- **open-weights** — 开放权重的（模型权重公开）｜“"a new open-weights text-to-audio model trained"”
+- **consist in** — 在于（由…构成）｜“"It consists in a streaming encoder-decoder architecture"”
+- **distribution of outcomes** — 结果的分布；各种可能未来的概率分布｜“fail to capture the full distribution of outcomes”
+- **prior (model)** — 先验（模型）；事先学到的关于不确定性的知识｜“learns a prior model of uncertainty in a given environment”
+- **compare favorably** — 表现更好、优于｜“and compare favorably to those from existing approaches”
+- **drawing samples** — 采样；从先验中随机抽取样本｜“generated by drawing samples from this prior”
+- **latent overshooting** — 潜变量"越步"；让潜状态预测未来多步的多步变分推断目标｜“a multi-step variational inference objective that we name latent overshooting”
+- **variational inference** — 变分推断；用优化来近似后验分布的推断方法｜“we propose a multi-step variational inference objective”
+- **partial observability** — 部分可观测性；智能体只能看到环境的一部分状态｜“contact dynamics, partial observability, and sparse rewards”
+- **sparse rewards** — 稀疏奖励；奖励信号稀少、难以获得｜“partial observability, and sparse rewards”
+- **long-standing** — 长期存在的、由来已久的｜“has been a long-standing challenge”
+- **model-based** — 基于模型的；先学习环境模型再用于规划｜“a purely model-based agent”
+- **model-free** — 无模型的；不显式学习环境模型｜“higher than strong model-free algorithms”
+- **value function** — 价值函数；评估状态（动作）好坏的函数｜“the action-selection policy, and the value function”
+- **tree-based search** — 基于树的搜索；如蒙特卡洛树搜索｜“combining a tree-based search with a learned model”
+- **state of the art** — 最先进水平｜“achieved a new state of the art”
+- **supplied with** — 被提供、给予｜“the AlphaZero algorithm that was supplied with the game rules”
+- **latent imagination** — 潜空间想象；在世界模型的潜空间中想象未来轨迹｜“solves long-horizon tasks from images purely by latent imagination”
+- **analytic gradients** — 解析梯度；直接求导得到的精确梯度｜“propagating analytic gradients of learned state values”
+- **long-horizon** — 长时程的；需要很多步才能完成的任务｜“solves long-horizon tasks from images”
+- **high-dimensional** — 高维的；维度很多的输入｜“learning world models from high-dimensional sensory inputs”
+- **sensory inputs** — 感官输入；如图像等观测数据｜“high-dimensional sensory inputs”
+- **data-efficiency** — 数据效率；用少量数据学到好性能｜“exceeds existing approaches in data-efficiency”
+- **downstream tasks** — 下游任务；探索之后要解决的任务｜“adapts to multiple downstream tasks”
+- **task-specific** — 任务特定的；只针对单一任务｜“the learning tends to be task-specific”
+- **seek out** — 主动寻找、追求｜“leveraging planning to seek out expected future novelty”
+- **discrete representations** — 离散表征；用离散码（如整数码本）表示信息｜“The world model uses discrete representations”
+- **human-level performance** — 人类水平的表现｜“achieves human-level performance on the Atari benchmark”
+- **humanoid robot** — 类人机器人｜“learns an accurate world model of a complex humanoid robot”
+- **sample-efficiency** — 样本效率；样本利用率｜“to increase sample-efficiency”
+- **imagined outcomes** — 想象中的结果；模型想象出的未来｜“learning behaviors from imagined outcomes”
+- **computational budget** — 计算预算；允许使用的计算量｜“the same computational budget and wall-clock time”
+- **axial self-attention** — 轴向自注意力；沿时间/空间轴分别做注意力｜“employing 3D convolutions and axial self-attention”
+- **spatio-temporal** — 时空的；同时含空间与时间维度｜“using spatio-temporal position encodings”
+- **high fidelity** — 高保真；生成结果与真实视频高度接近｜“generate high fidelity natural videos from UCF-101”
+- **likelihood based** — 基于似然的；直接最大化数据概率｜“scaling likelihood based generative modeling to natural videos”
+- **discrete latents** — 离散潜变量；离散化的隐藏表示｜“model the discrete latents using spatio-temporal position encodings”
+- **competitive with** — 与……不相上下、有竞争力｜“generate samples competitive with state-of-the-art GAN models”
+- **generative modeling** — 生成建模；学习数据分布并生成新样本｜“scaling likelihood based generative modeling”
+- **farsighted strategies** — 有远见的策略；考虑长远后果的决策｜“exploring farsighted strategies from pixels and sparse rewards”
+- **out of the box** — 开箱即用；无需额外调整直接使用｜“Applied out of the box, Dreamer is the first algorithm”
+- **robustness techniques** — 鲁棒性技术；让训练跨域稳定的方法｜“Robustness techniques based on normalization, balancing”
+- **specialized methods** — 专用方法；为特定任务定制的方法｜“outperforms specialized methods across over 150 diverse tasks”
+- **single configuration** — 单一配置；一套超参数设置｜“with a single configuration”
+- **broadly applicable** — 广泛适用的｜“making reinforcement learning broadly applicable”
+- **latent world model** — 潜空间世界模型；在低维潜空间建模环境动态｜“（无官方 abstract，基于标题与领域知识）”
+- **transformer backbone** — Transformer 主干网络；模型主体架构｜“（无官方 abstract，基于标题与领域知识）”
+- **latent dynamics** — 潜空间动力学；潜状态如何随时间演化｜“（无官方 abstract，基于标题与领域知识）”
+- **goal-conditioned** — 以目标为条件的；输入中带目标信息｜“a goal-conditioned low-level controller that imitates short demonstration sequences”
+- **substantial diversity** — 显著多样性；数据差异很大｜“The data can exhibit substantial diversity”
+- **offline learning** — 离线学习；不与环境交互、只用固定数据｜“performant policies can be learned from purely offline learning”
+- **short-horizon** — 短时程的；步骤很少的任务｜“simple short-horizon manipulation tasks”
+- **hand-crafted** — 手工设计的；人工设计的｜“without relying on hand-crafted data-augmentations”
+- **data-augmentations** — 数据增强；对数据做变换增加多样性｜“hand-crafted data-augmentations”
+- **masking strategy** — 掩码策略；决定遮挡哪些图像块｜“the masking strategy”
+- **semantic representations** — 语义表征；蕴含高级语义信息的表示｜“towards producing semantic representations”
+- **context block** — 上下文块；提供预测依据的图像块｜“from a single context block”
+- **downstream performance** — 下游任务表现｜“strong downstream performance across a wide range of tasks”
+- **non-generative** — 非生成式的；不重建像素｜“a non-generative approach for self-supervised learning”
+- **linear classification** — 线性分类；用线性分类器评估表征质量｜“from linear classification to object counting”
+- **joint-embedding** — 联合嵌入；把不同块映射到同一表征空间｜“Image-based Joint-Embedding Predictive Architecture”
+- **embodied agents** — 具身智能体；有物理身体并能行动的智能体｜“training embodied agents purely in simulation”
+- **zero shot** — 零样本；不经微调直接部署｜“deployed in the real world in zero shot”
+- **densely sampled** — 密集采样的；动作数据采样频率高｜“densely sampled actions in robotics data”
+- **vision-language policies** — 视觉-语言策略；理解语言指令并行动｜“high-level vision-language policies”
+- **interactive agents** — 交互式智能体｜“actions taken by humans, robots, and other interactive agents”
+- **ground-truth** — 真实标注的；与真实情况一致的标签｜“training without any ground-truth action labels”
+- **foundation world model** — 基础世界模型；类似基础大模型的通用世界模型｜“can be considered a foundation world model”
+- **action-controllable** — 可动作控制的；用户能通过动作操控｜“action-controllable virtual worlds”
+- **latent action space** — 潜动作空间；学到的隐式动作表示｜“the resulting learned latent action space”
+- **generalist agents** — 通才智能体；能完成多种任务的智能体｜“training generalist agents of the future”
+- **synthetic images** — 合成图像；程序生成的图像｜“described through text, synthetic images, photographs”
+- **frame-by-frame** — 逐帧地；一帧一帧地｜“act in the generated environments on a frame-by-frame basis”
+- **comprised of** — 由……组成｜“It is comprised of a spatiotemporal video tokenizer”
+- **recursive queries** — 递归查询；反复调用模型多次｜“eliminating the need for recursive queries”
+- **conditional diffusion model** — 条件扩散模型；带条件输入的扩散生成模型｜“a conditional diffusion model capable of predicting multistep”
+- **conservative value regularization** — 保守价值正则化；抑制过高估计的约束手段｜“viewed as a conservative value regularization”
+- **synthetic data** — 合成数据；由模型生成的数据｜“offline Q-learning with synthetic data”
+- **model-based value estimation** — 基于模型的价值估计｜“integrate DWM into model-based value estimation”
+- **one-step dynamics** — 单步动力学；只预测下一步的模型｜“As opposed to traditional one-step dynamics models”
+- **model-free counterparts** — 无模型的对应方法｜“comparable to or slightly surpassing their model-free counterparts”
+- **stand-alone objective** — 独立目标；单独使用的训练目标｜“feature prediction as a stand-alone objective”
+- **negative examples** — 负样本；需要区分开的反例｜“text, negative examples, reconstruction, or other sources of supervision”
+- **frozen backbone** — 冻结的主干网络；参数不更新的特征提取网络｜“e.g., using a frozen backbone”
+- **appearance-based** — 基于外观的；依赖物体长相的任务｜“on both motion and appearance-based tasks”
+- **feature prediction** — 特征预测；预测其他区域的特征｜“learning by predicting video features”
+- **unsupervised learning** — 无监督学习｜“unsupervised learning from video”
+- **embodied AI** — 具身人工智能；有身体并与物理世界交互的 AI｜“a central challenge in embodied AI”
+- **partial observation** — 部分观测；只能看到环境的一部分｜“Planning with partial observation is a central challenge”
+- **mental exploration** — 脑内探索；在想象中探索｜“through a mental exploration and revise their beliefs”
+- **imagined observations** — 想象中的观测；想象生成的环境信息｜“revise their beliefs with imagined observations”
+- **informed decisions** — 有依据的决策；信息充分的判断｜“make more informed decisions”
+- **urban scenes** — 城市场景｜“e.g., urban scenes”
+- **reward-free** — 无需奖励的；不使用奖励信号进行训练｜“（无官方 abstract，基于标题与领域知识）”
+- **intrinsic motivation** — 内在动机；由好奇心等内部信号驱动｜“（无官方 abstract，基于标题与领域知识）”
+- **curiosity-driven** — 好奇心驱动的；由新奇性信号引导｜“（无官方 abstract，基于标题与领域知识）”
+- **auxiliary objective** — 辅助目标；辅助训练的次要目标｜“（无官方 abstract，基于标题与领域知识）”
+- **policy learning** — 策略学习；学习智能体的决策规则｜“（无官方 abstract，基于标题与领域知识）”
+- **world model** — 世界模型；对环境的内部预测模型｜“（无官方 abstract，基于标题与领域知识）”
+- **digital twin** — 数字孪生；现实对象的数字复制品｜“a digital twin of itself, the policy model”
+- **physical AI** — 物理 AI；运行于真实物理世界的 AI｜“Physical AI needs to be trained digitally first”
+- **curation pipeline** — 数据筛选流水线；清洗选择数据的流程｜“our platform covers a video curation pipeline”
+- **post-training** — 后训练；预训练后的继续训练｜“examples of post-training of pre-trained world foundation models”
+- **downstream applications** — 下游应用｜“for downstream applications”
+- **open-weight** — 开放权重的；公开模型参数｜“our models open-weight with permissive licenses”
+- **permissive licenses** — 宽松许可协议；使用限制很少的授权｜“open-weight with permissive licenses”
+- **conditioning augmentations** — 条件增强；对条件输入做数据增强｜“Conditioning augmentations help ensure stable auto-regressive generation”
+- **lossy JPEG compression** — 有损 JPEG 压缩；会丢失信息的压缩｜“comparable to lossy JPEG compression”
+- **real-time interaction** — 实时交互｜“enables real-time interaction with a complex environment”
+- **human raters** — 人类评分员｜“Human raters are only slightly better than random chance”
+- **powered entirely by** — 完全由……驱动｜“the first game engine powered entirely by a neural model”
+- **playable environment** — 可玩的环境｜“generate a playable environment”
+- **paradigm shift** — 范式转变；根本性的方法变革｜“Motivated by this paradigm shift”
+- **discrete latent variables** — 离散潜变量｜“operate on sequences of discrete latent variables”
+- **well-established** — 成熟确立的；被广泛验证的｜“challenging well-established methods modeling discrete latents”
+- **human normalized score** — 人类归一化得分；以人类水平为基准的分数｜“a mean human normalized score of 1.46”
+- **stand alone** — 独立使用；单独发挥作用｜“can stand alone as an interactive neural game engine”
+- **decoder-free** — 无解码器的；只学编码不重建图像｜“a learned implicit (decoder-free) world model”
+- **trajectory optimization** — 轨迹优化；寻找最优行动序列｜“performs local trajectory optimization”
+- **action spaces** — 动作空间；动作的取值范围｜“embodiments, and action spaces”
+- **emergent semantic reasoning** — 涌现的语义推理；大规模训练自然出现的推理能力｜“boost generalization and enable emergent semantic reasoning”
+- **co-fine-tune** — 联合微调；同时在两类数据上微调｜“we propose to co-fine-tune state-of-the-art vision-language models”
+- **vision-language-action models (VLA)** — 视觉-语言-动作模型｜“refer to such category of models as vision-language-action models”
+- **visual question answering** — 视觉问答；根据图像回答问题的任务｜“such as visual question answering”
+- **emergent capabilities** — 涌现能力；规模化训练带来的新能力｜“obtain a range of emergent capabilities from Internet-scale training”
+- **novel objects** — 新物体；训练中未见过的物体｜“improved generalization to novel objects”
+- **geometry-based initialization** — 基于几何的初始化；用几何信息做初始估计｜“leverages a geometry-based initialization”
+- **coherent geometry** — 连贯一致的几何结构｜“generating coherent geometry that allows all scenes to be connected”
+- **depth diffusion** — 深度扩散；生成深度图的扩散模型｜“We introduce the guided depth diffusion”
+- **partial conditioning** — 部分条件约束；只对部分输入施加条件｜“allows partial conditioning of depth estimation”
+- **time-consuming** — 耗时的｜“time-consuming optimization of the scene geometry representations”
+- **low latency** — 低延迟；响应很快｜“see the created scenes in low latency”
+- **scene representation** — 场景表示；场景的数据结构｜“as our scene representation”
+- **depth maps** — 深度图；记录每个像素深度的图｜“generating many views and depth maps”
+- **fall short of** — 达不到、欠缺｜“Existing scene generation approaches fall short of speed”
+- **action anticipation** — 动作预测；提前预测将要发生的动作｜“state-of-the-art performance on human action anticipation”
+- **action-conditioned** — 以动作为条件的｜“a latent action-conditioned world model”
+- **action-free** — 不含动作输入的｜“pre-train an action-free joint-embedding-predictive architecture”
+- **recall-at-5** — Top-5 召回率；检索类评估指标｜“39.7 recall-at-5 on Epic-Kitchens-100”
+- **internet-scale** — 互联网规模的；数据量巨大｜“combines internet-scale video data with a small amount”
+- **largely by observation** — 主要依靠观察｜“learn to act largely by observation”
+- **question-answering** — 问答（任务）｜“on multiple video question-answering tasks”
+- **curriculum masking** — 课程式掩码；由易到难调整掩码策略｜“encodes visible audio spectrogram patches with a curriculum masking strategy”
+- **exponential moving average** — 指数移动平均；平滑更新参数的机制｜“extracted by the exponential moving average of context encoder”
+- **time-frequency aware** — 时间-频率感知的；考虑局部时频相关性｜“transfer random block masking into time-frequency aware masking”
+- **masked-modeling** — 掩码建模；遮挡部分输入让模型预测｜“the masked-modeling principle driving the success”
+- **foundational vision models** — 基础视觉模型；大型通用视觉模型｜“large foundational vision models”
+- **regularized masking** — 正则化掩码；带正则约束的掩码｜“fine-tune the encoder with a regularized masking”
+- **context encoder** — 上下文编码器；编码可见块的网络｜“via context encoder”
+- **highly correlated** — 高度相关的｜“highly correlated in local time and frequency”
+- **externally supervised** — 外部监督的；用外部标注训练的｜“models that use externally supervised pre-training”
+- **target encoder** — 目标编码器；生成预测目标表征的网络｜“i.e., target encoder, on the whole spectrogram”
+- **self-supervised learning** — 自监督学习｜“a simple extension method for self-supervised learning”
+- **control policies** — 控制策略（policy 策略：状态到动作的映射规则）｜“"successfully learn control policies directly from"”
+- **convolutional neural network** — 卷积神经网络（CNN，擅长处理图像的网络结构）｜“"The model is a convolutional neural network"”
+- **policy gradient** — 策略梯度（直接对策略参数求梯度来优化的强化学习方法）｜“"a new family of policy gradient methods"”
+- **objective function** — 目标函数（要最大化/最小化的数学目标）｜“"optimizing a "surrogate" objective function using"”
+- **sample complexity** — 样本复杂度（达到一定性能所需样本量的度量）｜“"have better sample complexity (empirically)"”
+- **approach / method** — 方法｜“a simple approach”
+- **high-quality** — 高质量的｜“high-quality generation”
+- **furthermore / moreover** — 此外，再者｜“”
+- **in contrast** — 相反｜“”
+- **on the other hand** — 另一方面｜“”
+- **we propose / we introduce** — 我们提出 / 引入｜“论文开篇黄金句式”
+- **in this paper / in this work** — 在本文中｜“”
+- **we show that / we demonstrate** — 我们表明 / 证明｜“”
+- **state-of-the-art (SOTA)** — 最先进的｜“顶级性能的代名词”
+- **compared to / compared with** — 与……相比｜“对比句式”
+- **a wide range of** — 广泛的｜“a wide range of tasks”
+- **a variety of** — 各种各样的｜“”
+- **to the best of our knowledge** — 据我们所知｜“综述/贡献陈述常用”
+- **in practice** — 在实践中｜“”
+- **take into account** — 考虑，顾及｜“”
+- **consist of** — 由……组成｜“”
+- **contribute to** — 促成；贡献于｜“”
+- **lead to / result in** — 导致｜“”
+- **be capable of** — 能够｜“”
+- **play a crucial role in** — 在……中起关键作用｜“”
+- **in real-world scenarios** — 在真实世界场景中｜“”
+- **a large-scale** — 大规模的｜“”
+- **give rise to** — 引起，产生｜“”
+- **be prone to** — 易于（出问题）｜“be prone to hallucination”
+- **diffusion model** — 扩散模型｜“先逐步加噪、再学习逐步去噪来生成数据的模型”
+- **forward process** — 前向过程｜“向数据逐步加噪声的过程”
+- **reverse process** — 反向过程｜“从噪声逐步还原数据（生成）的过程”
+- **encoder / decoder** — 编码器 / 解码器｜“压缩到潜在空间 / 从潜在空间还原”
+- **score function** — 得分函数｜“对数概率密度的梯度，扩散模型去噪的依据”
+- **flow matching** — 流匹配｜“一种生成建模范式（SD3/Flux 采用）”
+- **query / key / value (QKV)** — 查询 / 键 / 值｜“注意力的三个投影分量”
+- **positional encoding** — 位置编码｜“给 token 注入位置信息”
+- **few-shot / zero-shot** — 少样本 / 零样本｜“给几个示例 / 不给示例直接做”
+- **scaling law** — 缩放定律｜“模型/数据/算力与性能的幂律关系”
+- **mixture of experts (MoE)** — 专家混合｜“路由到部分专家计算，省算力扩容量”
+- **long-context** — 长上下文｜“处理很长的输入”
+- **emergent ability** — 涌现能力｜“规模增大后突然出现的能力”
+- **KV cache** — 键值缓存｜“推理时缓存注意力 K/V 以加速”
+- **retrieval-augmented generation (RAG)** — 检索增强生成｜“先检索资料再生成回答”
+- **vision-language model (VLM)** — 视觉语言模型｜“同时理解图像与文本的模型”
+- **radiance field** — 辐射场｜“NeRF 用其建模 3D 场景”
+- **gaussian splatting** — 高斯泼溅｜“用高斯椭球渲染 3D 场景的方法”
+- **view synthesis** — 视角合成｜“从新角度渲染场景”
+- **zero-shot transfer** — 零样本迁移｜“未训练过的类别/模态直接用”
+- **instruction following** — 指令跟随｜“按自然语言指令执行”
+- **visual encoder** — 视觉编码器｜“提取图像特征的网络”
+- **audio codec** — 音频编解码器｜“压缩/还原音频（EnCodec）”
+- **semantic tokens** — 语义 token｜“高层声音语义的离散表示”
+- **acoustic tokens** — 声学 token｜“底层声学细节的离散表示”
+- **text-to-music** — 文本到音乐｜“用文字生成音乐”
+- **music retrieval** — 音乐检索｜“按文字/旋律找音乐”
+- **auto-tagging** — 自动标注｜“自动给音乐打标签”
+- **model-based RL** — 基于模型的强化学习｜“先学世界模型，再在其上规划/学习”
+- **model-free RL** — 免模型强化学习｜“不学环境模型，直接学策略”
+- **latent state** — 潜在状态｜“世界模型的压缩隐藏状态”
+- **discount factor** — 折扣因子｜“未来奖励的折算系数”
+- **actor-critic** — 演员-评论家｜“策略网络+价值网络配合的算法”
+- **F1 score** — F1 分数｜“精确率与召回率的调和平均”
+- **human evaluation** — 人工评测｜“请人打分”
+- **ablation study** — 消融实验｜“去掉某个组件看其贡献”
+- **case study** — 案例研究｜“具体例子分析”

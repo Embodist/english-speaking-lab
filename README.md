@@ -35,6 +35,8 @@ updated: 2026-10-23
 | 词与短语库 | 词典级词条：说 / 写 / 读 | [[12_word-phrase-bank/_index\|词与短语库]] |
 | 技术与框架 | LLM、Agent、音乐 AI、RAG 服务 | [[13_tech-frameworks/_index\|技术与框架]] |
 | LLM 论文 | 168 篇论文词表与阅读流程 | [[14_llm-papers/_index\|LLM 论文]] |
+| 10k 词库 | 10,127 条论文词汇，保留原句 | [[14_llm-papers/vocabulary-10k/_index\|10k 词库]] |
+| 阅读计划 | 每天 45 分钟，12 周核心路径 | [[14_llm-papers/reading-plan\|阅读计划]] |
 | 简历表达 | 10 年安全 + AI 的英文叙事 | [[15_resume/_index\|简历与自我介绍]] |
 | 原始资料 | 手册、速记卡、CSV（只读） | [[09_sources/_index\|原始资料]] |
 | 模板 | 新建笔记从这里取 | [[10_templates/_index\|模板]] |
