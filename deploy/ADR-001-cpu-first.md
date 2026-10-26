@@ -67,6 +67,13 @@ tags: [deploy, adr]
 
 切换方式：见 [[deploy/README|Docker Swarm 部署]] 的 GPU 章节；默认先启用混合模式（OpenPronounce CPU + Whisper GPU）。
 
+## 2026-10-26 补充：翻译模型单独用 GPU
+
+- 发音/ASR 仍保持 CPU-first；新增**可选**中译英服务 Hy-MT2-1.8B，单独用 GPU（1.6GB VRAM，端口 8081）。
+- 这不改变 CPU-first 决策，也不启用 GPU Swarm；翻译服务可随时停止，停掉即释放显存。
+- 不要同时运行 GPU 版 OpenPronounce/Whisper；P1000 4GB 余量约 2.3GB。
+- 详见 [[13_tech-frameworks/translation-model|Hy-MT2 翻译模型]]。
+
 ## 相关
 
 - [[deploy/RESOURCE-PLAN|资源占用规划]]

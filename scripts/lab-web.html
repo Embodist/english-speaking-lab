@@ -26,6 +26,7 @@
   select { border:1px solid var(--line); border-radius:9px; padding:8px 10px; font:inherit; background:#fff; }
   audio { height:36px; max-width:100%; }
   .status { color:var(--muted); font-size:13px; min-height:20px; margin:8px 0 0; }
+  .draft { white-space:pre-wrap; background:#fbfaf7; border:1px solid var(--line); border-radius:10px; padding:12px 14px; margin-top:10px; font-size:15px; }
   .grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(180px,1fr)); gap:12px; margin-top:14px; }
   .metric { border:1px solid var(--line); border-radius:12px; padding:12px 14px; }
   .metric .label { font-size:12px; color:var(--muted); }
@@ -92,6 +93,25 @@
     </div>
     <p id="analyzeStatus" class="status">先录音或选择音频文件。</p>
     <div id="results"></div>
+  </section>
+
+  <section class="card">
+    <h2>4 · 中文 → 英文草稿（可选，GPU）</h2>
+    <textarea id="zhText" placeholder="输入中文思路，例如：我在腾讯云负责基于大模型的恶意流量分析。"></textarea>
+    <div class="row">
+      <label class="muted">风格
+        <select id="zhStyle">
+          <option value="">默认</option>
+          <option value="技术面试口语">技术面试口语</option>
+          <option value="简洁书面">简洁书面</option>
+        </select>
+      </label>
+      <button id="translateBtn">生成英文草稿</button>
+      <button id="copyTranslationBtn" disabled>复制</button>
+    </div>
+    <p id="translateStatus" class="status">需要先在 WSL 启动 scripts/start-translate.sh --background（端口 8081）。</p>
+    <div id="translationOut" class="draft" hidden></div>
+    <p class="muted" style="margin-top:10px">草稿只用于参考；公司名、产品名和数字要核对。不要直接背译文。</p>
   </section>
 </main>
 
@@ -325,6 +345,44 @@
       setStatus('analyzeStatus', `保存失败：${e.message}`, true);
     } finally {
       $('saveBtn').disabled = false;
+    }
+  });
+
+  $('translateBtn').addEventListener('click', async () => {
+    const text = $('zhText').value.trim();
+    if (!text) return setStatus('translateStatus', '先输入中文。', true);
+    $('translateBtn').disabled = true;
+    $('copyTranslationBtn').disabled = true;
+    setStatus('translateStatus', '翻译中…（需要 8081 翻译服务）');
+    try {
+      const form = new FormData();
+      form.append('text', text);
+      form.append('target', '英语');
+      form.append('style', $('zhStyle').value);
+      form.append('use_glossary', '1');
+      const res = await fetch('/lab/translate', { method: 'POST', body: form });
+      if (!res.ok) throw new Error(await res.text());
+      const data = await res.json();
+      const out = $('translationOut');
+      out.textContent = data.translation;
+      out.hidden = false;
+      $('copyTranslationBtn').disabled = false;
+      setStatus('translateStatus', `完成（${data.elapsed_ms} ms）。只作草稿，专名和数字要核对。`);
+    } catch (e) {
+      setStatus('translateStatus', `翻译失败：${e.message}`, true);
+    } finally {
+      $('translateBtn').disabled = false;
+    }
+  });
+
+  $('copyTranslationBtn').addEventListener('click', async () => {
+    const text = $('translationOut').textContent;
+    if (!text) return;
+    try {
+      await navigator.clipboard.writeText(text);
+      setStatus('translateStatus', '已复制。');
+    } catch (e) {
+      setStatus('translateStatus', `复制失败：${e.message}`, true);
     }
   });
 })();

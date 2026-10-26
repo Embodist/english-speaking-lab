@@ -236,6 +236,10 @@ def main():
     p.add_argument("args", nargs=argparse.REMAINDER)
     p.set_defaults(func=lambda a: passthrough("pronounce.sh", a.args))
 
+    p = sub.add_parser("translate", help="Chinese -> English draft (Hy-MT2, GPU)")
+    p.add_argument("args", nargs=argparse.REMAINDER)
+    p.set_defaults(func=lambda a: passthrough("translate.sh", a.args))
+
     p = sub.add_parser("status", help="run environment check")
     p.set_defaults(func=lambda a: passthrough("check-env.sh", []))
 

@@ -8,8 +8,8 @@ updated: 2026-10-24
 
 # 资源占用规划
 
-> [!important] 当前决策：CPU-first
-> 现阶段使用 CPU-only 本地服务；GPU 镜像与 Swarm stack 作为备选保留，暂不启用。理由与切换条件见 [[deploy/ADR-001-cpu-first|ADR-001]]。
+> [!important] 当前决策：发音/ASR CPU-first；翻译可选 GPU
+> 发音和 ASR 继续用 CPU 本地服务；可选的中译英服务 Hy-MT2-1.8B 单独占用 GPU（1.6GB VRAM，端口 8081）。GPU 镜像与 Swarm stack 仍作为备选保留。
 
 ## 一、当前实测（2026-10-24）
 
@@ -19,7 +19,7 @@ updated: 2026-10-24
 | 内存 | 7.8 GiB；已用 2.4 GiB；可用 5.4 GiB；Swap 4 GiB（已用 1.4 GiB） |
 | 磁盘 | `/` 剩余 151 GB；`F:` 剩余 2.0 TB |
 | GPU | NVIDIA Quadro P1000，**4 GB VRAM**；驱动 577.00；WSL CUDA 12.9 |
-| 当前服务 | `lab_server` RSS 约 3.2 GB，空闲 CPU 约 0.5% |
+| 当前服务 | `lab_server` RSS 约 3.2 GB；翻译服务 RSS 约 0.88 GB、VRAM 1.63 GB |
 | RustFS（Windows） | 进程约 653 MB；F: 数据盘 |
 | 模型缓存 | HF 2.5 GB；Whisper 139 MB；Vosk 68 MB |
 | 运行环境 | venv 2.6 GB；OpenPronounce 17 MB；model-bundle 2.7 GB；vault 4.9 MB |
@@ -34,6 +34,7 @@ updated: 2026-10-24
 | OpenPronounce 分析 | +1–2 GB | 0（CPU）/ ~2.4–3 GB（GPU） | 2–4 线程 | — | 两个 Wav2Vec2 检查点 |
 | Whisper base.en | +0.5–1 GB | ~1 GB | 2–3 线程 | 139 MB | CPU 约 3.6s；GPU 约 1–2s |
 | Vosk small | +0.2 GB | 0 | 1 线程 | 68 MB | 约 1.4s |
+| Hy-MT2-1.8B Q6_K | ~0.9 GB | 1.63 GB | 2–3 线程 | 3.2 GB | llama-server CUDA，8081，约 27 tok/s |
 | Piper TTS | <0.2 GB | 0 | 短时 | 61 MB | 本地合成 |
 | Docker 镜像（CPU） | — | — | — | 4–6 GB | torch CPU + 依赖 |
 | Docker 镜像（GPU） | — | — | — | 10–15 GB | CUDA runtime + torch |
@@ -49,6 +50,13 @@ updated: 2026-10-24
 - 容器限制：`cpus: 4`、`memory: 5G`、reservation 3G。
 - PyTorch 线程限制：`OMP_NUM_THREADS=4`、`MKL_NUM_THREADS=4`，给系统留 2 线程。
 - 目标：内存可用 ≥1 GB，Swap 使用 <1 GB；Swap 持续增长时先停掉多余服务。
+
+### GPU 翻译（当前唯一启用的 GPU 服务）
+
+- Hy-MT2-1.8B Q6_K，llama-server CUDA，端口 8081。
+- 实测：VRAM 1.63 GB；RSS 约 0.88 GB；磁盘 3.2 GB（llama.cpp 1.8G + 模型 1.4G）；约 27 tok/s；加载约 27s。
+- 剩余 VRAM 约 2.37 GB；**不要同时**跑 GPU 版 OpenPronounce/Whisper。
+- `bash scripts/stop-translate.sh` 随时释放显存。
 
 ### GPU 混合（备选，当前未启用；P1000 4GB 若启用则用此模式）
 
@@ -74,6 +82,7 @@ updated: 2026-10-24
 |---|---|---|---|
 | Whisper base.en | ~3.6s | ~1–2s | 收益明显 |
 | Vosk | ~1.4s | 不适用 | CPU 已足够快 |
+| 中译英 Hy-MT2 | — | ~4s / 27 tok/s（GPU） | 只做草稿；专名/数字核对 |
 | OpenPronounce | ~8–12s | ~4–8s（若全 GPU） | DTW/对齐是 CPU 瓶颈；4GB 需谨慎 |
 | 并发 | 1–2 | 1–2 | 4GB VRAM + 7.8GB RAM 限制 |
 

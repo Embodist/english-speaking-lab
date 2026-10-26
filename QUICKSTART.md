@@ -221,6 +221,10 @@ bash scripts/start-translate.sh --background
 bash scripts/translate.sh "我在腾讯云负责基于大模型的恶意流量分析。"
 bash scripts/translate.sh --style "技术面试口语" "我主导了告警分类项目。"
 
+# 或通过统一页第 4 节直接输入中文
+# 或 CLI 子命令
+bash scripts/lab.sh translate "我在腾讯云负责基于大模型的恶意流量分析。"
+
 # 停止，释放显存
 bash scripts/stop-translate.sh
 ```
@@ -228,6 +232,7 @@ bash scripts/stop-translate.sh
 - 模型：`tencent/Hy-MT2-1.8B-GGUF` Q6_K，Apache-2.0
 - 显存：约 1.6GB；P1000 4GB 可跑
 - 默认术语表：`15_resume/translation-glossary.txt`（公司名/技术缩写）
+- 网页入口：`http://localhost:8000/lab` 第 4 节
 - 详细说明与下载步骤：[[13_tech-frameworks/translation-model|Hy-MT2 翻译模型]]
 
 ## 可选：Windows 端 GUI 工具
