@@ -3,7 +3,7 @@ type: guide
 title: 清晰学习路径（说 → 写 → 读）
 tags: [guide, skill/speaking, skill/writing]
 created: 2026-10-23
-updated: 2026-10-23
+updated: 2026-11-04
 ---
 
 # 清晰学习路径：说 → 写 → 读
@@ -34,6 +34,9 @@ updated: 2026-10-23
 > [!tip] 论文阅读日
 > 每周 3 篇论文：读前扫 8–12 个词 → 读 abstract/intro/图表 → 60 秒复述 + 写 3 句 → 10 个词进 Anki。
 > 12 周路径见 [[14_llm-papers/reading-plan|论文阅读 12 周计划]]；词库见 [[14_llm-papers/vocabulary-10k/_index|论文 10k 词库]]；逐篇包见 [[14_llm-papers/packs/_index|168 篇阅读包]]。
+
+> [!tip] C++ 规范阅读
+> 读 C++ Core Guidelines 时，先用 [[16_cpp-core-guidelines/_index|C++ 词库]] 扫 8–10 个术语，再读对应规则的 Example / Enforcement；优先 `level-S` 和 `cpp-domain`，不要按字母表背完整本。
 
 ## 二、每个词条的三遍法
 

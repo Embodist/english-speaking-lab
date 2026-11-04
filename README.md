@@ -3,7 +3,7 @@ type: dashboard
 title: 英语口语训练室
 tags: [dashboard, english]
 created: 2026-10-23
-updated: 2026-10-23
+updated: 2026-11-04
 ---
 
 # 英语口语训练室 · English Speaking Lab
@@ -37,6 +37,7 @@ updated: 2026-10-23
 | LLM 论文 | 168 篇论文词表与阅读流程 | [[14_llm-papers/_index\|LLM 论文]] |
 | 10k 词库 | 10,127 条论文词汇，保留原句 | [[14_llm-papers/vocabulary-10k/_index\|10k 词库]] |
 | 阅读计划 | 每天 45 分钟，12 周核心路径 | [[14_llm-papers/reading-plan\|阅读计划]] |
+| C++ 规范 | C++ Core Guidelines 术语与 Anki 词库 | [[16_cpp-core-guidelines/_index\|C++ 词库]] |
 | 简历表达 | 10 年安全 + AI 的英文叙事 | [[15_resume/_index\|简历与自我介绍]] |
 | 原始资料 | 手册、速记卡、CSV（只读） | [[09_sources/_index\|原始资料]] |
 | 模板 | 新建笔记从这里取 | [[10_templates/_index\|模板]] |
@@ -59,6 +60,7 @@ updated: 2026-10-23
 | 要讲安全项目 | [[04_security/_index\|安全分析]] |
 | 要讲音乐 Agent | [[05_music-agent/_index\|音乐 Agent]] |
 | 要读 LLM 论文 | [[14_llm-papers/_index\|LLM 论文阅读与词汇]] |
+| 要读 C++ 规范 | [[16_cpp-core-guidelines/_index\|C++ Core Guidelines 词库]] |
 | 准备自我介绍/简历 | [[15_resume/_index\|简历与自我介绍]] |
 | 不知道今天练什么 | [[STUDY-PLAN#每周节奏\|每周节奏]] |
 
