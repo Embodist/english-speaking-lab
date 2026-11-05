@@ -31,10 +31,11 @@ updated: 2026-11-05
 | 音乐 Agent | 跨模态检索、音频生成 | [[05_music-agent/_index\|音乐 Agent]] |
 | 面试 | 自我介绍、项目故事、模拟面试 | [[06_interview/_index\|面试训练]] |
 | 复习日志 | 每日记录、周复盘 | [[07_review-log/_index\|复习日志]] |
-| 句子库 | 111 条按场景分类的高频句 | [[08_sentence-library/_index\|句子库]] |
+| 句子库 | 111 条工作/面试句 | [[08_sentence-library/_index\|句子库]] |
+| 1200 句场景口语 | 10 大场景 × 120 句 = 1,200 句 | [[08_sentence-library/1200-sentences/_index\|1200 句]] |
 | 词与短语库 | 词典级词条：说 / 写 / 读 | [[12_word-phrase-bank/_index\|词与短语库]] |
-| 1200 短语 | 1,125 条基础短语，31 组 + 工作高频 90 | [[12_word-phrase-bank/11-phrase-1200/_index\|1200 短语]] |
-| 词根训练 | 60 词根 + 44 前缀 + 21 后缀 + 50 技术词 | [[17_word-roots/_index\|词根训练]] |
+| 基础短语（补充） | 1,125 条固定搭配，31 组 + 工作高频 90 | [[12_word-phrase-bank/11-basic-phrases/_index\|基础短语]] |
+| 前后缀 335 | 164 前缀 + 171 后缀 + 1,798 例词 | [[17_word-roots/_index\|前后缀]] |
 | FSI 训练 | 替换 / 变换 / 应答 / 情景 Drill | [[18_fsi-drills/_index\|FSI 口语]] |
 | 技术与框架 | LLM、Agent、音乐 AI、RAG 服务 | [[13_tech-frameworks/_index\|技术与框架]] |
 | LLM 论文 | 168 篇论文词表与阅读流程 | [[14_llm-papers/_index\|LLM 论文]] |
@@ -53,8 +54,9 @@ updated: 2026-11-05
 |---|---|
 | 只有 10 分钟 | 从 [[12_word-phrase-bank/10-fixed-chunks\|固定块库]] 选 10 条 S 级，跟读并各说一句 |
 | 想快速开口 | [[18_fsi-drills/01-substitution\|替换训练]]：同一句型换 6 个槽位 |
-| 单词记不住 | [[17_word-roots/_index\|词根训练]]：先记 3 个例词，再看拆解 |
-| 想刷基础短语 | [[12_word-phrase-bank/11-phrase-1200/featured-work-90\|工作高频 90]] → [[12_word-phrase-bank/11-phrase-1200/_index\|全量 1125]] |
+| 想练场景口语 | [[08_sentence-library/1200-sentences/_index\|1200 句]]：每天 20 句，先职场场景 |
+| 单词记不住 | [[17_word-roots/_index\|前后缀 335]]：先记 2 个例词，再看词缀方向 |
+| 想刷基础短语 | [[12_word-phrase-bank/11-basic-phrases/featured-work-90\|工作高频 90]] → [[12_word-phrase-bank/11-basic-phrases/_index\|全量 1125]] |
 | 想按顺序学 | [[LEARNING-PATH\|学习路径]]：说 → 写 → 读 |
 | 要找某个词 | [[12_word-phrase-bank/_index\|词与短语库]] |
 | 通勤/随身复习 | [[12_word-phrase-bank/pocket-notebook\|随身笔记]] |
@@ -97,8 +99,9 @@ bash scripts/pronounce.sh recording.wav "I haven't identified the root cause yet
 bash scripts/tts.sh "The main trade-off is accuracy versus latency." -o 11_attachments/reference/tradeoff.wav
 bash scripts/asr.sh recording.wav                      # 检查是否被识别成目标句
 bash scripts/new-day.sh                                # 生成今天的练习记录
-python scripts/study.py phrase --featured --n 10       # 短语抽认（中→英）
-python scripts/study.py root --n 10                    # 词根抽认
+python scripts/study.py sentence --n 20                # 1200 句抽认（中→英）
+python scripts/study.py affix --type prefix --n 10     # 前缀抽认
+python scripts/study.py phrase --featured --n 10       # 基础短语（补充）
 python scripts/study.py fsi --set resp --n 10          # FSI 应答训练
 
 # 可选：中文 -> 英文草稿（单独占用 GPU）

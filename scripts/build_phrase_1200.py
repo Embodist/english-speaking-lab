@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """Generate Obsidian notes for the 1,200-phrase list from the canonical TSV.
 
-Data:  12_word-phrase-bank/11-phrase-1200/data/phrases-1200.tsv
-Output: 12_word-phrase-bank/11-phrase-1200/*.md
+Data:  12_word-phrase-bank/11-basic-phrases/data/phrases-1200.tsv
+Output: 12_word-phrase-bank/11-basic-phrases/*.md
 
 Edit the TSV, then rerun this script. Do not hand-edit generated notes.
 """
@@ -13,7 +13,7 @@ from datetime import date
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-OUT = ROOT / "12_word-phrase-bank" / "11-phrase-1200"
+OUT = ROOT / "12_word-phrase-bank" / "11-basic-phrases"
 DATA = OUT / "data" / "phrases-1200.tsv"
 TODAY = date.today().isoformat()
 
@@ -93,15 +93,15 @@ def write_group_notes(rows, chunks):
     for number, (first, last) in enumerate(chunks, 1):
         selected = [r for r in rows if first <= r["group"] <= last]
         name = f"{number:02d}-group-{first:02d}-{last:02d}.md"
-        title = f"1200 短语 · Group {first:02d}–{last:02d}"
+        title = f"基础短语 · Group {first:02d}–{last:02d}"
         prev_link = ""
         next_link = ""
         if number > 1:
             pf, pl = chunks[number - 2]
-            prev_link = f"[[12_word-phrase-bank/11-phrase-1200/{number - 1:02d}-group-{pf:02d}-{pl:02d}|← 上一组]]"
+            prev_link = f"[[12_word-phrase-bank/11-basic-phrases/{number - 1:02d}-group-{pf:02d}-{pl:02d}|← 上一组]]"
         if number < len(chunks):
             nf, nl = chunks[number]
-            next_link = f"[[12_word-phrase-bank/11-phrase-1200/{number + 1:02d}-group-{nf:02d}-{nl:02d}|下一组 →]]"
+            next_link = f"[[12_word-phrase-bank/11-basic-phrases/{number + 1:02d}-group-{nf:02d}-{nl:02d}|下一组 →]]"
 
         lines = [
             frontmatter(title),
@@ -120,7 +120,7 @@ def write_group_notes(rows, chunks):
             f"python scripts/study.py phrase --group {first} --n 20\n"
             "```\n\n"
             "## 导航\n\n"
-            f"{prev_link} · [[12_word-phrase-bank/11-phrase-1200/_index|1200 短语总览]] · {next_link}\n"
+            " · ".join(x for x in [prev_link, "[[12_word-phrase-bank/11-basic-phrases/_index|基础短语总览]]", next_link] if x) + "\n"
         )
         path = OUT / name
         path.write_text("".join(lines), encoding="utf-8")
@@ -131,13 +131,14 @@ def write_group_notes(rows, chunks):
 def write_index(rows, files):
     total = len(rows)
     lines = [
-        frontmatter("1200 短语训练库", "hub"),
-        "# 1200 短语训练库\n\n",
-        f"> 原始清单 1,200 条，去重合并多义后 **{total} 条**。按 Group 1–31 分组，"
+        frontmatter("基础短语 1125", "hub"),
+        "# 基础短语 1125\n\n",
+        f"> 公开短语清单 1,200 条，去重合并多义后 **{total} 条**。按 Group 1–31 分组，"
         "适合每天 20–40 条滚动训练。\n\n",
-        "> [!info] 来源\n"
-        "> 知乎原文需要登录，无法直接抓取；本库使用公开同款清单，处理方式见 "
-        "[[09_sources/03_1200-phrases|来源与处理说明]]。\n\n",
+        "> [!info] 定位\n"
+        "> 这是补充性的基础短语清单（1,125 条），不是用户指定的 1.2k 内容；"
+        "1200 句场景口语见 [[08_sentence-library/1200-sentences/_index|1200 句场景口语]]。"
+        "来源见 [[09_sources/03_basic-phrases|来源与处理说明]]。\n\n",
         "> [!warning] 释义边界\n"
         "> 这是基础短语清单，个别中文释义较粗（例如 `pull down` 标成“拆毁”）。"
         "训练时以例句、词典和真实语境为准，不要只背中文。\n\n",
@@ -157,12 +158,12 @@ def write_index(rows, files):
     for name, title, count, first, last in files:
         lines.append(
             f"| {title} | {first:02d}–{last:02d} | {count} | "
-            f"[[12_word-phrase-bank/11-phrase-1200/{name[:-3]}|打开]] |\n"
+            f"[[12_word-phrase-bank/11-basic-phrases/{name[:-3]}|打开]] |\n"
         )
     lines += [
         "\n## 专项入口\n\n",
-        "- [[12_word-phrase-bank/11-phrase-1200/featured-work-90|工作高频 90 条]]：时间有限先练这份。\n",
-        "- [[12_word-phrase-bank/11-phrase-1200/learning-plan|30 天刷完计划]]：每天 38 条 + 复习。\n",
+        "- [[12_word-phrase-bank/11-basic-phrases/featured-work-90|工作高频 90 条]]：时间有限先练这份。\n",
+        "- [[12_word-phrase-bank/11-basic-phrases/learning-plan|30 天刷完计划]]：每天 38 条 + 复习。\n",
         "- [[12_word-phrase-bank/10-fixed-chunks|固定搭配与高频句型]]：工作场景的整句框架。\n\n",
         "## 命令\n\n",
         "```bash\ncd ~/english/english-speaking-lab\n",
@@ -171,7 +172,7 @@ def write_index(rows, files):
         "python scripts/study.py phrase --group 3 --n 20       # 按组\n",
         "python scripts/study.py phrase --featured --n 20      # 工作高频\n",
         "python scripts/study.py phrase --n 10 --tts           # 生成参考音\n",
-        "~/english/.venv/bin/python scripts/build_phrase_roots_apkg.py             # 导出 Anki\n",
+        "~/english/.venv/bin/python scripts/build_phrase_apkg.py             # 导出 Anki\n",
         "```\n\n",
         "## 相关\n\n",
         "- [[12_word-phrase-bank/_index|词与短语库]]\n",
@@ -184,8 +185,8 @@ def write_index(rows, files):
 def write_learning_plan(rows):
     per_day = math.ceil(len(rows) / 30)
     lines = [
-        frontmatter("1200 短语 30 天刷完计划", "guide"),
-        "# 1200 短语 30 天刷完计划\n\n",
+        frontmatter("基础短语 30 天计划", "guide"),
+        "# 基础短语 30 天计划\n\n",
         f"每天 **{per_day} 条**，30 天覆盖全部 {len(rows)} 条。每天 25 分钟：抽认 → 造句 → 录音 → 标记。\n\n",
         "## 每天固定动作\n\n",
         "1. 中→英抽认当天条目，3 秒说不出的画 `×`。\n",
@@ -218,8 +219,8 @@ def write_learning_plan(rows):
         "| 第 3 周 | 用 10 条短语讲清一个 bug 或方案 |\n",
         "| 第 4 周 | 不看提示，用 20 条短语做 3 分钟项目复述 |\n\n",
         "## 相关\n\n",
-        "- [[12_word-phrase-bank/11-phrase-1200/_index|1200 短语总览]]\n",
-        "- [[12_word-phrase-bank/11-phrase-1200/featured-work-90|工作高频 90 条]]\n",
+        "- [[12_word-phrase-bank/11-basic-phrases/_index|基础短语总览]]\n",
+        "- [[12_word-phrase-bank/11-basic-phrases/featured-work-90|工作高频 90 条]]\n",
         "- [[18_fsi-drills/_index|FSI 口语训练]]\n",
     ]
     (OUT / "learning-plan.md").write_text("".join(lines), encoding="utf-8")
@@ -257,7 +258,7 @@ def write_featured(rows):
         "python scripts/study.py phrase --featured --n 10 --reverse\n",
         "```\n\n",
         "## 相关\n\n",
-        "- [[12_word-phrase-bank/11-phrase-1200/_index|1200 短语总览]]\n",
+        "- [[12_word-phrase-bank/11-basic-phrases/_index|基础短语总览]]\n",
         "- [[12_word-phrase-bank/10-fixed-chunks|固定搭配与高频句型]]\n",
         "- [[18_fsi-drills/_index|FSI 口语训练]]\n",
     ]

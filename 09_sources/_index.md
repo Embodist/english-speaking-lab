@@ -19,8 +19,12 @@ updated: 2026-11-05
 | [[09_sources/程序员日常英语沟通_口语与书面语大全\|程序员日常英语沟通大全]] | 日常口语与书面语 | Obsidian 直接读 |
 | `08_sentence-library/phrase-library.csv` | 111 条句子（Anki 可导入） | 见 [[08_sentence-library/anki-import-guide\|Anki 导入]] |
 | [[16_cpp-core-guidelines/source/CppCoreGuidelines\|C++ Core Guidelines 全文]] | C++ 规范全文（本地 Markdown） | Obsidian 直接读 |
-| [[09_sources/03_1200-phrases\|1200 条英语短语（公开同款清单）]] | 来源、清洗规则、与知乎原文的差异 | 见 [[12_word-phrase-bank/11-phrase-1200/_index\|1200 短语训练库]] |
-| `09_sources/media/phrases-1200-acadsoc.html` | 原始页面存档（只读） | 浏览器打开 |
+| [[09_sources/03_basic-phrases\|基础短语 1125（公开补充清单）]] | 来源、清洗规则、定位 | 见 [[12_word-phrase-bank/11-basic-phrases/_index\|基础短语]] |
+| [[09_sources/04_1200-sentences\|1200 句场景口语（知乎原文）]] | 用户提供的原文、结构、解析规则 | 见 [[08_sentence-library/1200-sentences/_index\|1200 句]] |
+| [[09_sources/05_affixes-335\|164 前缀 + 171 后缀（知乎原文）]] | 用户提供的原文、规模、解析规则 | 见 [[17_word-roots/_index\|前后缀 335]] |
+| `09_sources/media/zhihu-1200-sentences.html` | 1200 句原文存档（只读） | 浏览器打开 |
+| `09_sources/media/zhihu-affixes.html` | 前后缀原文存档（只读） | 浏览器打开 |
+| `09_sources/media/phrases-1200-acadsoc.html` | 基础短语页面存档（只读） | 浏览器打开 |
 
 原始 DOCX 保留在同一目录（`01_AI工程师….docx`、`02_口语强化….docx`、`程序员日常英语沟通….docx`、重复副本 `(1).docx`），用于核对排版和图片。
 

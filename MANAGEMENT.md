@@ -31,7 +31,7 @@ updated: 2026-11-05
 | `05_music-agent/` | 音乐生成、跨模态检索表达 | 其他项目 |
 | `06_interview/` | 自我介绍、项目故事、模拟面试 | 日常沟通句子 |
 | `07_review-log/` | 每日记录、每周复盘 | 句子卡正文 |
-| `08_sentence-library/` | 分类句子库、Anki 导入文件 | 个人录音（放 `11_attachments/`） |
+| `08_sentence-library/` | 分类句子库、1200 句场景口语、Anki 导入文件 | 个人录音（放 `11_attachments/`） |
 | `09_sources/` | 原始手册和资料 | 自己提炼的笔记 |
 | `10_templates/` | 所有模板 | 正式内容 |
 | `11_attachments/` | 录音、截图等二进制附件 | Markdown 笔记 |
@@ -40,7 +40,7 @@ updated: 2026-11-05
 | `14_llm-papers/` | LLM 论文逐篇词汇、阅读流程、Anki CSV | 通用论文句式（放 04/05） |
 | `15_resume/` | 基于真实简历的自我介绍、经历、项目故事 | 联系方式、证件信息 |
 | `16_cpp-core-guidelines/` | C++ Core Guidelines 术语与 Anki 词库 | 通用 C++ 教程 |
-| `17_word-roots/` | 词根、前缀、后缀、技术词拆解 | 通用单词表 |
+| `17_word-roots/` | 164 前缀、171 后缀、1,798 例词 | 自编词根故事 |
 | `18_fsi-drills/` | FSI 式替换、变换、应答、情景 Drill | 语法讲解 |
 
 ## 命名规范

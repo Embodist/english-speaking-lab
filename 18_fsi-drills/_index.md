@@ -53,7 +53,7 @@ python scripts/study.py fsi --set resp --n 5 --tts   # 生成模型答案音频
 ## 相关
 
 - [[18_fsi-drills/learning-plan|4 周训练计划]]
-- [[12_word-phrase-bank/11-phrase-1200/_index|1200 短语训练库]]
+- [[08_sentence-library/1200-sentences/_index|1200 句场景口语]]
 - [[12_word-phrase-bank/10-fixed-chunks|固定搭配与高频句型]]
 - [[02_daily-work/_index|日常工作表达]]
 - [[06_interview/_index|面试训练]]

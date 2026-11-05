@@ -15,18 +15,21 @@ updated: 2026-11-05
 | `setup.sh` | 从零搭建环境（可重复执行） | `bash scripts/setup.sh` |
 | `check-env.sh` | 检查工具、Python 包和模型 | `bash scripts/check-env.sh` |
 | `lab.sh` | 统一流水线：TTS + ASR + 发音 + 报告 | `bash scripts/lab.sh analyze a.wav "sentence"` |
-| `study.py` | 短语 / 词根 / FSI 抽认与 Drill | `python scripts/study.py phrase --n 20` |
-| `build_phrase_1200.py` | 从 TSV 生成 1200 短语笔记 | `python scripts/build_phrase_1200.py` |
-| `build_word_roots.py` | 生成词根、词缀、技术词笔记 | `python scripts/build_word_roots.py` |
+| `study.py` | 句子 / 短语 / 前后缀 / FSI 抽认与 Drill | `python scripts/study.py sentence --n 20` |
+| `build_sentence_1200.py` | 生成 1200 句场景口语笔记 | `python scripts/build_sentence_1200.py` |
+| `build_phrase_1200.py` | 生成基础短语（补充）笔记 | `python scripts/build_phrase_1200.py` |
+| `build_affix_335.py` | 解析前后缀原文并生成笔记与 TSV | `python scripts/build_affix_335.py` |
 | `build_fsi_drills.py` | 生成 FSI 替换/变换/应答/情景笔记 | `python scripts/build_fsi_drills.py` |
-| `build_phrase_roots_apkg.py` | 导出短语与词根 Anki 牌组 | `~/english/.venv/bin/python scripts/build_phrase_roots_apkg.py` |
+| `build_sentence_1200_apkg.py` | 导出 1200 句 Anki 牌组 | `~/english/.venv/bin/python scripts/build_sentence_1200_apkg.py` |
+| `build_phrase_apkg.py` | 导出基础短语 Anki 牌组 | `~/english/.venv/bin/python scripts/build_phrase_apkg.py` |
+| `build_affix_apkg.py` | 导出前缀/后缀/例词 Anki 牌组 | `~/english/.venv/bin/python scripts/build_affix_apkg.py` |
 | `lab_server.py` | 同源 API：`/lab`、`/lab/asr`、`/lab/save` | 由 `start-web.sh` 启动 |
 | `start-translate.sh` | 启动 Hy-MT2 翻译服务（GPU，8081） | `bash scripts/start-translate.sh --background` |
 | `translate.sh` | 中文 → 英文草稿 | `bash scripts/translate.sh "中文"` |
 | `stop-translate.sh` | 停止翻译服务 | `bash scripts/stop-translate.sh` |
 | `upload-weights.sh` | 打包并上传模型权重到 RustFS | `bash scripts/upload-weights.sh` |
 | `rustfs-public-read.sh` | 设置/查看/回滚模型前缀公共读 | `bash scripts/rustfs-public-read.sh status` |
-| `sync-windows.sh` | WSL ↔ D: Obsidian 镜像同步 | `bash scripts/sync-windows.sh status` |
+| `sync-windows.sh` | WSL ↔ Windows Obsidian 镜像同步 | `WIN_VAULT=/mnt/e/english/english-speaking-lab bash scripts/sync-windows.sh push` |
 | `build_vocab_10k.py` | 从 PDF/ECDICT 生成 10k 词库 | `python scripts/build_vocab_10k.py` |
 | `build_reading_packs.py` | 生成 168 篇论文阅读包 | `python scripts/build_reading_packs.py` |
 | `lab-web.html` | 统一网页（TTS/录音/发音/Whisper/Vosk） | 启动后打开 `/lab` |
@@ -40,9 +43,9 @@ updated: 2026-11-05
 
 | 数据 | 路径 | 生成物 |
 |---|---|---|
-| 1200 短语 | `12_word-phrase-bank/11-phrase-1200/data/phrases-1200.tsv` | `11-phrase-1200/*.md`、`1200-phrases.apkg` |
-| 词根 / 词缀 | `17_word-roots/data/{roots,prefixes,suffixes}.tsv` | `17_word-roots/*.md`、`word-roots.apkg`、`affixes.apkg` |
-| 技术词 | `17_word-roots/data/tech.tsv` | `04-tech-words.md`、`tech-words.apkg` |
+| 1200 句场景口语 | `08_sentence-library/1200-sentences/data/sentences-1200.tsv` | `1200-sentences/*.md`、`1200-sentences.apkg` |
+| 基础短语（补充） | `12_word-phrase-bank/11-basic-phrases/data/phrases-1200.tsv` | `11-basic-phrases/*.md`、`basic-phrases.apkg` |
+| 前后缀 335 | `17_word-roots/data/{affixes,affix-examples}.tsv` | `17_word-roots/*.md`、`prefixes.apkg`、`suffixes.apkg`、`affix-examples.apkg` |
 | FSI Drill | `18_fsi-drills/data/drills.tsv` | `18_fsi-drills/*.md` |
 
 改内容只改 TSV，然后跑对应 `build_*.py`；不要手改生成出来的 Markdown。

@@ -31,7 +31,7 @@ case "$MODE" in
   push)
     echo "Pushing WSL -> Windows (mirror; Windows-only edits may be overwritten)…"
     rsync -r --delete "${EXCLUDES[@]}" "$ROOT/" "$WIN/"
-    echo "Done. Open in Obsidian: D:\\Obsidian\\EnglishVault"
+    echo "Done. Open in Obsidian: $WIN"
     ;;
   pull)
     echo "Pulling Windows -> WSL (keeps WSL-only files)…"
