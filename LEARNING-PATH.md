@@ -3,7 +3,7 @@ type: guide
 title: 清晰学习路径（说 → 写 → 读）
 tags: [guide, skill/speaking, skill/writing]
 created: 2026-10-23
-updated: 2026-11-04
+updated: 2026-11-05
 ---
 
 # 清晰学习路径：说 → 写 → 读
@@ -37,6 +37,9 @@ updated: 2026-11-04
 
 > [!tip] C++ 规范阅读
 > 读 C++ Core Guidelines 时，先用 [[16_cpp-core-guidelines/_index|C++ 词库]] 扫 8–10 个术语，再读对应规则的 Example / Enforcement；优先 `level-S` 和 `cpp-domain`，不要按字母表背完整本。
+
+> [!tip] 词根与 FSI
+> 每天先做 10 分钟 [[18_fsi-drills/_index|FSI 替换/应答]]，让嘴先动起来；再用 10 分钟过 [[17_word-roots/_index|词根]]（5 复习 + 5 新学 + 3 个技术词）。基础短语从 [[12_word-phrase-bank/11-phrase-1200/featured-work-90|工作高频 90]] 开始，不要一上来刷 1,125 条。
 
 ## 二、每个词条的三遍法
 

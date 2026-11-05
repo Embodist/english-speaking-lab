@@ -3,7 +3,7 @@ type: hub
 title: 词与短语库（词典级）
 tags: [hub, library/word-bank, skill/speaking]
 created: 2026-10-23
-updated: 2026-10-23
+updated: 2026-11-05
 ---
 
 # 词与短语库（词典级）
@@ -35,8 +35,9 @@ updated: 2026-10-23
 | [[12_word-phrase-bank/08-connectors-smalltalk\|连接词与寒暄]] | 逻辑连接、澄清、日常寒暄 | 40 |
 | [[12_word-phrase-bank/09-programmer-work-map\|程序员工作全景]] | 15 个环节的关键点与表达 | 15 类 |
 | [[12_word-phrase-bank/10-fixed-chunks\|固定搭配与高频句型]] | 预制块：搭配、框架、话语标记 | 165 |
+| [[12_word-phrase-bank/11-phrase-1200/_index\|1200 短语训练库]] | 基础固定搭配、动词短语、介词短语 | 1,125 |
 
-合计约 **518 条**（与核心动词/会议条目有少量重叠，重叠项按复习处理）。
+合计约 **518 条**（与核心动词/会议条目有少量重叠，重叠项按复习处理）。1200 短语库单独计数，不与上表合并。
 
 ## 三遍学习法
 

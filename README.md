@@ -3,7 +3,7 @@ type: dashboard
 title: 英语口语训练室
 tags: [dashboard, english]
 created: 2026-10-23
-updated: 2026-11-04
+updated: 2026-11-05
 ---
 
 # 英语口语训练室 · English Speaking Lab
@@ -33,6 +33,9 @@ updated: 2026-11-04
 | 复习日志 | 每日记录、周复盘 | [[07_review-log/_index\|复习日志]] |
 | 句子库 | 111 条按场景分类的高频句 | [[08_sentence-library/_index\|句子库]] |
 | 词与短语库 | 词典级词条：说 / 写 / 读 | [[12_word-phrase-bank/_index\|词与短语库]] |
+| 1200 短语 | 1,125 条基础短语，31 组 + 工作高频 90 | [[12_word-phrase-bank/11-phrase-1200/_index\|1200 短语]] |
+| 词根训练 | 60 词根 + 44 前缀 + 21 后缀 + 50 技术词 | [[17_word-roots/_index\|词根训练]] |
+| FSI 训练 | 替换 / 变换 / 应答 / 情景 Drill | [[18_fsi-drills/_index\|FSI 口语]] |
 | 技术与框架 | LLM、Agent、音乐 AI、RAG 服务 | [[13_tech-frameworks/_index\|技术与框架]] |
 | LLM 论文 | 168 篇论文词表与阅读流程 | [[14_llm-papers/_index\|LLM 论文]] |
 | 10k 词库 | 10,127 条论文词汇，保留原句 | [[14_llm-papers/vocabulary-10k/_index\|10k 词库]] |
@@ -49,6 +52,9 @@ updated: 2026-11-04
 | 你现在要做什么 | 从这里开始 |
 |---|---|
 | 只有 10 分钟 | 从 [[12_word-phrase-bank/10-fixed-chunks\|固定块库]] 选 10 条 S 级，跟读并各说一句 |
+| 想快速开口 | [[18_fsi-drills/01-substitution\|替换训练]]：同一句型换 6 个槽位 |
+| 单词记不住 | [[17_word-roots/_index\|词根训练]]：先记 3 个例词，再看拆解 |
+| 想刷基础短语 | [[12_word-phrase-bank/11-phrase-1200/featured-work-90\|工作高频 90]] → [[12_word-phrase-bank/11-phrase-1200/_index\|全量 1125]] |
 | 想按顺序学 | [[LEARNING-PATH\|学习路径]]：说 → 写 → 读 |
 | 要找某个词 | [[12_word-phrase-bank/_index\|词与短语库]] |
 | 通勤/随身复习 | [[12_word-phrase-bank/pocket-notebook\|随身笔记]] |
@@ -91,6 +97,9 @@ bash scripts/pronounce.sh recording.wav "I haven't identified the root cause yet
 bash scripts/tts.sh "The main trade-off is accuracy versus latency." -o 11_attachments/reference/tradeoff.wav
 bash scripts/asr.sh recording.wav                      # 检查是否被识别成目标句
 bash scripts/new-day.sh                                # 生成今天的练习记录
+python scripts/study.py phrase --featured --n 10       # 短语抽认（中→英）
+python scripts/study.py root --n 10                    # 词根抽认
+python scripts/study.py fsi --set resp --n 10          # FSI 应答训练
 
 # 可选：中文 -> 英文草稿（单独占用 GPU）
 bash scripts/start-translate.sh --background           # 8081，首次加载约 27s

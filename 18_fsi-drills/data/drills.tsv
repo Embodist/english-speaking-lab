@@ -1,0 +1,127 @@
+id	set	kind	prompt	answer	hint
+F0001	sub	替换	the latency spike	I need to look into the latency spike.	I need to look into ___.
+F0002	sub	替换	the failing test	I need to look into the failing test.	I need to look into ___.
+F0003	sub	替换	the auth error	I need to look into the auth error.	I need to look into ___.
+F0004	sub	替换	the data drift	I need to look into the data drift.	I need to look into ___.
+F0005	sub	替换	the memory leak	I need to look into the memory leak.	I need to look into ___.
+F0006	sub	替换	the missing index	I need to look into the missing index.	I need to look into ___.
+F0007	sub	替换	the PR	Could you take a look at the PR?	Could you take a look at ___?
+F0008	sub	替换	the dashboard	Could you take a look at the dashboard?	Could you take a look at ___?
+F0009	sub	替换	the error log	Could you take a look at the error log?	Could you take a look at ___?
+F0010	sub	替换	the config change	Could you take a look at the config change?	Could you take a look at ___?
+F0011	sub	替换	the test failure	Could you take a look at the test failure?	Could you take a look at ___?
+F0012	sub	替换	the API response	Could you take a look at the API response?	Could you take a look at ___?
+F0013	sub	替换	the release	We should roll back the release.	We should roll back ___.
+F0014	sub	替换	the schema change	We should roll back the schema change.	We should roll back ___.
+F0015	sub	替换	the config	We should roll back the config.	We should roll back ___.
+F0016	sub	替换	the model update	We should roll back the model update.	We should roll back ___.
+F0017	sub	替换	the prompt change	We should roll back the prompt change.	We should roll back ___.
+F0018	sub	替换	the index rebuild	We should roll back the index rebuild.	We should roll back ___.
+F0019	sub	替换	the missing credentials	The main blocker is the missing credentials.	The main blocker is ___.
+F0020	sub	替换	the flaky test	The main blocker is the flaky test.	The main blocker is ___.
+F0021	sub	替换	the unclear requirement	The main blocker is the unclear requirement.	The main blocker is ___.
+F0022	sub	替换	the data quality	The main blocker is the data quality.	The main blocker is ___.
+F0023	sub	替换	the rate limit	The main blocker is the rate limit.	The main blocker is ___.
+F0024	sub	替换	the dependency conflict	The main blocker is the dependency conflict.	The main blocker is ___.
+F0025	sub	替换	the incident report	I'll follow up on the incident report by EOD.	I'll follow up on ___ by EOD.
+F0026	sub	替换	the benchmark result	I'll follow up on the benchmark result by EOD.	I'll follow up on ___ by EOD.
+F0027	sub	替换	the PR review	I'll follow up on the PR review by EOD.	I'll follow up on ___ by EOD.
+F0028	sub	替换	the customer issue	I'll follow up on the customer issue by EOD.	I'll follow up on ___ by EOD.
+F0029	sub	替换	the rollout plan	I'll follow up on the rollout plan by EOD.	I'll follow up on ___ by EOD.
+F0030	sub	替换	the cost estimate	I'll follow up on the cost estimate by EOD.	I'll follow up on ___ by EOD.
+F0031	sub	替换	adding a retry cap	We can mitigate that by adding a retry cap.	We can mitigate that by ___.
+F0032	sub	替换	caching the results	We can mitigate that by caching the results.	We can mitigate that by ___.
+F0033	sub	替换	narrowing the scope	We can mitigate that by narrowing the scope.	We can mitigate that by ___.
+F0034	sub	替换	adding a feature flag	We can mitigate that by adding a feature flag.	We can mitigate that by ___.
+F0035	sub	替换	batching the requests	We can mitigate that by batching the requests.	We can mitigate that by ___.
+F0036	sub	替换	logging the inputs	We can mitigate that by logging the inputs.	We can mitigate that by ___.
+F0037	sub	替换	running a small experiment	It might be worth running a small experiment.	It might be worth ___.
+F0038	sub	替换	measuring the baseline	It might be worth measuring the baseline.	It might be worth ___.
+F0039	sub	替换	checking the logs	It might be worth checking the logs.	It might be worth ___.
+F0040	sub	替换	asking the users	It might be worth asking the users.	It might be worth ___.
+F0041	sub	替换	testing the edge case	It might be worth testing the edge case.	It might be worth ___.
+F0042	sub	替换	comparing the two models	It might be worth comparing the two models.	It might be worth ___.
+F0043	sub	替换	the retry may amplify the load	I'm concerned that the retry may amplify the load.	I'm concerned that ___.
+F0044	sub	替换	the cache may go stale	I'm concerned that the cache may go stale.	I'm concerned that ___.
+F0045	sub	替换	the change may break clients	I'm concerned that the change may break clients.	I'm concerned that ___.
+F0046	sub	替换	the model may hallucinate	I'm concerned that the model may hallucinate.	I'm concerned that ___.
+F0047	sub	替换	the queue may back up	I'm concerned that the queue may back up.	I'm concerned that ___.
+F0048	sub	替换	the test may be flaky	I'm concerned that the test may be flaky.	I'm concerned that ___.
+F0049	sub	替换	accuracy / latency	The trade-off is accuracy versus latency.	The trade-off is ___ versus ___.
+F0050	sub	替换	cost / quality	The trade-off is cost versus quality.	The trade-off is ___ versus ___.
+F0051	sub	替换	speed / safety	The trade-off is speed versus safety.	The trade-off is ___ versus ___.
+F0052	sub	替换	recall / precision	The trade-off is recall versus precision.	The trade-off is ___ versus ___.
+F0053	sub	替换	simplicity / flexibility	The trade-off is simplicity versus flexibility.	The trade-off is ___ versus ___.
+F0054	sub	替换	latency / throughput	The trade-off is latency versus throughput.	The trade-off is ___ versus ___.
+F0055	sub	替换	the core flow / the edge cases	Let's start with the core flow, then move to the edge cases.	Let's start with ___, then move to ___.
+F0056	sub	替换	the read path / the write path	Let's start with the read path, then move to the write path.	Let's start with ___, then move to ___.
+F0057	sub	替换	the single node / the cluster	Let's start with the single node, then move to the cluster.	Let's start with ___, then move to ___.
+F0058	sub	替换	the baseline / the optimization	Let's start with the baseline, then move to the optimization.	Let's start with ___, then move to ___.
+F0059	sub	替换	the internal users / the external users	Let's start with the internal users, then move to the external users.	Let's start with ___, then move to ___.
+F0060	sub	替换	the logs / the alerts	Let's start with the logs, then move to the alerts.	Let's start with ___, then move to ___.
+F0061	trans	陈述→疑问	The change broke the build.	Did the change break the build?	
+F0062	trans	陈述→疑问	We rolled back the release.	Did we roll back the release?	
+F0063	trans	陈述→疑问	The latency doubled after the deploy.	Did the latency double after the deploy?	
+F0064	trans	陈述→疑问	The model returns inconsistent results.	Does the model return inconsistent results?	
+F0065	trans	陈述→疑问	They have reproduced the issue.	Have they reproduced the issue?	
+F0066	trans	肯定→否定	The tests pass locally.	The tests don't pass locally.	
+F0067	trans	肯定→否定	We have enough data.	We don't have enough data.	
+F0068	trans	肯定→否定	The fix is backward-compatible.	The fix isn't backward-compatible.	
+F0069	trans	肯定→否定	The service is healthy.	The service isn't healthy.	
+F0070	trans	肯定→否定	I can reproduce it.	I can't reproduce it.	
+F0071	trans	主动→被动	The team reviewed the PR.	The PR was reviewed by the team.	
+F0072	trans	主动→被动	We deployed the model yesterday.	The model was deployed yesterday.	
+F0073	trans	主动→被动	The system rejected the request.	The request was rejected by the system.	
+F0074	trans	主动→被动	They fixed the bug in one day.	The bug was fixed in one day.	
+F0075	trans	主动→被动	Someone deleted the logs.	The logs were deleted.	
+F0076	trans	直接→礼貌	Send me the report.	Could you send me the report?	
+F0077	trans	直接→礼貌	Explain this again.	Could you explain this again?	
+F0078	trans	直接→礼貌	Fix the bug today.	Do you think we could fix the bug today?	
+F0079	trans	直接→礼貌	Change the config.	Would you mind changing the config?	
+F0080	trans	直接→礼貌	Show me the dashboard.	Could you show me the dashboard?	
+F0081	trans	现在→过去	The service is down.	The service was down.	
+F0082	trans	现在→过去	We are investigating the issue.	We were investigating the issue.	
+F0083	trans	现在→过去	The model performs well.	The model performed well.	
+F0084	trans	现在→过去	I see the error in the logs.	I saw the error in the logs.	
+F0085	trans	现在→过去	The team works on the migration.	The team worked on the migration.	
+F0086	resp	问答	What's the status of the migration?	It's on track. We've migrated 60% of the data and expect to finish by Friday.	
+F0087	resp	问答	Why did the latency spike?	The spike started after the model upgrade. We're rolling back and monitoring.	
+F0088	resp	问答	What's blocking the release?	The flaky integration test. We're isolating it and will decide by noon.	
+F0089	resp	问答	Can you walk me through the design?	Sure. The client sends a request, the gateway authenticates it, and the service retrieves context from the vector store.	
+F0090	resp	问答	What's the risk of this change?	The main risk is backward compatibility. We'll ship it behind a flag and roll out gradually.	
+F0091	resp	问答	How do you evaluate the RAG system?	We track retrieval recall, answer groundedness, and latency on a fixed evaluation set.	
+F0092	resp	问答	What did you learn from the incident?	We learned that retries need a cap and that alerts should fire on error rate, not just CPU.	
+F0093	resp	问答	How would you improve this pipeline?	I'd add caching at the retrieval layer and batch the embedding calls.	
+F0094	resp	问答	What's your role on the team?	I own the retrieval and evaluation components and work closely with the backend team.	
+F0095	resp	问答	Why did you choose this approach?	It's the simplest option that meets the latency target, and it's easy to roll back.	
+F0096	resp	问答	What are the next steps?	First, we'll add a test. Then we'll run a small experiment. Finally, we'll update the docs.	
+F0097	resp	问答	Is the system ready for production?	Not yet. We need to fix two blockers and run a load test.	
+F0098	resp	问答	How do you handle failures?	We retry with backoff, fall back to a cached response, and log the failure.	
+F0099	resp	问答	What's the cost impact?	The estimate is about 20% higher, mostly from the embedding calls.	
+F0100	resp	问答	Can we ship on Friday?	I think so, if the review passes today. Otherwise, Monday is safer.	
+F0101	resp	问答	What's the user feedback?	Users like the speed, but they want more control over the sources.	
+F0102	resp	问答	Why is the test flaky?	It depends on a shared database. We'll isolate it with a transaction.	
+F0103	resp	问答	How do you monitor the service?	We track latency, error rate, and queue depth, with alerts on each.	
+F0104	resp	问答	What's the biggest unknown?	The data distribution in production. We'll start with a small canary.	
+F0105	resp	问答	How would you explain this to a non-technical stakeholder?	It's like a search assistant that finds the right document and summarizes it.	
+F0106	resp	问答	What's the timeline?	Two weeks for the core flow, plus one week for hardening.	
+F0107	resp	问答	Did the fix work?	Partially. The error rate dropped, but the latency is still high.	
+F0108	resp	问答	What do you need from me?	A decision on the scope, and access to the staging logs.	
+F0109	resp	问答	Any concerns?	One: the model may hallucinate citations. We should add a verification step.	
+F0110	resp	问答	How do you prioritize?	I prioritize by user impact and reversibility. Small, safe changes go first.	
+F0111	situation	站会	汇报昨天做了什么	Yesterday I fixed the flaky test and reviewed two PRs.	
+F0112	situation	站会	汇报今天做什么	Today I'll finish the migration script and run a load test.	
+F0113	situation	站会	说明阻塞项	I'm blocked on staging access. Could someone approve the request?	
+F0114	situation	事故	说明现状	We're seeing a spike in 5xx errors on the recommendation service.	
+F0115	situation	事故	给出缓解措施	We rolled back the last deploy and the error rate is coming down.	
+F0116	situation	事故	说明下一步	I'll post an update every 15 minutes until the error rate is back to normal.	
+F0117	situation	代码评审	提出非阻塞建议	Non-blocking suggestion: could we extract this into a helper?	
+F0118	situation	代码评审	指出阻塞问题	This is a blocker because it breaks backward compatibility.	
+F0119	situation	设计评审	提出担忧	I agree with the goal, but I'm concerned about the operational cost.	
+F0120	situation	设计评审	给出替代方案	One option is to add a cache; another is to batch the requests.	
+F0121	situation	面试	介绍项目背景	The system answers questions over internal documents for the support team.	
+F0122	situation	面试	说明你的贡献	I designed the retrieval pipeline and built the evaluation harness.	
+F0123	situation	面试	讲清结果	We cut the average response time from 4 seconds to 1.2 seconds.	
+F0124	situation	面试	说明取舍	The main trade-off was recall versus latency, and we chose recall.	
+F0125	situation	跨团队	提出请求	Could your team expose the metrics through the existing API?	
+F0126	situation	跨团队	协商时间	We can start next sprint if that works for you.	

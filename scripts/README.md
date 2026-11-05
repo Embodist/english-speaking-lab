@@ -3,7 +3,7 @@ type: guide
 title: 脚本说明
 tags: [guide, meta]
 created: 2026-10-23
-updated: 2026-10-23
+updated: 2026-11-05
 ---
 
 # 脚本说明
@@ -15,6 +15,11 @@ updated: 2026-10-23
 | `setup.sh` | 从零搭建环境（可重复执行） | `bash scripts/setup.sh` |
 | `check-env.sh` | 检查工具、Python 包和模型 | `bash scripts/check-env.sh` |
 | `lab.sh` | 统一流水线：TTS + ASR + 发音 + 报告 | `bash scripts/lab.sh analyze a.wav "sentence"` |
+| `study.py` | 短语 / 词根 / FSI 抽认与 Drill | `python scripts/study.py phrase --n 20` |
+| `build_phrase_1200.py` | 从 TSV 生成 1200 短语笔记 | `python scripts/build_phrase_1200.py` |
+| `build_word_roots.py` | 生成词根、词缀、技术词笔记 | `python scripts/build_word_roots.py` |
+| `build_fsi_drills.py` | 生成 FSI 替换/变换/应答/情景笔记 | `python scripts/build_fsi_drills.py` |
+| `build_phrase_roots_apkg.py` | 导出短语与词根 Anki 牌组 | `~/english/.venv/bin/python scripts/build_phrase_roots_apkg.py` |
 | `lab_server.py` | 同源 API：`/lab`、`/lab/asr`、`/lab/save` | 由 `start-web.sh` 启动 |
 | `start-translate.sh` | 启动 Hy-MT2 翻译服务（GPU，8081） | `bash scripts/start-translate.sh --background` |
 | `translate.sh` | 中文 → 英文草稿 | `bash scripts/translate.sh "中文"` |
@@ -30,6 +35,17 @@ updated: 2026-10-23
 | `tts.sh` | 用 Piper 生成参考音 | `bash scripts/tts.sh "sentence"` |
 | `asr.sh` | 转写录音，检查可懂度 | `bash scripts/asr.sh a.wav --engine vosk` |
 | `new-day.sh` | 从模板生成当天记录 | `bash scripts/new-day.sh` |
+
+## 学习数据源
+
+| 数据 | 路径 | 生成物 |
+|---|---|---|
+| 1200 短语 | `12_word-phrase-bank/11-phrase-1200/data/phrases-1200.tsv` | `11-phrase-1200/*.md`、`1200-phrases.apkg` |
+| 词根 / 词缀 | `17_word-roots/data/{roots,prefixes,suffixes}.tsv` | `17_word-roots/*.md`、`word-roots.apkg`、`affixes.apkg` |
+| 技术词 | `17_word-roots/data/tech.tsv` | `04-tech-words.md`、`tech-words.apkg` |
+| FSI Drill | `18_fsi-drills/data/drills.tsv` | `18_fsi-drills/*.md` |
+
+改内容只改 TSV，然后跑对应 `build_*.py`；不要手改生成出来的 Markdown。
 
 ## 环境变量
 

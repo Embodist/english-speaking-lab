@@ -3,7 +3,7 @@ type: guide
 title: 目录与管理规范
 tags: [guide, meta]
 created: 2026-10-23
-updated: 2026-10-23
+updated: 2026-11-05
 ---
 
 # 目录与管理规范
@@ -39,6 +39,9 @@ updated: 2026-10-23
 | `13_tech-frameworks/` | LLM、Agent、音乐、RAG 能力记录 | 具体项目故事（放面试目录） |
 | `14_llm-papers/` | LLM 论文逐篇词汇、阅读流程、Anki CSV | 通用论文句式（放 04/05） |
 | `15_resume/` | 基于真实简历的自我介绍、经历、项目故事 | 联系方式、证件信息 |
+| `16_cpp-core-guidelines/` | C++ Core Guidelines 术语与 Anki 词库 | 通用 C++ 教程 |
+| `17_word-roots/` | 词根、前缀、后缀、技术词拆解 | 通用单词表 |
+| `18_fsi-drills/` | FSI 式替换、变换、应答、情景 Drill | 语法讲解 |
 
 ## 命名规范
 
