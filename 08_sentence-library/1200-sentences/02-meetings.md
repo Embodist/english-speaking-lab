@@ -2,8 +2,8 @@
 type: topic
 title: "1200 句 · 02 会议表达与团队讨论"
 tags: [library/sentence, skill/speaking, status/learning]
-created: 2026-11-05
-updated: 2026-11-05
+created: 2026-11-06
+updated: 2026-11-06
 ---
 
 # 1200 句 · 02 会议表达与团队讨论

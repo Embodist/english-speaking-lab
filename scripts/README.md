@@ -23,6 +23,8 @@ updated: 2026-11-05
 | `build_sentence_1200_apkg.py` | 导出 1200 句 Anki 牌组 | `~/english/.venv/bin/python scripts/build_sentence_1200_apkg.py` |
 | `build_phrase_apkg.py` | 导出基础短语 Anki 牌组 | `~/english/.venv/bin/python scripts/build_phrase_apkg.py` |
 | `build_affix_apkg.py` | 导出前缀/后缀/例词 Anki 牌组 | `~/english/.venv/bin/python scripts/build_affix_apkg.py` |
+| `build_qwerty_dicts.py` | 生成 qwerty-learner 词库 JSON | `python scripts/build_qwerty_dicts.py` |
+| `install_qwerty_dicts.py` | 安装词库到本地 qwerty-learner | `python scripts/install_qwerty_dicts.py /path/to/qwerty-learner` |
 | `lab_server.py` | 同源 API：`/lab`、`/lab/asr`、`/lab/save` | 由 `start-web.sh` 启动 |
 | `start-translate.sh` | 启动 Hy-MT2 翻译服务（GPU，8081） | `bash scripts/start-translate.sh --background` |
 | `translate.sh` | 中文 → 英文草稿 | `bash scripts/translate.sh "中文"` |
@@ -47,6 +49,7 @@ updated: 2026-11-05
 | 基础短语（补充） | `12_word-phrase-bank/11-basic-phrases/data/phrases-1200.tsv` | `11-basic-phrases/*.md`、`basic-phrases.apkg` |
 | 前后缀 335 | `17_word-roots/data/{affixes,affix-examples}.tsv` | `17_word-roots/*.md`、`prefixes.apkg`、`suffixes.apkg`、`affix-examples.apkg` |
 | FSI Drill | `18_fsi-drills/data/drills.tsv` | `18_fsi-drills/*.md` |
+| qwerty 词库 | `19_qwerty-learner/dicts/*.json` | `19_qwerty-learner/manifest.json` |
 
 改内容只改 TSV，然后跑对应 `build_*.py`；不要手改生成出来的 Markdown。
 

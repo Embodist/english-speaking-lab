@@ -2,8 +2,8 @@
 type: word-bank
 title: "工作高频 90 条"
 tags: [library/word-bank, skill/speaking, status/learning]
-created: 2026-11-05
-updated: 2026-11-05
+created: 2026-11-06
+updated: 2026-11-06
 ---
 
 # 工作高频 90 条

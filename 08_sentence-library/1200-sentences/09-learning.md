@@ -2,8 +2,8 @@
 type: topic
 title: "1200 句 · 09 学习成长与表达交流"
 tags: [library/sentence, skill/speaking, status/learning]
-created: 2026-11-05
-updated: 2026-11-05
+created: 2026-11-06
+updated: 2026-11-06
 ---
 
 # 1200 句 · 09 学习成长与表达交流

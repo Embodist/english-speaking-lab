@@ -1,0 +1,842 @@
+[
+ {
+  "name": "Can you let me know ahead of time?",
+  "trans": [
+   "你能提前告诉我吗？",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "I'm just checking in on that matter.",
+  "trans": [
+   "我只是跟进一下那件事。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "That works for me.",
+  "trans": [
+   "这个安排我可以。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "Let's revisit this later.",
+  "trans": [
+   "我们稍后再讨论这个。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "I'll keep you posted.",
+  "trans": [
+   "我会及时同步进展。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "Let me stay in the loop.",
+  "trans": [
+   "请让我了解最新进展。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "I'll follow up with you on that.",
+  "trans": [
+   "我会跟进这件事。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "Let's put that on hold for now.",
+  "trans": [
+   "我们暂时搁置这个问题。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "I'm taking care of it.",
+  "trans": [
+   "我正在处理。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "That changes everything.",
+  "trans": [
+   "这完全改变了局面。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "Let's touch base tomorrow.",
+  "trans": [
+   "我们明天再沟通一下。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "Go ahead, I'm listening.",
+  "trans": [
+   "你说吧，我在听。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "It benefits both sides.",
+  "trans": [
+   "这对双方都有好处。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "That's a solid point.",
+  "trans": [
+   "这是个很有道理的观点。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "I'll handle that for you.",
+  "trans": [
+   "我来帮你处理。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "Let me look into that.",
+  "trans": [
+   "让我调查一下。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "I'll be right back in a sec.",
+  "trans": [
+   "我马上回来。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "Let's keep this short and sweet.",
+  "trans": [
+   "我们简明扼要地讨论吧。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "Could you give me a quick minute?",
+  "trans": [
+   "能给我一点时间吗？",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "I'm just testing the waters here.",
+  "trans": [
+   "我只是在试探一下。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "We're running short on time.",
+  "trans": [
+   "我们时间不多了。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "I'll catch up with you soon.",
+  "trans": [
+   "我很快再联系你。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "Let's kick things off.",
+  "trans": [
+   "我们开始吧。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "This is top priority.",
+  "trans": [
+   "这是优先事项。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "Let's dive into the core agenda.",
+  "trans": [
+   "我们进入核心议程吧。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "I'm happy to lend a hand with this.",
+  "trans": [
+   "我很乐意帮忙处理这件事。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "I need to step out for a quick call.",
+  "trans": [
+   "我需要出去接个电话。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "Let's book a time to chat about this.",
+  "trans": [
+   "我们约个时间聊聊吧。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "I'm excited to get started on this.",
+  "trans": [
+   "我很期待开始这项工作。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "This is the key takeaway from today.",
+  "trans": [
+   "这是今天的核心要点。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "Could you walk me through the process?",
+  "trans": [
+   "你能带我过一遍流程吗？",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "That's a smart move to make.",
+  "trans": [
+   "这是个明智的决定。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "We'll keep this option on the table.",
+  "trans": [
+   "我们会保留这个方案。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "Let's brainstorm different approaches.",
+  "trans": [
+   "我们来集思广益，想想不同的方法。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "I'm not sure I'm following your point.",
+  "trans": [
+   "我不太确定自己理解了你的意思。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "Could you clarify that step for me?",
+  "trans": [
+   "你能为我解释一下那一步吗？",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "I'll make sure to keep that in mind.",
+  "trans": [
+   "我会记住这一点。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "I'll take a closer look at this file.",
+  "trans": [
+   "我会仔细查看这个文件。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "It was great connecting with you today.",
+  "trans": [
+   "今天和你沟通很愉快。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "Let's list out the next steps clearly.",
+  "trans": [
+   "我们把下一步行动列清楚吧。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "I'm fully aligned with your thoughts.",
+  "trans": [
+   "我完全理解并认同你的想法。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "This needs our immediate focus.",
+  "trans": [
+   "这件事需要我们立即关注。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "Can we revisit this topic later?",
+  "trans": [
+   "我们之后再讨论这个话题好吗？",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "I'll get this sorted out right away.",
+  "trans": [
+   "我会马上把这件事处理好。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "This isn't my area of expertise.",
+  "trans": [
+   "这不是我的专业领域。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "I'm juggling multiple deadlines right now.",
+  "trans": [
+   "我现在同时应对多个截止日期。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "I'll circle back with you once I know more.",
+  "trans": [
+   "了解更多情况后我再联系你。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "Let's make sure we're on the same page.",
+  "trans": [
+   "我们确认一下彼此的理解一致。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "We're in the final stretch of this project.",
+  "trans": [
+   "这个项目已经进入最后阶段。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "Let's park this idea for now.",
+  "trans": [
+   "我们暂时把这个想法放一放。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "I need to understand the full picture first.",
+  "trans": [
+   "我需要先了解整体情况。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "This is a tricky problem to solve.",
+  "trans": [
+   "这是个棘手的问题。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "I'll check in with you early next week.",
+  "trans": [
+   "我下周初和你同步一下。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "I'm all set for the presentation tomorrow.",
+  "trans": [
+   "我已经准备好明天的演示了。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "I'll get back to you by the end of the day.",
+  "trans": [
+   "我会在今天结束前回复你。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "Let's regroup and plan our next move.",
+  "trans": [
+   "我们重新讨论一下，规划下一步。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "We're definitely on the same wavelength.",
+  "trans": [
+   "我们的想法确实很一致。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "Could you elaborate on that part a bit more?",
+  "trans": [
+   "你能进一步解释那部分吗？",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "I'm still working through the details.",
+  "trans": [
+   "我还在梳理细节。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "Let's touch base on Friday afternoon.",
+  "trans": [
+   "我们周五下午沟通一下吧。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "This is a top priority for the team.",
+  "trans": [
+   "这是团队的首要任务。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "I think we're ready to move forward.",
+  "trans": [
+   "我觉得我们可以继续推进了。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "I'll keep you posted on any updates.",
+  "trans": [
+   "有任何进展我都会告诉你。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "Can we get a quick progress update?",
+  "trans": [
+   "我们能快速了解一下进度吗？",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "Let's go over the plan one more time.",
+  "trans": [
+   "我们再把计划过一遍吧。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "Please submit your report before noon.",
+  "trans": [
+   "请在中午之前提交报告。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "We should stick to the original schedule.",
+  "trans": [
+   "我们应该按照原定计划执行。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "The overall result meets our expectations.",
+  "trans": [
+   "整体结果符合我们的预期。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "Could you send me a quick summary?",
+  "trans": [
+   "你能给我发一份简短总结吗？",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "Let's break this task into smaller steps.",
+  "trans": [
+   "我们把这项任务拆分成几个小步骤吧。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "I need a little more context before deciding.",
+  "trans": [
+   "做决定前，我需要更多背景信息。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "Can we set a clear deadline for this?",
+  "trans": [
+   "我们能为这件事确定一个明确的截止日期吗？",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "Let's assign someone to take ownership of this.",
+  "trans": [
+   "我们安排一个人负责这件事吧。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "I want to make sure nothing slips through the cracks.",
+  "trans": [
+   "我想确保没有遗漏任何事情。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "We're making steady progress so far.",
+  "trans": [
+   "目前我们的进展很稳定。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "I'll review the document before sending it out.",
+  "trans": [
+   "我会在发出文件前检查一下。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "Could you flag any potential issues?",
+  "trans": [
+   "你能标记出潜在的问题吗？",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "Let's keep the communication clear and simple.",
+  "trans": [
+   "我们保持沟通清晰、简单。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "I need to double-check the numbers.",
+  "trans": [
+   "我需要再核对一下数据。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "We're still waiting on the client's response.",
+  "trans": [
+   "我们还在等待客户的回复。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "I'll coordinate with the relevant departments.",
+  "trans": [
+   "我会和相关部门协调。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "Let's make a decision based on the available data.",
+  "trans": [
+   "我们根据现有数据做决定吧。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "I don't want us to lose sight of the bigger picture.",
+  "trans": [
+   "我不希望我们忽略整体方向。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "Can you give me an estimated completion date?",
+  "trans": [
+   "你能给我一个预计完成日期吗？",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "We may need to adjust our timeline.",
+  "trans": [
+   "我们可能需要调整时间安排。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "Let's focus on what we can control.",
+  "trans": [
+   "我们专注于能控制的事情吧。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "I'll send you a reminder tomorrow.",
+  "trans": [
+   "我明天提醒你一下。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "We need to keep everyone informed.",
+  "trans": [
+   "我们需要让所有人了解情况。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "I'll make the necessary changes.",
+  "trans": [
+   "我会做出必要的修改。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "Let's avoid unnecessary delays.",
+  "trans": [
+   "我们尽量避免不必要的延误。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "I'm waiting for final approval.",
+  "trans": [
+   "我正在等待最终批准。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "We should discuss the risks beforehand.",
+  "trans": [
+   "我们应该提前讨论风险。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "I'll share the updated schedule shortly.",
+  "trans": [
+   "我很快会分享更新后的时间表。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "Could you take ownership of this part?",
+  "trans": [
+   "你能负责这一部分吗？",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "We need to clarify everyone's responsibilities.",
+  "trans": [
+   "我们需要明确每个人的职责。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "Let's check whether the plan is still realistic.",
+  "trans": [
+   "我们确认一下这个计划是否仍然可行。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "I'm concerned about the current timeline.",
+  "trans": [
+   "我对目前的时间安排有些担忧。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "We have a few things to iron out.",
+  "trans": [
+   "我们还有一些问题需要解决。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "Let's make the most of our time.",
+  "trans": [
+   "我们充分利用时间吧。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "I'll prepare a draft for your review.",
+  "trans": [
+   "我会准备一份草稿供你审核。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "We should keep a record of the changes.",
+  "trans": [
+   "我们应该记录所有修改。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "Could you explain the reason behind this decision?",
+  "trans": [
+   "你能解释一下做出这个决定的原因吗？",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "Let's not rush into a conclusion.",
+  "trans": [
+   "我们不要急于下结论。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "I can take the lead on this task.",
+  "trans": [
+   "这项任务我可以牵头。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "We need to make sure the resources are available.",
+  "trans": [
+   "我们需要确认资源是否到位。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "I'll update the tracker after the meeting.",
+  "trans": [
+   "会议后我会更新进度表。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "Let's agree on the main objectives first.",
+  "trans": [
+   "我们先确定主要目标吧。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "I need some time to assess the situation.",
+  "trans": [
+   "我需要一些时间评估情况。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "We should consider a few alternatives.",
+  "trans": [
+   "我们应该考虑几个替代方案。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "I'll check with the finance team.",
+  "trans": [
+   "我会和财务团队确认一下。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "Can we move this discussion to email?",
+  "trans": [
+   "我们可以把这次讨论转到邮件上吗？",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "Let's make the expectations clear from the start.",
+  "trans": [
+   "我们从一开始就明确预期吧。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "I appreciate your flexibility on this.",
+  "trans": [
+   "感谢你在这件事上的灵活配合。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "We need to stay focused on the deadline.",
+  "trans": [
+   "我们需要始终关注截止日期。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "I'll let you know if anything changes.",
+  "trans": [
+   "如果有任何变化，我会告诉你。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "Let's review the results together.",
+  "trans": [
+   "我们一起检查一下结果吧。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "I think we need a more practical solution.",
+  "trans": [
+   "我觉得我们需要一个更实际的解决方案。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "Can you confirm that everything is ready?",
+  "trans": [
+   "你能确认一切都准备好了吗？",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "We'll take it one step at a time.",
+  "trans": [
+   "我们一步一步来。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ },
+ {
+  "name": "Let's make sure we finish this properly.",
+  "trans": [
+   "我们确保把这件事妥善完成。",
+   "职场沟通与工作协作 · 综合"
+  ]
+ }
+]

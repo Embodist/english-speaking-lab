@@ -2,8 +2,8 @@
 type: word-bank
 title: "后缀 01–43"
 tags: [library/word-bank, skill/speaking, status/learning]
-created: 2026-11-05
-updated: 2026-11-05
+created: 2026-11-06
+updated: 2026-11-06
 ---
 
 # 后缀 01–43

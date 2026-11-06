@@ -1,0 +1,884 @@
+[
+ {
+  "name": "I need to look into the latency spike.",
+  "trans": [
+   "the latency spike",
+   "FSI · 替换"
+  ]
+ },
+ {
+  "name": "I need to look into the failing test.",
+  "trans": [
+   "the failing test",
+   "FSI · 替换"
+  ]
+ },
+ {
+  "name": "I need to look into the auth error.",
+  "trans": [
+   "the auth error",
+   "FSI · 替换"
+  ]
+ },
+ {
+  "name": "I need to look into the data drift.",
+  "trans": [
+   "the data drift",
+   "FSI · 替换"
+  ]
+ },
+ {
+  "name": "I need to look into the memory leak.",
+  "trans": [
+   "the memory leak",
+   "FSI · 替换"
+  ]
+ },
+ {
+  "name": "I need to look into the missing index.",
+  "trans": [
+   "the missing index",
+   "FSI · 替换"
+  ]
+ },
+ {
+  "name": "Could you take a look at the PR?",
+  "trans": [
+   "the PR",
+   "FSI · 替换"
+  ]
+ },
+ {
+  "name": "Could you take a look at the dashboard?",
+  "trans": [
+   "the dashboard",
+   "FSI · 替换"
+  ]
+ },
+ {
+  "name": "Could you take a look at the error log?",
+  "trans": [
+   "the error log",
+   "FSI · 替换"
+  ]
+ },
+ {
+  "name": "Could you take a look at the config change?",
+  "trans": [
+   "the config change",
+   "FSI · 替换"
+  ]
+ },
+ {
+  "name": "Could you take a look at the test failure?",
+  "trans": [
+   "the test failure",
+   "FSI · 替换"
+  ]
+ },
+ {
+  "name": "Could you take a look at the API response?",
+  "trans": [
+   "the API response",
+   "FSI · 替换"
+  ]
+ },
+ {
+  "name": "We should roll back the release.",
+  "trans": [
+   "the release",
+   "FSI · 替换"
+  ]
+ },
+ {
+  "name": "We should roll back the schema change.",
+  "trans": [
+   "the schema change",
+   "FSI · 替换"
+  ]
+ },
+ {
+  "name": "We should roll back the config.",
+  "trans": [
+   "the config",
+   "FSI · 替换"
+  ]
+ },
+ {
+  "name": "We should roll back the model update.",
+  "trans": [
+   "the model update",
+   "FSI · 替换"
+  ]
+ },
+ {
+  "name": "We should roll back the prompt change.",
+  "trans": [
+   "the prompt change",
+   "FSI · 替换"
+  ]
+ },
+ {
+  "name": "We should roll back the index rebuild.",
+  "trans": [
+   "the index rebuild",
+   "FSI · 替换"
+  ]
+ },
+ {
+  "name": "The main blocker is the missing credentials.",
+  "trans": [
+   "the missing credentials",
+   "FSI · 替换"
+  ]
+ },
+ {
+  "name": "The main blocker is the flaky test.",
+  "trans": [
+   "the flaky test",
+   "FSI · 替换"
+  ]
+ },
+ {
+  "name": "The main blocker is the unclear requirement.",
+  "trans": [
+   "the unclear requirement",
+   "FSI · 替换"
+  ]
+ },
+ {
+  "name": "The main blocker is the data quality.",
+  "trans": [
+   "the data quality",
+   "FSI · 替换"
+  ]
+ },
+ {
+  "name": "The main blocker is the rate limit.",
+  "trans": [
+   "the rate limit",
+   "FSI · 替换"
+  ]
+ },
+ {
+  "name": "The main blocker is the dependency conflict.",
+  "trans": [
+   "the dependency conflict",
+   "FSI · 替换"
+  ]
+ },
+ {
+  "name": "I'll follow up on the incident report by EOD.",
+  "trans": [
+   "the incident report",
+   "FSI · 替换"
+  ]
+ },
+ {
+  "name": "I'll follow up on the benchmark result by EOD.",
+  "trans": [
+   "the benchmark result",
+   "FSI · 替换"
+  ]
+ },
+ {
+  "name": "I'll follow up on the PR review by EOD.",
+  "trans": [
+   "the PR review",
+   "FSI · 替换"
+  ]
+ },
+ {
+  "name": "I'll follow up on the customer issue by EOD.",
+  "trans": [
+   "the customer issue",
+   "FSI · 替换"
+  ]
+ },
+ {
+  "name": "I'll follow up on the rollout plan by EOD.",
+  "trans": [
+   "the rollout plan",
+   "FSI · 替换"
+  ]
+ },
+ {
+  "name": "I'll follow up on the cost estimate by EOD.",
+  "trans": [
+   "the cost estimate",
+   "FSI · 替换"
+  ]
+ },
+ {
+  "name": "We can mitigate that by adding a retry cap.",
+  "trans": [
+   "adding a retry cap",
+   "FSI · 替换"
+  ]
+ },
+ {
+  "name": "We can mitigate that by caching the results.",
+  "trans": [
+   "caching the results",
+   "FSI · 替换"
+  ]
+ },
+ {
+  "name": "We can mitigate that by narrowing the scope.",
+  "trans": [
+   "narrowing the scope",
+   "FSI · 替换"
+  ]
+ },
+ {
+  "name": "We can mitigate that by adding a feature flag.",
+  "trans": [
+   "adding a feature flag",
+   "FSI · 替换"
+  ]
+ },
+ {
+  "name": "We can mitigate that by batching the requests.",
+  "trans": [
+   "batching the requests",
+   "FSI · 替换"
+  ]
+ },
+ {
+  "name": "We can mitigate that by logging the inputs.",
+  "trans": [
+   "logging the inputs",
+   "FSI · 替换"
+  ]
+ },
+ {
+  "name": "It might be worth running a small experiment.",
+  "trans": [
+   "running a small experiment",
+   "FSI · 替换"
+  ]
+ },
+ {
+  "name": "It might be worth measuring the baseline.",
+  "trans": [
+   "measuring the baseline",
+   "FSI · 替换"
+  ]
+ },
+ {
+  "name": "It might be worth checking the logs.",
+  "trans": [
+   "checking the logs",
+   "FSI · 替换"
+  ]
+ },
+ {
+  "name": "It might be worth asking the users.",
+  "trans": [
+   "asking the users",
+   "FSI · 替换"
+  ]
+ },
+ {
+  "name": "It might be worth testing the edge case.",
+  "trans": [
+   "testing the edge case",
+   "FSI · 替换"
+  ]
+ },
+ {
+  "name": "It might be worth comparing the two models.",
+  "trans": [
+   "comparing the two models",
+   "FSI · 替换"
+  ]
+ },
+ {
+  "name": "I'm concerned that the retry may amplify the load.",
+  "trans": [
+   "the retry may amplify the load",
+   "FSI · 替换"
+  ]
+ },
+ {
+  "name": "I'm concerned that the cache may go stale.",
+  "trans": [
+   "the cache may go stale",
+   "FSI · 替换"
+  ]
+ },
+ {
+  "name": "I'm concerned that the change may break clients.",
+  "trans": [
+   "the change may break clients",
+   "FSI · 替换"
+  ]
+ },
+ {
+  "name": "I'm concerned that the model may hallucinate.",
+  "trans": [
+   "the model may hallucinate",
+   "FSI · 替换"
+  ]
+ },
+ {
+  "name": "I'm concerned that the queue may back up.",
+  "trans": [
+   "the queue may back up",
+   "FSI · 替换"
+  ]
+ },
+ {
+  "name": "I'm concerned that the test may be flaky.",
+  "trans": [
+   "the test may be flaky",
+   "FSI · 替换"
+  ]
+ },
+ {
+  "name": "The trade-off is accuracy versus latency.",
+  "trans": [
+   "accuracy / latency",
+   "FSI · 替换"
+  ]
+ },
+ {
+  "name": "The trade-off is cost versus quality.",
+  "trans": [
+   "cost / quality",
+   "FSI · 替换"
+  ]
+ },
+ {
+  "name": "The trade-off is speed versus safety.",
+  "trans": [
+   "speed / safety",
+   "FSI · 替换"
+  ]
+ },
+ {
+  "name": "The trade-off is recall versus precision.",
+  "trans": [
+   "recall / precision",
+   "FSI · 替换"
+  ]
+ },
+ {
+  "name": "The trade-off is simplicity versus flexibility.",
+  "trans": [
+   "simplicity / flexibility",
+   "FSI · 替换"
+  ]
+ },
+ {
+  "name": "The trade-off is latency versus throughput.",
+  "trans": [
+   "latency / throughput",
+   "FSI · 替换"
+  ]
+ },
+ {
+  "name": "Let's start with the core flow, then move to the edge cases.",
+  "trans": [
+   "the core flow / the edge cases",
+   "FSI · 替换"
+  ]
+ },
+ {
+  "name": "Let's start with the read path, then move to the write path.",
+  "trans": [
+   "the read path / the write path",
+   "FSI · 替换"
+  ]
+ },
+ {
+  "name": "Let's start with the single node, then move to the cluster.",
+  "trans": [
+   "the single node / the cluster",
+   "FSI · 替换"
+  ]
+ },
+ {
+  "name": "Let's start with the baseline, then move to the optimization.",
+  "trans": [
+   "the baseline / the optimization",
+   "FSI · 替换"
+  ]
+ },
+ {
+  "name": "Let's start with the internal users, then move to the external users.",
+  "trans": [
+   "the internal users / the external users",
+   "FSI · 替换"
+  ]
+ },
+ {
+  "name": "Let's start with the logs, then move to the alerts.",
+  "trans": [
+   "the logs / the alerts",
+   "FSI · 替换"
+  ]
+ },
+ {
+  "name": "Did the change break the build?",
+  "trans": [
+   "The change broke the build.",
+   "FSI · 陈述→疑问"
+  ]
+ },
+ {
+  "name": "Did we roll back the release?",
+  "trans": [
+   "We rolled back the release.",
+   "FSI · 陈述→疑问"
+  ]
+ },
+ {
+  "name": "Did the latency double after the deploy?",
+  "trans": [
+   "The latency doubled after the deploy.",
+   "FSI · 陈述→疑问"
+  ]
+ },
+ {
+  "name": "Does the model return inconsistent results?",
+  "trans": [
+   "The model returns inconsistent results.",
+   "FSI · 陈述→疑问"
+  ]
+ },
+ {
+  "name": "Have they reproduced the issue?",
+  "trans": [
+   "They have reproduced the issue.",
+   "FSI · 陈述→疑问"
+  ]
+ },
+ {
+  "name": "The tests don't pass locally.",
+  "trans": [
+   "The tests pass locally.",
+   "FSI · 肯定→否定"
+  ]
+ },
+ {
+  "name": "We don't have enough data.",
+  "trans": [
+   "We have enough data.",
+   "FSI · 肯定→否定"
+  ]
+ },
+ {
+  "name": "The fix isn't backward-compatible.",
+  "trans": [
+   "The fix is backward-compatible.",
+   "FSI · 肯定→否定"
+  ]
+ },
+ {
+  "name": "The service isn't healthy.",
+  "trans": [
+   "The service is healthy.",
+   "FSI · 肯定→否定"
+  ]
+ },
+ {
+  "name": "I can't reproduce it.",
+  "trans": [
+   "I can reproduce it.",
+   "FSI · 肯定→否定"
+  ]
+ },
+ {
+  "name": "The PR was reviewed by the team.",
+  "trans": [
+   "The team reviewed the PR.",
+   "FSI · 主动→被动"
+  ]
+ },
+ {
+  "name": "The model was deployed yesterday.",
+  "trans": [
+   "We deployed the model yesterday.",
+   "FSI · 主动→被动"
+  ]
+ },
+ {
+  "name": "The request was rejected by the system.",
+  "trans": [
+   "The system rejected the request.",
+   "FSI · 主动→被动"
+  ]
+ },
+ {
+  "name": "The bug was fixed in one day.",
+  "trans": [
+   "They fixed the bug in one day.",
+   "FSI · 主动→被动"
+  ]
+ },
+ {
+  "name": "The logs were deleted.",
+  "trans": [
+   "Someone deleted the logs.",
+   "FSI · 主动→被动"
+  ]
+ },
+ {
+  "name": "Could you send me the report?",
+  "trans": [
+   "Send me the report.",
+   "FSI · 直接→礼貌"
+  ]
+ },
+ {
+  "name": "Could you explain this again?",
+  "trans": [
+   "Explain this again.",
+   "FSI · 直接→礼貌"
+  ]
+ },
+ {
+  "name": "Do you think we could fix the bug today?",
+  "trans": [
+   "Fix the bug today.",
+   "FSI · 直接→礼貌"
+  ]
+ },
+ {
+  "name": "Would you mind changing the config?",
+  "trans": [
+   "Change the config.",
+   "FSI · 直接→礼貌"
+  ]
+ },
+ {
+  "name": "Could you show me the dashboard?",
+  "trans": [
+   "Show me the dashboard.",
+   "FSI · 直接→礼貌"
+  ]
+ },
+ {
+  "name": "The service was down.",
+  "trans": [
+   "The service is down.",
+   "FSI · 现在→过去"
+  ]
+ },
+ {
+  "name": "We were investigating the issue.",
+  "trans": [
+   "We are investigating the issue.",
+   "FSI · 现在→过去"
+  ]
+ },
+ {
+  "name": "The model performed well.",
+  "trans": [
+   "The model performs well.",
+   "FSI · 现在→过去"
+  ]
+ },
+ {
+  "name": "I saw the error in the logs.",
+  "trans": [
+   "I see the error in the logs.",
+   "FSI · 现在→过去"
+  ]
+ },
+ {
+  "name": "The team worked on the migration.",
+  "trans": [
+   "The team works on the migration.",
+   "FSI · 现在→过去"
+  ]
+ },
+ {
+  "name": "It's on track. We've migrated 60% of the data and expect to finish by Friday.",
+  "trans": [
+   "What's the status of the migration?",
+   "FSI · 问答"
+  ]
+ },
+ {
+  "name": "The spike started after the model upgrade. We're rolling back and monitoring.",
+  "trans": [
+   "Why did the latency spike?",
+   "FSI · 问答"
+  ]
+ },
+ {
+  "name": "The flaky integration test. We're isolating it and will decide by noon.",
+  "trans": [
+   "What's blocking the release?",
+   "FSI · 问答"
+  ]
+ },
+ {
+  "name": "Sure. The client sends a request, the gateway authenticates it, and the service retrieves context from the vector store.",
+  "trans": [
+   "Can you walk me through the design?",
+   "FSI · 问答"
+  ]
+ },
+ {
+  "name": "The main risk is backward compatibility. We'll ship it behind a flag and roll out gradually.",
+  "trans": [
+   "What's the risk of this change?",
+   "FSI · 问答"
+  ]
+ },
+ {
+  "name": "We track retrieval recall, answer groundedness, and latency on a fixed evaluation set.",
+  "trans": [
+   "How do you evaluate the RAG system?",
+   "FSI · 问答"
+  ]
+ },
+ {
+  "name": "We learned that retries need a cap and that alerts should fire on error rate, not just CPU.",
+  "trans": [
+   "What did you learn from the incident?",
+   "FSI · 问答"
+  ]
+ },
+ {
+  "name": "I'd add caching at the retrieval layer and batch the embedding calls.",
+  "trans": [
+   "How would you improve this pipeline?",
+   "FSI · 问答"
+  ]
+ },
+ {
+  "name": "I own the retrieval and evaluation components and work closely with the backend team.",
+  "trans": [
+   "What's your role on the team?",
+   "FSI · 问答"
+  ]
+ },
+ {
+  "name": "It's the simplest option that meets the latency target, and it's easy to roll back.",
+  "trans": [
+   "Why did you choose this approach?",
+   "FSI · 问答"
+  ]
+ },
+ {
+  "name": "First, we'll add a test. Then we'll run a small experiment. Finally, we'll update the docs.",
+  "trans": [
+   "What are the next steps?",
+   "FSI · 问答"
+  ]
+ },
+ {
+  "name": "Not yet. We need to fix two blockers and run a load test.",
+  "trans": [
+   "Is the system ready for production?",
+   "FSI · 问答"
+  ]
+ },
+ {
+  "name": "We retry with backoff, fall back to a cached response, and log the failure.",
+  "trans": [
+   "How do you handle failures?",
+   "FSI · 问答"
+  ]
+ },
+ {
+  "name": "The estimate is about 20% higher, mostly from the embedding calls.",
+  "trans": [
+   "What's the cost impact?",
+   "FSI · 问答"
+  ]
+ },
+ {
+  "name": "I think so, if the review passes today. Otherwise, Monday is safer.",
+  "trans": [
+   "Can we ship on Friday?",
+   "FSI · 问答"
+  ]
+ },
+ {
+  "name": "Users like the speed, but they want more control over the sources.",
+  "trans": [
+   "What's the user feedback?",
+   "FSI · 问答"
+  ]
+ },
+ {
+  "name": "It depends on a shared database. We'll isolate it with a transaction.",
+  "trans": [
+   "Why is the test flaky?",
+   "FSI · 问答"
+  ]
+ },
+ {
+  "name": "We track latency, error rate, and queue depth, with alerts on each.",
+  "trans": [
+   "How do you monitor the service?",
+   "FSI · 问答"
+  ]
+ },
+ {
+  "name": "The data distribution in production. We'll start with a small canary.",
+  "trans": [
+   "What's the biggest unknown?",
+   "FSI · 问答"
+  ]
+ },
+ {
+  "name": "It's like a search assistant that finds the right document and summarizes it.",
+  "trans": [
+   "How would you explain this to a non-technical stakeholder?",
+   "FSI · 问答"
+  ]
+ },
+ {
+  "name": "Two weeks for the core flow, plus one week for hardening.",
+  "trans": [
+   "What's the timeline?",
+   "FSI · 问答"
+  ]
+ },
+ {
+  "name": "Partially. The error rate dropped, but the latency is still high.",
+  "trans": [
+   "Did the fix work?",
+   "FSI · 问答"
+  ]
+ },
+ {
+  "name": "A decision on the scope, and access to the staging logs.",
+  "trans": [
+   "What do you need from me?",
+   "FSI · 问答"
+  ]
+ },
+ {
+  "name": "One: the model may hallucinate citations. We should add a verification step.",
+  "trans": [
+   "Any concerns?",
+   "FSI · 问答"
+  ]
+ },
+ {
+  "name": "I prioritize by user impact and reversibility. Small, safe changes go first.",
+  "trans": [
+   "How do you prioritize?",
+   "FSI · 问答"
+  ]
+ },
+ {
+  "name": "Yesterday I fixed the flaky test and reviewed two PRs.",
+  "trans": [
+   "汇报昨天做了什么",
+   "FSI · 站会"
+  ]
+ },
+ {
+  "name": "Today I'll finish the migration script and run a load test.",
+  "trans": [
+   "汇报今天做什么",
+   "FSI · 站会"
+  ]
+ },
+ {
+  "name": "I'm blocked on staging access. Could someone approve the request?",
+  "trans": [
+   "说明阻塞项",
+   "FSI · 站会"
+  ]
+ },
+ {
+  "name": "We're seeing a spike in 5xx errors on the recommendation service.",
+  "trans": [
+   "说明现状",
+   "FSI · 事故"
+  ]
+ },
+ {
+  "name": "We rolled back the last deploy and the error rate is coming down.",
+  "trans": [
+   "给出缓解措施",
+   "FSI · 事故"
+  ]
+ },
+ {
+  "name": "I'll post an update every 15 minutes until the error rate is back to normal.",
+  "trans": [
+   "说明下一步",
+   "FSI · 事故"
+  ]
+ },
+ {
+  "name": "Non-blocking suggestion: could we extract this into a helper?",
+  "trans": [
+   "提出非阻塞建议",
+   "FSI · 代码评审"
+  ]
+ },
+ {
+  "name": "This is a blocker because it breaks backward compatibility.",
+  "trans": [
+   "指出阻塞问题",
+   "FSI · 代码评审"
+  ]
+ },
+ {
+  "name": "I agree with the goal, but I'm concerned about the operational cost.",
+  "trans": [
+   "提出担忧",
+   "FSI · 设计评审"
+  ]
+ },
+ {
+  "name": "One option is to add a cache; another is to batch the requests.",
+  "trans": [
+   "给出替代方案",
+   "FSI · 设计评审"
+  ]
+ },
+ {
+  "name": "The system answers questions over internal documents for the support team.",
+  "trans": [
+   "介绍项目背景",
+   "FSI · 面试"
+  ]
+ },
+ {
+  "name": "I designed the retrieval pipeline and built the evaluation harness.",
+  "trans": [
+   "说明你的贡献",
+   "FSI · 面试"
+  ]
+ },
+ {
+  "name": "We cut the average response time from 4 seconds to 1.2 seconds.",
+  "trans": [
+   "讲清结果",
+   "FSI · 面试"
+  ]
+ },
+ {
+  "name": "The main trade-off was recall versus latency, and we chose recall.",
+  "trans": [
+   "说明取舍",
+   "FSI · 面试"
+  ]
+ },
+ {
+  "name": "Could your team expose the metrics through the existing API?",
+  "trans": [
+   "提出请求",
+   "FSI · 跨团队"
+  ]
+ },
+ {
+  "name": "We can start next sprint if that works for you.",
+  "trans": [
+   "协商时间",
+   "FSI · 跨团队"
+  ]
+ }
+]

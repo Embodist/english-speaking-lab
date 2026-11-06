@@ -2,8 +2,8 @@
 type: guide
 title: "情景训练"
 tags: [skill/speaking, status/learning]
-created: 2026-11-05
-updated: 2026-11-05
+created: 2026-11-06
+updated: 2026-11-06
 ---
 
 # 情景训练

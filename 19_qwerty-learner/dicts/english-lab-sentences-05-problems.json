@@ -1,0 +1,842 @@
+[
+ {
+  "name": "Something seems to be wrong with the system.",
+  "trans": [
+   "系统好像出了点问题。",
+   "问题解决与突发情况 · 描述问题与当前情况"
+  ]
+ },
+ {
+  "name": "I'm having trouble accessing my account.",
+  "trans": [
+   "我无法正常访问我的账户。",
+   "问题解决与突发情况 · 描述问题与当前情况"
+  ]
+ },
+ {
+  "name": "The situation isn't what we expected.",
+  "trans": [
+   "情况和我们预想的不一样。",
+   "问题解决与突发情况 · 描述问题与当前情况"
+  ]
+ },
+ {
+  "name": "We've run into an unexpected issue.",
+  "trans": [
+   "我们遇到了一个意料之外的问题。",
+   "问题解决与突发情况 · 描述问题与当前情况"
+  ]
+ },
+ {
+  "name": "The problem started earlier this morning.",
+  "trans": [
+   "问题是今天早些时候开始的。",
+   "问题解决与突发情况 · 描述问题与当前情况"
+  ]
+ },
+ {
+  "name": "I can't figure out what's causing this.",
+  "trans": [
+   "我弄不清楚是什么导致了这个问题。",
+   "问题解决与突发情况 · 描述问题与当前情况"
+  ]
+ },
+ {
+  "name": "There's a delay we didn't plan for.",
+  "trans": [
+   "出现了一个计划之外的延误。",
+   "问题解决与突发情况 · 描述问题与当前情况"
+  ]
+ },
+ {
+  "name": "Something went wrong during the process.",
+  "trans": [
+   "过程中出了点问题。",
+   "问题解决与突发情况 · 描述问题与当前情况"
+  ]
+ },
+ {
+  "name": "The information doesn't seem to match.",
+  "trans": [
+   "信息似乎对不上。",
+   "问题解决与突发情况 · 描述问题与当前情况"
+  ]
+ },
+ {
+  "name": "We're still trying to understand what happened.",
+  "trans": [
+   "我们还在努力了解发生了什么。",
+   "问题解决与突发情况 · 描述问题与当前情况"
+  ]
+ },
+ {
+  "name": "The issue affects several parts of the project.",
+  "trans": [
+   "这个问题影响了项目的几个部分。",
+   "问题解决与突发情况 · 描述问题与当前情况"
+  ]
+ },
+ {
+  "name": "I noticed a problem with the latest update.",
+  "trans": [
+   "我发现最新更新存在一个问题。",
+   "问题解决与突发情况 · 描述问题与当前情况"
+  ]
+ },
+ {
+  "name": "The results are different from what we expected.",
+  "trans": [
+   "结果和我们预期的不一样。",
+   "问题解决与突发情况 · 描述问题与当前情况"
+  ]
+ },
+ {
+  "name": "We haven't identified the main cause yet.",
+  "trans": [
+   "我们还没找到主要原因。",
+   "问题解决与突发情况 · 描述问题与当前情况"
+  ]
+ },
+ {
+  "name": "This has become more complicated than we thought.",
+  "trans": [
+   "事情变得比我们想象中更复杂。",
+   "问题解决与突发情况 · 描述问题与当前情况"
+  ]
+ },
+ {
+  "name": "The original plan is no longer practical.",
+  "trans": [
+   "原来的计划已经不太可行了。",
+   "问题解决与突发情况 · 描述问题与当前情况"
+  ]
+ },
+ {
+  "name": "We need to deal with this before it gets worse.",
+  "trans": [
+   "我们需要在情况恶化前处理好这件事。",
+   "问题解决与突发情况 · 描述问题与当前情况"
+  ]
+ },
+ {
+  "name": "There appears to be a misunderstanding.",
+  "trans": [
+   "似乎存在一个误会。",
+   "问题解决与突发情况 · 描述问题与当前情况"
+  ]
+ },
+ {
+  "name": "We're missing some important information.",
+  "trans": [
+   "我们缺少一些重要信息。",
+   "问题解决与突发情况 · 描述问题与当前情况"
+  ]
+ },
+ {
+  "name": "The issue keeps coming back.",
+  "trans": [
+   "这个问题反复出现。",
+   "问题解决与突发情况 · 描述问题与当前情况"
+  ]
+ },
+ {
+  "name": "Could you help me figure out what's going on?",
+  "trans": [
+   "你能帮我弄清楚发生了什么吗？",
+   "问题解决与突发情况 · 寻求帮助与故障排查"
+  ]
+ },
+ {
+  "name": "Is there someone who can take a look at this?",
+  "trans": [
+   "有人能帮忙检查一下吗？",
+   "问题解决与突发情况 · 寻求帮助与故障排查"
+  ]
+ },
+ {
+  "name": "Can you walk me through the troubleshooting steps?",
+  "trans": [
+   "你能带我过一遍故障排查步骤吗？",
+   "问题解决与突发情况 · 寻求帮助与故障排查"
+  ]
+ },
+ {
+  "name": "Where should I start looking for the problem?",
+  "trans": [
+   "我应该从哪里开始查找问题？",
+   "问题解决与突发情况 · 寻求帮助与故障排查"
+  ]
+ },
+ {
+  "name": "Have you experienced anything like this before?",
+  "trans": [
+   "你以前遇到过类似情况吗？",
+   "问题解决与突发情况 · 寻求帮助与故障排查"
+  ]
+ },
+ {
+  "name": "Could you check whether the settings are correct?",
+  "trans": [
+   "你能检查一下设置是否正确吗？",
+   "问题解决与突发情况 · 寻求帮助与故障排查"
+  ]
+ },
+ {
+  "name": "I need some guidance on how to proceed.",
+  "trans": [
+   "我需要一些关于如何继续的指导。",
+   "问题解决与突发情况 · 寻求帮助与故障排查"
+  ]
+ },
+ {
+  "name": "Can we check the basic things first?",
+  "trans": [
+   "我们能先检查一下基本情况吗？",
+   "问题解决与突发情况 · 寻求帮助与故障排查"
+  ]
+ },
+ {
+  "name": "Would you mind checking the connection?",
+  "trans": [
+   "你介意检查一下连接吗？",
+   "问题解决与突发情况 · 寻求帮助与故障排查"
+  ]
+ },
+ {
+  "name": "Is there a way to reset the system?",
+  "trans": [
+   "有没有办法重置系统？",
+   "问题解决与突发情况 · 寻求帮助与故障排查"
+  ]
+ },
+ {
+  "name": "Could you help me narrow down the cause?",
+  "trans": [
+   "你能帮我缩小问题原因的范围吗？",
+   "问题解决与突发情况 · 寻求帮助与故障排查"
+  ]
+ },
+ {
+  "name": "What information do you need from me?",
+  "trans": [
+   "你需要我提供哪些信息？",
+   "问题解决与突发情况 · 寻求帮助与故障排查"
+  ]
+ },
+ {
+  "name": "Should I contact the technical support team?",
+  "trans": [
+   "我应该联系技术支持团队吗？",
+   "问题解决与突发情况 · 寻求帮助与故障排查"
+  ]
+ },
+ {
+  "name": "Can you tell me what I should avoid doing?",
+  "trans": [
+   "你能告诉我哪些操作应该避免吗？",
+   "问题解决与突发情况 · 寻求帮助与故障排查"
+  ]
+ },
+ {
+  "name": "I'd like to make sure I don't make things worse.",
+  "trans": [
+   "我想确保不会让情况变得更糟。",
+   "问题解决与突发情况 · 寻求帮助与故障排查"
+  ]
+ },
+ {
+  "name": "Is there a quick way to check this?",
+  "trans": [
+   "有没有快速检查这个问题的方法？",
+   "问题解决与突发情况 · 寻求帮助与故障排查"
+  ]
+ },
+ {
+  "name": "Could you show me where the error appears?",
+  "trans": [
+   "你能告诉我错误出现在哪里吗？",
+   "问题解决与突发情况 · 寻求帮助与故障排查"
+  ]
+ },
+ {
+  "name": "I may need some additional instructions.",
+  "trans": [
+   "我可能需要一些额外的说明。",
+   "问题解决与突发情况 · 寻求帮助与故障排查"
+  ]
+ },
+ {
+  "name": "Let's check each possibility one by one.",
+  "trans": [
+   "我们逐个排查可能性吧。",
+   "问题解决与突发情况 · 寻求帮助与故障排查"
+  ]
+ },
+ {
+  "name": "I'll send you the details so you can investigate.",
+  "trans": [
+   "我会把详细信息发给你，方便你调查。",
+   "问题解决与突发情况 · 寻求帮助与故障排查"
+  ]
+ },
+ {
+  "name": "Let's focus on finding a workable solution.",
+  "trans": [
+   "我们重点找一个可行的解决办法吧。",
+   "问题解决与突发情况 · 提出解决方案与应对措施"
+  ]
+ },
+ {
+  "name": "We may need to take a different approach.",
+  "trans": [
+   "我们可能需要换一种方法。",
+   "问题解决与突发情况 · 提出解决方案与应对措施"
+  ]
+ },
+ {
+  "name": "The simplest solution might be to start over.",
+  "trans": [
+   "最简单的办法可能是重新开始。",
+   "问题解决与突发情况 · 提出解决方案与应对措施"
+  ]
+ },
+ {
+  "name": "Could we try doing it another way?",
+  "trans": [
+   "我们能不能换一种方式试试？",
+   "问题解决与突发情况 · 提出解决方案与应对措施"
+  ]
+ },
+ {
+  "name": "Let's see if we can fix this without delaying the project.",
+  "trans": [
+   "我们看看能否在不耽误项目的情况下解决。",
+   "问题解决与突发情况 · 提出解决方案与应对措施"
+  ]
+ },
+ {
+  "name": "We should deal with the most urgent issue first.",
+  "trans": [
+   "我们应该先处理最紧急的问题。",
+   "问题解决与突发情况 · 提出解决方案与应对措施"
+  ]
+ },
+ {
+  "name": "One possible solution is to reduce the workload.",
+  "trans": [
+   "一种可能的解决办法是减少工作量。",
+   "问题解决与突发情况 · 提出解决方案与应对措施"
+  ]
+ },
+ {
+  "name": "We can try a temporary fix for now.",
+  "trans": [
+   "我们暂时可以先尝试临时解决办法。",
+   "问题解决与突发情况 · 提出解决方案与应对措施"
+  ]
+ },
+ {
+  "name": "Let's come up with a backup option.",
+  "trans": [
+   "我们想一个备用方案吧。",
+   "问题解决与突发情况 · 提出解决方案与应对措施"
+  ]
+ },
+ {
+  "name": "I think we need to rethink the original plan.",
+  "trans": [
+   "我觉得我们需要重新考虑原来的计划。",
+   "问题解决与突发情况 · 提出解决方案与应对措施"
+  ]
+ },
+ {
+  "name": "We should test the solution before applying it everywhere.",
+  "trans": [
+   "我们应该先测试解决方案，再全面应用。",
+   "问题解决与突发情况 · 提出解决方案与应对措施"
+  ]
+ },
+ {
+  "name": "Let's make sure the solution doesn't create another problem.",
+  "trans": [
+   "我们要确保这个方案不会带来另一个问题。",
+   "问题解决与突发情况 · 提出解决方案与应对措施"
+  ]
+ },
+ {
+  "name": "We could divide the issue into smaller parts.",
+  "trans": [
+   "我们可以把问题拆分成几个小部分。",
+   "问题解决与突发情况 · 提出解决方案与应对措施"
+  ]
+ },
+ {
+  "name": "It might help to start with the easiest step.",
+  "trans": [
+   "从最简单的一步开始可能会有帮助。",
+   "问题解决与突发情况 · 提出解决方案与应对措施"
+  ]
+ },
+ {
+  "name": "We need a solution that works in the long term.",
+  "trans": [
+   "我们需要一个长期有效的解决方案。",
+   "问题解决与突发情况 · 提出解决方案与应对措施"
+  ]
+ },
+ {
+  "name": "Let's compare the available options before deciding.",
+  "trans": [
+   "决定之前，我们比较一下现有方案吧。",
+   "问题解决与突发情况 · 提出解决方案与应对措施"
+  ]
+ },
+ {
+  "name": "We may be able to solve this with a small adjustment.",
+  "trans": [
+   "我们或许通过小幅调整就能解决这个问题。",
+   "问题解决与突发情况 · 提出解决方案与应对措施"
+  ]
+ },
+ {
+  "name": "I'd rather prevent the problem from happening again.",
+  "trans": [
+   "我更希望防止问题再次发生。",
+   "问题解决与突发情况 · 提出解决方案与应对措施"
+  ]
+ },
+ {
+  "name": "Let's find out what resources we have available.",
+  "trans": [
+   "我们先看看有哪些可用资源。",
+   "问题解决与突发情况 · 提出解决方案与应对措施"
+  ]
+ },
+ {
+  "name": "We need to make a realistic recovery plan.",
+  "trans": [
+   "我们需要制定一个切实可行的恢复计划。",
+   "问题解决与突发情况 · 提出解决方案与应对措施"
+  ]
+ },
+ {
+  "name": "The delivery has been delayed for some reason.",
+  "trans": [
+   "快递因为某些原因延误了。",
+   "问题解决与突发情况 · 处理延误与计划变动"
+  ]
+ },
+ {
+  "name": "We may need to push the deadline back.",
+  "trans": [
+   "我们可能需要推迟截止日期。",
+   "问题解决与突发情况 · 处理延误与计划变动"
+  ]
+ },
+ {
+  "name": "Something came up unexpectedly.",
+  "trans": [
+   "突然发生了一些意外情况。",
+   "问题解决与突发情况 · 处理延误与计划变动"
+  ]
+ },
+ {
+  "name": "The schedule has changed at short notice.",
+  "trans": [
+   "时间安排临时发生了变化。",
+   "问题解决与突发情况 · 处理延误与计划变动"
+  ]
+ },
+ {
+  "name": "I'm afraid we won't be able to finish on time.",
+  "trans": [
+   "恐怕我们无法按时完成。",
+   "问题解决与突发情况 · 处理延误与计划变动"
+  ]
+ },
+ {
+  "name": "Could we reschedule the appointment?",
+  "trans": [
+   "我们可以重新安排预约时间吗？",
+   "问题解决与突发情况 · 处理延误与计划变动"
+  ]
+ },
+ {
+  "name": "The original arrangement is no longer available.",
+  "trans": [
+   "原来的安排已经无法继续了。",
+   "问题解决与突发情况 · 处理延误与计划变动"
+  ]
+ },
+ {
+  "name": "We need to find another way to move forward.",
+  "trans": [
+   "我们需要找到另一种推进方式。",
+   "问题解决与突发情况 · 处理延误与计划变动"
+  ]
+ },
+ {
+  "name": "I'll let you know as soon as I have an update.",
+  "trans": [
+   "一有最新进展，我就会告诉你。",
+   "问题解决与突发情况 · 处理延误与计划变动"
+  ]
+ },
+ {
+  "name": "We're doing everything we can to minimize the delay.",
+  "trans": [
+   "我们正在尽力减少延误。",
+   "问题解决与突发情况 · 处理延误与计划变动"
+  ]
+ },
+ {
+  "name": "The situation is taking longer to resolve than expected.",
+  "trans": [
+   "解决这个问题比预想中花费更多时间。",
+   "问题解决与突发情况 · 处理延误与计划变动"
+  ]
+ },
+ {
+  "name": "We need to adjust our plans accordingly.",
+  "trans": [
+   "我们需要相应调整计划。",
+   "问题解决与突发情况 · 处理延误与计划变动"
+  ]
+ },
+ {
+  "name": "Could we move the meeting to a later time?",
+  "trans": [
+   "我们可以把会议改到晚一点吗？",
+   "问题解决与突发情况 · 处理延误与计划变动"
+  ]
+ },
+ {
+  "name": "I'll explain the change to the people involved.",
+  "trans": [
+   "我会向相关人员解释这次变化。",
+   "问题解决与突发情况 · 处理延误与计划变动"
+  ]
+ },
+ {
+  "name": "We should notify everyone as early as possible.",
+  "trans": [
+   "我们应该尽早通知所有人。",
+   "问题解决与突发情况 · 处理延误与计划变动"
+  ]
+ },
+ {
+  "name": "Let's prepare for the possibility of further delays.",
+  "trans": [
+   "我们为可能出现的进一步延误做好准备吧。",
+   "问题解决与突发情况 · 处理延误与计划变动"
+  ]
+ },
+ {
+  "name": "The new timeline gives us less room to work with.",
+  "trans": [
+   "新的时间安排给我们留下的余地更少了。",
+   "问题解决与突发情况 · 处理延误与计划变动"
+  ]
+ },
+ {
+  "name": "We need to decide what can be postponed.",
+  "trans": [
+   "我们需要决定哪些事情可以推迟。",
+   "问题解决与突发情况 · 处理延误与计划变动"
+  ]
+ },
+ {
+  "name": "I'll check whether the new date works for everyone.",
+  "trans": [
+   "我会确认新日期是否适合所有人。",
+   "问题解决与突发情况 · 处理延误与计划变动"
+  ]
+ },
+ {
+  "name": "Thanks for being flexible with the change.",
+  "trans": [
+   "感谢你对这次变动的配合。",
+   "问题解决与突发情况 · 处理延误与计划变动"
+  ]
+ },
+ {
+  "name": "I think there may have been a misunderstanding.",
+  "trans": [
+   "我觉得可能存在误会。",
+   "问题解决与突发情况 · 处理误会与沟通分歧"
+  ]
+ },
+ {
+  "name": "Let me clarify what I meant.",
+  "trans": [
+   "让我解释一下我的意思。",
+   "问题解决与突发情况 · 处理误会与沟通分歧"
+  ]
+ },
+ {
+  "name": "That wasn't how I intended it to sound.",
+  "trans": [
+   "我原本不是想表达那个意思。",
+   "问题解决与突发情况 · 处理误会与沟通分歧"
+  ]
+ },
+ {
+  "name": "I may not have explained myself clearly.",
+  "trans": [
+   "我可能没有解释清楚。",
+   "问题解决与突发情况 · 处理误会与沟通分歧"
+  ]
+ },
+ {
+  "name": "Could we go back to where the confusion started?",
+  "trans": [
+   "我们能回到产生误解的地方吗？",
+   "问题解决与突发情况 · 处理误会与沟通分歧"
+  ]
+ },
+ {
+  "name": "I want to make sure we're not working with different assumptions.",
+  "trans": [
+   "我想确认我们没有基于不同的假设开展工作。",
+   "问题解决与突发情况 · 处理误会与沟通分歧"
+  ]
+ },
+ {
+  "name": "Let's take a moment to clear things up.",
+  "trans": [
+   "我们花点时间把事情说清楚吧。",
+   "问题解决与突发情况 · 处理误会与沟通分歧"
+  ]
+ },
+ {
+  "name": "I understand why you might have understood it that way.",
+  "trans": [
+   "我理解你为什么会那样理解。",
+   "问题解决与突发情况 · 处理误会与沟通分歧"
+  ]
+ },
+ {
+  "name": "We may have interpreted the instructions differently.",
+  "trans": [
+   "我们可能对说明有不同的理解。",
+   "问题解决与突发情况 · 处理误会与沟通分歧"
+  ]
+ },
+ {
+  "name": "Can we agree on what was actually decided?",
+  "trans": [
+   "我们能确认一下当时究竟决定了什么吗？",
+   "问题解决与突发情况 · 处理误会与沟通分歧"
+  ]
+ },
+ {
+  "name": "I'd like to correct one detail from my previous message.",
+  "trans": [
+   "我想纠正一下上一条消息中的一个细节。",
+   "问题解决与突发情况 · 处理误会与沟通分歧"
+  ]
+ },
+ {
+  "name": "I think we need to communicate more clearly.",
+  "trans": [
+   "我觉得我们需要更清楚地沟通。",
+   "问题解决与突发情况 · 处理误会与沟通分歧"
+  ]
+ },
+ {
+  "name": "Let's avoid making assumptions about each other's intentions.",
+  "trans": [
+   "我们不要猜测彼此的意图。",
+   "问题解决与突发情况 · 处理误会与沟通分歧"
+  ]
+ },
+ {
+  "name": "I see how that could have caused confusion.",
+  "trans": [
+   "我能理解那为什么会造成误解。",
+   "问题解决与突发情况 · 处理误会与沟通分歧"
+  ]
+ },
+ {
+  "name": "We should confirm the details in writing.",
+  "trans": [
+   "我们应该把细节以书面形式确认下来。",
+   "问题解决与突发情况 · 处理误会与沟通分歧"
+  ]
+ },
+ {
+  "name": "I don't think we're disagreeing about the main goal.",
+  "trans": [
+   "我觉得我们对主要目标并没有分歧。",
+   "问题解决与突发情况 · 处理误会与沟通分歧"
+  ]
+ },
+ {
+  "name": "Let's focus on the facts rather than the misunderstanding.",
+  "trans": [
+   "我们把重点放在事实上，而不是误会上。",
+   "问题解决与突发情况 · 处理误会与沟通分歧"
+  ]
+ },
+ {
+  "name": "I appreciate you explaining your side.",
+  "trans": [
+   "感谢你解释你的立场。",
+   "问题解决与突发情况 · 处理误会与沟通分歧"
+  ]
+ },
+ {
+  "name": "Can we find a way to avoid this in the future?",
+  "trans": [
+   "我们能找到避免以后发生类似问题的方法吗？",
+   "问题解决与突发情况 · 处理误会与沟通分歧"
+  ]
+ },
+ {
+  "name": "I hope we can resolve this calmly.",
+  "trans": [
+   "希望我们能冷静地解决这件事。",
+   "问题解决与突发情况 · 处理误会与沟通分歧"
+  ]
+ },
+ {
+  "name": "I'm sorry for the inconvenience this has caused.",
+  "trans": [
+   "很抱歉给你带来了不便。",
+   "问题解决与突发情况 · 道歉、承担责任与后续跟进"
+  ]
+ },
+ {
+  "name": "I take responsibility for the mistake.",
+  "trans": [
+   "我愿意为这个错误负责。",
+   "问题解决与突发情况 · 道歉、承担责任与后续跟进"
+  ]
+ },
+ {
+  "name": "I should have checked the details more carefully.",
+  "trans": [
+   "我本应该更仔细地检查细节。",
+   "问题解决与突发情况 · 道歉、承担责任与后续跟进"
+  ]
+ },
+ {
+  "name": "I'll do what I can to make things right.",
+  "trans": [
+   "我会尽力把事情处理妥当。",
+   "问题解决与突发情况 · 道歉、承担责任与后续跟进"
+  ]
+ },
+ {
+  "name": "Thanks for bringing this to my attention.",
+  "trans": [
+   "感谢你让我注意到这个问题。",
+   "问题解决与突发情况 · 道歉、承担责任与后续跟进"
+  ]
+ },
+ {
+  "name": "I'll make sure this doesn't get overlooked again.",
+  "trans": [
+   "我会确保以后不会再忽略这件事。",
+   "问题解决与突发情况 · 道歉、承担责任与后续跟进"
+  ]
+ },
+ {
+  "name": "We're reviewing what went wrong.",
+  "trans": [
+   "我们正在检查哪里出了问题。",
+   "问题解决与突发情况 · 道歉、承担责任与后续跟进"
+  ]
+ },
+ {
+  "name": "I'll keep you informed as we work on a solution.",
+  "trans": [
+   "我们处理解决方案时，我会持续向你同步。",
+   "问题解决与突发情况 · 道歉、承担责任与后续跟进"
+  ]
+ },
+ {
+  "name": "We need to learn from what happened.",
+  "trans": [
+   "我们需要从这次经历中吸取教训。",
+   "问题解决与突发情况 · 道歉、承担责任与后续跟进"
+  ]
+ },
+ {
+  "name": "I'll take steps to prevent this from happening again.",
+  "trans": [
+   "我会采取措施，防止类似问题再次发生。",
+   "问题解决与突发情况 · 道歉、承担责任与后续跟进"
+  ]
+ },
+ {
+  "name": "Let me check the current status before I give you an answer.",
+  "trans": [
+   "给你答复前，让我先确认一下目前的状态。",
+   "问题解决与突发情况 · 道歉、承担责任与后续跟进"
+  ]
+ },
+ {
+  "name": "I'll make sure the right person is involved.",
+  "trans": [
+   "我会确保相关负责人参与进来。",
+   "问题解决与突发情况 · 道歉、承担责任与后续跟进"
+  ]
+ },
+ {
+  "name": "We should document what happened for future reference.",
+  "trans": [
+   "我们应该记录事情经过，方便以后查阅。",
+   "问题解决与突发情况 · 道歉、承担责任与后续跟进"
+  ]
+ },
+ {
+  "name": "I'll send you an update once we've made progress.",
+  "trans": [
+   "取得进展后，我会给你发送最新消息。",
+   "问题解决与突发情况 · 道歉、承担责任与后续跟进"
+  ]
+ },
+ {
+  "name": "We need to monitor the situation closely.",
+  "trans": [
+   "我们需要密切关注情况。",
+   "问题解决与突发情况 · 道歉、承担责任与后续跟进"
+  ]
+ },
+ {
+  "name": "I'll confirm the next steps with the team.",
+  "trans": [
+   "我会和团队确认下一步行动。",
+   "问题解决与突发情况 · 道歉、承担责任与后续跟进"
+  ]
+ },
+ {
+  "name": "Let's review whether the solution has worked.",
+  "trans": [
+   "我们检查一下解决方案是否有效吧。",
+   "问题解决与突发情况 · 道歉、承担责任与后续跟进"
+  ]
+ },
+ {
+  "name": "I'll follow up again if the issue continues.",
+  "trans": [
+   "如果问题持续存在，我会再次跟进。",
+   "问题解决与突发情况 · 道歉、承担责任与后续跟进"
+  ]
+ },
+ {
+  "name": "We should have a clear plan in case this happens again.",
+  "trans": [
+   "我们应该制定明确的预案，以防类似情况再次发生。",
+   "问题解决与突发情况 · 道歉、承担责任与后续跟进"
+  ]
+ },
+ {
+  "name": "I appreciate your patience while we sort this out.",
+  "trans": [
+   "感谢你在我们处理这件事期间的耐心。",
+   "问题解决与突发情况 · 道歉、承担责任与后续跟进"
+  ]
+ }
+]

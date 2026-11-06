@@ -2,8 +2,8 @@
 type: topic
 title: "1200 句 · 10 电话沟通、网络交流与综合表达"
 tags: [library/sentence, skill/speaking, status/learning]
-created: 2026-11-05
-updated: 2026-11-05
+created: 2026-11-06
+updated: 2026-11-06
 ---
 
 # 1200 句 · 10 电话沟通、网络交流与综合表达

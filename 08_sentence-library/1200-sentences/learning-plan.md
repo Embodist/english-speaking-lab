@@ -2,8 +2,8 @@
 type: guide
 title: "1200 句 60 天计划"
 tags: [library/sentence, skill/speaking, status/learning]
-created: 2026-11-05
-updated: 2026-11-05
+created: 2026-11-06
+updated: 2026-11-06
 ---
 
 # 1200 句 60 天计划

@@ -1,0 +1,842 @@
+[
+ {
+  "name": "Could you please send over the latest version of the file?",
+  "trans": [
+   "你能把文件的最新版本发给我吗？",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "I'm working remotely today.",
+  "trans": [
+   "我今天远程办公。",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "I may be late for our call. Could we push it back 30 minutes?",
+  "trans": [
+   "我可能会迟到，我们能把电话会议推迟30分钟吗？",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "I'll follow up with you once I have the details.",
+  "trans": [
+   "拿到细节后我会跟进你。",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "Please loop me in on all updates moving forward.",
+  "trans": [
+   "后续所有进展请同步给我。",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "She's our go-to person for this type of issue.",
+  "trans": [
+   "她是处理这类问题的主要联系人。",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "That's a really clever solution!",
+  "trans": [
+   "这个解决方案很巧妙！",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "You've got a great eye for detail.",
+  "trans": [
+   "你非常注重细节。",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "Your input on this has been incredibly helpful.",
+  "trans": [
+   "你的意见对我们帮助很大。",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "Thank you for staying late to wrap this up.",
+  "trans": [
+   "谢谢你加班完成收尾工作。",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "Thank you for your hard work on this project.",
+  "trans": [
+   "感谢你为这个项目付出的努力。",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "What are the key action items from today's meeting?",
+  "trans": [
+   "今天会议的主要行动事项是什么？",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "Let's tackle the most urgent tasks first.",
+  "trans": [
+   "我们先处理最紧急的任务。",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "Could you share the slides with the team after the meeting?",
+  "trans": [
+   "会议结束后你能把幻灯片发给团队吗？",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "I lead the team responsible for product design.",
+  "trans": [
+   "我负责带领产品设计团队。",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "My main role is to support the sales team with data analysis.",
+  "trans": [
+   "我的主要工作是通过数据分析支持销售团队。",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "I need to align our work with the company's long-term goals.",
+  "trans": [
+   "我需要让我们的工作符合公司的长期目标。",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "Let's wrap this up for today!",
+  "trans": [
+   "今天我们就先到这里吧！",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "Please keep me posted on any updates.",
+  "trans": [
+   "有任何进展请随时告诉我。",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "We can revisit this topic later.",
+  "trans": [
+   "我们可以稍后再讨论这个话题。",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "I believe we're missing two people today.",
+  "trans": [
+   "我觉得今天还有两个人没到。",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "I don't think we need to go into details right now.",
+  "trans": [
+   "我认为现在没必要深入细节。",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "You haven't said much. Any thoughts to share?",
+  "trans": [
+   "你还没怎么发言，有什么想法吗？",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "Sorry to cut in, but can I add something here?",
+  "trans": [
+   "抱歉打断一下，我能补充一点吗？",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "Just to make sure I got that right...",
+  "trans": [
+   "我确认一下自己理解得对不对……",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "Thanks for your patience while we waited.",
+  "trans": [
+   "感谢大家在等待期间的耐心。",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "Let's kick off with a quick recap of last time.",
+  "trans": [
+   "我们先快速回顾一下上次的内容。",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "Now that we have the big picture, let's dive into the details.",
+  "trans": [
+   "了解整体情况后，我们来深入细节。",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "The client is having second thoughts about the deal.",
+  "trans": [
+   "客户对这笔合作又有了顾虑。",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "We need to figure out how to win them over.",
+  "trans": [
+   "我们需要想办法获得他们的认可。",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "Let's get a second opinion on this plan.",
+  "trans": [
+   "我们找其他人对这个计划提提意见吧。",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "Even if this idea doesn't work out, we keep moving forward.",
+  "trans": [
+   "即使这个想法行不通，我们也继续前进。",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "Now, the floor is yours to speak.",
+  "trans": [
+   "接下来请你发言。",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "This job gives me a strong sense of achievement.",
+  "trans": [
+   "这份工作让我很有成就感。",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "Could we circle back to this point later?",
+  "trans": [
+   "我们稍后再回到这个问题上好吗？",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "I need to run this by the team first.",
+  "trans": [
+   "我需要先和团队确认一下。",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "What's the main takeaway from today's discussion?",
+  "trans": [
+   "今天讨论的核心结论是什么？",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "Let's prioritize the most urgent tasks first.",
+  "trans": [
+   "我们先安排最紧急的任务。",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "I'll follow up with the client this afternoon.",
+  "trans": [
+   "我今天下午会跟进客户。",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "Could you share the meeting notes with everyone?",
+  "trans": [
+   "你能把会议纪要发给大家吗？",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "I'm on board with the direction we're taking.",
+  "trans": [
+   "我支持我们目前的发展方向。",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "We should schedule a check-in call next week.",
+  "trans": [
+   "我们应该安排下周的跟进电话。",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "We're currently understaffed.",
+  "trans": [
+   "我们目前人手不足。",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "Take all the time you need.",
+  "trans": [
+   "你慢慢来，不用着急。",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "Consistent practice leads to improvement.",
+  "trans": [
+   "持续练习会带来进步。",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "He's very well-respected among colleagues.",
+  "trans": [
+   "他在同事中很受尊重。",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "It's important to keep your word at work.",
+  "trans": [
+   "在工作中信守承诺很重要。",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "Let's not get into that right now.",
+  "trans": [
+   "我们现在先不讨论那个话题。",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "The tech team will resolve this issue quickly.",
+  "trans": [
+   "技术团队会尽快解决这个问题。",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "I'm about to start my presentation.",
+  "trans": [
+   "我马上要开始演示了。",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "Thanks for your thoughts. Who else would like to weigh in?",
+  "trans": [
+   "感谢你的想法，还有谁想发表意见？",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "We need to come up with a backup plan.",
+  "trans": [
+   "我们需要制定一个备用计划。",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "Let's circle back to this in our next meeting.",
+  "trans": [
+   "我们下次会议再讨论这个问题。",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "I'll follow up with you by the end of the day.",
+  "trans": [
+   "我会在今天结束前跟进你。",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "Could you share the meeting recording with the team?",
+  "trans": [
+   "你能把会议录音分享给团队吗？",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "Let's make sure we're all aligned on the next steps.",
+  "trans": [
+   "我们确认一下大家对下一步都有共识。",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "I'll send over the revised version by EOD.",
+  "trans": [
+   "我会在今天下班前发修改版。",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "The deadline has been pushed to next Friday.",
+  "trans": [
+   "截止日期推迟到下周五了。",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "We need to loop in the marketing team on this.",
+  "trans": [
+   "这件事需要让市场团队参与进来。",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "Let's do a quick check-in before the presentation.",
+  "trans": [
+   "演示前我们快速确认一下。",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "Could we take a step back and review the situation?",
+  "trans": [
+   "我们能否退一步，重新审视一下情况？",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "I'd like to hear a different perspective.",
+  "trans": [
+   "我想听听不同的观点。",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "Let's keep the discussion focused on the main issue.",
+  "trans": [
+   "我们把讨论集中在主要问题上。",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "Does anyone see any potential problems with this approach?",
+  "trans": [
+   "有人发现这个方法可能存在问题吗？",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "I think we should look at the bigger picture.",
+  "trans": [
+   "我认为我们应该从整体角度看问题。",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "Can we clarify what success looks like here?",
+  "trans": [
+   "我们能明确一下成功的标准吗？",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "I have a question about the second point.",
+  "trans": [
+   "我对第二点有个问题。",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "That's worth exploring further.",
+  "trans": [
+   "这个值得进一步研究。",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "I'd like to build on what you just said.",
+  "trans": [
+   "我想在你刚才的话基础上补充一点。",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "Let me explain where I'm coming from.",
+  "trans": [
+   "让我解释一下我的出发点。",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "We may be looking at this from different angles.",
+  "trans": [
+   "我们可能是从不同角度看待这个问题。",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "I see your point, but I have a concern.",
+  "trans": [
+   "我理解你的观点，但我有一个担忧。",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "Let's hear from the people closest to the issue.",
+  "trans": [
+   "我们听听最了解这个问题的人的意见。",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "Could you give us a concrete example?",
+  "trans": [
+   "你能给我们一个具体例子吗？",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "I'd like to suggest another option.",
+  "trans": [
+   "我想提出另一个方案。",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "We don't have to decide everything today.",
+  "trans": [
+   "我们不必今天决定所有事情。",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "Let's separate the facts from our assumptions.",
+  "trans": [
+   "我们把事实和假设区分开来。",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "What would be the biggest challenge?",
+  "trans": [
+   "最大的挑战会是什么？",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "Let's make sure we haven't overlooked anything.",
+  "trans": [
+   "我们确保没有忽略任何事情。",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "I think we need more information before proceeding.",
+  "trans": [
+   "我认为在继续之前需要更多信息。",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "Can we agree on the main priorities?",
+  "trans": [
+   "我们能确定主要优先事项吗？",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "I'd like to summarize what we've discussed so far.",
+  "trans": [
+   "我想总结一下目前讨论的内容。",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "Are we comfortable moving ahead with this?",
+  "trans": [
+   "我们可以放心推进这件事吗？",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "Let's document the decision for future reference.",
+  "trans": [
+   "我们把决定记录下来，方便以后查阅。",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "Who will be responsible for the next step?",
+  "trans": [
+   "谁负责下一步？",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "We should leave some room for adjustments.",
+  "trans": [
+   "我们应该留出调整的空间。",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "I think we're getting closer to a solution.",
+  "trans": [
+   "我觉得我们正在接近解决方案。",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "Let's not lose momentum.",
+  "trans": [
+   "我们不要失去推进的动力。",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "Is there anything we need to resolve before we finish?",
+  "trans": [
+   "结束前还有什么需要解决的吗？",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "I'd appreciate some feedback on this proposal.",
+  "trans": [
+   "我希望听听大家对这个提案的反馈。",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "Let's revisit the assumptions behind this plan.",
+  "trans": [
+   "我们重新检查一下这个计划背后的假设。",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "We should consider the impact on other teams.",
+  "trans": [
+   "我们应该考虑对其他团队的影响。",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "Can we identify the next practical step?",
+  "trans": [
+   "我们能确定下一步实际行动吗？",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "Let's avoid repeating the same discussion.",
+  "trans": [
+   "我们尽量避免重复讨论同一件事。",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "I think we're ready to draw a conclusion.",
+  "trans": [
+   "我认为我们可以得出结论了。",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "Please feel free to challenge my thinking.",
+  "trans": [
+   "欢迎大家提出不同意见。",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "We need to be realistic about the available resources.",
+  "trans": [
+   "我们需要现实地考虑现有资源。",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "Let's come back to the original question.",
+  "trans": [
+   "我们回到最初的问题吧。",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "I want to make sure everyone's voice is heard.",
+  "trans": [
+   "我希望每个人的意见都能被听到。",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "Could we put that suggestion on the agenda?",
+  "trans": [
+   "我们可以把那个建议列入议程吗？",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "We should avoid making assumptions too early.",
+  "trans": [
+   "我们不要过早做出假设。",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "Let's compare the pros and cons.",
+  "trans": [
+   "我们比较一下利弊吧。",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "I don't think we're ready to make that call yet.",
+  "trans": [
+   "我觉得我们还没准备好做决定。",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "Can we revisit the budget implications?",
+  "trans": [
+   "我们能重新讨论一下预算影响吗？",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "I'd like to clarify one important point.",
+  "trans": [
+   "我想澄清一个重要问题。",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "Let's make the decision-making process transparent.",
+  "trans": [
+   "我们让决策过程透明一些吧。",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "I think this deserves further discussion.",
+  "trans": [
+   "我认为这值得进一步讨论。",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "We need to balance speed and quality.",
+  "trans": [
+   "我们需要平衡速度和质量。",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "What information would help us decide?",
+  "trans": [
+   "哪些信息能帮助我们做决定？",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "Let's agree on who does what.",
+  "trans": [
+   "我们确定一下每个人的分工吧。",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "I can see why you reached that conclusion.",
+  "trans": [
+   "我能理解你为什么得出那个结论。",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "We may need to revisit our original assumptions.",
+  "trans": [
+   "我们可能需要重新考虑最初的假设。",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "Let's keep an open mind.",
+  "trans": [
+   "我们保持开放的心态吧。",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "Could you explain how this affects the timeline?",
+  "trans": [
+   "你能解释一下这会如何影响时间安排吗？",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "I think we've covered the main points.",
+  "trans": [
+   "我觉得主要内容我们已经讨论过了。",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "Let's make a note of that for later.",
+  "trans": [
+   "我们把这点记下来，之后再看。",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "We need to reach a clear understanding.",
+  "trans": [
+   "我们需要达成清晰的共识。",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "I'll summarize the agreed actions in an email.",
+  "trans": [
+   "我会在邮件中总结已确定的行动事项。",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "Let's check if everyone is comfortable with the outcome.",
+  "trans": [
+   "我们确认一下大家是否认可这个结果。",
+   "会议表达与团队讨论 · 综合"
+  ]
+ },
+ {
+  "name": "We can close the meeting here.",
+  "trans": [
+   "我们可以结束会议了。",
+   "会议表达与团队讨论 · 综合"
+  ]
+ }
+]

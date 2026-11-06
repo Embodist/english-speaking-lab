@@ -39,7 +39,7 @@ updated: 2026-11-05
 > 读 C++ Core Guidelines 时，先用 [[16_cpp-core-guidelines/_index|C++ 词库]] 扫 8–10 个术语，再读对应规则的 Example / Enforcement；优先 `level-S` 和 `cpp-domain`，不要按字母表背完整本。
 
 > [!tip] 场景句与前后缀
-> 每天先做 10 分钟 [[18_fsi-drills/_index|FSI 替换/应答]]，让嘴先动起来；再练 20 句 [[08_sentence-library/1200-sentences/_index|1200 句场景口语]]（中→英 + 录音）。词缀用 [[17_word-roots/_index|前后缀 335]]：复习 10 个例词 + 新学 6 个词缀。基础短语是补充资源，时间够再刷。
+> 每天先做 10 分钟 [[18_fsi-drills/_index|FSI 替换/应答]]，让嘴先动起来；再练 20 句 [[08_sentence-library/1200-sentences/_index|1200 句场景口语]]（中→英 + 录音）。词缀用 [[17_word-roots/_index|前后缀 335]]：复习 10 个例词 + 新学 6 个词缀。基础短语是补充资源，时间够再刷。想练拼写时，用 [[19_qwerty-learner/_index|qwerty 词库]] 打 20 张卡。
 
 ## 二、每个词条的三遍法
 

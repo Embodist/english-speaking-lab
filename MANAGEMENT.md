@@ -42,6 +42,7 @@ updated: 2026-11-05
 | `16_cpp-core-guidelines/` | C++ Core Guidelines 术语与 Anki 词库 | 通用 C++ 教程 |
 | `17_word-roots/` | 164 前缀、171 后缀、1,798 例词 | 自编词根故事 |
 | `18_fsi-drills/` | FSI 式替换、变换、应答、情景 Drill | 语法讲解 |
+| `19_qwerty-learner/` | qwerty-learner 兼容的 JSON 词库与安装脚本 | 手改生成的 JSON |
 
 ## 命名规范
 

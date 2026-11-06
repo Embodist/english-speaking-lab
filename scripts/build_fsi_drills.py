@@ -86,6 +86,7 @@ def write_index(rows):
         "- [[12_word-phrase-bank/10-fixed-chunks|固定搭配与高频句型]]\n",
         "- [[02_daily-work/_index|日常工作表达]]\n",
         "- [[06_interview/_index|面试训练]]\n",
+        "- [[19_qwerty-learner/_index|qwerty 打字练习]]\n",
     ]
     (OUT / "_index.md").write_text("".join(text), encoding="utf-8")
 

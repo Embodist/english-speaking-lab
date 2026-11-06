@@ -2,8 +2,8 @@
 type: hub
 title: "1200 句场景口语"
 tags: [library/sentence, skill/speaking, status/learning]
-created: 2026-11-05
-updated: 2026-11-05
+created: 2026-11-06
+updated: 2026-11-06
 ---
 
 # 1200 句场景口语
@@ -66,3 +66,4 @@ python scripts/study.py sentence --n 5 --tts           # 生成参考音
 - [[LEARNING-PATH|学习路径]]
 - [[17_word-roots/_index|前后缀 335]]
 - [[18_fsi-drills/_index|FSI 口语训练]]
+- [[19_qwerty-learner/_index|qwerty 打字练习]]

@@ -1,0 +1,842 @@
+[
+ {
+  "name": "I need to get a few things done today.",
+  "trans": [
+   "我今天有几件事要完成。",
+   "日常生活与社交交流 · 日常安排与生活沟通"
+  ]
+ },
+ {
+  "name": "I'm running a little behind schedule.",
+  "trans": [
+   "我的进度有点落后了。",
+   "日常生活与社交交流 · 日常安排与生活沟通"
+  ]
+ },
+ {
+  "name": "I'll take care of it when I get home.",
+  "trans": [
+   "我回家后会处理这件事。",
+   "日常生活与社交交流 · 日常安排与生活沟通"
+  ]
+ },
+ {
+  "name": "Could you remind me about that later?",
+  "trans": [
+   "你稍后能提醒我一下吗？",
+   "日常生活与社交交流 · 日常安排与生活沟通"
+  ]
+ },
+ {
+  "name": "I've got a lot on my plate today.",
+  "trans": [
+   "我今天有很多事情要处理。",
+   "日常生活与社交交流 · 日常安排与生活沟通"
+  ]
+ },
+ {
+  "name": "Let me check my schedule first.",
+  "trans": [
+   "让我先看看我的日程安排。",
+   "日常生活与社交交流 · 日常安排与生活沟通"
+  ]
+ },
+ {
+  "name": "I might need a little more time.",
+  "trans": [
+   "我可能还需要一点时间。",
+   "日常生活与社交交流 · 日常安排与生活沟通"
+  ]
+ },
+ {
+  "name": "I'll let you know when I'm available.",
+  "trans": [
+   "我有空时会告诉你。",
+   "日常生活与社交交流 · 日常安排与生活沟通"
+  ]
+ },
+ {
+  "name": "I'm trying to get back into a routine.",
+  "trans": [
+   "我正在努力恢复规律的生活。",
+   "日常生活与社交交流 · 日常安排与生活沟通"
+  ]
+ },
+ {
+  "name": "Things have been pretty hectic lately.",
+  "trans": [
+   "最近事情一直挺忙乱的。",
+   "日常生活与社交交流 · 日常安排与生活沟通"
+  ]
+ },
+ {
+  "name": "I need to make a quick stop somewhere.",
+  "trans": [
+   "我需要顺路去个地方。",
+   "日常生活与社交交流 · 日常安排与生活沟通"
+  ]
+ },
+ {
+  "name": "I'll deal with that after lunch.",
+  "trans": [
+   "我午饭后处理那件事。",
+   "日常生活与社交交流 · 日常安排与生活沟通"
+  ]
+ },
+ {
+  "name": "Can we work around your schedule?",
+  "trans": [
+   "我们能配合你的时间安排吗？",
+   "日常生活与社交交流 · 日常安排与生活沟通"
+  ]
+ },
+ {
+  "name": "I have something else planned for today.",
+  "trans": [
+   "我今天还有其他安排。",
+   "日常生活与社交交流 · 日常安排与生活沟通"
+  ]
+ },
+ {
+  "name": "I'll try to make it work.",
+  "trans": [
+   "我会尽量想办法安排好。",
+   "日常生活与社交交流 · 日常安排与生活沟通"
+  ]
+ },
+ {
+  "name": "I don't want to leave everything until the last minute.",
+  "trans": [
+   "我不想把所有事情都拖到最后一刻。",
+   "日常生活与社交交流 · 日常安排与生活沟通"
+  ]
+ },
+ {
+  "name": "Let me finish what I'm doing first.",
+  "trans": [
+   "让我先把手头的事情做完。",
+   "日常生活与社交交流 · 日常安排与生活沟通"
+  ]
+ },
+ {
+  "name": "I'll get back to this when I have more time.",
+  "trans": [
+   "我有更多时间时再处理这个。",
+   "日常生活与社交交流 · 日常安排与生活沟通"
+  ]
+ },
+ {
+  "name": "I need to clear my head for a bit.",
+  "trans": [
+   "我需要放空一下，理清思绪。",
+   "日常生活与社交交流 · 日常安排与生活沟通"
+  ]
+ },
+ {
+  "name": "Let's figure out a time that works for both of us.",
+  "trans": [
+   "我们找一个双方都合适的时间吧。",
+   "日常生活与社交交流 · 日常安排与生活沟通"
+  ]
+ },
+ {
+  "name": "Could you give me a hand with this?",
+  "trans": [
+   "你能帮我一下吗？",
+   "日常生活与社交交流 · 表达需求与寻求帮助"
+  ]
+ },
+ {
+  "name": "I could really use some help here.",
+  "trans": [
+   "我现在确实需要一些帮助。",
+   "日常生活与社交交流 · 表达需求与寻求帮助"
+  ]
+ },
+ {
+  "name": "Would you mind taking a look at this?",
+  "trans": [
+   "你介意帮我看一下这个吗？",
+   "日常生活与社交交流 · 表达需求与寻求帮助"
+  ]
+ },
+ {
+  "name": "I need someone to explain this to me.",
+  "trans": [
+   "我需要有人给我解释一下。",
+   "日常生活与社交交流 · 表达需求与寻求帮助"
+  ]
+ },
+ {
+  "name": "Could you show me how this works?",
+  "trans": [
+   "你能告诉我这个怎么用吗？",
+   "日常生活与社交交流 · 表达需求与寻求帮助"
+  ]
+ },
+ {
+  "name": "I don't quite know where to start.",
+  "trans": [
+   "我不太知道该从哪里开始。",
+   "日常生活与社交交流 · 表达需求与寻求帮助"
+  ]
+ },
+ {
+  "name": "Can you point me in the right direction?",
+  "trans": [
+   "你能给我指个方向吗？",
+   "日常生活与社交交流 · 表达需求与寻求帮助"
+  ]
+ },
+ {
+  "name": "I'd appreciate it if you could help me out.",
+  "trans": [
+   "如果你能帮我，我会很感激。",
+   "日常生活与社交交流 · 表达需求与寻求帮助"
+  ]
+ },
+ {
+  "name": "I need a little clarification on this.",
+  "trans": [
+   "这件事我需要进一步确认一下。",
+   "日常生活与社交交流 · 表达需求与寻求帮助"
+  ]
+ },
+ {
+  "name": "Could you go over that one more time?",
+  "trans": [
+   "你能再讲一遍吗？",
+   "日常生活与社交交流 · 表达需求与寻求帮助"
+  ]
+ },
+ {
+  "name": "I'm having trouble figuring this out.",
+  "trans": [
+   "我有点弄不明白这个。",
+   "日常生活与社交交流 · 表达需求与寻求帮助"
+  ]
+ },
+ {
+  "name": "Is there anything I should know beforehand?",
+  "trans": [
+   "有没有什么我需要提前了解的？",
+   "日常生活与社交交流 · 表达需求与寻求帮助"
+  ]
+ },
+ {
+  "name": "Could you give me a quick example?",
+  "trans": [
+   "你能给我举个简单的例子吗？",
+   "日常生活与社交交流 · 表达需求与寻求帮助"
+  ]
+ },
+ {
+  "name": "I'd like to understand how it works.",
+  "trans": [
+   "我想了解它是怎么运作的。",
+   "日常生活与社交交流 · 表达需求与寻求帮助"
+  ]
+ },
+ {
+  "name": "Can you help me find a solution?",
+  "trans": [
+   "你能帮我找到解决办法吗？",
+   "日常生活与社交交流 · 表达需求与寻求帮助"
+  ]
+ },
+ {
+  "name": "I need some advice before I decide.",
+  "trans": [
+   "做决定前我需要一些建议。",
+   "日常生活与社交交流 · 表达需求与寻求帮助"
+  ]
+ },
+ {
+  "name": "Would you be able to help me with that?",
+  "trans": [
+   "你能帮我处理那件事吗？",
+   "日常生活与社交交流 · 表达需求与寻求帮助"
+  ]
+ },
+ {
+  "name": "I'm not sure who to ask about this.",
+  "trans": [
+   "我不确定应该向谁询问这件事。",
+   "日常生活与社交交流 · 表达需求与寻求帮助"
+  ]
+ },
+ {
+  "name": "Could you explain it in simpler terms?",
+  "trans": [
+   "你能用更简单的方式解释吗？",
+   "日常生活与社交交流 · 表达需求与寻求帮助"
+  ]
+ },
+ {
+  "name": "Let me know if you need anything from me.",
+  "trans": [
+   "如果你需要我做什么，请告诉我。",
+   "日常生活与社交交流 · 表达需求与寻求帮助"
+  ]
+ },
+ {
+  "name": "I completely agree with you on that.",
+  "trans": [
+   "这件事上我完全同意你的看法。",
+   "日常生活与社交交流 · 表达赞同与不同意见"
+  ]
+ },
+ {
+  "name": "That makes a lot of sense to me.",
+  "trans": [
+   "我觉得这很有道理。",
+   "日常生活与社交交流 · 表达赞同与不同意见"
+  ]
+ },
+ {
+  "name": "I see things a little differently.",
+  "trans": [
+   "我的看法有一点不同。",
+   "日常生活与社交交流 · 表达赞同与不同意见"
+  ]
+ },
+ {
+  "name": "That's exactly what I was thinking.",
+  "trans": [
+   "这正是我想的。",
+   "日常生活与社交交流 · 表达赞同与不同意见"
+  ]
+ },
+ {
+  "name": "I'm not entirely convinced yet.",
+  "trans": [
+   "我目前还没有完全被说服。",
+   "日常生活与社交交流 · 表达赞同与不同意见"
+  ]
+ },
+ {
+  "name": "You may have a point there.",
+  "trans": [
+   "你说的可能有道理。",
+   "日常生活与社交交流 · 表达赞同与不同意见"
+  ]
+ },
+ {
+  "name": "I hadn't thought about it that way.",
+  "trans": [
+   "我之前没从那个角度想过。",
+   "日常生活与社交交流 · 表达赞同与不同意见"
+  ]
+ },
+ {
+  "name": "I understand where you're coming from.",
+  "trans": [
+   "我理解你的出发点。",
+   "日常生活与社交交流 · 表达赞同与不同意见"
+  ]
+ },
+ {
+  "name": "I'm afraid I have to disagree.",
+  "trans": [
+   "恐怕我不能同意你的看法。",
+   "日常生活与社交交流 · 表达赞同与不同意见"
+  ]
+ },
+ {
+  "name": "That's a reasonable way to look at it.",
+  "trans": [
+   "这样看问题是合理的。",
+   "日常生活与社交交流 · 表达赞同与不同意见"
+  ]
+ },
+ {
+  "name": "I think we're looking at the same issue differently.",
+  "trans": [
+   "我觉得我们只是对同一个问题有不同看法。",
+   "日常生活与社交交流 · 表达赞同与不同意见"
+  ]
+ },
+ {
+  "name": "I'm open to hearing your perspective.",
+  "trans": [
+   "我愿意听听你的观点。",
+   "日常生活与社交交流 · 表达赞同与不同意见"
+  ]
+ },
+ {
+  "name": "I can see both sides of the argument.",
+  "trans": [
+   "我能理解双方的观点。",
+   "日常生活与社交交流 · 表达赞同与不同意见"
+  ]
+ },
+ {
+  "name": "That's not necessarily the case.",
+  "trans": [
+   "情况不一定是这样的。",
+   "日常生活与社交交流 · 表达赞同与不同意见"
+  ]
+ },
+ {
+  "name": "I agree with you up to a point.",
+  "trans": [
+   "在一定程度上我同意你。",
+   "日常生活与社交交流 · 表达赞同与不同意见"
+  ]
+ },
+ {
+  "name": "Let's agree to disagree on this one.",
+  "trans": [
+   "这件事我们保留各自的看法吧。",
+   "日常生活与社交交流 · 表达赞同与不同意见"
+  ]
+ },
+ {
+  "name": "I hadn't considered that possibility.",
+  "trans": [
+   "我之前没考虑到这种可能性。",
+   "日常生活与社交交流 · 表达赞同与不同意见"
+  ]
+ },
+ {
+  "name": "You've given me something to think about.",
+  "trans": [
+   "你让我思考了不少。",
+   "日常生活与社交交流 · 表达赞同与不同意见"
+  ]
+ },
+ {
+  "name": "I think there's another way to approach this.",
+  "trans": [
+   "我觉得这件事还有另一种处理方式。",
+   "日常生活与社交交流 · 表达赞同与不同意见"
+  ]
+ },
+ {
+  "name": "We might be able to find some common ground.",
+  "trans": [
+   "我们或许能找到共同点。",
+   "日常生活与社交交流 · 表达赞同与不同意见"
+  ]
+ },
+ {
+  "name": "That sounds like a good idea.",
+  "trans": [
+   "听起来是个不错的主意。",
+   "日常生活与社交交流 · 回应他人和自然接话"
+  ]
+ },
+ {
+  "name": "I know exactly what you mean.",
+  "trans": [
+   "我完全明白你的意思。",
+   "日常生活与社交交流 · 回应他人和自然接话"
+  ]
+ },
+ {
+  "name": "That's good to hear.",
+  "trans": [
+   "听到这个消息真不错。",
+   "日常生活与社交交流 · 回应他人和自然接话"
+  ]
+ },
+ {
+  "name": "I hadn't heard that before.",
+  "trans": [
+   "我之前没听说过这个。",
+   "日常生活与社交交流 · 回应他人和自然接话"
+  ]
+ },
+ {
+  "name": "That must have been difficult.",
+  "trans": [
+   "那一定很不容易。",
+   "日常生活与社交交流 · 回应他人和自然接话"
+  ]
+ },
+ {
+  "name": "I can imagine how you feel.",
+  "trans": [
+   "我能想象你的感受。",
+   "日常生活与社交交流 · 回应他人和自然接话"
+  ]
+ },
+ {
+  "name": "That reminds me of something.",
+  "trans": [
+   "这让我想起了一件事。",
+   "日常生活与社交交流 · 回应他人和自然接话"
+  ]
+ },
+ {
+  "name": "I'm glad things worked out.",
+  "trans": [
+   "很高兴事情顺利解决了。",
+   "日常生活与社交交流 · 回应他人和自然接话"
+  ]
+ },
+ {
+  "name": "I didn't expect that to happen.",
+  "trans": [
+   "我没想到会发生这种事。",
+   "日常生活与社交交流 · 回应他人和自然接话"
+  ]
+ },
+ {
+  "name": "That's an interesting way to put it.",
+  "trans": [
+   "这个说法很有意思。",
+   "日常生活与社交交流 · 回应他人和自然接话"
+  ]
+ },
+ {
+  "name": "I get what you're saying.",
+  "trans": [
+   "我明白你的意思。",
+   "日常生活与社交交流 · 回应他人和自然接话"
+  ]
+ },
+ {
+  "name": "That sounds familiar.",
+  "trans": [
+   "听起来很熟悉。",
+   "日常生活与社交交流 · 回应他人和自然接话"
+  ]
+ },
+ {
+  "name": "I hadn't looked at it from that angle.",
+  "trans": [
+   "我之前没从那个角度考虑过。",
+   "日常生活与社交交流 · 回应他人和自然接话"
+  ]
+ },
+ {
+  "name": "That explains a lot.",
+  "trans": [
+   "这样就解释得通了。",
+   "日常生活与社交交流 · 回应他人和自然接话"
+  ]
+ },
+ {
+  "name": "I can relate to that.",
+  "trans": [
+   "我能理解这种感受。",
+   "日常生活与社交交流 · 回应他人和自然接话"
+  ]
+ },
+ {
+  "name": "That's a fair question.",
+  "trans": [
+   "这是个合理的问题。",
+   "日常生活与社交交流 · 回应他人和自然接话"
+  ]
+ },
+ {
+  "name": "I was just about to say the same thing.",
+  "trans": [
+   "我正准备说同样的话。",
+   "日常生活与社交交流 · 回应他人和自然接话"
+  ]
+ },
+ {
+  "name": "That makes things a little clearer.",
+  "trans": [
+   "这样事情清楚了一些。",
+   "日常生活与社交交流 · 回应他人和自然接话"
+  ]
+ },
+ {
+  "name": "I see what you're getting at.",
+  "trans": [
+   "我明白你想表达什么。",
+   "日常生活与社交交流 · 回应他人和自然接话"
+  ]
+ },
+ {
+  "name": "That sounds like quite an experience.",
+  "trans": [
+   "听起来是一次很特别的经历。",
+   "日常生活与社交交流 · 回应他人和自然接话"
+  ]
+ },
+ {
+  "name": "Sorry, I didn't catch that.",
+  "trans": [
+   "抱歉，我没听清。",
+   "日常生活与社交交流 · 请求重复与确认理解"
+  ]
+ },
+ {
+  "name": "Could you say that a little more slowly?",
+  "trans": [
+   "你能说慢一点吗？",
+   "日常生活与社交交流 · 请求重复与确认理解"
+  ]
+ },
+ {
+  "name": "What exactly do you mean by that?",
+  "trans": [
+   "你这句话具体是什么意思？",
+   "日常生活与社交交流 · 请求重复与确认理解"
+  ]
+ },
+ {
+  "name": "Let me make sure I understood you correctly.",
+  "trans": [
+   "让我确认一下我是否正确理解了你。",
+   "日常生活与社交交流 · 请求重复与确认理解"
+  ]
+ },
+ {
+  "name": "Did you mean that we should leave now?",
+  "trans": [
+   "你的意思是我们现在应该离开吗？",
+   "日常生活与社交交流 · 请求重复与确认理解"
+  ]
+ },
+ {
+  "name": "Could you repeat the last part?",
+  "trans": [
+   "你能重复一下最后一部分吗？",
+   "日常生活与社交交流 · 请求重复与确认理解"
+  ]
+ },
+ {
+  "name": "I'm not sure I understand the question.",
+  "trans": [
+   "我不太确定自己理解了这个问题。",
+   "日常生活与社交交流 · 请求重复与确认理解"
+  ]
+ },
+ {
+  "name": "Can you put that another way?",
+  "trans": [
+   "你能换一种方式表达吗？",
+   "日常生活与社交交流 · 请求重复与确认理解"
+  ]
+ },
+ {
+  "name": "So, what you're saying is...",
+  "trans": [
+   "所以，你的意思是……",
+   "日常生活与社交交流 · 请求重复与确认理解"
+  ]
+ },
+ {
+  "name": "Just to clarify, are we meeting tomorrow?",
+  "trans": [
+   "确认一下，我们明天见面吗？",
+   "日常生活与社交交流 · 请求重复与确认理解"
+  ]
+ },
+ {
+  "name": "I want to make sure we're talking about the same thing.",
+  "trans": [
+   "我想确认一下我们讨论的是同一件事。",
+   "日常生活与社交交流 · 请求重复与确认理解"
+  ]
+ },
+ {
+  "name": "Could you give me a little more detail?",
+  "trans": [
+   "你能再提供一些细节吗？",
+   "日常生活与社交交流 · 请求重复与确认理解"
+  ]
+ },
+ {
+  "name": "I think I may have misunderstood you.",
+  "trans": [
+   "我觉得我可能误解了你的意思。",
+   "日常生活与社交交流 · 请求重复与确认理解"
+  ]
+ },
+ {
+  "name": "Would you mind explaining that again?",
+  "trans": [
+   "你介意再解释一下吗？",
+   "日常生活与社交交流 · 请求重复与确认理解"
+  ]
+ },
+ {
+  "name": "Let me see if I've got this right.",
+  "trans": [
+   "让我确认一下我是否理解正确。",
+   "日常生活与社交交流 · 请求重复与确认理解"
+  ]
+ },
+ {
+  "name": "Are you saying that it's no longer available?",
+  "trans": [
+   "你的意思是现在已经没有了吗？",
+   "日常生活与社交交流 · 请求重复与确认理解"
+  ]
+ },
+ {
+  "name": "I didn't quite get the last sentence.",
+  "trans": [
+   "我没太听懂最后一句话。",
+   "日常生活与社交交流 · 请求重复与确认理解"
+  ]
+ },
+ {
+  "name": "Could you spell that for me?",
+  "trans": [
+   "你能帮我拼一下吗？",
+   "日常生活与社交交流 · 请求重复与确认理解"
+  ]
+ },
+ {
+  "name": "What does that expression mean?",
+  "trans": [
+   "那个表达是什么意思？",
+   "日常生活与社交交流 · 请求重复与确认理解"
+  ]
+ },
+ {
+  "name": "Thanks for explaining that.",
+  "trans": [
+   "谢谢你解释这个。",
+   "日常生活与社交交流 · 请求重复与确认理解"
+  ]
+ },
+ {
+  "name": "I'm afraid I can't make it this time.",
+  "trans": [
+   "恐怕这次我没办法参加。",
+   "日常生活与社交交流 · 拒绝、推迟与表达界限"
+  ]
+ },
+ {
+  "name": "I'd rather not get involved in that.",
+  "trans": [
+   "我不太想参与那件事。",
+   "日常生活与社交交流 · 拒绝、推迟与表达界限"
+  ]
+ },
+ {
+  "name": "I'm not comfortable with that arrangement.",
+  "trans": [
+   "我对那个安排不太舒服。",
+   "日常生活与社交交流 · 拒绝、推迟与表达界限"
+  ]
+ },
+ {
+  "name": "I appreciate the offer, but I'll pass.",
+  "trans": [
+   "谢谢你的提议，但我这次就不参加了。",
+   "日常生活与社交交流 · 拒绝、推迟与表达界限"
+  ]
+ },
+ {
+  "name": "I need to think it over first.",
+  "trans": [
+   "我需要先考虑一下。",
+   "日常生活与社交交流 · 拒绝、推迟与表达界限"
+  ]
+ },
+ {
+  "name": "I'm not in a position to make that decision.",
+  "trans": [
+   "我目前没有权限做那个决定。",
+   "日常生活与社交交流 · 拒绝、推迟与表达界限"
+  ]
+ },
+ {
+  "name": "Could we leave that for another time?",
+  "trans": [
+   "我们能把这件事留到下次吗？",
+   "日常生活与社交交流 · 拒绝、推迟与表达界限"
+  ]
+ },
+ {
+  "name": "I'd prefer to keep that private.",
+  "trans": [
+   "我更希望把那件事保留为私人信息。",
+   "日常生活与社交交流 · 拒绝、推迟与表达界限"
+  ]
+ },
+ {
+  "name": "I'm not sure that's something I can commit to.",
+  "trans": [
+   "我不确定自己能否做出这个承诺。",
+   "日常生活与社交交流 · 拒绝、推迟与表达界限"
+  ]
+ },
+ {
+  "name": "I don't think that's going to work for me.",
+  "trans": [
+   "我觉得那个安排不太适合我。",
+   "日常生活与社交交流 · 拒绝、推迟与表达界限"
+  ]
+ },
+ {
+  "name": "I need to set some boundaries here.",
+  "trans": [
+   "我需要在这件事上明确一些界限。",
+   "日常生活与社交交流 · 拒绝、推迟与表达界限"
+  ]
+ },
+ {
+  "name": "I hope you don't take this the wrong way.",
+  "trans": [
+   "希望你不要误会我的意思。",
+   "日常生活与社交交流 · 拒绝、推迟与表达界限"
+  ]
+ },
+ {
+  "name": "I'd rather discuss this another time.",
+  "trans": [
+   "我更希望换个时间讨论这件事。",
+   "日常生活与社交交流 · 拒绝、推迟与表达界限"
+  ]
+ },
+ {
+  "name": "I won't be able to take on anything else right now.",
+  "trans": [
+   "我现在没办法再承担其他事情了。",
+   "日常生活与社交交流 · 拒绝、推迟与表达界限"
+  ]
+ },
+ {
+  "name": "Let me get back to you before I say yes.",
+  "trans": [
+   "在答应之前，让我先考虑一下再回复你。",
+   "日常生活与社交交流 · 拒绝、推迟与表达界限"
+  ]
+ },
+ {
+  "name": "I understand your request, but I have other commitments.",
+  "trans": [
+   "我理解你的请求，但我还有其他安排。",
+   "日常生活与社交交流 · 拒绝、推迟与表达界限"
+  ]
+ },
+ {
+  "name": "I'm going to have to decline this time.",
+  "trans": [
+   "这次我恐怕只能拒绝了。",
+   "日常生活与社交交流 · 拒绝、推迟与表达界限"
+  ]
+ },
+ {
+  "name": "I'd like to keep my options open.",
+  "trans": [
+   "我希望保留选择的空间。",
+   "日常生活与社交交流 · 拒绝、推迟与表达界限"
+  ]
+ },
+ {
+  "name": "Let's find an alternative that works for everyone.",
+  "trans": [
+   "我们找一个对大家都合适的替代方案吧。",
+   "日常生活与社交交流 · 拒绝、推迟与表达界限"
+  ]
+ },
+ {
+  "name": "I hope we can find a way to make this work.",
+  "trans": [
+   "希望我们能找到办法解决这件事。",
+   "日常生活与社交交流 · 拒绝、推迟与表达界限"
+  ]
+ }
+]

@@ -178,6 +178,7 @@ def write_index(rows, files):
         "- [[12_word-phrase-bank/_index|词与短语库]]\n",
         "- [[18_fsi-drills/_index|FSI 口语训练]]：把短语练成条件反射。\n",
         "- [[LEARNING-PATH|学习路径]]\n",
+        "- [[19_qwerty-learner/_index|qwerty 打字练习]]\n",
     ]
     (OUT / "_index.md").write_text("".join(lines), encoding="utf-8")
 

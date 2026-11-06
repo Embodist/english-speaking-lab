@@ -2,8 +2,8 @@
 type: hub
 title: "FSI 式口语训练"
 tags: [skill/speaking, status/learning]
-created: 2026-11-05
-updated: 2026-11-05
+created: 2026-11-06
+updated: 2026-11-06
 ---
 
 # FSI 式口语训练
@@ -57,3 +57,4 @@ python scripts/study.py fsi --set resp --n 5 --tts   # 生成模型答案音频
 - [[12_word-phrase-bank/10-fixed-chunks|固定搭配与高频句型]]
 - [[02_daily-work/_index|日常工作表达]]
 - [[06_interview/_index|面试训练]]
+- [[19_qwerty-learner/_index|qwerty 打字练习]]

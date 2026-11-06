@@ -1,0 +1,2347 @@
+[
+ {
+  "name": "a-",
+  "trans": [
+   "在.../...的/不",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "ab-/abs-",
+  "trans": [
+   "脱离/离开",
+   "prefix · 6 个例词"
+  ]
+ },
+ {
+  "name": "ac-/ad-/af-/ag-/al-/ap-/ar-/as-/at-",
+  "trans": [
+   "方向/变化/加强",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "acu-",
+  "trans": [
+   "尖/锐利",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "aer/o-",
+  "trans": [
+   "空气/航空",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "agri-",
+  "trans": [
+   "农业/田地",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "ambi-",
+  "trans": [
+   "两/周围",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "ampli-",
+  "trans": [
+   "大/宽敞",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "an-",
+  "trans": [
+   "不/无",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "ana-",
+  "trans": [
+   "向上/再/类似",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "andro-",
+  "trans": [
+   "男性/雄",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "Anglo-",
+  "trans": [
+   "英国/英语",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "ante-",
+  "trans": [
+   "在前",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "anthropo-",
+  "trans": [
+   "人类",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "anti-",
+  "trans": [
+   "反对/对抗",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "apo-",
+  "trans": [
+   "离开/分开",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "aqua-",
+  "trans": [
+   "水",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "arch-",
+  "trans": [
+   "首要/主要",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "archaeo-",
+  "trans": [
+   "古代/原始",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "astro-",
+  "trans": [
+   "星/太空/天文",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "atmo-",
+  "trans": [
+   "大气/蒸汽",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "audio-",
+  "trans": [
+   "听/声音",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "auto-",
+  "trans": [
+   "自己/自动",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "baro-",
+  "trans": [
+   "压力/重量",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "be-",
+  "trans": [
+   "使成为/在周围",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "bene-",
+  "trans": [
+   "好/善",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "bi-",
+  "trans": [
+   "两/二",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "biblio-",
+  "trans": [
+   "书/圣经",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "bio-",
+  "trans": [
+   "生命/生物",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "by-",
+  "trans": [
+   "旁边/次要",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "cardio-",
+  "trans": [
+   "心脏",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "carn-",
+  "trans": [
+   "肉/肉体",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "cata-",
+  "trans": [
+   "向下/完全",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "cent-",
+  "trans": [
+   "百/百分之一",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "cephalo-",
+  "trans": [
+   "头",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "cerebro-",
+  "trans": [
+   "大脑",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "chemo-",
+  "trans": [
+   "化学",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "chloro-",
+  "trans": [
+   "绿/氯",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "chrom-",
+  "trans": [
+   "颜色",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "chron-",
+  "trans": [
+   "时间",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "circum-",
+  "trans": [
+   "环绕/周围",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "co-/col-/com-/con-/cor-",
+  "trans": [
+   "共同/一起",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "contra-",
+  "trans": [
+   "反对/相反",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "counter-",
+  "trans": [
+   "反对/对应",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "cranio-",
+  "trans": [
+   "头颅",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "crypto-",
+  "trans": [
+   "隐藏/秘密",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "cyclo-",
+  "trans": [
+   "圆/环/周期",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "de-",
+  "trans": [
+   "离开/向下/否定",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "deca-",
+  "trans": [
+   "十",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "demi-",
+  "trans": [
+   "半",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "derm-",
+  "trans": [
+   "皮肤",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "di-",
+  "trans": [
+   "二/两/分开",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "dia-",
+  "trans": [
+   "通过/横过/分离",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "dis-",
+  "trans": [
+   "不/分开/否定",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "dors-",
+  "trans": [
+   "背/背部",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "du-/duo-",
+  "trans": [
+   "二/双",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "dys-",
+  "trans": [
+   "不良/困难",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "e-/ef-",
+  "trans": [
+   "出/向外",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "ec-",
+  "trans": [
+   "在外/向外",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "eco-",
+  "trans": [
+   "生态/环境",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "ecto-",
+  "trans": [
+   "外部/外",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "en-/em-",
+  "trans": [
+   "使进入/置于内",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "endo-",
+  "trans": [
+   "内部",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "epi-",
+  "trans": [
+   "在...上/在...外",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "equi-",
+  "trans": [
+   "相等/平等",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "ergo-",
+  "trans": [
+   "工作/力",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "ethno-",
+  "trans": [
+   "种族/民族",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "eu-",
+  "trans": [
+   "好/优",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "ex-",
+  "trans": [
+   "出/向外/前任",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "extra-",
+  "trans": [
+   "以外/超过",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "ferro-",
+  "trans": [
+   "铁",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "fore-",
+  "trans": [
+   "前/先/预",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "gastro-",
+  "trans": [
+   "胃/腹部",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "geo-",
+  "trans": [
+   "地球/土地",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "glyco-",
+  "trans": [
+   "糖/葡萄糖",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "gyn-",
+  "trans": [
+   "女性/雌",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "hemi-",
+  "trans": [
+   "半",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "hemo-",
+  "trans": [
+   "血",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "hepta-",
+  "trans": [
+   "七",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "hetero-",
+  "trans": [
+   "异/不同",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "hexa-",
+  "trans": [
+   "六",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "histo-",
+  "trans": [
+   "组织",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "homo-",
+  "trans": [
+   "同/相同",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "hydro-",
+  "trans": [
+   "水/氢",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "hyper-",
+  "trans": [
+   "超过/过多",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "hypo-",
+  "trans": [
+   "在...下/低于",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "icono-",
+  "trans": [
+   "图像/偶像",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "idio-",
+  "trans": [
+   "个人的/独特的",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "il-/im-/in-/ir-",
+  "trans": [
+   "不/无/向内",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "immuno-",
+  "trans": [
+   "免疫",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "infra-",
+  "trans": [
+   "在下/低于",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "inter-",
+  "trans": [
+   "在...之间/相互",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "intra-",
+  "trans": [
+   "在内/内部",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "intro-",
+  "trans": [
+   "向内/入内",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "iso-",
+  "trans": [
+   "相同/相等",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "kilo-",
+  "trans": [
+   "千",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "macro-",
+  "trans": [
+   "大/宏观/长",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "mal-",
+  "trans": [
+   "坏/恶/不良",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "mega-",
+  "trans": [
+   "大/百万",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "meso-",
+  "trans": [
+   "中间",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "meta-",
+  "trans": [
+   "变化/超越/在...后",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "meteor-",
+  "trans": [
+   "大气/流星",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "micro-",
+  "trans": [
+   "微/小/微观",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "mid-",
+  "trans": [
+   "中间",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "milli-",
+  "trans": [
+   "千/千分之一",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "mini-",
+  "trans": [
+   "小",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "mis-",
+  "trans": [
+   "错/坏/不利",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "mono-",
+  "trans": [
+   "单一",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "multi-",
+  "trans": [
+   "多",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "nano-",
+  "trans": [
+   "纳/十亿分之一/极小",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "narco-",
+  "trans": [
+   "麻木/麻醉",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "neo-",
+  "trans": [
+   "新",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "nephro-",
+  "trans": [
+   "肾脏",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "neuro-",
+  "trans": [
+   "神经",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "non-",
+  "trans": [
+   "不/非/无",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "ob-",
+  "trans": [
+   "逆/反/加强",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "octa-/octo-",
+  "trans": [
+   "八",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "omni-",
+  "trans": [
+   "全/总",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "ophthalmo-",
+  "trans": [
+   "眼睛",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "opto-",
+  "trans": [
+   "视力/光学",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "ornitho-",
+  "trans": [
+   "鸟",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "ortho-",
+  "trans": [
+   "正/直/标准",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "osteo-",
+  "trans": [
+   "骨",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "oto-",
+  "trans": [
+   "耳",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "out-",
+  "trans": [
+   "出/外/超过",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "over-",
+  "trans": [
+   "过度/在上/超过",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "paleo-",
+  "trans": [
+   "古/旧",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "pan-",
+  "trans": [
+   "全/泛",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "para-",
+  "trans": [
+   "旁/侧/类似/保护",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "penta-",
+  "trans": [
+   "五",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "per-",
+  "trans": [
+   "通过/完全/每",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "peri-",
+  "trans": [
+   "周围/近",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "poly-",
+  "trans": [
+   "多",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "post-",
+  "trans": [
+   "后/之后",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "pre-",
+  "trans": [
+   "前/预先",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "pro-",
+  "trans": [
+   "向前/赞成/代替",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "proto-",
+  "trans": [
+   "原始/首要",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "pseudo-",
+  "trans": [
+   "伪/假",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "quadri-/quadru-",
+  "trans": [
+   "四",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "quasi-",
+  "trans": [
+   "准/半/类似",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "re-",
+  "trans": [
+   "再/回/重新",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "retro-",
+  "trans": [
+   "向后/追溯",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "se-",
+  "trans": [
+   "分开/离开",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "semi-",
+  "trans": [
+   "半",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "sub-",
+  "trans": [
+   "在下/次/亚/副",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "super-",
+  "trans": [
+   "在上/超/超级",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "supra-",
+  "trans": [
+   "在上/超",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "syn-/sym-",
+  "trans": [
+   "共同/相同",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "tele-",
+  "trans": [
+   "远/电",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "tetra-",
+  "trans": [
+   "四",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "trans-",
+  "trans": [
+   "横过/转移/变化",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "tri-",
+  "trans": [
+   "三",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "ultra-",
+  "trans": [
+   "极端/超",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "un-",
+  "trans": [
+   "不/相反/非",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "under-",
+  "trans": [
+   "在...下/不足",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "uni-",
+  "trans": [
+   "单/一",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "vice-",
+  "trans": [
+   "副/代理",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "with-",
+  "trans": [
+   "向后/相反",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "xeno-",
+  "trans": [
+   "外来/陌生/外国",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "xero-",
+  "trans": [
+   "干燥",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "xylo-",
+  "trans": [
+   "木头",
+   "prefix · 4 个例词"
+  ]
+ },
+ {
+  "name": "zoo-",
+  "trans": [
+   "动物",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "zyg-",
+  "trans": [
+   "轭/成对/结合",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "zym-",
+  "trans": [
+   "酶/发酵",
+   "prefix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-a",
+  "trans": [
+   "名词",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-able/-ible",
+  "trans": [
+   "形容词，表示\"能够...的\"",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-ably/-ibly",
+  "trans": [
+   "副词",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-acea",
+  "trans": [
+   "名词，表示\"纲/目\"",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-aceae",
+  "trans": [
+   "名词，表示\"科\"",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-ad",
+  "trans": [
+   "名词",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-ade",
+  "trans": [
+   "名词",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-ado",
+  "trans": [
+   "名词",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-age",
+  "trans": [
+   "名词，表示\"状态/集合\"",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-aire",
+  "trans": [
+   "名词，表示\"人\"",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-al",
+  "trans": [
+   "形容词",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-al",
+  "trans": [
+   "名词",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-an/-ian",
+  "trans": [
+   "形容词/名词，表示\"属于...的/人\"",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-ana",
+  "trans": [
+   "名词，表示\"选集/资料\"",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-ance/-ence",
+  "trans": [
+   "名词，表示\"状态/性质\"",
+   "suffix · 10 个例词"
+  ]
+ },
+ {
+  "name": "-aneity",
+  "trans": [
+   "名词，表示\"性质\"",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-aneous",
+  "trans": [
+   "形容词",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-ancy/-ency",
+  "trans": [
+   "名词，表示\"状态/性质\"",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-ant/-ent",
+  "trans": [
+   "形容词/名词，表示\"...的/人/物\"",
+   "suffix · 10 个例词"
+  ]
+ },
+ {
+  "name": "-ar",
+  "trans": [
+   "形容词",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-ard",
+  "trans": [
+   "名词，常含贬义",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-arian",
+  "trans": [
+   "名词/形容词，表示\"...主义者/的\"",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-arium",
+  "trans": [
+   "名词，表示\"场所/容器\"",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-ary",
+  "trans": [
+   "形容词",
+   "suffix · 3 个例词"
+  ]
+ },
+ {
+  "name": "-ary",
+  "trans": [
+   "名词，表示\"人/场所\"",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-ast",
+  "trans": [
+   "名词，表示\"人\"",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-aster",
+  "trans": [
+   "名词，表示\"劣质的人/物\"",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-ate",
+  "trans": [
+   "动词，表示\"使成为\"",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-ate",
+  "trans": [
+   "名词，表示\"人/职位\"",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-atic",
+  "trans": [
+   "形容词",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-ation",
+  "trans": [
+   "名词，表示\"动作/状态/结果\"",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-ative",
+  "trans": [
+   "形容词",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-ator",
+  "trans": [
+   "名词，表示\"做...的人/物\"",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-atory",
+  "trans": [
+   "名词",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-ce",
+  "trans": [
+   "名词",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-cle",
+  "trans": [
+   "名词，表示\"小\"",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-cule",
+  "trans": [
+   "名词，表示\"小\"",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-cy",
+  "trans": [
+   "名词，表示\"状态/性质\"",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-cy",
+  "trans": [
+   "名词",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-dom",
+  "trans": [
+   "名词，表示\"状态/领域\"",
+   "suffix · 10 个例词"
+  ]
+ },
+ {
+  "name": "-ean",
+  "trans": [
+   "形容词/名词",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-ectomy",
+  "trans": [
+   "名词，表示\"切除术\"",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-ed",
+  "trans": [
+   "形容词/动词过去式/过去分词",
+   "suffix · 10 个例词"
+  ]
+ },
+ {
+  "name": "-ee",
+  "trans": [
+   "名词，表示\"受动者\"",
+   "suffix · 10 个例词"
+  ]
+ },
+ {
+  "name": "-eer",
+  "trans": [
+   "名词，表示\"从事...的人\"",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-emic",
+  "trans": [
+   "形容词",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-en",
+  "trans": [
+   "动词/形容词",
+   "suffix · 10 个例词"
+  ]
+ },
+ {
+  "name": "-ence",
+  "trans": [
+   "名词",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-ency",
+  "trans": [
+   "名词",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-enne",
+  "trans": [
+   "名词，表示\"女性\"",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-ent",
+  "trans": [
+   "名词/形容词",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-eous",
+  "trans": [
+   "形容词",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-er/-or",
+  "trans": [
+   "名词，表示\"人或物\"",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-er",
+  "trans": [
+   "名词，表示\"...地方的人\"",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-ern",
+  "trans": [
+   "形容词/名词",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-ery",
+  "trans": [
+   "名词，表示\"场所/行为/集合\"",
+   "suffix · 10 个例词"
+  ]
+ },
+ {
+  "name": "-escence",
+  "trans": [
+   "名词，表示\"过程/状态\"",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-escent",
+  "trans": [
+   "形容词",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-ese",
+  "trans": [
+   "形容词/名词，表示\"...国的/人/语\"",
+   "suffix · 7 个例词"
+  ]
+ },
+ {
+  "name": "-esque",
+  "trans": [
+   "形容词，表示\"...风格的\"",
+   "suffix · 7 个例词"
+  ]
+ },
+ {
+  "name": "-ess",
+  "trans": [
+   "名词，表示\"女性\"",
+   "suffix · 10 个例词"
+  ]
+ },
+ {
+  "name": "-est",
+  "trans": [
+   "形容词/副词最高级",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-et",
+  "trans": [
+   "名词，表示\"小\"",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-etic",
+  "trans": [
+   "形容词",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-ette",
+  "trans": [
+   "名词，表示\"小/女性\"",
+   "suffix · 9 个例词"
+  ]
+ },
+ {
+  "name": "-ety",
+  "trans": [
+   "名词",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-eur",
+  "trans": [
+   "名词，表示\"人\"",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-faction",
+  "trans": [
+   "名词，表示\"形成/状态\"",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-fic",
+  "trans": [
+   "形容词",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-fication",
+  "trans": [
+   "名词，表示\"形成/...化\"",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-fold",
+  "trans": [
+   "形容词/副词，表示\"倍\"",
+   "suffix · 9 个例词"
+  ]
+ },
+ {
+  "name": "-form",
+  "trans": [
+   "形容词/名词",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-ful",
+  "trans": [
+   "形容词，表示\"充满...的\"",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-fy/-ify",
+  "trans": [
+   "动词，表示\"使成为\"",
+   "suffix · 10 个例词"
+  ]
+ },
+ {
+  "name": "-gram",
+  "trans": [
+   "名词，表示\"书写物/图\"",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-graph",
+  "trans": [
+   "名词，表示\"书写工具/记录\"",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-graphy",
+  "trans": [
+   "名词，表示\"书写法/学科\"",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-hedron",
+  "trans": [
+   "名词，表示\"...面体\"",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-hood",
+  "trans": [
+   "名词，表示\"状态/时期\"",
+   "suffix · 10 个例词"
+  ]
+ },
+ {
+  "name": "-ial",
+  "trans": [
+   "形容词",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-ian",
+  "trans": [
+   "名词，表示\"专家/人\"",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-iasis",
+  "trans": [
+   "名词，表示\"病态\"",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-iatric",
+  "trans": [
+   "形容词，表示\"医学的\"",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-iatrics",
+  "trans": [
+   "名词，表示\"医学分支\"",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-ibility",
+  "trans": [
+   "名词，表示\"可能性/能力\"",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-ible",
+  "trans": [
+   "形容词",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-ic",
+  "trans": [
+   "形容词，表示\"...的\"",
+   "suffix · 9 个例词"
+  ]
+ },
+ {
+  "name": "-ical",
+  "trans": [
+   "形容词",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-ice",
+  "trans": [
+   "名词",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-ician",
+  "trans": [
+   "名词，表示\"专家/从业者\"",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-icity",
+  "trans": [
+   "名词",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-ics",
+  "trans": [
+   "名词，表示\"学科\"",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-id",
+  "trans": [
+   "形容词/名词",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-ide",
+  "trans": [
+   "名词，表示\"化合物\"",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-ie",
+  "trans": [
+   "名词，表示\"小/亲昵\"",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-ier",
+  "trans": [
+   "名词",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-ile",
+  "trans": [
+   "形容词/名词",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-ility",
+  "trans": [
+   "名词",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-ine",
+  "trans": [
+   "名词/形容词",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-ing",
+  "trans": [
+   "名词/形容词/现在分词",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-ing",
+  "trans": [
+   "名词",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-ion/-tion/-sion",
+  "trans": [
+   "名词，表示\"动作/状态/结果\"",
+   "suffix · 10 个例词"
+  ]
+ },
+ {
+  "name": "-ior",
+  "trans": [
+   "形容词/名词",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-ious",
+  "trans": [
+   "形容词",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-ise",
+  "trans": [
+   "动词/名词",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-ish",
+  "trans": [
+   "形容词，表示\"稍微...的/...民族的\"",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-ish",
+  "trans": [
+   "动词",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-ism",
+  "trans": [
+   "名词，表示\"主义/学说/状态\"",
+   "suffix · 6 个例词"
+  ]
+ },
+ {
+  "name": "-ist",
+  "trans": [
+   "名词，表示\"主义者/从事者\"",
+   "suffix · 9 个例词"
+  ]
+ },
+ {
+  "name": "-ister",
+  "trans": [
+   "名词，表示“人”",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-ite",
+  "trans": [
+   "名词",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-ite",
+  "trans": [
+   "形容词",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-ition",
+  "trans": [
+   "名词",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-itious",
+  "trans": [
+   "形容词",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-itis",
+  "trans": [
+   "名词，表示\"炎症\"",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-itude",
+  "trans": [
+   "名词，表示\"状态\"",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-ity/-ty",
+  "trans": [
+   "名词，表示\"性质/状态\"",
+   "suffix · 10 个例词"
+  ]
+ },
+ {
+  "name": "-ive",
+  "trans": [
+   "形容词，表示\"有...性质的\"",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-ive",
+  "trans": [
+   "名词",
+   "suffix · 3 个例词"
+  ]
+ },
+ {
+  "name": "-ivity",
+  "trans": [
+   "名词",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-ization",
+  "trans": [
+   "名词，表示\"...化\"",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-ize/-ise",
+  "trans": [
+   "动词，表示\"使成为/...化\"",
+   "suffix · 10 个例词"
+  ]
+ },
+ {
+  "name": "-kin",
+  "trans": [
+   "名词，表示\"小\"",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-less",
+  "trans": [
+   "形容词，表示\"没有...的\"",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-less",
+  "trans": [
+   "形容词",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-let",
+  "trans": [
+   "名词，表示\"小\"",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-like",
+  "trans": [
+   "形容词，表示\"像...的\"",
+   "suffix · 10 个例词"
+  ]
+ },
+ {
+  "name": "-ling",
+  "trans": [
+   "名词，表示\"小/卑劣\"",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-logical",
+  "trans": [
+   "形容词，表示\"...学的\"",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-logist",
+  "trans": [
+   "名词，表示\"...学家\"",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-logy",
+  "trans": [
+   "名词，表示\"...学/论\"",
+   "suffix · 10 个例词"
+  ]
+ },
+ {
+  "name": "-ly",
+  "trans": [
+   "副词/形容词",
+   "suffix · 10 个例词"
+  ]
+ },
+ {
+  "name": "-ment",
+  "trans": [
+   "名词，表示\"行为/结果/状态\"",
+   "suffix · 10 个例词"
+  ]
+ },
+ {
+  "name": "-meter",
+  "trans": [
+   "名词，表示\"测量仪/计\"",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-metry",
+  "trans": [
+   "名词，表示\"测量学/法\"",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-most",
+  "trans": [
+   "形容词，表示\"最...\"",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-ness",
+  "trans": [
+   "名词，表示\"性质/状态\"",
+   "suffix · 10 个例词"
+  ]
+ },
+ {
+  "name": "-nik",
+  "trans": [
+   "名词，表示\"...的人\"",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-ock",
+  "trans": [
+   "名词，表示\"小\"",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-oid",
+  "trans": [
+   "形容词/名词，表示\"似...的/体\"",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-ologist",
+  "trans": [
+   "名词，表示\"...学家/专家\"",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-ology",
+  "trans": [
+   "名词，表示\"...学\"",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-oma",
+  "trans": [
+   "名词，表示\"肿瘤\"",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-oon",
+  "trans": [
+   "名词",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-or",
+  "trans": [
+   "名词，表示\"人/物\"",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-ory",
+  "trans": [
+   "名词/形容词",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-ose",
+  "trans": [
+   "形容词/名词",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-osis",
+  "trans": [
+   "名词，表示\"状态/病变\"",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-ous",
+  "trans": [
+   "形容词，表示\"充满...的\"",
+   "suffix · 10 个例词"
+  ]
+ },
+ {
+  "name": "-proof",
+  "trans": [
+   "形容词，表示\"防...的\"",
+   "suffix · 6 个例词"
+  ]
+ },
+ {
+  "name": "-ry",
+  "trans": [
+   "名词，表示\"集合/场所/行为\"",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-s",
+  "trans": [
+   "名词复数/动词第三人称",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-ship",
+  "trans": [
+   "名词，表示\"状态/身份/技能\"",
+   "suffix · 10 个例词"
+  ]
+ },
+ {
+  "name": "-sion",
+  "trans": [
+   "名词",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-some",
+  "trans": [
+   "形容词，表示\"引起...的/有...倾向的\"",
+   "suffix · 6 个例词"
+  ]
+ },
+ {
+  "name": "-ster",
+  "trans": [
+   "名词，表示\"做...的人\"",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-th",
+  "trans": [
+   "名词，表示\"状态/过程\"",
+   "suffix · 10 个例词"
+  ]
+ },
+ {
+  "name": "-tic",
+  "trans": [
+   "形容词",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-tion",
+  "trans": [
+   "名词",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-tious",
+  "trans": [
+   "形容词",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-tude",
+  "trans": [
+   "名词，表示\"状态\"",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-ty",
+  "trans": [
+   "名词",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-ular",
+  "trans": [
+   "形容词",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-ule",
+  "trans": [
+   "名词，表示\"小\"",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-uous",
+  "trans": [
+   "形容词",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-ure",
+  "trans": [
+   "名词，表示\"动作/结果/状态\"",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-ward",
+  "trans": [
+   "形容词/副词，表示\"向...的/地\"",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-ward",
+  "trans": [
+   "介词/副词",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-wards",
+  "trans": [
+   "副词，表示\"向...\"",
+   "suffix · 5 个例词"
+  ]
+ },
+ {
+  "name": "-wise",
+  "trans": [
+   "副词/形容词，表示\"方向/方面/方式\"",
+   "suffix · 4 个例词"
+  ]
+ },
+ {
+  "name": "-y",
+  "trans": [
+   "形容词",
+   "suffix · 5 个例词"
+  ]
+ }
+]

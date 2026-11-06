@@ -2,8 +2,8 @@
 type: hub
 title: "基础短语 1125"
 tags: [library/word-bank, skill/speaking, status/learning]
-created: 2026-11-05
-updated: 2026-11-05
+created: 2026-11-06
+updated: 2026-11-06
 ---
 
 # 基础短语 1125
@@ -70,3 +70,4 @@ python scripts/study.py phrase --n 10 --tts           # 生成参考音
 - [[12_word-phrase-bank/_index|词与短语库]]
 - [[18_fsi-drills/_index|FSI 口语训练]]：把短语练成条件反射。
 - [[LEARNING-PATH|学习路径]]
+- [[19_qwerty-learner/_index|qwerty 打字练习]]

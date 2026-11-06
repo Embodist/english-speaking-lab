@@ -1,0 +1,842 @@
+[
+ {
+  "name": "I'm looking for something practical.",
+  "trans": [
+   "我想找一些实用的东西。",
+   "购物、餐厅与消费场景 · 进店、寻找商品与询问信息"
+  ]
+ },
+ {
+  "name": "Do you have this in another color?",
+  "trans": [
+   "这个有其他颜色吗？",
+   "购物、餐厅与消费场景 · 进店、寻找商品与询问信息"
+  ]
+ },
+ {
+  "name": "I'm interested in this particular model.",
+  "trans": [
+   "我对这个型号比较感兴趣。",
+   "购物、餐厅与消费场景 · 进店、寻找商品与询问信息"
+  ]
+ },
+ {
+  "name": "Where can I find the sportswear section?",
+  "trans": [
+   "运动服装区在哪里？",
+   "购物、餐厅与消费场景 · 进店、寻找商品与询问信息"
+  ]
+ },
+ {
+  "name": "Is this available in a larger size?",
+  "trans": [
+   "这个有更大号的吗？",
+   "购物、餐厅与消费场景 · 进店、寻找商品与询问信息"
+  ]
+ },
+ {
+  "name": "Could you show me some similar options?",
+  "trans": [
+   "可以给我看看类似的款式吗？",
+   "购物、餐厅与消费场景 · 进店、寻找商品与询问信息"
+  ]
+ },
+ {
+  "name": "I'm just browsing for now.",
+  "trans": [
+   "我目前只是随便看看。",
+   "购物、餐厅与消费场景 · 进店、寻找商品与询问信息"
+  ]
+ },
+ {
+  "name": "What would you recommend for daily use?",
+  "trans": [
+   "你推荐哪款适合日常使用？",
+   "购物、餐厅与消费场景 · 进店、寻找商品与询问信息"
+  ]
+ },
+ {
+  "name": "Does this product come with a warranty?",
+  "trans": [
+   "这个产品有保修吗？",
+   "购物、餐厅与消费场景 · 进店、寻找商品与询问信息"
+  ]
+ },
+ {
+  "name": "What are the main features of this item?",
+  "trans": [
+   "这件商品的主要功能是什么？",
+   "购物、餐厅与消费场景 · 进店、寻找商品与询问信息"
+  ]
+ },
+ {
+  "name": "Is this made from natural materials?",
+  "trans": [
+   "这个是天然材料制成的吗？",
+   "购物、餐厅与消费场景 · 进店、寻找商品与询问信息"
+  ]
+ },
+ {
+  "name": "Do you have anything within this price range?",
+  "trans": [
+   "你们有这个价位以内的商品吗？",
+   "购物、餐厅与消费场景 · 进店、寻找商品与询问信息"
+  ]
+ },
+ {
+  "name": "Can I see the product details?",
+  "trans": [
+   "我可以看看产品详情吗？",
+   "购物、餐厅与消费场景 · 进店、寻找商品与询问信息"
+  ]
+ },
+ {
+  "name": "Is this your latest collection?",
+  "trans": [
+   "这是你们最新的系列吗？",
+   "购物、餐厅与消费场景 · 进店、寻找商品与询问信息"
+  ]
+ },
+ {
+  "name": "How long does this usually last?",
+  "trans": [
+   "这个通常能用多久？",
+   "购物、餐厅与消费场景 · 进店、寻找商品与询问信息"
+  ]
+ },
+ {
+  "name": "Is there a user manual included?",
+  "trans": [
+   "里面附带使用说明书吗？",
+   "购物、餐厅与消费场景 · 进店、寻找商品与询问信息"
+  ]
+ },
+ {
+  "name": "Could you help me locate this item?",
+  "trans": [
+   "可以帮我找一下这件商品吗？",
+   "购物、餐厅与消费场景 · 进店、寻找商品与询问信息"
+  ]
+ },
+ {
+  "name": "Does the price include all taxes?",
+  "trans": [
+   "这个价格包含所有税费吗？",
+   "购物、餐厅与消费场景 · 进店、寻找商品与询问信息"
+  ]
+ },
+ {
+  "name": "Is this suitable for children?",
+  "trans": [
+   "这个适合孩子使用吗？",
+   "购物、餐厅与消费场景 · 进店、寻找商品与询问信息"
+  ]
+ },
+ {
+  "name": "Are there any differences between these two versions?",
+  "trans": [
+   "这两个版本有什么区别？",
+   "购物、餐厅与消费场景 · 进店、寻找商品与询问信息"
+  ]
+ },
+ {
+  "name": "Could I try this on?",
+  "trans": [
+   "我可以试穿一下吗？",
+   "购物、餐厅与消费场景 · 试穿、比较与选择商品"
+  ]
+ },
+ {
+  "name": "Where are the fitting rooms?",
+  "trans": [
+   "试衣间在哪里？",
+   "购物、餐厅与消费场景 · 试穿、比较与选择商品"
+  ]
+ },
+ {
+  "name": "This feels a little tight around the waist.",
+  "trans": [
+   "这里腰部感觉有点紧。",
+   "购物、餐厅与消费场景 · 试穿、比较与选择商品"
+  ]
+ },
+ {
+  "name": "The sleeves are slightly too long.",
+  "trans": [
+   "袖子稍微有点长。",
+   "购物、餐厅与消费场景 · 试穿、比较与选择商品"
+  ]
+ },
+ {
+  "name": "Do you have a smaller size available?",
+  "trans": [
+   "有小一码的吗？",
+   "购物、餐厅与消费场景 · 试穿、比较与选择商品"
+  ]
+ },
+ {
+  "name": "This one fits me better.",
+  "trans": [
+   "这件更适合我的尺寸。",
+   "购物、餐厅与消费场景 · 试穿、比较与选择商品"
+  ]
+ },
+ {
+  "name": "I'm not sure which one to choose.",
+  "trans": [
+   "我不确定该选哪一个。",
+   "购物、餐厅与消费场景 · 试穿、比较与选择商品"
+  ]
+ },
+ {
+  "name": "Which style is more popular?",
+  "trans": [
+   "哪种款式更受欢迎？",
+   "购物、餐厅与消费场景 · 试穿、比较与选择商品"
+  ]
+ },
+ {
+  "name": "Is this easy to clean?",
+  "trans": [
+   "这个容易清洁吗？",
+   "购物、餐厅与消费场景 · 试穿、比较与选择商品"
+  ]
+ },
+ {
+  "name": "I'd prefer something more lightweight.",
+  "trans": [
+   "我更喜欢轻便一点的。",
+   "购物、餐厅与消费场景 · 试穿、比较与选择商品"
+  ]
+ },
+ {
+  "name": "This design isn't really my style.",
+  "trans": [
+   "这个设计不太符合我的风格。",
+   "购物、餐厅与消费场景 · 试穿、比较与选择商品"
+  ]
+ },
+ {
+  "name": "Could you put these two side by side?",
+  "trans": [
+   "可以把这两个放在一起比较吗？",
+   "购物、餐厅与消费场景 · 试穿、比较与选择商品"
+  ]
+ },
+ {
+  "name": "What makes this one more expensive?",
+  "trans": [
+   "这款为什么更贵？",
+   "购物、餐厅与消费场景 · 试穿、比较与选择商品"
+  ]
+ },
+ {
+  "name": "I like the look of this one.",
+  "trans": [
+   "我喜欢这款的外观。",
+   "购物、餐厅与消费场景 · 试穿、比较与选择商品"
+  ]
+ },
+ {
+  "name": "The material feels very comfortable.",
+  "trans": [
+   "这个材质摸起来很舒服。",
+   "购物、餐厅与消费场景 · 试穿、比较与选择商品"
+  ]
+ },
+ {
+  "name": "I'm looking for something that lasts longer.",
+  "trans": [
+   "我想找耐用一些的。",
+   "购物、餐厅与消费场景 · 试穿、比较与选择商品"
+  ]
+ },
+ {
+  "name": "Does it shrink after washing?",
+  "trans": [
+   "洗过之后会缩水吗？",
+   "购物、餐厅与消费场景 · 试穿、比较与选择商品"
+  ]
+ },
+ {
+  "name": "Can this be adjusted to fit better?",
+  "trans": [
+   "这个可以调整得更合身吗？",
+   "购物、餐厅与消费场景 · 试穿、比较与选择商品"
+  ]
+ },
+ {
+  "name": "I'll think about it before deciding.",
+  "trans": [
+   "我决定之前想再考虑一下。",
+   "购物、餐厅与消费场景 · 试穿、比较与选择商品"
+  ]
+ },
+ {
+  "name": "I think this is the right choice for me.",
+  "trans": [
+   "我觉得这个适合我。",
+   "购物、餐厅与消费场景 · 试穿、比较与选择商品"
+  ]
+ },
+ {
+  "name": "How much does this cost?",
+  "trans": [
+   "这个多少钱？",
+   "购物、餐厅与消费场景 · 价格、折扣与付款"
+  ]
+ },
+ {
+  "name": "Is there a discount on this item?",
+  "trans": [
+   "这件商品有折扣吗？",
+   "购物、餐厅与消费场景 · 价格、折扣与付款"
+  ]
+ },
+ {
+  "name": "Do you offer any special promotions?",
+  "trans": [
+   "你们现在有特别促销活动吗？",
+   "购物、餐厅与消费场景 · 价格、折扣与付款"
+  ]
+ },
+ {
+  "name": "Is the sale price already applied?",
+  "trans": [
+   "折扣价已经算进去了吗？",
+   "购物、餐厅与消费场景 · 价格、折扣与付款"
+  ]
+ },
+ {
+  "name": "Can I use this coupon here?",
+  "trans": [
+   "这张优惠券可以在这里使用吗？",
+   "购物、餐厅与消费场景 · 价格、折扣与付款"
+  ]
+ },
+ {
+  "name": "Is there a discount for buying two?",
+  "trans": [
+   "买两件有折扣吗？",
+   "购物、餐厅与消费场景 · 价格、折扣与付款"
+  ]
+ },
+ {
+  "name": "Do you accept credit cards?",
+  "trans": [
+   "你们接受信用卡吗？",
+   "购物、餐厅与消费场景 · 价格、折扣与付款"
+  ]
+ },
+ {
+  "name": "Can I pay by mobile phone?",
+  "trans": [
+   "我可以用手机支付吗？",
+   "购物、餐厅与消费场景 · 价格、折扣与付款"
+  ]
+ },
+ {
+  "name": "Could I have a receipt, please?",
+  "trans": [
+   "可以给我一张收据吗？",
+   "购物、餐厅与消费场景 · 价格、折扣与付款"
+  ]
+ },
+ {
+  "name": "Do you charge an additional service fee?",
+  "trans": [
+   "你们会额外收取服务费吗？",
+   "购物、餐厅与消费场景 · 价格、折扣与付款"
+  ]
+ },
+ {
+  "name": "Is there a minimum purchase requirement?",
+  "trans": [
+   "有最低消费要求吗？",
+   "购物、餐厅与消费场景 · 价格、折扣与付款"
+  ]
+ },
+ {
+  "name": "Can I split the payment?",
+  "trans": [
+   "我可以分开付款吗？",
+   "购物、餐厅与消费场景 · 价格、折扣与付款"
+  ]
+ },
+ {
+  "name": "I'd like to pay in cash.",
+  "trans": [
+   "我想用现金付款。",
+   "购物、餐厅与消费场景 · 价格、折扣与付款"
+  ]
+ },
+ {
+  "name": "Could you check the total again?",
+  "trans": [
+   "可以再核对一下总金额吗？",
+   "购物、餐厅与消费场景 · 价格、折扣与付款"
+  ]
+ },
+ {
+  "name": "I think I was charged twice.",
+  "trans": [
+   "我好像被扣了两次钱。",
+   "购物、餐厅与消费场景 · 价格、折扣与付款"
+  ]
+ },
+ {
+  "name": "The amount on the receipt looks incorrect.",
+  "trans": [
+   "收据上的金额似乎不对。",
+   "购物、餐厅与消费场景 · 价格、折扣与付款"
+  ]
+ },
+ {
+  "name": "Can I get a digital receipt?",
+  "trans": [
+   "可以给我电子收据吗？",
+   "购物、餐厅与消费场景 · 价格、折扣与付款"
+  ]
+ },
+ {
+  "name": "Do you accept foreign currency?",
+  "trans": [
+   "你们接受外币吗？",
+   "购物、餐厅与消费场景 · 价格、折扣与付款"
+  ]
+ },
+ {
+  "name": "Is there a payment limit?",
+  "trans": [
+   "有支付金额限制吗？",
+   "购物、餐厅与消费场景 · 价格、折扣与付款"
+  ]
+ },
+ {
+  "name": "Could you explain this charge?",
+  "trans": [
+   "可以解释一下这笔费用吗？",
+   "购物、餐厅与消费场景 · 价格、折扣与付款"
+  ]
+ },
+ {
+  "name": "Could we take a look at the menu?",
+  "trans": [
+   "我们可以看一下菜单吗？",
+   "购物、餐厅与消费场景 · 餐厅点餐与特殊需求"
+  ]
+ },
+ {
+  "name": "What do you suggest for a first-time visitor?",
+  "trans": [
+   "第一次来的人适合点什么？",
+   "购物、餐厅与消费场景 · 餐厅点餐与特殊需求"
+  ]
+ },
+ {
+  "name": "Which dishes are your specialties?",
+  "trans": [
+   "你们的特色菜有哪些？",
+   "购物、餐厅与消费场景 · 餐厅点餐与特殊需求"
+  ]
+ },
+ {
+  "name": "I'd like something not too spicy.",
+  "trans": [
+   "我想要不太辣的。",
+   "购物、餐厅与消费场景 · 餐厅点餐与特殊需求"
+  ]
+ },
+ {
+  "name": "Does this dish contain nuts?",
+  "trans": [
+   "这道菜含有坚果吗？",
+   "购物、餐厅与消费场景 · 餐厅点餐与特殊需求"
+  ]
+ },
+ {
+  "name": "I'm allergic to shellfish.",
+  "trans": [
+   "我对贝类过敏。",
+   "购物、餐厅与消费场景 · 餐厅点餐与特殊需求"
+  ]
+ },
+ {
+  "name": "Could you leave out the onions?",
+  "trans": [
+   "可以不要放洋葱吗？",
+   "购物、餐厅与消费场景 · 餐厅点餐与特殊需求"
+  ]
+ },
+ {
+  "name": "Is this dish suitable for vegetarians?",
+  "trans": [
+   "这道菜适合素食者吗？",
+   "购物、餐厅与消费场景 · 餐厅点餐与特殊需求"
+  ]
+ },
+ {
+  "name": "Can you make it less salty?",
+  "trans": [
+   "可以少放一点盐吗？",
+   "购物、餐厅与消费场景 · 餐厅点餐与特殊需求"
+  ]
+ },
+ {
+  "name": "I'd like the sauce on the side.",
+  "trans": [
+   "酱汁请单独放。",
+   "购物、餐厅与消费场景 · 餐厅点餐与特殊需求"
+  ]
+ },
+ {
+  "name": "Could we order a few more minutes later?",
+  "trans": [
+   "我们可以过几分钟再点吗？",
+   "购物、餐厅与消费场景 · 餐厅点餐与特殊需求"
+  ]
+ },
+ {
+  "name": "I'll have what they're having.",
+  "trans": [
+   "我想点和他们一样的。",
+   "购物、餐厅与消费场景 · 餐厅点餐与特殊需求"
+  ]
+ },
+ {
+  "name": "Could you make this portion smaller?",
+  "trans": [
+   "这份可以做小一点吗？",
+   "购物、餐厅与消费场景 · 餐厅点餐与特殊需求"
+  ]
+ },
+ {
+  "name": "Is this served hot or cold?",
+  "trans": [
+   "这道菜是热的还是冷的？",
+   "购物、餐厅与消费场景 · 餐厅点餐与特殊需求"
+  ]
+ },
+ {
+  "name": "How long will the food take?",
+  "trans": [
+   "上菜大概要多久？",
+   "购物、餐厅与消费场景 · 餐厅点餐与特殊需求"
+  ]
+ },
+ {
+  "name": "Can we get some extra plates?",
+  "trans": [
+   "可以多给我们几个盘子吗？",
+   "购物、餐厅与消费场景 · 餐厅点餐与特殊需求"
+  ]
+ },
+ {
+  "name": "We'd like to share these dishes.",
+  "trans": [
+   "我们想一起分着吃这些菜。",
+   "购物、餐厅与消费场景 · 餐厅点餐与特殊需求"
+  ]
+ },
+ {
+  "name": "Could I have a glass of tap water?",
+  "trans": [
+   "可以给我一杯自来水吗？",
+   "购物、餐厅与消费场景 · 餐厅点餐与特殊需求"
+  ]
+ },
+ {
+  "name": "Is there a children's menu?",
+  "trans": [
+   "有儿童菜单吗？",
+   "购物、餐厅与消费场景 · 餐厅点餐与特殊需求"
+  ]
+ },
+ {
+  "name": "Could you recommend a dessert?",
+  "trans": [
+   "可以推荐一款甜点吗？",
+   "购物、餐厅与消费场景 · 餐厅点餐与特殊需求"
+  ]
+ },
+ {
+  "name": "Could we get some more napkins?",
+  "trans": [
+   "可以再给我们一些餐巾纸吗？",
+   "购物、餐厅与消费场景 · 用餐过程与结账"
+  ]
+ },
+ {
+  "name": "We haven't received one of our dishes yet.",
+  "trans": [
+   "我们有一道菜还没上。",
+   "购物、餐厅与消费场景 · 用餐过程与结账"
+  ]
+ },
+ {
+  "name": "Could you check on our order?",
+  "trans": [
+   "可以帮我们查一下订单吗？",
+   "购物、餐厅与消费场景 · 用餐过程与结账"
+  ]
+ },
+ {
+  "name": "This isn't what we ordered.",
+  "trans": [
+   "这不是我们点的东西。",
+   "购物、餐厅与消费场景 · 用餐过程与结账"
+  ]
+ },
+ {
+  "name": "Could you heat this up a little?",
+  "trans": [
+   "可以帮我稍微加热一下吗？",
+   "购物、餐厅与消费场景 · 用餐过程与结账"
+  ]
+ },
+ {
+  "name": "Everything tastes great.",
+  "trans": [
+   "所有东西味道都很好。",
+   "购物、餐厅与消费场景 · 用餐过程与结账"
+  ]
+ },
+ {
+  "name": "Could we have some extra sauce?",
+  "trans": [
+   "可以再给我们一些酱汁吗？",
+   "购物、餐厅与消费场景 · 用餐过程与结账"
+  ]
+ },
+ {
+  "name": "Is there free Wi-Fi here?",
+  "trans": [
+   "这里有免费无线网络吗？",
+   "购物、餐厅与消费场景 · 用餐过程与结账"
+  ]
+ },
+ {
+  "name": "Could you clear these plates away?",
+  "trans": [
+   "可以把这些盘子收走吗？",
+   "购物、餐厅与消费场景 · 用餐过程与结账"
+  ]
+ },
+ {
+  "name": "We're ready for the check.",
+  "trans": [
+   "我们准备买单了。",
+   "购物、餐厅与消费场景 · 用餐过程与结账"
+  ]
+ },
+ {
+  "name": "Could we have separate bills?",
+  "trans": [
+   "我们可以分开结账吗？",
+   "购物、餐厅与消费场景 · 用餐过程与结账"
+  ]
+ },
+ {
+  "name": "Let's split the bill evenly.",
+  "trans": [
+   "我们平摊账单吧。",
+   "购物、餐厅与消费场景 · 用餐过程与结账"
+  ]
+ },
+ {
+  "name": "I'll cover the drinks.",
+  "trans": [
+   "饮料我来付。",
+   "购物、餐厅与消费场景 · 用餐过程与结账"
+  ]
+ },
+ {
+  "name": "Is the service charge included?",
+  "trans": [
+   "服务费包含在里面了吗？",
+   "购物、餐厅与消费场景 · 用餐过程与结账"
+  ]
+ },
+ {
+  "name": "Can I pay at the table?",
+  "trans": [
+   "可以在餐桌旁付款吗？",
+   "购物、餐厅与消费场景 · 用餐过程与结账"
+  ]
+ },
+ {
+  "name": "Could you pack the leftovers for us?",
+  "trans": [
+   "可以帮我们把剩菜打包吗？",
+   "购物、餐厅与消费场景 · 用餐过程与结账"
+  ]
+ },
+ {
+  "name": "We'd like to take this to go.",
+  "trans": [
+   "我们想把这个打包带走。",
+   "购物、餐厅与消费场景 · 用餐过程与结账"
+  ]
+ },
+ {
+  "name": "Could you wrap this carefully?",
+  "trans": [
+   "可以帮我们仔细包装一下吗？",
+   "购物、餐厅与消费场景 · 用餐过程与结账"
+  ]
+ },
+ {
+  "name": "The meal was very satisfying.",
+  "trans": [
+   "这顿饭吃得很满意。",
+   "购物、餐厅与消费场景 · 用餐过程与结账"
+  ]
+ },
+ {
+  "name": "Thank you for taking care of us.",
+  "trans": [
+   "谢谢你们的招待。",
+   "购物、餐厅与消费场景 · 用餐过程与结账"
+  ]
+ },
+ {
+  "name": "I'd like to return this item.",
+  "trans": [
+   "我想退掉这件商品。",
+   "购物、餐厅与消费场景 · 退换货、投诉与售后"
+  ]
+ },
+ {
+  "name": "Can I exchange this for another size?",
+  "trans": [
+   "我可以换一个尺寸吗？",
+   "购物、餐厅与消费场景 · 退换货、投诉与售后"
+  ]
+ },
+ {
+  "name": "This product doesn't work properly.",
+  "trans": [
+   "这个产品无法正常使用。",
+   "购物、餐厅与消费场景 · 退换货、投诉与售后"
+  ]
+ },
+ {
+  "name": "I noticed a defect after opening the package.",
+  "trans": [
+   "打开包装后我发现了一个瑕疵。",
+   "购物、餐厅与消费场景 · 退换货、投诉与售后"
+  ]
+ },
+ {
+  "name": "The item arrived damaged.",
+  "trans": [
+   "商品送到时已经损坏了。",
+   "购物、餐厅与消费场景 · 退换货、投诉与售后"
+  ]
+ },
+ {
+  "name": "Could you tell me your return policy?",
+  "trans": [
+   "可以告诉我你们的退货政策吗？",
+   "购物、餐厅与消费场景 · 退换货、投诉与售后"
+  ]
+ },
+ {
+  "name": "Do I need the original receipt?",
+  "trans": [
+   "我需要出示原始收据吗？",
+   "购物、餐厅与消费场景 · 退换货、投诉与售后"
+  ]
+ },
+ {
+  "name": "How many days do I have to return it?",
+  "trans": [
+   "我有多少天可以退货？",
+   "购物、餐厅与消费场景 · 退换货、投诉与售后"
+  ]
+ },
+ {
+  "name": "Can I get a full refund?",
+  "trans": [
+   "我可以获得全额退款吗？",
+   "购物、餐厅与消费场景 · 退换货、投诉与售后"
+  ]
+ },
+ {
+  "name": "Would store credit be possible?",
+  "trans": [
+   "可以换成店内购物额度吗？",
+   "购物、餐厅与消费场景 · 退换货、投诉与售后"
+  ]
+ },
+ {
+  "name": "The color is different from the picture.",
+  "trans": [
+   "颜色和图片上的不一样。",
+   "购物、餐厅与消费场景 · 退换货、投诉与售后"
+  ]
+ },
+ {
+  "name": "The package was missing an accessory.",
+  "trans": [
+   "包装里少了一个配件。",
+   "购物、餐厅与消费场景 · 退换货、投诉与售后"
+  ]
+ },
+ {
+  "name": "I received the wrong product.",
+  "trans": [
+   "我收到的商品不对。",
+   "购物、餐厅与消费场景 · 退换货、投诉与售后"
+  ]
+ },
+ {
+  "name": "Could you arrange a replacement?",
+  "trans": [
+   "可以帮我安排更换吗？",
+   "购物、餐厅与消费场景 · 退换货、投诉与售后"
+  ]
+ },
+ {
+  "name": "When can I expect the refund?",
+  "trans": [
+   "我什么时候可以收到退款？",
+   "购物、餐厅与消费场景 · 退换货、投诉与售后"
+  ]
+ },
+ {
+  "name": "Is there a warranty repair service?",
+  "trans": [
+   "有保修维修服务吗？",
+   "购物、餐厅与消费场景 · 退换货、投诉与售后"
+  ]
+ },
+ {
+  "name": "I'd like to speak with someone in charge.",
+  "trans": [
+   "我想和负责人谈谈。",
+   "购物、餐厅与消费场景 · 退换货、投诉与售后"
+  ]
+ },
+ {
+  "name": "Could you record this complaint?",
+  "trans": [
+   "可以帮我记录这次投诉吗？",
+   "购物、餐厅与消费场景 · 退换货、投诉与售后"
+  ]
+ },
+ {
+  "name": "I hope we can find a reasonable solution.",
+  "trans": [
+   "希望我们可以找到合理的解决办法。",
+   "购物、餐厅与消费场景 · 退换货、投诉与售后"
+  ]
+ },
+ {
+  "name": "Please let me know what happens next.",
+  "trans": [
+   "请告诉我接下来会怎么处理。",
+   "购物、餐厅与消费场景 · 退换货、投诉与售后"
+  ]
+ }
+]

@@ -1,0 +1,842 @@
+[
+ {
+  "name": "I'll take care of the laundry today.",
+  "trans": [
+   "今天我来洗衣服。",
+   "家庭生活、健康与个人安排 · 家庭安排与家务分工"
+  ]
+ },
+ {
+  "name": "Could you tidy up the living room?",
+  "trans": [
+   "你可以整理一下客厅吗？",
+   "家庭生活、健康与个人安排 · 家庭安排与家务分工"
+  ]
+ },
+ {
+  "name": "The floor needs to be cleaned.",
+  "trans": [
+   "地板需要清洁了。",
+   "家庭生活、健康与个人安排 · 家庭安排与家务分工"
+  ]
+ },
+ {
+  "name": "Please put your shoes by the door.",
+  "trans": [
+   "请把鞋子放在门边。",
+   "家庭生活、健康与个人安排 · 家庭安排与家务分工"
+  ]
+ },
+ {
+  "name": "I'll prepare dinner tonight.",
+  "trans": [
+   "今晚我来准备晚餐。",
+   "家庭生活、健康与个人安排 · 家庭安排与家务分工"
+  ]
+ },
+ {
+  "name": "Could you take out the trash?",
+  "trans": [
+   "你可以把垃圾拿出去吗？",
+   "家庭生活、健康与个人安排 · 家庭安排与家务分工"
+  ]
+ },
+ {
+  "name": "We need to buy some household supplies.",
+  "trans": [
+   "我们需要买一些家庭用品。",
+   "家庭生活、健康与个人安排 · 家庭安排与家务分工"
+  ]
+ },
+ {
+  "name": "The fridge is almost empty.",
+  "trans": [
+   "冰箱里几乎没什么东西了。",
+   "家庭生活、健康与个人安排 · 家庭安排与家务分工"
+  ]
+ },
+ {
+  "name": "Let's divide the chores equally.",
+  "trans": [
+   "我们把家务平均分配吧。",
+   "家庭生活、健康与个人安排 · 家庭安排与家务分工"
+  ]
+ },
+ {
+  "name": "Please put everything back where it belongs.",
+  "trans": [
+   "请把所有东西放回原处。",
+   "家庭生活、健康与个人安排 · 家庭安排与家务分工"
+  ]
+ },
+ {
+  "name": "I need a little help around the house.",
+  "trans": [
+   "我在家里需要一点帮助。",
+   "家庭生活、健康与个人安排 · 家庭安排与家务分工"
+  ]
+ },
+ {
+  "name": "Don't leave your things on the floor.",
+  "trans": [
+   "不要把你的东西放在地板上。",
+   "家庭生活、健康与个人安排 · 家庭安排与家务分工"
+  ]
+ },
+ {
+  "name": "I'll handle the cooking if you wash the dishes.",
+  "trans": [
+   "你洗碗的话，我来做饭。",
+   "家庭生活、健康与个人安排 · 家庭安排与家务分工"
+  ]
+ },
+ {
+  "name": "The clothes are ready to be folded.",
+  "trans": [
+   "衣服可以叠起来了。",
+   "家庭生活、健康与个人安排 · 家庭安排与家务分工"
+  ]
+ },
+ {
+  "name": "Could you water the plants?",
+  "trans": [
+   "你可以给植物浇水吗？",
+   "家庭生活、健康与个人安排 · 家庭安排与家务分工"
+  ]
+ },
+ {
+  "name": "We should clean the windows this weekend.",
+  "trans": [
+   "我们这周末应该擦擦窗户。",
+   "家庭生活、健康与个人安排 · 家庭安排与家务分工"
+  ]
+ },
+ {
+  "name": "Please remember to turn off the lights.",
+  "trans": [
+   "请记得关灯。",
+   "家庭生活、健康与个人安排 · 家庭安排与家务分工"
+  ]
+ },
+ {
+  "name": "The tap is leaking again.",
+  "trans": [
+   "水龙头又漏水了。",
+   "家庭生活、健康与个人安排 · 家庭安排与家务分工"
+  ]
+ },
+ {
+  "name": "We need to fix the broken shelf.",
+  "trans": [
+   "我们需要修理坏掉的架子。",
+   "家庭生活、健康与个人安排 · 家庭安排与家务分工"
+  ]
+ },
+ {
+  "name": "Let's keep the house organized.",
+  "trans": [
+   "我们把家里保持整洁有序吧。",
+   "家庭生活、健康与个人安排 · 家庭安排与家务分工"
+  ]
+ },
+ {
+  "name": "I have a busy day ahead.",
+  "trans": [
+   "我今天会很忙。",
+   "家庭生活、健康与个人安排 · 时间安排与日常计划"
+  ]
+ },
+ {
+  "name": "I'll be home before dinner.",
+  "trans": [
+   "我会在晚饭前回家。",
+   "家庭生活、健康与个人安排 · 时间安排与日常计划"
+  ]
+ },
+ {
+  "name": "Something came up this afternoon.",
+  "trans": [
+   "今天下午临时有点事。",
+   "家庭生活、健康与个人安排 · 时间安排与日常计划"
+  ]
+ },
+ {
+  "name": "I need to rearrange my schedule.",
+  "trans": [
+   "我需要重新安排日程。",
+   "家庭生活、健康与个人安排 · 时间安排与日常计划"
+  ]
+ },
+ {
+  "name": "Let's leave a little earlier.",
+  "trans": [
+   "我们早点出发吧。",
+   "家庭生活、健康与个人安排 · 时间安排与日常计划"
+  ]
+ },
+ {
+  "name": "I might be a few minutes late.",
+  "trans": [
+   "我可能会迟到几分钟。",
+   "家庭生活、健康与个人安排 · 时间安排与日常计划"
+  ]
+ },
+ {
+  "name": "Could you remind me about the appointment?",
+  "trans": [
+   "你可以提醒我预约的事情吗？",
+   "家庭生活、健康与个人安排 · 时间安排与日常计划"
+  ]
+ },
+ {
+  "name": "I have some free time after lunch.",
+  "trans": [
+   "午饭后我有一些空闲时间。",
+   "家庭生活、健康与个人安排 · 时间安排与日常计划"
+  ]
+ },
+ {
+  "name": "I'll finish this before I go out.",
+  "trans": [
+   "我出门前会完成这个。",
+   "家庭生活、健康与个人安排 · 时间安排与日常计划"
+  ]
+ },
+ {
+  "name": "We need to plan ahead.",
+  "trans": [
+   "我们需要提前计划。",
+   "家庭生活、健康与个人安排 · 时间安排与日常计划"
+  ]
+ },
+ {
+  "name": "I can't fit that into my schedule.",
+  "trans": [
+   "我的日程安排不下这个。",
+   "家庭生活、健康与个人安排 · 时间安排与日常计划"
+  ]
+ },
+ {
+  "name": "Let's set aside some time for it.",
+  "trans": [
+   "我们留出一些时间来做这件事吧。",
+   "家庭生活、健康与个人安排 · 时间安排与日常计划"
+  ]
+ },
+ {
+  "name": "I'll let you know when I'm available.",
+  "trans": [
+   "我有空时会告诉你。",
+   "家庭生活、健康与个人安排 · 时间安排与日常计划"
+  ]
+ },
+ {
+  "name": "Can we move it to tomorrow?",
+  "trans": [
+   "我们可以改到明天吗？",
+   "家庭生活、健康与个人安排 · 时间安排与日常计划"
+  ]
+ },
+ {
+  "name": "I have to leave by five.",
+  "trans": [
+   "我五点前必须离开。",
+   "家庭生活、健康与个人安排 · 时间安排与日常计划"
+  ]
+ },
+ {
+  "name": "Don't forget to set an alarm.",
+  "trans": [
+   "别忘了设置闹钟。",
+   "家庭生活、健康与个人安排 · 时间安排与日常计划"
+  ]
+ },
+ {
+  "name": "I'll deal with that later.",
+  "trans": [
+   "那件事我晚点处理。",
+   "家庭生活、健康与个人安排 · 时间安排与日常计划"
+  ]
+ },
+ {
+  "name": "We still have plenty of time.",
+  "trans": [
+   "我们还有很多时间。",
+   "家庭生活、健康与个人安排 · 时间安排与日常计划"
+  ]
+ },
+ {
+  "name": "I need a short break before continuing.",
+  "trans": [
+   "继续之前我需要短暂休息一下。",
+   "家庭生活、健康与个人安排 · 时间安排与日常计划"
+  ]
+ },
+ {
+  "name": "Let's make the most of the afternoon.",
+  "trans": [
+   "我们充分利用下午的时间吧。",
+   "家庭生活、健康与个人安排 · 时间安排与日常计划"
+  ]
+ },
+ {
+  "name": "I haven't been sleeping well lately.",
+  "trans": [
+   "我最近睡得不太好。",
+   "家庭生活、健康与个人安排 · 身体状态与健康表达"
+  ]
+ },
+ {
+  "name": "My throat feels a little sore.",
+  "trans": [
+   "我的喉咙感觉有点疼。",
+   "家庭生活、健康与个人安排 · 身体状态与健康表达"
+  ]
+ },
+ {
+  "name": "I have a slight headache.",
+  "trans": [
+   "我有点头疼。",
+   "家庭生活、健康与个人安排 · 身体状态与健康表达"
+  ]
+ },
+ {
+  "name": "My back has been bothering me.",
+  "trans": [
+   "我的背部最近一直不舒服。",
+   "家庭生活、健康与个人安排 · 身体状态与健康表达"
+  ]
+ },
+ {
+  "name": "I feel completely exhausted.",
+  "trans": [
+   "我感觉筋疲力尽。",
+   "家庭生活、健康与个人安排 · 身体状态与健康表达"
+  ]
+ },
+ {
+  "name": "I need to get some fresh air.",
+  "trans": [
+   "我需要出去呼吸一下新鲜空气。",
+   "家庭生活、健康与个人安排 · 身体状态与健康表达"
+  ]
+ },
+ {
+  "name": "I think I need to rest.",
+  "trans": [
+   "我觉得我需要休息。",
+   "家庭生活、健康与个人安排 · 身体状态与健康表达"
+  ]
+ },
+ {
+  "name": "I've been feeling under the weather.",
+  "trans": [
+   "我最近身体有点不舒服。",
+   "家庭生活、健康与个人安排 · 身体状态与健康表达"
+  ]
+ },
+ {
+  "name": "My stomach doesn't feel right.",
+  "trans": [
+   "我的胃感觉不太舒服。",
+   "家庭生活、健康与个人安排 · 身体状态与健康表达"
+  ]
+ },
+ {
+  "name": "I feel much better now.",
+  "trans": [
+   "我现在感觉好多了。",
+   "家庭生活、健康与个人安排 · 身体状态与健康表达"
+  ]
+ },
+ {
+  "name": "I need to make an appointment with a doctor.",
+  "trans": [
+   "我需要预约医生。",
+   "家庭生活、健康与个人安排 · 身体状态与健康表达"
+  ]
+ },
+ {
+  "name": "How long have you had these symptoms?",
+  "trans": [
+   "这些症状持续多久了？",
+   "家庭生活、健康与个人安排 · 身体状态与健康表达"
+  ]
+ },
+ {
+  "name": "The pain comes and goes.",
+  "trans": [
+   "疼痛时有时无。",
+   "家庭生活、健康与个人安排 · 身体状态与健康表达"
+  ]
+ },
+ {
+  "name": "It hurts when I move.",
+  "trans": [
+   "我移动时会疼。",
+   "家庭生活、健康与个人安排 · 身体状态与健康表达"
+  ]
+ },
+ {
+  "name": "I have trouble falling asleep.",
+  "trans": [
+   "我很难入睡。",
+   "家庭生活、健康与个人安排 · 身体状态与健康表达"
+  ]
+ },
+ {
+  "name": "I need to pay more attention to my health.",
+  "trans": [
+   "我需要更加关注自己的健康。",
+   "家庭生活、健康与个人安排 · 身体状态与健康表达"
+  ]
+ },
+ {
+  "name": "Try not to push yourself too hard.",
+  "trans": [
+   "尽量不要让自己太劳累。",
+   "家庭生活、健康与个人安排 · 身体状态与健康表达"
+  ]
+ },
+ {
+  "name": "You should drink more water.",
+  "trans": [
+   "你应该多喝水。",
+   "家庭生活、健康与个人安排 · 身体状态与健康表达"
+  ]
+ },
+ {
+  "name": "I need to take a day off and recover.",
+  "trans": [
+   "我需要休息一天恢复一下。",
+   "家庭生活、健康与个人安排 · 身体状态与健康表达"
+  ]
+ },
+ {
+  "name": "Please follow the doctor's instructions.",
+  "trans": [
+   "请遵照医生的指示。",
+   "家庭生活、健康与个人安排 · 身体状态与健康表达"
+  ]
+ },
+ {
+  "name": "I'm trying to eat more healthily.",
+  "trans": [
+   "我正在努力吃得更健康。",
+   "家庭生活、健康与个人安排 · 运动、饮食与生活习惯"
+  ]
+ },
+ {
+  "name": "I want to cut down on sugar.",
+  "trans": [
+   "我想减少糖分摄入。",
+   "家庭生活、健康与个人安排 · 运动、饮食与生活习惯"
+  ]
+ },
+ {
+  "name": "I've started exercising regularly.",
+  "trans": [
+   "我开始规律锻炼了。",
+   "家庭生活、健康与个人安排 · 运动、饮食与生活习惯"
+  ]
+ },
+ {
+  "name": "I usually go for a walk after dinner.",
+  "trans": [
+   "我通常晚饭后散步。",
+   "家庭生活、健康与个人安排 · 运动、饮食与生活习惯"
+  ]
+ },
+ {
+  "name": "I need to improve my eating habits.",
+  "trans": [
+   "我需要改善饮食习惯。",
+   "家庭生活、健康与个人安排 · 运动、饮食与生活习惯"
+  ]
+ },
+ {
+  "name": "This meal contains too much salt.",
+  "trans": [
+   "这顿饭盐分太高了。",
+   "家庭生活、健康与个人安排 · 运动、饮食与生活习惯"
+  ]
+ },
+ {
+  "name": "I prefer homemade food.",
+  "trans": [
+   "我更喜欢自制食物。",
+   "家庭生活、健康与个人安排 · 运动、饮食与生活习惯"
+  ]
+ },
+ {
+  "name": "I haven't had enough water today.",
+  "trans": [
+   "我今天喝水不够。",
+   "家庭生活、健康与个人安排 · 运动、饮食与生活习惯"
+  ]
+ },
+ {
+  "name": "Let's take the stairs instead of the elevator.",
+  "trans": [
+   "我们走楼梯，不坐电梯吧。",
+   "家庭生活、健康与个人安排 · 运动、饮食与生活习惯"
+  ]
+ },
+ {
+  "name": "I want to build up my strength.",
+  "trans": [
+   "我想增强体力。",
+   "家庭生活、健康与个人安排 · 运动、饮食与生活习惯"
+  ]
+ },
+ {
+  "name": "Stretching helps me relax.",
+  "trans": [
+   "拉伸能帮助我放松。",
+   "家庭生活、健康与个人安排 · 运动、饮食与生活习惯"
+  ]
+ },
+ {
+  "name": "I need to warm up before exercising.",
+  "trans": [
+   "运动前我需要热身。",
+   "家庭生活、健康与个人安排 · 运动、饮食与生活习惯"
+  ]
+ },
+ {
+  "name": "Don't forget to cool down afterward.",
+  "trans": [
+   "之后别忘了做放松运动。",
+   "家庭生活、健康与个人安排 · 运动、饮食与生活习惯"
+  ]
+ },
+ {
+  "name": "I've been sitting for too long.",
+  "trans": [
+   "我坐得太久了。",
+   "家庭生活、健康与个人安排 · 运动、饮食与生活习惯"
+  ]
+ },
+ {
+  "name": "Let's take a short walk outside.",
+  "trans": [
+   "我们出去走一小会儿吧。",
+   "家庭生活、健康与个人安排 · 运动、饮食与生活习惯"
+  ]
+ },
+ {
+  "name": "I don't have much of an appetite.",
+  "trans": [
+   "我没什么胃口。",
+   "家庭生活、健康与个人安排 · 运动、饮食与生活习惯"
+  ]
+ },
+ {
+  "name": "I try to avoid eating too late.",
+  "trans": [
+   "我尽量避免太晚吃东西。",
+   "家庭生活、健康与个人安排 · 运动、饮食与生活习惯"
+  ]
+ },
+ {
+  "name": "I'm working on improving my stamina.",
+  "trans": [
+   "我正在努力提高耐力。",
+   "家庭生活、健康与个人安排 · 运动、饮食与生活习惯"
+  ]
+ },
+ {
+  "name": "We should maintain a balanced diet.",
+  "trans": [
+   "我们应该保持均衡饮食。",
+   "家庭生活、健康与个人安排 · 运动、饮食与生活习惯"
+  ]
+ },
+ {
+  "name": "Small changes can make a difference.",
+  "trans": [
+   "小小的改变也能带来效果。",
+   "家庭生活、健康与个人安排 · 运动、饮食与生活习惯"
+  ]
+ },
+ {
+  "name": "I'm feeling a little overwhelmed.",
+  "trans": [
+   "我感觉有点应付不过来。",
+   "家庭生活、健康与个人安排 · 情绪状态与自我调节"
+  ]
+ },
+ {
+  "name": "I need some time to clear my head.",
+  "trans": [
+   "我需要一点时间理清思绪。",
+   "家庭生活、健康与个人安排 · 情绪状态与自我调节"
+  ]
+ },
+ {
+  "name": "That really made me happy.",
+  "trans": [
+   "那真的让我很开心。",
+   "家庭生活、健康与个人安排 · 情绪状态与自我调节"
+  ]
+ },
+ {
+  "name": "I've been feeling stressed lately.",
+  "trans": [
+   "我最近压力有点大。",
+   "家庭生活、健康与个人安排 · 情绪状态与自我调节"
+  ]
+ },
+ {
+  "name": "I don't know how to handle this emotion.",
+  "trans": [
+   "我不知道该如何处理这种情绪。",
+   "家庭生活、健康与个人安排 · 情绪状态与自我调节"
+  ]
+ },
+ {
+  "name": "Try to look at things from another angle.",
+  "trans": [
+   "试着从另一个角度看问题。",
+   "家庭生活、健康与个人安排 · 情绪状态与自我调节"
+  ]
+ },
+ {
+  "name": "I need to calm down first.",
+  "trans": [
+   "我需要先冷静下来。",
+   "家庭生活、健康与个人安排 · 情绪状态与自我调节"
+  ]
+ },
+ {
+  "name": "It's not as bad as it seems.",
+  "trans": [
+   "事情没有看起来那么糟。",
+   "家庭生活、健康与个人安排 · 情绪状态与自我调节"
+  ]
+ },
+ {
+  "name": "I feel more confident than before.",
+  "trans": [
+   "我比以前更有自信了。",
+   "家庭生活、健康与个人安排 · 情绪状态与自我调节"
+  ]
+ },
+ {
+  "name": "I don't want to overthink it.",
+  "trans": [
+   "我不想想得太多。",
+   "家庭生活、健康与个人安排 · 情绪状态与自我调节"
+  ]
+ },
+ {
+  "name": "I need some quiet time alone.",
+  "trans": [
+   "我需要一些独处的安静时间。",
+   "家庭生活、健康与个人安排 · 情绪状态与自我调节"
+  ]
+ },
+ {
+  "name": "That experience taught me a lot.",
+  "trans": [
+   "那次经历教会了我很多。",
+   "家庭生活、健康与个人安排 · 情绪状态与自我调节"
+  ]
+ },
+ {
+  "name": "I'm proud of how far I've come.",
+  "trans": [
+   "我为自己取得的进步感到自豪。",
+   "家庭生活、健康与个人安排 · 情绪状态与自我调节"
+  ]
+ },
+ {
+  "name": "I have mixed feelings about it.",
+  "trans": [
+   "我对此有复杂的感受。",
+   "家庭生活、健康与个人安排 · 情绪状态与自我调节"
+  ]
+ },
+ {
+  "name": "It's difficult, but I'll keep trying.",
+  "trans": [
+   "这很难，但我会继续努力。",
+   "家庭生活、健康与个人安排 · 情绪状态与自我调节"
+  ]
+ },
+ {
+  "name": "I don't feel ready to talk about it.",
+  "trans": [
+   "我还没准备好谈论这件事。",
+   "家庭生活、健康与个人安排 · 情绪状态与自我调节"
+  ]
+ },
+ {
+  "name": "I need to give myself a little time.",
+  "trans": [
+   "我需要给自己一点时间。",
+   "家庭生活、健康与个人安排 · 情绪状态与自我调节"
+  ]
+ },
+ {
+  "name": "I'm trying to stay positive.",
+  "trans": [
+   "我在努力保持积极。",
+   "家庭生活、健康与个人安排 · 情绪状态与自我调节"
+  ]
+ },
+ {
+  "name": "I feel relieved now that it's over.",
+  "trans": [
+   "事情结束后，我感觉如释重负。",
+   "家庭生活、健康与个人安排 · 情绪状态与自我调节"
+  ]
+ },
+ {
+  "name": "I appreciate you listening to me.",
+  "trans": [
+   "谢谢你愿意听我说。",
+   "家庭生活、健康与个人安排 · 情绪状态与自我调节"
+  ]
+ },
+ {
+  "name": "We should spend more time together.",
+  "trans": [
+   "我们应该多花点时间在一起。",
+   "家庭生活、健康与个人安排 · 家庭关系与日常沟通"
+  ]
+ },
+ {
+  "name": "I understand why you feel that way.",
+  "trans": [
+   "我理解你为什么会有这种感受。",
+   "家庭生活、健康与个人安排 · 家庭关系与日常沟通"
+  ]
+ },
+ {
+  "name": "Let's talk about it calmly.",
+  "trans": [
+   "我们冷静地谈谈这件事吧。",
+   "家庭生活、健康与个人安排 · 家庭关系与日常沟通"
+  ]
+ },
+ {
+  "name": "I didn't mean to upset you.",
+  "trans": [
+   "我不是故意让你难过的。",
+   "家庭生活、健康与个人安排 · 家庭关系与日常沟通"
+  ]
+ },
+ {
+  "name": "We may see things differently.",
+  "trans": [
+   "我们看事情的角度可能不同。",
+   "家庭生活、健康与个人安排 · 家庭关系与日常沟通"
+  ]
+ },
+ {
+  "name": "I respect your decision.",
+  "trans": [
+   "我尊重你的决定。",
+   "家庭生活、健康与个人安排 · 家庭关系与日常沟通"
+  ]
+ },
+ {
+  "name": "Please give me a chance to explain.",
+  "trans": [
+   "请给我一个解释的机会。",
+   "家庭生活、健康与个人安排 · 家庭关系与日常沟通"
+  ]
+ },
+ {
+  "name": "We need to listen to each other.",
+  "trans": [
+   "我们需要互相倾听。",
+   "家庭生活、健康与个人安排 · 家庭关系与日常沟通"
+  ]
+ },
+ {
+  "name": "I don't want this to become an argument.",
+  "trans": [
+   "我不想让这件事变成争吵。",
+   "家庭生活、健康与个人安排 · 家庭关系与日常沟通"
+  ]
+ },
+ {
+  "name": "Let's find a way to compromise.",
+  "trans": [
+   "我们想办法达成妥协吧。",
+   "家庭生活、健康与个人安排 · 家庭关系与日常沟通"
+  ]
+ },
+ {
+  "name": "You can count on me.",
+  "trans": [
+   "你可以依靠我。",
+   "家庭生活、健康与个人安排 · 家庭关系与日常沟通"
+  ]
+ },
+ {
+  "name": "I'm here whenever you need me.",
+  "trans": [
+   "你需要我的时候，我一直都在。",
+   "家庭生活、健康与个人安排 · 家庭关系与日常沟通"
+  ]
+ },
+ {
+  "name": "We should be more patient with each other.",
+  "trans": [
+   "我们应该对彼此更有耐心。",
+   "家庭生活、健康与个人安排 · 家庭关系与日常沟通"
+  ]
+ },
+ {
+  "name": "That means a lot to me.",
+  "trans": [
+   "那对我来说意义很大。",
+   "家庭生活、健康与个人安排 · 家庭关系与日常沟通"
+  ]
+ },
+ {
+  "name": "I didn't see it from your perspective.",
+  "trans": [
+   "我之前没有从你的角度考虑。",
+   "家庭生活、健康与个人安排 · 家庭关系与日常沟通"
+  ]
+ },
+ {
+  "name": "Let's not bring up the past again.",
+  "trans": [
+   "我们别再提过去的事了。",
+   "家庭生活、健康与个人安排 · 家庭关系与日常沟通"
+  ]
+ },
+ {
+  "name": "I hope we can understand each other better.",
+  "trans": [
+   "希望我们能更好地理解彼此。",
+   "家庭生活、健康与个人安排 · 家庭关系与日常沟通"
+  ]
+ },
+ {
+  "name": "It's important to be honest with one another.",
+  "trans": [
+   "彼此坦诚很重要。",
+   "家庭生活、健康与个人安排 · 家庭关系与日常沟通"
+  ]
+ },
+ {
+  "name": "We can work through this together.",
+  "trans": [
+   "我们可以一起解决这个问题。",
+   "家庭生活、健康与个人安排 · 家庭关系与日常沟通"
+  ]
+ },
+ {
+  "name": "No matter what happens, we're family.",
+  "trans": [
+   "无论发生什么，我们都是一家人。",
+   "家庭生活、健康与个人安排 · 家庭关系与日常沟通"
+  ]
+ }
+]

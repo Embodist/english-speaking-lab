@@ -2,8 +2,8 @@
 type: hub
 title: "英语前后缀 335"
 tags: [library/word-bank, skill/speaking, status/learning]
-created: 2026-11-05
-updated: 2026-11-05
+created: 2026-11-06
+updated: 2026-11-06
 ---
 
 # 英语前后缀 335
@@ -66,3 +66,4 @@ python scripts/study.py affix --type all --reverse --n 10
 - [[12_word-phrase-bank/11-basic-phrases/_index|基础短语 1125（补充）]]
 - [[08_sentence-library/1200-sentences/_index|1200 句场景口语]]
 - [[18_fsi-drills/_index|FSI 口语训练]]
+- [[19_qwerty-learner/_index|qwerty 打字练习]]

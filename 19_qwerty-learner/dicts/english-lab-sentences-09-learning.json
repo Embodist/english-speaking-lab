@@ -1,0 +1,842 @@
+[
+ {
+  "name": "I need to concentrate on this part.",
+  "trans": [
+   "我需要集中注意力听这一部分。",
+   "学习成长与表达交流 · 课堂学习与听讲"
+  ]
+ },
+ {
+  "name": "Could you explain that in simpler terms?",
+  "trans": [
+   "可以用更简单的方式解释吗？",
+   "学习成长与表达交流 · 课堂学习与听讲"
+  ]
+ },
+ {
+  "name": "I didn't quite catch the last point.",
+  "trans": [
+   "我没太听懂刚才最后一点。",
+   "学习成长与表达交流 · 课堂学习与听讲"
+  ]
+ },
+ {
+  "name": "Could you go over that again?",
+  "trans": [
+   "可以再讲一遍吗？",
+   "学习成长与表达交流 · 课堂学习与听讲"
+  ]
+ },
+ {
+  "name": "I'm taking notes as we go.",
+  "trans": [
+   "我正在边听边做笔记。",
+   "学习成长与表达交流 · 课堂学习与听讲"
+  ]
+ },
+ {
+  "name": "This topic is completely new to me.",
+  "trans": [
+   "这个话题对我来说完全是新的。",
+   "学习成长与表达交流 · 课堂学习与听讲"
+  ]
+ },
+ {
+  "name": "I need more examples to understand it.",
+  "trans": [
+   "我需要更多例子才能理解。",
+   "学习成长与表达交流 · 课堂学习与听讲"
+  ]
+ },
+ {
+  "name": "Could you slow down a little?",
+  "trans": [
+   "可以稍微讲慢一点吗？",
+   "学习成长与表达交流 · 课堂学习与听讲"
+  ]
+ },
+ {
+  "name": "I'm following you so far.",
+  "trans": [
+   "目前为止我都能听懂。",
+   "学习成长与表达交流 · 课堂学习与听讲"
+  ]
+ },
+ {
+  "name": "I lost track of the explanation.",
+  "trans": [
+   "我没跟上讲解的思路。",
+   "学习成长与表达交流 · 课堂学习与听讲"
+  ]
+ },
+ {
+  "name": "Which section should I focus on?",
+  "trans": [
+   "我应该重点学习哪一部分？",
+   "学习成长与表达交流 · 课堂学习与听讲"
+  ]
+ },
+ {
+  "name": "Is this going to be on the test?",
+  "trans": [
+   "这部分会出现在考试中吗？",
+   "学习成长与表达交流 · 课堂学习与听讲"
+  ]
+ },
+ {
+  "name": "Could you give us a practical example?",
+  "trans": [
+   "可以给我们一个实际例子吗？",
+   "学习成长与表达交流 · 课堂学习与听讲"
+  ]
+ },
+ {
+  "name": "I need to review the basics first.",
+  "trans": [
+   "我需要先复习基础知识。",
+   "学习成长与表达交流 · 课堂学习与听讲"
+  ]
+ },
+ {
+  "name": "This concept takes some time to understand.",
+  "trans": [
+   "这个概念需要一些时间来理解。",
+   "学习成长与表达交流 · 课堂学习与听讲"
+  ]
+ },
+ {
+  "name": "Can we discuss this in more detail?",
+  "trans": [
+   "我们可以更详细地讨论这个吗？",
+   "学习成长与表达交流 · 课堂学习与听讲"
+  ]
+ },
+ {
+  "name": "I'd like to clarify one thing.",
+  "trans": [
+   "我想确认一件事。",
+   "学习成长与表达交流 · 课堂学习与听讲"
+  ]
+ },
+ {
+  "name": "I understand the theory, but not the application.",
+  "trans": [
+   "我理解理论，但不懂如何应用。",
+   "学习成长与表达交流 · 课堂学习与听讲"
+  ]
+ },
+ {
+  "name": "Let me write that down.",
+  "trans": [
+   "让我把这个记下来。",
+   "学习成长与表达交流 · 课堂学习与听讲"
+  ]
+ },
+ {
+  "name": "I think I understand the main idea now.",
+  "trans": [
+   "我觉得我现在理解主要意思了。",
+   "学习成长与表达交流 · 课堂学习与听讲"
+  ]
+ },
+ {
+  "name": "I have a question about this exercise.",
+  "trans": [
+   "我对这道练习有个问题。",
+   "学习成长与表达交流 · 提问、回答与课堂互动"
+  ]
+ },
+ {
+  "name": "What is the difference between these terms?",
+  "trans": [
+   "这些术语之间有什么区别？",
+   "学习成长与表达交流 · 提问、回答与课堂互动"
+  ]
+ },
+ {
+  "name": "How did you reach that conclusion?",
+  "trans": [
+   "你是如何得出这个结论的？",
+   "学习成长与表达交流 · 提问、回答与课堂互动"
+  ]
+ },
+ {
+  "name": "Could you give me a hint?",
+  "trans": [
+   "可以给我一点提示吗？",
+   "学习成长与表达交流 · 提问、回答与课堂互动"
+  ]
+ },
+ {
+  "name": "Is there another way to solve it?",
+  "trans": [
+   "还有其他解决方法吗？",
+   "学习成长与表达交流 · 提问、回答与课堂互动"
+  ]
+ },
+ {
+  "name": "I'm not sure how to start.",
+  "trans": [
+   "我不确定该如何开始。",
+   "学习成长与表达交流 · 提问、回答与课堂互动"
+  ]
+ },
+ {
+  "name": "Let me try to answer that.",
+  "trans": [
+   "让我试着回答一下。",
+   "学习成长与表达交流 · 提问、回答与课堂互动"
+  ]
+ },
+ {
+  "name": "I need a moment to think.",
+  "trans": [
+   "我需要一点时间思考。",
+   "学习成长与表达交流 · 提问、回答与课堂互动"
+  ]
+ },
+ {
+  "name": "My answer may not be completely accurate.",
+  "trans": [
+   "我的答案可能不完全准确。",
+   "学习成长与表达交流 · 提问、回答与课堂互动"
+  ]
+ },
+ {
+  "name": "I agree with the explanation.",
+  "trans": [
+   "我认同这个解释。",
+   "学习成长与表达交流 · 提问、回答与课堂互动"
+  ]
+ },
+ {
+  "name": "I came up with a different answer.",
+  "trans": [
+   "我得出了一个不同的答案。",
+   "学习成长与表达交流 · 提问、回答与课堂互动"
+  ]
+ },
+ {
+  "name": "Could you point out my mistake?",
+  "trans": [
+   "可以指出我的错误吗？",
+   "学习成长与表达交流 · 提问、回答与课堂互动"
+  ]
+ },
+ {
+  "name": "I want to make sure I understood correctly.",
+  "trans": [
+   "我想确认自己理解得是否正确。",
+   "学习成长与表达交流 · 提问、回答与课堂互动"
+  ]
+ },
+ {
+  "name": "What would happen if we changed this part?",
+  "trans": [
+   "如果我们改变这一部分会怎样？",
+   "学习成长与表达交流 · 提问、回答与课堂互动"
+  ]
+ },
+ {
+  "name": "Can you explain why this works?",
+  "trans": [
+   "可以解释一下为什么这样有效吗？",
+   "学习成长与表达交流 · 提问、回答与课堂互动"
+  ]
+ },
+ {
+  "name": "I need more time to work it out.",
+  "trans": [
+   "我需要更多时间来解决它。",
+   "学习成长与表达交流 · 提问、回答与课堂互动"
+  ]
+ },
+ {
+  "name": "That makes much more sense now.",
+  "trans": [
+   "现在这样就清楚多了。",
+   "学习成长与表达交流 · 提问、回答与课堂互动"
+  ]
+ },
+ {
+  "name": "I hadn't thought about it that way.",
+  "trans": [
+   "我之前没从这个角度想过。",
+   "学习成长与表达交流 · 提问、回答与课堂互动"
+  ]
+ },
+ {
+  "name": "Could you share your reasoning?",
+  "trans": [
+   "可以分享一下你的思考过程吗？",
+   "学习成长与表达交流 · 提问、回答与课堂互动"
+  ]
+ },
+ {
+  "name": "I'd like to hear other people's opinions.",
+  "trans": [
+   "我想听听其他人的看法。",
+   "学习成长与表达交流 · 提问、回答与课堂互动"
+  ]
+ },
+ {
+  "name": "I haven't finished my assignment yet.",
+  "trans": [
+   "我还没完成作业。",
+   "学习成长与表达交流 · 考试、作业与学习任务"
+  ]
+ },
+ {
+  "name": "When is the deadline for this task?",
+  "trans": [
+   "这项任务的截止时间是什么时候？",
+   "学习成长与表达交流 · 考试、作业与学习任务"
+  ]
+ },
+ {
+  "name": "I need to organize my study materials.",
+  "trans": [
+   "我需要整理学习资料。",
+   "学习成长与表达交流 · 考试、作业与学习任务"
+  ]
+ },
+ {
+  "name": "I'm preparing for an important exam.",
+  "trans": [
+   "我正在准备一场重要考试。",
+   "学习成长与表达交流 · 考试、作业与学习任务"
+  ]
+ },
+ {
+  "name": "I should spend more time on vocabulary.",
+  "trans": [
+   "我应该多花点时间学习词汇。",
+   "学习成长与表达交流 · 考试、作业与学习任务"
+  ]
+ },
+ {
+  "name": "I keep making the same mistakes.",
+  "trans": [
+   "我总是犯同样的错误。",
+   "学习成长与表达交流 · 考试、作业与学习任务"
+  ]
+ },
+ {
+  "name": "I need to improve my time management.",
+  "trans": [
+   "我需要提高时间管理能力。",
+   "学习成长与表达交流 · 考试、作业与学习任务"
+  ]
+ },
+ {
+  "name": "I'll finish the easier questions first.",
+  "trans": [
+   "我会先完成简单的问题。",
+   "学习成长与表达交流 · 考试、作业与学习任务"
+  ]
+ },
+ {
+  "name": "I haven't had time to revise everything.",
+  "trans": [
+   "我还没时间复习所有内容。",
+   "学习成长与表达交流 · 考试、作业与学习任务"
+  ]
+ },
+ {
+  "name": "Could you check my answers?",
+  "trans": [
+   "可以帮我检查答案吗？",
+   "学习成长与表达交流 · 考试、作业与学习任务"
+  ]
+ },
+ {
+  "name": "I need to memorize these expressions.",
+  "trans": [
+   "我需要记住这些表达。",
+   "学习成长与表达交流 · 考试、作业与学习任务"
+  ]
+ },
+ {
+  "name": "I'm struggling with this chapter.",
+  "trans": [
+   "这一章对我来说有点难。",
+   "学习成长与表达交流 · 考试、作业与学习任务"
+  ]
+ },
+ {
+  "name": "Let's review what we learned yesterday.",
+  "trans": [
+   "我们复习一下昨天学的内容吧。",
+   "学习成长与表达交流 · 考试、作业与学习任务"
+  ]
+ },
+ {
+  "name": "I need to practice more before the test.",
+  "trans": [
+   "考试前我需要多练习。",
+   "学习成长与表达交流 · 考试、作业与学习任务"
+  ]
+ },
+ {
+  "name": "I forgot to submit the homework.",
+  "trans": [
+   "我忘记提交作业了。",
+   "学习成长与表达交流 · 考试、作业与学习任务"
+  ]
+ },
+ {
+  "name": "Can I have an extension on the assignment?",
+  "trans": [
+   "作业可以延期提交吗？",
+   "学习成长与表达交流 · 考试、作业与学习任务"
+  ]
+ },
+ {
+  "name": "I'll divide the task into smaller parts.",
+  "trans": [
+   "我会把任务分成几个小部分。",
+   "学习成长与表达交流 · 考试、作业与学习任务"
+  ]
+ },
+ {
+  "name": "I need to set a realistic study goal.",
+  "trans": [
+   "我需要设定一个实际的学习目标。",
+   "学习成长与表达交流 · 考试、作业与学习任务"
+  ]
+ },
+ {
+  "name": "I'm making progress little by little.",
+  "trans": [
+   "我正在一点一点进步。",
+   "学习成长与表达交流 · 考试、作业与学习任务"
+  ]
+ },
+ {
+  "name": "I want to develop a regular study routine.",
+  "trans": [
+   "我想建立规律的学习习惯。",
+   "学习成长与表达交流 · 考试、作业与学习任务"
+  ]
+ },
+ {
+  "name": "I came across an interesting article.",
+  "trans": [
+   "我读到了一篇有趣的文章。",
+   "学习成长与表达交流 · 阅读、写作与语言表达"
+  ]
+ },
+ {
+  "name": "Could you recommend a good book?",
+  "trans": [
+   "可以推荐一本好书吗？",
+   "学习成长与表达交流 · 阅读、写作与语言表达"
+  ]
+ },
+ {
+  "name": "I need to look up this word.",
+  "trans": [
+   "我需要查一下这个单词。",
+   "学习成长与表达交流 · 阅读、写作与语言表达"
+  ]
+ },
+ {
+  "name": "What does this expression mean?",
+  "trans": [
+   "这个表达是什么意思？",
+   "学习成长与表达交流 · 阅读、写作与语言表达"
+  ]
+ },
+ {
+  "name": "The sentence structure is quite complicated.",
+  "trans": [
+   "这个句子的结构比较复杂。",
+   "学习成长与表达交流 · 阅读、写作与语言表达"
+  ]
+ },
+ {
+  "name": "I want to improve my writing skills.",
+  "trans": [
+   "我想提高写作能力。",
+   "学习成长与表达交流 · 阅读、写作与语言表达"
+  ]
+ },
+ {
+  "name": "This paragraph needs to be rewritten.",
+  "trans": [
+   "这一段需要重新改写。",
+   "学习成长与表达交流 · 阅读、写作与语言表达"
+  ]
+ },
+ {
+  "name": "Could you check the grammar for me?",
+  "trans": [
+   "可以帮我检查语法吗？",
+   "学习成长与表达交流 · 阅读、写作与语言表达"
+  ]
+ },
+ {
+  "name": "I'm not sure whether this word is appropriate.",
+  "trans": [
+   "我不确定这个词是否合适。",
+   "学习成长与表达交流 · 阅读、写作与语言表达"
+  ]
+ },
+ {
+  "name": "This phrase sounds more natural.",
+  "trans": [
+   "这个短语听起来更自然。",
+   "学习成长与表达交流 · 阅读、写作与语言表达"
+  ]
+ },
+ {
+  "name": "I need to expand my vocabulary.",
+  "trans": [
+   "我需要扩大词汇量。",
+   "学习成长与表达交流 · 阅读、写作与语言表达"
+  ]
+ },
+ {
+  "name": "Try to avoid using the same word repeatedly.",
+  "trans": [
+   "尽量避免反复使用同一个词。",
+   "学习成长与表达交流 · 阅读、写作与语言表达"
+  ]
+ },
+ {
+  "name": "The meaning depends on the context.",
+  "trans": [
+   "意思取决于语境。",
+   "学习成长与表达交流 · 阅读、写作与语言表达"
+  ]
+ },
+ {
+  "name": "I understand the words individually, but not the sentence.",
+  "trans": [
+   "单个单词我懂，但整句话不明白。",
+   "学习成长与表达交流 · 阅读、写作与语言表达"
+  ]
+ },
+ {
+  "name": "Could you translate this into English?",
+  "trans": [
+   "可以把这个翻译成英语吗？",
+   "学习成长与表达交流 · 阅读、写作与语言表达"
+  ]
+ },
+ {
+  "name": "How would a native speaker say this?",
+  "trans": [
+   "英语母语者会怎么表达这句话？",
+   "学习成长与表达交流 · 阅读、写作与语言表达"
+  ]
+ },
+ {
+  "name": "I need to work on my pronunciation.",
+  "trans": [
+   "我需要练习发音。",
+   "学习成长与表达交流 · 阅读、写作与语言表达"
+  ]
+ },
+ {
+  "name": "Please correct me if I make a mistake.",
+  "trans": [
+   "如果我犯错，请纠正我。",
+   "学习成长与表达交流 · 阅读、写作与语言表达"
+  ]
+ },
+ {
+  "name": "I want my English to sound more natural.",
+  "trans": [
+   "我希望自己的英语听起来更自然。",
+   "学习成长与表达交流 · 阅读、写作与语言表达"
+  ]
+ },
+ {
+  "name": "Practice is the key to improvement.",
+  "trans": [
+   "练习是进步的关键。",
+   "学习成长与表达交流 · 阅读、写作与语言表达"
+  ]
+ },
+ {
+  "name": "I'm trying to learn something new every day.",
+  "trans": [
+   "我每天都在努力学习新东西。",
+   "学习成长与表达交流 · 个人成长与目标规划"
+  ]
+ },
+ {
+  "name": "I want to challenge myself more.",
+  "trans": [
+   "我想给自己更多挑战。",
+   "学习成长与表达交流 · 个人成长与目标规划"
+  ]
+ },
+ {
+  "name": "I need to step outside my comfort zone.",
+  "trans": [
+   "我需要走出自己的舒适区。",
+   "学习成长与表达交流 · 个人成长与目标规划"
+  ]
+ },
+ {
+  "name": "I'm working toward a long-term goal.",
+  "trans": [
+   "我正在朝着长期目标努力。",
+   "学习成长与表达交流 · 个人成长与目标规划"
+  ]
+ },
+ {
+  "name": "I haven't made much progress recently.",
+  "trans": [
+   "我最近进步不太明显。",
+   "学习成长与表达交流 · 个人成长与目标规划"
+  ]
+ },
+ {
+  "name": "I need to find a better learning method.",
+  "trans": [
+   "我需要找到更好的学习方法。",
+   "学习成长与表达交流 · 个人成长与目标规划"
+  ]
+ },
+ {
+  "name": "I'm willing to put in the effort.",
+  "trans": [
+   "我愿意付出努力。",
+   "学习成长与表达交流 · 个人成长与目标规划"
+  ]
+ },
+ {
+  "name": "I want to become more independent.",
+  "trans": [
+   "我想变得更加独立。",
+   "学习成长与表达交流 · 个人成长与目标规划"
+  ]
+ },
+ {
+  "name": "I need to be consistent with my practice.",
+  "trans": [
+   "我需要坚持练习。",
+   "学习成长与表达交流 · 个人成长与目标规划"
+  ]
+ },
+ {
+  "name": "It's important to learn from failure.",
+  "trans": [
+   "从失败中学习很重要。",
+   "学习成长与表达交流 · 个人成长与目标规划"
+  ]
+ },
+ {
+  "name": "I want to make better use of my time.",
+  "trans": [
+   "我想更有效地利用时间。",
+   "学习成长与表达交流 · 个人成长与目标规划"
+  ]
+ },
+ {
+  "name": "I need to stop putting things off.",
+  "trans": [
+   "我需要停止拖延。",
+   "学习成长与表达交流 · 个人成长与目标规划"
+  ]
+ },
+ {
+  "name": "I'm trying to build better habits.",
+  "trans": [
+   "我正在努力养成更好的习惯。",
+   "学习成长与表达交流 · 个人成长与目标规划"
+  ]
+ },
+ {
+  "name": "I want to measure my progress regularly.",
+  "trans": [
+   "我想定期衡量自己的进步。",
+   "学习成长与表达交流 · 个人成长与目标规划"
+  ]
+ },
+ {
+  "name": "I know I still have room to improve.",
+  "trans": [
+   "我知道自己还有进步空间。",
+   "学习成长与表达交流 · 个人成长与目标规划"
+  ]
+ },
+ {
+  "name": "I need to focus on one thing at a time.",
+  "trans": [
+   "我需要一次专注于一件事。",
+   "学习成长与表达交流 · 个人成长与目标规划"
+  ]
+ },
+ {
+  "name": "I'm learning from my past experiences.",
+  "trans": [
+   "我正在从过去的经历中学习。",
+   "学习成长与表达交流 · 个人成长与目标规划"
+  ]
+ },
+ {
+  "name": "I want to make more informed decisions.",
+  "trans": [
+   "我想做出更有依据的决定。",
+   "学习成长与表达交流 · 个人成长与目标规划"
+  ]
+ },
+ {
+  "name": "I'm gradually becoming more confident.",
+  "trans": [
+   "我正在逐渐变得更有信心。",
+   "学习成长与表达交流 · 个人成长与目标规划"
+  ]
+ },
+ {
+  "name": "Every small step counts.",
+  "trans": [
+   "每一个小进步都很重要。",
+   "学习成长与表达交流 · 个人成长与目标规划"
+  ]
+ },
+ {
+  "name": "I'd like to share something I learned.",
+  "trans": [
+   "我想分享一下我学到的东西。",
+   "学习成长与表达交流 · 培训、分享与知识交流"
+  ]
+ },
+ {
+  "name": "This training has been very useful.",
+  "trans": [
+   "这次培训非常有用。",
+   "学习成长与表达交流 · 培训、分享与知识交流"
+  ]
+ },
+ {
+  "name": "Could you send me the learning materials?",
+  "trans": [
+   "可以把学习资料发给我吗？",
+   "学习成长与表达交流 · 培训、分享与知识交流"
+  ]
+ },
+ {
+  "name": "I found the workshop quite informative.",
+  "trans": [
+   "我觉得这次研讨会收获很大。",
+   "学习成长与表达交流 · 培训、分享与知识交流"
+  ]
+ },
+ {
+  "name": "Let's exchange ideas after the session.",
+  "trans": [
+   "课程结束后我们交流一下想法吧。",
+   "学习成长与表达交流 · 培训、分享与知识交流"
+  ]
+ },
+ {
+  "name": "I'd like to learn from your experience.",
+  "trans": [
+   "我想向你的经验学习。",
+   "学习成长与表达交流 · 培训、分享与知识交流"
+  ]
+ },
+ {
+  "name": "Could you recommend some useful resources?",
+  "trans": [
+   "可以推荐一些有用的资源吗？",
+   "学习成长与表达交流 · 培训、分享与知识交流"
+  ]
+ },
+ {
+  "name": "I took away several valuable lessons.",
+  "trans": [
+   "我从中学到了几条很有价值的经验。",
+   "学习成长与表达交流 · 培训、分享与知识交流"
+  ]
+ },
+ {
+  "name": "This approach may work in different situations.",
+  "trans": [
+   "这种方法可能适用于不同情况。",
+   "学习成长与表达交流 · 培训、分享与知识交流"
+  ]
+ },
+ {
+  "name": "I'd like to explore this subject further.",
+  "trans": [
+   "我想进一步研究这个主题。",
+   "学习成长与表达交流 · 培训、分享与知识交流"
+  ]
+ },
+ {
+  "name": "Can you share the reference materials?",
+  "trans": [
+   "可以分享参考资料吗？",
+   "学习成长与表达交流 · 培训、分享与知识交流"
+  ]
+ },
+ {
+  "name": "I found a useful tutorial online.",
+  "trans": [
+   "我在网上找到了一份有用的教程。",
+   "学习成长与表达交流 · 培训、分享与知识交流"
+  ]
+ },
+ {
+  "name": "Let's compare what we've learned.",
+  "trans": [
+   "我们比较一下各自学到的内容吧。",
+   "学习成长与表达交流 · 培训、分享与知识交流"
+  ]
+ },
+ {
+  "name": "I learned a lot from your presentation.",
+  "trans": [
+   "我从你的演讲中学到了很多。",
+   "学习成长与表达交流 · 培训、分享与知识交流"
+  ]
+ },
+ {
+  "name": "This is something worth remembering.",
+  "trans": [
+   "这是值得记住的一点。",
+   "学习成长与表达交流 · 培训、分享与知识交流"
+  ]
+ },
+ {
+  "name": "We can learn from each other's strengths.",
+  "trans": [
+   "我们可以互相学习彼此的长处。",
+   "学习成长与表达交流 · 培训、分享与知识交流"
+  ]
+ },
+ {
+  "name": "I'd like to put this knowledge into practice.",
+  "trans": [
+   "我想把这些知识应用到实践中。",
+   "学习成长与表达交流 · 培训、分享与知识交流"
+  ]
+ },
+ {
+  "name": "The more you practice, the more natural it becomes.",
+  "trans": [
+   "练习越多，就会越自然。",
+   "学习成长与表达交流 · 培训、分享与知识交流"
+  ]
+ },
+ {
+  "name": "Learning takes patience and persistence.",
+  "trans": [
+   "学习需要耐心和坚持。",
+   "学习成长与表达交流 · 培训、分享与知识交流"
+  ]
+ },
+ {
+  "name": "There's always something new to discover.",
+  "trans": [
+   "总有新的东西值得探索。",
+   "学习成长与表达交流 · 培训、分享与知识交流"
+  ]
+ }
+]

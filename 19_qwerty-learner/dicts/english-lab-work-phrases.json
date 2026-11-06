@@ -1,0 +1,632 @@
+[
+ {
+  "name": "as well",
+  "trans": [
+   "也",
+   "因果与逻辑"
+  ]
+ },
+ {
+  "name": "at least",
+  "trans": [
+   "至少",
+   "时间与条件"
+  ]
+ },
+ {
+  "name": "on time",
+  "trans": [
+   "按时；准时",
+   "时间与条件"
+  ]
+ },
+ {
+  "name": "pay for",
+  "trans": [
+   "付费；为…付费",
+   "常用动词短语"
+  ]
+ },
+ {
+  "name": "bring up",
+  "trans": [
+   "养育；抚养；提出",
+   "沟通与协作"
+  ]
+ },
+ {
+  "name": "apply for",
+  "trans": [
+   "申请",
+   "常用动词短语"
+  ]
+ },
+ {
+  "name": "take place",
+  "trans": [
+   "发生",
+   "常用动词短语"
+  ]
+ },
+ {
+  "name": "agree on",
+  "trans": [
+   "达成共识",
+   "沟通与协作"
+  ]
+ },
+ {
+  "name": "ask for",
+  "trans": [
+   "请求",
+   "常用动词短语"
+  ]
+ },
+ {
+  "name": "be used to",
+  "trans": [
+   "习惯于",
+   "状态与风险"
+  ]
+ },
+ {
+  "name": "because of",
+  "trans": [
+   "因为",
+   "因果与逻辑"
+  ]
+ },
+ {
+  "name": "come across",
+  "trans": [
+   "偶然遇见",
+   "常用动词短语"
+  ]
+ },
+ {
+  "name": "come up with",
+  "trans": [
+   "想出",
+   "沟通与协作"
+  ]
+ },
+ {
+  "name": "deal with",
+  "trans": [
+   "处理",
+   "沟通与协作"
+  ]
+ },
+ {
+  "name": "depend on",
+  "trans": [
+   "依靠",
+   "沟通与协作"
+  ]
+ },
+ {
+  "name": "get over",
+  "trans": [
+   "克服",
+   "常用动词短语"
+  ]
+ },
+ {
+  "name": "get ready",
+  "trans": [
+   "准备好",
+   "常用动词短语"
+  ]
+ },
+ {
+  "name": "get rid of",
+  "trans": [
+   "摆脱",
+   "常用动词短语"
+  ]
+ },
+ {
+  "name": "get through",
+  "trans": [
+   "通过；完成；打通电话",
+   "常用动词短语"
+  ]
+ },
+ {
+  "name": "go over",
+  "trans": [
+   "复习",
+   "常用动词短语"
+  ]
+ },
+ {
+  "name": "go through",
+  "trans": [
+   "经历；仔细检查",
+   "常用动词短语"
+  ]
+ },
+ {
+  "name": "hold on",
+  "trans": [
+   "稍等",
+   "常用动词短语"
+  ]
+ },
+ {
+  "name": "in fact",
+  "trans": [
+   "事实上",
+   "因果与逻辑"
+  ]
+ },
+ {
+  "name": "in general",
+  "trans": [
+   "总的来说；大体上；总体来说",
+   "因果与逻辑"
+  ]
+ },
+ {
+  "name": "in order to",
+  "trans": [
+   "为了",
+   "因果与逻辑"
+  ]
+ },
+ {
+  "name": "in time",
+  "trans": [
+   "及时",
+   "时间与条件"
+  ]
+ },
+ {
+  "name": "keep up",
+  "trans": [
+   "保持",
+   "常用动词短语"
+  ]
+ },
+ {
+  "name": "make a decision",
+  "trans": [
+   "做决定",
+   "常用动词短语"
+  ]
+ },
+ {
+  "name": "make sure",
+  "trans": [
+   "确保",
+   "常用动词短语"
+  ]
+ },
+ {
+  "name": "make progress",
+  "trans": [
+   "取得进步",
+   "常用动词短语"
+  ]
+ },
+ {
+  "name": "prepare for",
+  "trans": [
+   "为…准备；准备",
+   "常用动词短语"
+  ]
+ },
+ {
+  "name": "put off",
+  "trans": [
+   "推迟",
+   "常用动词短语"
+  ]
+ },
+ {
+  "name": "set up",
+  "trans": [
+   "建立",
+   "沟通与协作"
+  ]
+ },
+ {
+  "name": "take care",
+  "trans": [
+   "小心",
+   "常用动词短语"
+  ]
+ },
+ {
+  "name": "work out",
+  "trans": [
+   "算出；解决",
+   "沟通与协作"
+  ]
+ },
+ {
+  "name": "according to",
+  "trans": [
+   "根据",
+   "因果与逻辑"
+  ]
+ },
+ {
+  "name": "all the time",
+  "trans": [
+   "一直",
+   "时间与条件"
+  ]
+ },
+ {
+  "name": "as a result",
+  "trans": [
+   "结果",
+   "因果与逻辑"
+  ]
+ },
+ {
+  "name": "at the same time",
+  "trans": [
+   "同时",
+   "时间与条件"
+  ]
+ },
+ {
+  "name": "at times",
+  "trans": [
+   "有时",
+   "时间与条件"
+  ]
+ },
+ {
+  "name": "by the way",
+  "trans": [
+   "顺便一提",
+   "时间与条件"
+  ]
+ },
+ {
+  "name": "from time to time",
+  "trans": [
+   "时常",
+   "时间与条件"
+  ]
+ },
+ {
+  "name": "in common",
+  "trans": [
+   "共同的",
+   "状态与风险"
+  ]
+ },
+ {
+  "name": "in return",
+  "trans": [
+   "作为回报",
+   "因果与逻辑"
+  ]
+ },
+ {
+  "name": "in short",
+  "trans": [
+   "简而言之",
+   "因果与逻辑"
+  ]
+ },
+ {
+  "name": "in the meantime",
+  "trans": [
+   "与此同时",
+   "时间与条件"
+  ]
+ },
+ {
+  "name": "instead of",
+  "trans": [
+   "代替",
+   "因果与逻辑"
+  ]
+ },
+ {
+  "name": "no longer",
+  "trans": [
+   "不再",
+   "时间与条件"
+  ]
+ },
+ {
+  "name": "right away",
+  "trans": [
+   "立刻",
+   "时间与条件"
+  ]
+ },
+ {
+  "name": "thanks to",
+  "trans": [
+   "多亏",
+   "因果与逻辑"
+  ]
+ },
+ {
+  "name": "carry out",
+  "trans": [
+   "执行",
+   "沟通与协作"
+  ]
+ },
+ {
+  "name": "check out",
+  "trans": [
+   "结账；核实",
+   "沟通与协作"
+  ]
+ },
+ {
+  "name": "figure out",
+  "trans": [
+   "弄明白",
+   "沟通与协作"
+  ]
+ },
+ {
+  "name": "focus on",
+  "trans": [
+   "聚焦",
+   "沟通与协作"
+  ]
+ },
+ {
+  "name": "get in touch",
+  "trans": [
+   "取得联系",
+   "沟通与协作"
+  ]
+ },
+ {
+  "name": "look into",
+  "trans": [
+   "调查",
+   "沟通与协作"
+  ]
+ },
+ {
+  "name": "meet with",
+  "trans": [
+   "遭遇；会见",
+   "沟通与协作"
+  ]
+ },
+ {
+  "name": "point out",
+  "trans": [
+   "指出",
+   "沟通与协作"
+  ]
+ },
+ {
+  "name": "provide with",
+  "trans": [
+   "提供",
+   "沟通与协作"
+  ]
+ },
+ {
+  "name": "put forward",
+  "trans": [
+   "提出",
+   "常用动词短语"
+  ]
+ },
+ {
+  "name": "put up with",
+  "trans": [
+   "忍受",
+   "常用动词短语"
+  ]
+ },
+ {
+  "name": "result from",
+  "trans": [
+   "由…引起；由…造成",
+   "因果与逻辑"
+  ]
+ },
+ {
+  "name": "result in",
+  "trans": [
+   "导致",
+   "因果与逻辑"
+  ]
+ },
+ {
+  "name": "run into",
+  "trans": [
+   "撞上；偶遇",
+   "常用动词短语"
+  ]
+ },
+ {
+  "name": "set aside",
+  "trans": [
+   "留出",
+   "常用动词短语"
+  ]
+ },
+ {
+  "name": "settle for",
+  "trans": [
+   "勉强接受",
+   "常用动词短语"
+  ]
+ },
+ {
+  "name": "take over",
+  "trans": [
+   "接管",
+   "沟通与协作"
+  ]
+ },
+ {
+  "name": "turn out",
+  "trans": [
+   "结果是",
+   "常用动词短语"
+  ]
+ },
+ {
+  "name": "work on",
+  "trans": [
+   "从事",
+   "沟通与协作"
+  ]
+ },
+ {
+  "name": "at risk",
+  "trans": [
+   "处于风险",
+   "状态与风险"
+  ]
+ },
+ {
+  "name": "at short notice",
+  "trans": [
+   "临时通知",
+   "时间与条件"
+  ]
+ },
+ {
+  "name": "at stake",
+  "trans": [
+   "危在旦夕",
+   "状态与风险"
+  ]
+ },
+ {
+  "name": "before long",
+  "trans": [
+   "不久",
+   "时间与条件"
+  ]
+ },
+ {
+  "name": "by means of",
+  "trans": [
+   "通过",
+   "因果与逻辑"
+  ]
+ },
+ {
+  "name": "due to",
+  "trans": [
+   "由于",
+   "因果与逻辑"
+  ]
+ },
+ {
+  "name": "in advance",
+  "trans": [
+   "提前",
+   "时间与条件"
+  ]
+ },
+ {
+  "name": "in case",
+  "trans": [
+   "以防",
+   "时间与条件"
+  ]
+ },
+ {
+  "name": "in charge of",
+  "trans": [
+   "掌管",
+   "状态与风险"
+  ]
+ },
+ {
+  "name": "out of order",
+  "trans": [
+   "故障",
+   "状态与风险"
+  ]
+ },
+ {
+  "name": "out of touch",
+  "trans": [
+   "失去联系",
+   "状态与风险"
+  ]
+ },
+ {
+  "name": "under discussion",
+  "trans": [
+   "在讨论中",
+   "状态与风险"
+  ]
+ },
+ {
+  "name": "under pressure",
+  "trans": [
+   "在压力下",
+   "状态与风险"
+  ]
+ },
+ {
+  "name": "be aware of",
+  "trans": [
+   "意识到",
+   "状态与风险"
+  ]
+ },
+ {
+  "name": "be familiar with",
+  "trans": [
+   "熟悉",
+   "状态与风险"
+  ]
+ },
+ {
+  "name": "be responsible for",
+  "trans": [
+   "对…负责",
+   "状态与风险"
+  ]
+ },
+ {
+  "name": "be short of",
+  "trans": [
+   "缺少",
+   "状态与风险"
+  ]
+ },
+ {
+  "name": "be sure of",
+  "trans": [
+   "确信",
+   "状态与风险"
+  ]
+ },
+ {
+  "name": "look forward to",
+  "trans": [
+   "期待",
+   "状态与风险"
+  ]
+ },
+ {
+  "name": "reply to",
+  "trans": [
+   "回复",
+   "沟通与协作"
+  ]
+ },
+ {
+  "name": "report on",
+  "trans": [
+   "报道",
+   "沟通与协作"
+  ]
+ }
+]

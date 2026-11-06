@@ -186,6 +186,7 @@ def write_index(prefixes, suffixes, examples):
         "- [[12_word-phrase-bank/11-basic-phrases/_index|基础短语 1125（补充）]]\n",
         "- [[08_sentence-library/1200-sentences/_index|1200 句场景口语]]\n",
         "- [[18_fsi-drills/_index|FSI 口语训练]]\n",
+        "- [[19_qwerty-learner/_index|qwerty 打字练习]]\n",
     ]
     (OUT / "_index.md").write_text("".join(text), encoding="utf-8")
 

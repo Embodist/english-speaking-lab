@@ -1,0 +1,197 @@
+[
+  {
+    "id": "english-lab-affix-examples",
+    "file": "english-lab-affix-examples.json",
+    "name": "前后缀例词（去重）",
+    "description": "来自 164 前缀 + 171 后缀的 1,798 个例词，按单词去重并合并词缀信息。",
+    "category": "English Lab",
+    "length": 1708,
+    "language": "en",
+    "languageCategory": "en",
+    "tags": [
+      "English Lab"
+    ]
+  },
+  {
+    "id": "english-lab-affixes",
+    "file": "english-lab-affixes.json",
+    "name": "前后缀 335",
+    "description": "164 个前缀 + 171 个后缀，含义与例词数量。",
+    "category": "English Lab",
+    "length": 335,
+    "language": "en",
+    "languageCategory": "en",
+    "tags": [
+      "English Lab"
+    ]
+  },
+  {
+    "id": "english-lab-basic-phrases",
+    "file": "english-lab-basic-phrases.json",
+    "name": "基础短语 1125",
+    "description": "公开基础短语清单，去重合并多义。",
+    "category": "English Lab",
+    "length": 1125,
+    "language": "en",
+    "languageCategory": "en",
+    "tags": [
+      "English Lab"
+    ]
+  },
+  {
+    "id": "english-lab-work-phrases",
+    "file": "english-lab-work-phrases.json",
+    "name": "工作高频短语 90",
+    "description": "开会、写 PR、报进度、讲风险的高频短语。",
+    "category": "English Lab",
+    "length": 90,
+    "language": "en",
+    "languageCategory": "en",
+    "tags": [
+      "English Lab"
+    ]
+  },
+  {
+    "id": "english-lab-sentences-01-workplace",
+    "file": "english-lab-sentences-01-workplace.json",
+    "name": "1200 句 · 01 职场沟通与工作协作",
+    "description": "职场沟通与工作协作：120 句场景口语。",
+    "category": "English Lab",
+    "length": 120,
+    "language": "en",
+    "languageCategory": "en",
+    "tags": [
+      "English Lab"
+    ]
+  },
+  {
+    "id": "english-lab-sentences-02-meetings",
+    "file": "english-lab-sentences-02-meetings.json",
+    "name": "1200 句 · 02 会议表达与团队讨论",
+    "description": "会议表达与团队讨论：120 句场景口语。",
+    "category": "English Lab",
+    "length": 120,
+    "language": "en",
+    "languageCategory": "en",
+    "tags": [
+      "English Lab"
+    ]
+  },
+  {
+    "id": "english-lab-sentences-03-daily-social",
+    "file": "english-lab-sentences-03-daily-social.json",
+    "name": "1200 句 · 03 日常生活与社交交流",
+    "description": "日常生活与社交交流：120 句场景口语。",
+    "category": "English Lab",
+    "length": 120,
+    "language": "en",
+    "languageCategory": "en",
+    "tags": [
+      "English Lab"
+    ]
+  },
+  {
+    "id": "english-lab-sentences-04-opinions",
+    "file": "english-lab-sentences-04-opinions.json",
+    "name": "1200 句 · 04 表达观点与个人看法",
+    "description": "表达观点与个人看法：120 句场景口语。",
+    "category": "English Lab",
+    "length": 120,
+    "language": "en",
+    "languageCategory": "en",
+    "tags": [
+      "English Lab"
+    ]
+  },
+  {
+    "id": "english-lab-sentences-05-problems",
+    "file": "english-lab-sentences-05-problems.json",
+    "name": "1200 句 · 05 问题解决与突发情况",
+    "description": "问题解决与突发情况：120 句场景口语。",
+    "category": "English Lab",
+    "length": 120,
+    "language": "en",
+    "languageCategory": "en",
+    "tags": [
+      "English Lab"
+    ]
+  },
+  {
+    "id": "english-lab-sentences-06-shopping-dining",
+    "file": "english-lab-sentences-06-shopping-dining.json",
+    "name": "1200 句 · 06 购物、餐厅与消费场景",
+    "description": "购物、餐厅与消费场景：120 句场景口语。",
+    "category": "English Lab",
+    "length": 120,
+    "language": "en",
+    "languageCategory": "en",
+    "tags": [
+      "English Lab"
+    ]
+  },
+  {
+    "id": "english-lab-sentences-07-travel-hotel",
+    "file": "english-lab-sentences-07-travel-hotel.json",
+    "name": "1200 句 · 07 旅行出行与住宿交流",
+    "description": "旅行出行与住宿交流：120 句场景口语。",
+    "category": "English Lab",
+    "length": 120,
+    "language": "en",
+    "languageCategory": "en",
+    "tags": [
+      "English Lab"
+    ]
+  },
+  {
+    "id": "english-lab-sentences-08-family-health",
+    "file": "english-lab-sentences-08-family-health.json",
+    "name": "1200 句 · 08 家庭生活、健康与个人安排",
+    "description": "家庭生活、健康与个人安排：120 句场景口语。",
+    "category": "English Lab",
+    "length": 120,
+    "language": "en",
+    "languageCategory": "en",
+    "tags": [
+      "English Lab"
+    ]
+  },
+  {
+    "id": "english-lab-sentences-09-learning",
+    "file": "english-lab-sentences-09-learning.json",
+    "name": "1200 句 · 09 学习成长与表达交流",
+    "description": "学习成长与表达交流：120 句场景口语。",
+    "category": "English Lab",
+    "length": 120,
+    "language": "en",
+    "languageCategory": "en",
+    "tags": [
+      "English Lab"
+    ]
+  },
+  {
+    "id": "english-lab-sentences-10-calls-online",
+    "file": "english-lab-sentences-10-calls-online.json",
+    "name": "1200 句 · 10 电话沟通、网络交流与综合表达",
+    "description": "电话沟通、网络交流与综合表达：120 句场景口语。",
+    "category": "English Lab",
+    "length": 120,
+    "language": "en",
+    "languageCategory": "en",
+    "tags": [
+      "English Lab"
+    ]
+  },
+  {
+    "id": "english-lab-fsi-patterns",
+    "file": "english-lab-fsi-patterns.json",
+    "name": "FSI 句型 126",
+    "description": "替换、变换、应答、情景的模型句。",
+    "category": "English Lab",
+    "length": 126,
+    "language": "en",
+    "languageCategory": "en",
+    "tags": [
+      "English Lab"
+    ]
+  }
+]

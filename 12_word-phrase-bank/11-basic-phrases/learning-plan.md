@@ -2,8 +2,8 @@
 type: guide
 title: "基础短语 30 天计划"
 tags: [library/word-bank, skill/speaking, status/learning]
-created: 2026-11-05
-updated: 2026-11-05
+created: 2026-11-06
+updated: 2026-11-06
 ---
 
 # 基础短语 30 天计划

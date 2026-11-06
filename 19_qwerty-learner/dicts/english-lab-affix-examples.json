@@ -1,0 +1,12055 @@
+[
+ {
+  "name": "aboard",
+  "trans": [
+   "ad./prep. 在船上",
+   "词缀 a-：在.../...的/不"
+  ]
+ },
+ {
+  "name": "aside",
+  "trans": [
+   "ad. 在旁边",
+   "词缀 a-：在.../...的/不"
+  ]
+ },
+ {
+  "name": "asleep",
+  "trans": [
+   "a. 睡着的",
+   "词缀 a-：在.../...的/不"
+  ]
+ },
+ {
+  "name": "alive",
+  "trans": [
+   "a. 活的",
+   "词缀 a-：在.../...的/不"
+  ]
+ },
+ {
+  "name": "alone",
+  "trans": [
+   "a. 单独的",
+   "词缀 a-：在.../...的/不"
+  ]
+ },
+ {
+  "name": "abnormal",
+  "trans": [
+   "a. 反常的",
+   "词缀 ab-/abs-：脱离/离开"
+  ]
+ },
+ {
+  "name": "abuse",
+  "trans": [
+   "v./n. 滥用",
+   "词缀 ab-/abs-：脱离/离开"
+  ]
+ },
+ {
+  "name": "absorb",
+  "trans": [
+   "v. 吸收",
+   "词缀 ab-/abs-：脱离/离开"
+  ]
+ },
+ {
+  "name": "abstract",
+  "trans": [
+   "a./n. 抽象的/摘要",
+   "词缀 ab-/abs-：脱离/离开"
+  ]
+ },
+ {
+  "name": "absent",
+  "trans": [
+   "a. 缺席的",
+   "词缀 ab-/abs-：脱离/离开"
+  ]
+ },
+ {
+  "name": "atypical",
+  "trans": [
+   "a. 非典型的",
+   "词缀 ab-/abs-：脱离/离开"
+  ]
+ },
+ {
+  "name": "accept",
+  "trans": [
+   "v. 接受",
+   "词缀 ac-/ad-/af-/ag-/al-/ap-/ar-/as-/at-：方向/变化/加强"
+  ]
+ },
+ {
+  "name": "adapt",
+  "trans": [
+   "v. 适应",
+   "词缀 ac-/ad-/af-/ag-/al-/ap-/ar-/as-/at-：方向/变化/加强"
+  ]
+ },
+ {
+  "name": "affect",
+  "trans": [
+   "v. 影响",
+   "词缀 ac-/ad-/af-/ag-/al-/ap-/ar-/as-/at-：方向/变化/加强"
+  ]
+ },
+ {
+  "name": "aggressive",
+  "trans": [
+   "a. 侵略的",
+   "a. 侵略性的",
+   "词缀 ac-/ad-/af-/ag-/al-/ap-/ar-/as-/at-：方向/变化/加强",
+   "词缀 -ive：形容词，表示\"有...性质的\""
+  ]
+ },
+ {
+  "name": "allow",
+  "trans": [
+   "v. 允许",
+   "词缀 ac-/ad-/af-/ag-/al-/ap-/ar-/as-/at-：方向/变化/加强"
+  ]
+ },
+ {
+  "name": "acute",
+  "trans": [
+   "a. 尖锐的/急性的",
+   "词缀 acu-：尖/锐利"
+  ]
+ },
+ {
+  "name": "acupuncture",
+  "trans": [
+   "n. 针灸",
+   "词缀 acu-：尖/锐利"
+  ]
+ },
+ {
+  "name": "acumen",
+  "trans": [
+   "n. 敏锐",
+   "词缀 acu-：尖/锐利"
+  ]
+ },
+ {
+  "name": "acuminate",
+  "trans": [
+   "a. 尖的",
+   "词缀 acu-：尖/锐利"
+  ]
+ },
+ {
+  "name": "acupressure",
+  "trans": [
+   "n. 指压按摩",
+   "词缀 acu-：尖/锐利"
+  ]
+ },
+ {
+  "name": "aerosol",
+  "trans": [
+   "n. 气溶胶",
+   "词缀 aer/o-：空气/航空"
+  ]
+ },
+ {
+  "name": "aerospace",
+  "trans": [
+   "n. 航空航天",
+   "词缀 aer/o-：空气/航空"
+  ]
+ },
+ {
+  "name": "aerobics",
+  "trans": [
+   "n. 有氧运动",
+   "词缀 aer/o-：空气/航空"
+  ]
+ },
+ {
+  "name": "aerodynamics",
+  "trans": [
+   "n. 空气动力学",
+   "词缀 aer/o-：空气/航空"
+  ]
+ },
+ {
+  "name": "aeronautics",
+  "trans": [
+   "n. 航空学",
+   "词缀 aer/o-：空气/航空"
+  ]
+ },
+ {
+  "name": "agriculture",
+  "trans": [
+   "n. 农业",
+   "词缀 agri-：农业/田地"
+  ]
+ },
+ {
+  "name": "agronomy",
+  "trans": [
+   "n. 农学",
+   "词缀 agri-：农业/田地"
+  ]
+ },
+ {
+  "name": "agribusiness",
+  "trans": [
+   "n. 农业综合企业",
+   "词缀 agri-：农业/田地"
+  ]
+ },
+ {
+  "name": "agroecology",
+  "trans": [
+   "n. 农业生态学",
+   "词缀 agri-：农业/田地"
+  ]
+ },
+ {
+  "name": "agroforestry",
+  "trans": [
+   "n. 农林复合经营",
+   "词缀 agri-：农业/田地"
+  ]
+ },
+ {
+  "name": "ambiguous",
+  "trans": [
+   "a. 含糊的",
+   "词缀 ambi-：两/周围",
+   "词缀 -uous：形容词"
+  ]
+ },
+ {
+  "name": "ambition",
+  "trans": [
+   "n. 雄心",
+   "词缀 ambi-：两/周围"
+  ]
+ },
+ {
+  "name": "ambidextrous",
+  "trans": [
+   "a. 双手灵巧的",
+   "词缀 ambi-：两/周围"
+  ]
+ },
+ {
+  "name": "ambient",
+  "trans": [
+   "a. 周围的",
+   "词缀 ambi-：两/周围"
+  ]
+ },
+ {
+  "name": "ambivalent",
+  "trans": [
+   "a. 矛盾的",
+   "词缀 ambi-：两/周围"
+  ]
+ },
+ {
+  "name": "amplify",
+  "trans": [
+   "v. 放大",
+   "词缀 ampli-：大/宽敞"
+  ]
+ },
+ {
+  "name": "amplitude",
+  "trans": [
+   "n. 幅度",
+   "词缀 ampli-：大/宽敞"
+  ]
+ },
+ {
+  "name": "ample",
+  "trans": [
+   "a. 充足的",
+   "词缀 ampli-：大/宽敞"
+  ]
+ },
+ {
+  "name": "amphitheater",
+  "trans": [
+   "n. 圆形剧场",
+   "词缀 ampli-：大/宽敞"
+  ]
+ },
+ {
+  "name": "amphora",
+  "trans": [
+   "n. 双耳瓶",
+   "词缀 ampli-：大/宽敞"
+  ]
+ },
+ {
+  "name": "anonymous",
+  "trans": [
+   "a. 匿名的",
+   "词缀 an-：不/无"
+  ]
+ },
+ {
+  "name": "anemia",
+  "trans": [
+   "n. 贫血",
+   "词缀 an-：不/无"
+  ]
+ },
+ {
+  "name": "anarchy",
+  "trans": [
+   "n. 无政府状态",
+   "词缀 an-：不/无"
+  ]
+ },
+ {
+  "name": "anorexia",
+  "trans": [
+   "n. 厌食症",
+   "词缀 an-：不/无"
+  ]
+ },
+ {
+  "name": "anaerobic",
+  "trans": [
+   "a. 厌氧的",
+   "词缀 an-：不/无"
+  ]
+ },
+ {
+  "name": "analysis",
+  "trans": [
+   "n. 分析",
+   "词缀 ana-：向上/再/类似"
+  ]
+ },
+ {
+  "name": "analogy",
+  "trans": [
+   "n. 类比",
+   "词缀 ana-：向上/再/类似"
+  ]
+ },
+ {
+  "name": "anatomy",
+  "trans": [
+   "n. 解剖学",
+   "词缀 ana-：向上/再/类似"
+  ]
+ },
+ {
+  "name": "anagram",
+  "trans": [
+   "n. 变位词",
+   "词缀 ana-：向上/再/类似"
+  ]
+ },
+ {
+  "name": "anachronism",
+  "trans": [
+   "n. 时代错误",
+   "词缀 ana-：向上/再/类似",
+   "词缀 chron-：时间"
+  ]
+ },
+ {
+  "name": "android",
+  "trans": [
+   "n. 人形机器人",
+   "词缀 andro-：男性/雄",
+   "词缀 -oid：形容词/名词，表示\"似...的/体\""
+  ]
+ },
+ {
+  "name": "androgynous",
+  "trans": [
+   "a. 雌雄同体的",
+   "词缀 andro-：男性/雄",
+   "词缀 gyn-：女性/雌"
+  ]
+ },
+ {
+  "name": "androgen",
+  "trans": [
+   "n. 雄激素",
+   "词缀 andro-：男性/雄"
+  ]
+ },
+ {
+  "name": "androcentric",
+  "trans": [
+   "a. 男性中心的",
+   "词缀 andro-：男性/雄"
+  ]
+ },
+ {
+  "name": "andrology",
+  "trans": [
+   "n. 男科学",
+   "词缀 andro-：男性/雄"
+  ]
+ },
+ {
+  "name": "Anglophile",
+  "trans": [
+   "n. 亲英者",
+   "词缀 Anglo-：英国/英语"
+  ]
+ },
+ {
+  "name": "Anglophone",
+  "trans": [
+   "n. 讲英语者",
+   "词缀 Anglo-：英国/英语"
+  ]
+ },
+ {
+  "name": "Anglo-Saxon",
+  "trans": [
+   "n./a. 盎格鲁-撒克逊人/的",
+   "词缀 Anglo-：英国/英语"
+  ]
+ },
+ {
+  "name": "Anglocentric",
+  "trans": [
+   "a. 以英国为中心的",
+   "词缀 Anglo-：英国/英语"
+  ]
+ },
+ {
+  "name": "Anglican",
+  "trans": [
+   "a. 英国国教的",
+   "词缀 Anglo-：英国/英语"
+  ]
+ },
+ {
+  "name": "antecedent",
+  "trans": [
+   "n. 前身",
+   "词缀 ante-：在前"
+  ]
+ },
+ {
+  "name": "antedate",
+  "trans": [
+   "v. 先于",
+   "词缀 ante-：在前"
+  ]
+ },
+ {
+  "name": "anteroom",
+  "trans": [
+   "n. 接待室",
+   "词缀 ante-：在前"
+  ]
+ },
+ {
+  "name": "antenatal",
+  "trans": [
+   "a. 产前的",
+   "词缀 ante-：在前"
+  ]
+ },
+ {
+  "name": "anterior",
+  "trans": [
+   "a. 前面的",
+   "词缀 ante-：在前"
+  ]
+ },
+ {
+  "name": "anthropology",
+  "trans": [
+   "n. 人类学",
+   "词缀 anthropo-：人类",
+   "词缀 -logy：名词，表示\"...学/论\""
+  ]
+ },
+ {
+  "name": "anthropomorphic",
+  "trans": [
+   "a. 拟人化的",
+   "词缀 anthropo-：人类"
+  ]
+ },
+ {
+  "name": "misanthrope",
+  "trans": [
+   "n. 厌世者",
+   "词缀 anthropo-：人类"
+  ]
+ },
+ {
+  "name": "philanthropy",
+  "trans": [
+   "n. 慈善",
+   "词缀 anthropo-：人类"
+  ]
+ },
+ {
+  "name": "anthropoid",
+  "trans": [
+   "a. 类人的",
+   "词缀 anthropo-：人类"
+  ]
+ },
+ {
+  "name": "antiwar",
+  "trans": [
+   "a. 反战的",
+   "词缀 anti-：反对/对抗"
+  ]
+ },
+ {
+  "name": "antibiotic",
+  "trans": [
+   "n. 抗生素",
+   "词缀 anti-：反对/对抗"
+  ]
+ },
+ {
+  "name": "antifreeze",
+  "trans": [
+   "n. 防冻剂",
+   "词缀 anti-：反对/对抗"
+  ]
+ },
+ {
+  "name": "antipathy",
+  "trans": [
+   "n. 反感",
+   "词缀 anti-：反对/对抗"
+  ]
+ },
+ {
+  "name": "antithesis",
+  "trans": [
+   "n. 对立面",
+   "词缀 anti-：反对/对抗"
+  ]
+ },
+ {
+  "name": "apology",
+  "trans": [
+   "n. 道歉",
+   "词缀 apo-：离开/分开"
+  ]
+ },
+ {
+  "name": "apogee",
+  "trans": [
+   "n. 远地点",
+   "词缀 apo-：离开/分开"
+  ]
+ },
+ {
+  "name": "apostle",
+  "trans": [
+   "n. 使徒",
+   "词缀 apo-：离开/分开"
+  ]
+ },
+ {
+  "name": "apocalypse",
+  "trans": [
+   "n. 启示",
+   "词缀 apo-：离开/分开"
+  ]
+ },
+ {
+  "name": "apocrypha",
+  "trans": [
+   "n. 伪经",
+   "词缀 apo-：离开/分开"
+  ]
+ },
+ {
+  "name": "aquarium",
+  "trans": [
+   "n. 水族馆",
+   "词缀 aqua-：水",
+   "词缀 -arium：名词，表示\"场所/容器\""
+  ]
+ },
+ {
+  "name": "aquatic",
+  "trans": [
+   "a. 水生的",
+   "词缀 aqua-：水"
+  ]
+ },
+ {
+  "name": "aquifer",
+  "trans": [
+   "n. 含水层",
+   "词缀 aqua-：水"
+  ]
+ },
+ {
+  "name": "aqueduct",
+  "trans": [
+   "n. 渡槽",
+   "词缀 aqua-：水"
+  ]
+ },
+ {
+  "name": "aquaculture",
+  "trans": [
+   "n. 水产养殖",
+   "词缀 aqua-：水"
+  ]
+ },
+ {
+  "name": "archenemy",
+  "trans": [
+   "n. 主要敌人",
+   "词缀 arch-：首要/主要"
+  ]
+ },
+ {
+  "name": "archbishop",
+  "trans": [
+   "n. 大主教",
+   "词缀 arch-：首要/主要"
+  ]
+ },
+ {
+  "name": "archetype",
+  "trans": [
+   "n. 原型",
+   "词缀 arch-：首要/主要"
+  ]
+ },
+ {
+  "name": "archipelago",
+  "trans": [
+   "n. 群岛",
+   "词缀 arch-：首要/主要"
+  ]
+ },
+ {
+  "name": "architect",
+  "trans": [
+   "n. 建筑师",
+   "词缀 arch-：首要/主要"
+  ]
+ },
+ {
+  "name": "archaeology",
+  "trans": [
+   "n. 考古学",
+   "词缀 archaeo-：古代/原始",
+   "词缀 -logy：名词，表示\"...学/论\""
+  ]
+ },
+ {
+  "name": "archaeopteryx",
+  "trans": [
+   "n. 始祖鸟",
+   "词缀 archaeo-：古代/原始"
+  ]
+ },
+ {
+  "name": "archaeozoic",
+  "trans": [
+   "a. 太古代的",
+   "词缀 archaeo-：古代/原始"
+  ]
+ },
+ {
+  "name": "archaeometry",
+  "trans": [
+   "n. 考古测定学",
+   "词缀 archaeo-：古代/原始"
+  ]
+ },
+ {
+  "name": "archaeobotany",
+  "trans": [
+   "n. 考古植物学",
+   "词缀 archaeo-：古代/原始"
+  ]
+ },
+ {
+  "name": "astronaut",
+  "trans": [
+   "n. 宇航员",
+   "词缀 astro-：星/太空/天文"
+  ]
+ },
+ {
+  "name": "astronomy",
+  "trans": [
+   "n. 天文学",
+   "词缀 astro-：星/太空/天文"
+  ]
+ },
+ {
+  "name": "astrophysics",
+  "trans": [
+   "n. 天体物理学",
+   "词缀 astro-：星/太空/天文"
+  ]
+ },
+ {
+  "name": "astrology",
+  "trans": [
+   "n. 占星术",
+   "词缀 astro-：星/太空/天文"
+  ]
+ },
+ {
+  "name": "asteroid",
+  "trans": [
+   "n. 小行星",
+   "词缀 astro-：星/太空/天文",
+   "词缀 -oid：形容词/名词，表示\"似...的/体\""
+  ]
+ },
+ {
+  "name": "atmosphere",
+  "trans": [
+   "n. 大气/氛围",
+   "词缀 atmo-：大气/蒸汽"
+  ]
+ },
+ {
+  "name": "atmospheric",
+  "trans": [
+   "a. 大气的",
+   "词缀 atmo-：大气/蒸汽"
+  ]
+ },
+ {
+  "name": "atmolysis",
+  "trans": [
+   "n. 气体分馏",
+   "词缀 atmo-：大气/蒸汽"
+  ]
+ },
+ {
+  "name": "atmometer",
+  "trans": [
+   "n. 蒸发计",
+   "词缀 atmo-：大气/蒸汽"
+  ]
+ },
+ {
+  "name": "atmidometer",
+  "trans": [
+   "n. 汽化计",
+   "词缀 atmo-：大气/蒸汽"
+  ]
+ },
+ {
+  "name": "audio",
+  "trans": [
+   "n. 音频",
+   "词缀 audio-：听/声音"
+  ]
+ },
+ {
+  "name": "audiovisual",
+  "trans": [
+   "a. 视听的",
+   "词缀 audio-：听/声音"
+  ]
+ },
+ {
+  "name": "audiology",
+  "trans": [
+   "n. 听力学",
+   "词缀 audio-：听/声音"
+  ]
+ },
+ {
+  "name": "audiometer",
+  "trans": [
+   "n. 听力计",
+   "词缀 audio-：听/声音"
+  ]
+ },
+ {
+  "name": "audiotape",
+  "trans": [
+   "n. 录音带",
+   "词缀 audio-：听/声音"
+  ]
+ },
+ {
+  "name": "automatic",
+  "trans": [
+   "a. 自动的",
+   "词缀 auto-：自己/自动",
+   "词缀 -tic：形容词"
+  ]
+ },
+ {
+  "name": "automobile",
+  "trans": [
+   "n. 汽车",
+   "词缀 auto-：自己/自动"
+  ]
+ },
+ {
+  "name": "autobiography",
+  "trans": [
+   "n. 自传",
+   "词缀 auto-：自己/自动"
+  ]
+ },
+ {
+  "name": "autonomous",
+  "trans": [
+   "a. 自治的",
+   "词缀 auto-：自己/自动"
+  ]
+ },
+ {
+  "name": "autograph",
+  "trans": [
+   "n. 亲笔签名",
+   "词缀 auto-：自己/自动",
+   "词缀 -graph：名词，表示\"书写工具/记录\""
+  ]
+ },
+ {
+  "name": "barometer",
+  "trans": [
+   "n. 气压计",
+   "词缀 baro-：压力/重量",
+   "词缀 -meter：名词，表示\"测量仪/计\""
+  ]
+ },
+ {
+  "name": "barometric",
+  "trans": [
+   "a. 气压的",
+   "词缀 baro-：压力/重量"
+  ]
+ },
+ {
+  "name": "barograph",
+  "trans": [
+   "n. 气压记录仪",
+   "词缀 baro-：压力/重量"
+  ]
+ },
+ {
+  "name": "baroreceptor",
+  "trans": [
+   "n. 压力感受器",
+   "词缀 baro-：压力/重量"
+  ]
+ },
+ {
+  "name": "barosphere",
+  "trans": [
+   "n. 气压层",
+   "词缀 baro-：压力/重量"
+  ]
+ },
+ {
+  "name": "become",
+  "trans": [
+   "v. 成为",
+   "词缀 be-：使成为/在周围"
+  ]
+ },
+ {
+  "name": "before",
+  "trans": [
+   "prep./conj. 在...之前",
+   "词缀 be-：使成为/在周围"
+  ]
+ },
+ {
+  "name": "behind",
+  "trans": [
+   "prep./ad. 在后面",
+   "词缀 be-：使成为/在周围"
+  ]
+ },
+ {
+  "name": "believe",
+  "trans": [
+   "v. 相信",
+   "词缀 be-：使成为/在周围"
+  ]
+ },
+ {
+  "name": "belong",
+  "trans": [
+   "v. 属于",
+   "词缀 be-：使成为/在周围"
+  ]
+ },
+ {
+  "name": "benefit",
+  "trans": [
+   "n./v. 利益/有益于",
+   "词缀 bene-：好/善"
+  ]
+ },
+ {
+  "name": "benevolent",
+  "trans": [
+   "a. 仁慈的",
+   "词缀 bene-：好/善"
+  ]
+ },
+ {
+  "name": "beneficial",
+  "trans": [
+   "a. 有益的",
+   "词缀 bene-：好/善"
+  ]
+ },
+ {
+  "name": "beneficiary",
+  "trans": [
+   "n. 受益人",
+   "词缀 bene-：好/善",
+   "词缀 -ary：名词，表示\"人/场所\""
+  ]
+ },
+ {
+  "name": "benediction",
+  "trans": [
+   "n. 祝福",
+   "词缀 bene-：好/善"
+  ]
+ },
+ {
+  "name": "bicycle",
+  "trans": [
+   "n. 自行车",
+   "词缀 bi-：两/二",
+   "词缀 cyclo-：圆/环/周期"
+  ]
+ },
+ {
+  "name": "bilingual",
+  "trans": [
+   "a. 双语的",
+   "词缀 bi-：两/二"
+  ]
+ },
+ {
+  "name": "biannual",
+  "trans": [
+   "a. 一年两次的",
+   "词缀 bi-：两/二"
+  ]
+ },
+ {
+  "name": "bilateral",
+  "trans": [
+   "a. 双边的",
+   "词缀 bi-：两/二"
+  ]
+ },
+ {
+  "name": "binary",
+  "trans": [
+   "a. 二进制的",
+   "词缀 bi-：两/二"
+  ]
+ },
+ {
+  "name": "bibliography",
+  "trans": [
+   "n. 参考书目",
+   "词缀 biblio-：书/圣经",
+   "词缀 -graphy：名词，表示\"书写法/学科\""
+  ]
+ },
+ {
+  "name": "bibliophile",
+  "trans": [
+   "n. 藏书家",
+   "词缀 biblio-：书/圣经"
+  ]
+ },
+ {
+  "name": "bibliomania",
+  "trans": [
+   "n. 藏书癖",
+   "词缀 biblio-：书/圣经"
+  ]
+ },
+ {
+  "name": "bibliotherapy",
+  "trans": [
+   "n. 读书疗法",
+   "词缀 biblio-：书/圣经"
+  ]
+ },
+ {
+  "name": "biblical",
+  "trans": [
+   "a. 圣经的",
+   "词缀 biblio-：书/圣经"
+  ]
+ },
+ {
+  "name": "biology",
+  "trans": [
+   "n. 生物学",
+   "词缀 bio-：生命/生物",
+   "词缀 -logy：名词，表示\"...学/论\""
+  ]
+ },
+ {
+  "name": "biography",
+  "trans": [
+   "n. 传记",
+   "词缀 bio-：生命/生物",
+   "词缀 -graph：名词，表示\"书写工具/记录\"",
+   "词缀 -graphy：名词，表示\"书写法/学科\""
+  ]
+ },
+ {
+  "name": "biochemistry",
+  "trans": [
+   "n. 生物化学",
+   "词缀 bio-：生命/生物"
+  ]
+ },
+ {
+  "name": "biodiversity",
+  "trans": [
+   "n. 生物多样性",
+   "词缀 bio-：生命/生物"
+  ]
+ },
+ {
+  "name": "biodegradable",
+  "trans": [
+   "a. 可生物降解的",
+   "词缀 bio-：生命/生物"
+  ]
+ },
+ {
+  "name": "bypass",
+  "trans": [
+   "n./v. 旁路/绕过",
+   "词缀 by-：旁边/次要"
+  ]
+ },
+ {
+  "name": "byproduct",
+  "trans": [
+   "n. 副产品",
+   "词缀 by-：旁边/次要"
+  ]
+ },
+ {
+  "name": "bystander",
+  "trans": [
+   "n. 旁观者",
+   "词缀 by-：旁边/次要"
+  ]
+ },
+ {
+  "name": "byway",
+  "trans": [
+   "n. 小路",
+   "词缀 by-：旁边/次要"
+  ]
+ },
+ {
+  "name": "bygone",
+  "trans": [
+   "a. 过去的",
+   "词缀 by-：旁边/次要"
+  ]
+ },
+ {
+  "name": "cardiology",
+  "trans": [
+   "n. 心脏病学",
+   "词缀 cardio-：心脏",
+   "词缀 -ology：名词，表示\"...学\""
+  ]
+ },
+ {
+  "name": "cardiovascular",
+  "trans": [
+   "a. 心血管的",
+   "词缀 cardio-：心脏"
+  ]
+ },
+ {
+  "name": "cardiogram",
+  "trans": [
+   "n. 心电图",
+   "词缀 cardio-：心脏"
+  ]
+ },
+ {
+  "name": "cardiologist",
+  "trans": [
+   "n. 心脏病专家",
+   "词缀 cardio-：心脏",
+   "词缀 -ologist：名词，表示\"...学家/专家\""
+  ]
+ },
+ {
+  "name": "cardiopulmonary",
+  "trans": [
+   "a. 心肺的",
+   "词缀 cardio-：心脏"
+  ]
+ },
+ {
+  "name": "carnivore",
+  "trans": [
+   "n. 食肉动物",
+   "词缀 carn-：肉/肉体"
+  ]
+ },
+ {
+  "name": "carnival",
+  "trans": [
+   "n. 狂欢节",
+   "词缀 carn-：肉/肉体"
+  ]
+ },
+ {
+  "name": "carnal",
+  "trans": [
+   "a. 肉欲的",
+   "词缀 carn-：肉/肉体"
+  ]
+ },
+ {
+  "name": "carnage",
+  "trans": [
+   "n. 大屠杀",
+   "词缀 carn-：肉/肉体"
+  ]
+ },
+ {
+  "name": "incarnation",
+  "trans": [
+   "n. 化身",
+   "词缀 carn-：肉/肉体"
+  ]
+ },
+ {
+  "name": "catalog",
+  "trans": [
+   "n. 目录",
+   "词缀 cata-：向下/完全"
+  ]
+ },
+ {
+  "name": "catastrophe",
+  "trans": [
+   "n. 灾难",
+   "词缀 cata-：向下/完全"
+  ]
+ },
+ {
+  "name": "category",
+  "trans": [
+   "n. 类别",
+   "词缀 cata-：向下/完全"
+  ]
+ },
+ {
+  "name": "catalyst",
+  "trans": [
+   "n. 催化剂",
+   "词缀 cata-：向下/完全"
+  ]
+ },
+ {
+  "name": "cataract",
+  "trans": [
+   "n. 瀑布/白内障",
+   "词缀 cata-：向下/完全"
+  ]
+ },
+ {
+  "name": "century",
+  "trans": [
+   "n. 世纪",
+   "词缀 cent-：百/百分之一"
+  ]
+ },
+ {
+  "name": "percent",
+  "trans": [
+   "n. 百分比",
+   "词缀 cent-：百/百分之一",
+   "词缀 per-：通过/完全/每"
+  ]
+ },
+ {
+  "name": "centimeter",
+  "trans": [
+   "n. 厘米",
+   "词缀 cent-：百/百分之一"
+  ]
+ },
+ {
+  "name": "centipede",
+  "trans": [
+   "n. 蜈蚣",
+   "词缀 cent-：百/百分之一"
+  ]
+ },
+ {
+  "name": "centennial",
+  "trans": [
+   "n./a. 百年纪念/一百年的",
+   "词缀 cent-：百/百分之一"
+  ]
+ },
+ {
+  "name": "cephalic",
+  "trans": [
+   "a. 头部的",
+   "词缀 cephalo-：头"
+  ]
+ },
+ {
+  "name": "cephalopod",
+  "trans": [
+   "n. 头足类动物",
+   "词缀 cephalo-：头"
+  ]
+ },
+ {
+  "name": "cephalosporin",
+  "trans": [
+   "n. 头孢菌素",
+   "词缀 cephalo-：头"
+  ]
+ },
+ {
+  "name": "encephalitis",
+  "trans": [
+   "n. 脑炎",
+   "词缀 cephalo-：头"
+  ]
+ },
+ {
+  "name": "cephalothorax",
+  "trans": [
+   "n. 头胸部",
+   "词缀 cephalo-：头"
+  ]
+ },
+ {
+  "name": "cerebrospinal",
+  "trans": [
+   "a. 脑脊髓的",
+   "词缀 cerebro-：大脑"
+  ]
+ },
+ {
+  "name": "cerebrovascular",
+  "trans": [
+   "a. 脑血管的",
+   "词缀 cerebro-：大脑"
+  ]
+ },
+ {
+  "name": "cerebrum",
+  "trans": [
+   "n. 大脑",
+   "词缀 cerebro-：大脑"
+  ]
+ },
+ {
+  "name": "cerebellum",
+  "trans": [
+   "n. 小脑",
+   "词缀 cerebro-：大脑"
+  ]
+ },
+ {
+  "name": "cerebral",
+  "trans": [
+   "a. 大脑的/理智的",
+   "词缀 cerebro-：大脑"
+  ]
+ },
+ {
+  "name": "chemotherapy",
+  "trans": [
+   "n. 化学疗法",
+   "词缀 chemo-：化学"
+  ]
+ },
+ {
+  "name": "chemosynthesis",
+  "trans": [
+   "n. 化学合成",
+   "词缀 chemo-：化学"
+  ]
+ },
+ {
+  "name": "chemotaxis",
+  "trans": [
+   "n. 趋化性",
+   "词缀 chemo-：化学"
+  ]
+ },
+ {
+  "name": "chemoreceptor",
+  "trans": [
+   "n. 化学感受器",
+   "词缀 chemo-：化学"
+  ]
+ },
+ {
+  "name": "chemosphere",
+  "trans": [
+   "n. 化学层",
+   "词缀 chemo-：化学"
+  ]
+ },
+ {
+  "name": "chlorophyll",
+  "trans": [
+   "n. 叶绿素",
+   "词缀 chloro-：绿/氯"
+  ]
+ },
+ {
+  "name": "chloroplast",
+  "trans": [
+   "n. 叶绿体",
+   "词缀 chloro-：绿/氯"
+  ]
+ },
+ {
+  "name": "chloroform",
+  "trans": [
+   "n. 氯仿",
+   "词缀 chloro-：绿/氯"
+  ]
+ },
+ {
+  "name": "chlorophyte",
+  "trans": [
+   "n. 绿藻",
+   "词缀 chloro-：绿/氯"
+  ]
+ },
+ {
+  "name": "chlorination",
+  "trans": [
+   "n. 氯化",
+   "词缀 chloro-：绿/氯"
+  ]
+ },
+ {
+  "name": "chromatic",
+  "trans": [
+   "a. 色彩的",
+   "词缀 chrom-：颜色"
+  ]
+ },
+ {
+  "name": "chromosome",
+  "trans": [
+   "n. 染色体",
+   "词缀 chrom-：颜色"
+  ]
+ },
+ {
+  "name": "monochrome",
+  "trans": [
+   "a. 单色的",
+   "词缀 chrom-：颜色",
+   "词缀 mono-：单一"
+  ]
+ },
+ {
+  "name": "polychrome",
+  "trans": [
+   "a. 多色的",
+   "词缀 chrom-：颜色"
+  ]
+ },
+ {
+  "name": "chromosphere",
+  "trans": [
+   "n. 色球层",
+   "词缀 chrom-：颜色"
+  ]
+ },
+ {
+  "name": "chronological",
+  "trans": [
+   "a. 按时间顺序的",
+   "词缀 chron-：时间"
+  ]
+ },
+ {
+  "name": "chronic",
+  "trans": [
+   "a. 慢性的",
+   "词缀 chron-：时间"
+  ]
+ },
+ {
+  "name": "chronicle",
+  "trans": [
+   "n. 编年史",
+   "词缀 chron-：时间"
+  ]
+ },
+ {
+  "name": "synchronize",
+  "trans": [
+   "v. 同步",
+   "词缀 chron-：时间"
+  ]
+ },
+ {
+  "name": "circumstance",
+  "trans": [
+   "n. 环境",
+   "词缀 circum-：环绕/周围"
+  ]
+ },
+ {
+  "name": "circumference",
+  "trans": [
+   "n. 圆周",
+   "词缀 circum-：环绕/周围"
+  ]
+ },
+ {
+  "name": "circumnavigate",
+  "trans": [
+   "v. 环航",
+   "词缀 circum-：环绕/周围"
+  ]
+ },
+ {
+  "name": "circumvent",
+  "trans": [
+   "v. 规避",
+   "词缀 circum-：环绕/周围"
+  ]
+ },
+ {
+  "name": "circumscribe",
+  "trans": [
+   "v. 限制",
+   "词缀 circum-：环绕/周围"
+  ]
+ },
+ {
+  "name": "cooperate",
+  "trans": [
+   "v. 合作",
+   "词缀 co-/col-/com-/con-/cor-：共同/一起"
+  ]
+ },
+ {
+  "name": "collect",
+  "trans": [
+   "v. 收集",
+   "词缀 co-/col-/com-/con-/cor-：共同/一起"
+  ]
+ },
+ {
+  "name": "combine",
+  "trans": [
+   "v. 结合",
+   "词缀 co-/col-/com-/con-/cor-：共同/一起"
+  ]
+ },
+ {
+  "name": "connect",
+  "trans": [
+   "v. 连接",
+   "词缀 co-/col-/com-/con-/cor-：共同/一起"
+  ]
+ },
+ {
+  "name": "correct",
+  "trans": [
+   "v./a. 纠正/正确的",
+   "词缀 co-/col-/com-/con-/cor-：共同/一起"
+  ]
+ },
+ {
+  "name": "contradict",
+  "trans": [
+   "v. 反驳",
+   "词缀 contra-：反对/相反"
+  ]
+ },
+ {
+  "name": "contrast",
+  "trans": [
+   "n./v. 对比",
+   "词缀 contra-：反对/相反"
+  ]
+ },
+ {
+  "name": "contrary",
+  "trans": [
+   "a. 相反的",
+   "词缀 contra-：反对/相反"
+  ]
+ },
+ {
+  "name": "controversy",
+  "trans": [
+   "n. 争议",
+   "词缀 contra-：反对/相反"
+  ]
+ },
+ {
+  "name": "contraindication",
+  "trans": [
+   "n. 禁忌症",
+   "词缀 contra-：反对/相反"
+  ]
+ },
+ {
+  "name": "counterpart",
+  "trans": [
+   "n. 对应的人/物",
+   "词缀 counter-：反对/对应"
+  ]
+ },
+ {
+  "name": "counteract",
+  "trans": [
+   "v. 抵消",
+   "词缀 counter-：反对/对应"
+  ]
+ },
+ {
+  "name": "counterattack",
+  "trans": [
+   "n./v. 反击",
+   "词缀 counter-：反对/对应"
+  ]
+ },
+ {
+  "name": "counterfeit",
+  "trans": [
+   "a./v. 伪造的/伪造",
+   "词缀 counter-：反对/对应"
+  ]
+ },
+ {
+  "name": "counterbalance",
+  "trans": [
+   "n./v. 平衡",
+   "词缀 counter-：反对/对应"
+  ]
+ },
+ {
+  "name": "cranium",
+  "trans": [
+   "n. 颅骨",
+   "词缀 cranio-：头颅"
+  ]
+ },
+ {
+  "name": "craniology",
+  "trans": [
+   "n. 颅骨学",
+   "词缀 cranio-：头颅"
+  ]
+ },
+ {
+  "name": "craniotomy",
+  "trans": [
+   "n. 颅骨切开术",
+   "词缀 cranio-：头颅"
+  ]
+ },
+ {
+  "name": "craniofacial",
+  "trans": [
+   "a. 颅面的",
+   "词缀 cranio-：头颅"
+  ]
+ },
+ {
+  "name": "craniocerebral",
+  "trans": [
+   "a. 颅脑的",
+   "词缀 cranio-：头颅"
+  ]
+ },
+ {
+  "name": "cryptic",
+  "trans": [
+   "a. 神秘的",
+   "词缀 crypto-：隐藏/秘密"
+  ]
+ },
+ {
+  "name": "cryptography",
+  "trans": [
+   "n. 密码学",
+   "词缀 crypto-：隐藏/秘密"
+  ]
+ },
+ {
+  "name": "cryptogram",
+  "trans": [
+   "n. 密码文",
+   "词缀 crypto-：隐藏/秘密"
+  ]
+ },
+ {
+  "name": "cryptozoology",
+  "trans": [
+   "n. 神秘动物学",
+   "词缀 crypto-：隐藏/秘密"
+  ]
+ },
+ {
+  "name": "cryptocurrency",
+  "trans": [
+   "n. 加密货币",
+   "词缀 crypto-：隐藏/秘密"
+  ]
+ },
+ {
+  "name": "cyclone",
+  "trans": [
+   "n. 气旋",
+   "词缀 cyclo-：圆/环/周期"
+  ]
+ },
+ {
+  "name": "cyclotron",
+  "trans": [
+   "n. 回旋加速器",
+   "词缀 cyclo-：圆/环/周期"
+  ]
+ },
+ {
+  "name": "cyclopedia",
+  "trans": [
+   "n. 百科全书",
+   "词缀 cyclo-：圆/环/周期"
+  ]
+ },
+ {
+  "name": "motorcycle",
+  "trans": [
+   "n. 摩托车",
+   "词缀 cyclo-：圆/环/周期"
+  ]
+ },
+ {
+  "name": "depart",
+  "trans": [
+   "v. 离开",
+   "词缀 de-：离开/向下/否定"
+  ]
+ },
+ {
+  "name": "decrease",
+  "trans": [
+   "v./n. 减少",
+   "词缀 de-：离开/向下/否定"
+  ]
+ },
+ {
+  "name": "deforest",
+  "trans": [
+   "v. 砍伐森林",
+   "词缀 de-：离开/向下/否定"
+  ]
+ },
+ {
+  "name": "decode",
+  "trans": [
+   "v. 解码",
+   "词缀 de-：离开/向下/否定"
+  ]
+ },
+ {
+  "name": "degrade",
+  "trans": [
+   "v. 降级",
+   "词缀 de-：离开/向下/否定"
+  ]
+ },
+ {
+  "name": "decade",
+  "trans": [
+   "n. 十年",
+   "词缀 deca-：十"
+  ]
+ },
+ {
+  "name": "decathlon",
+  "trans": [
+   "n. 十项全能",
+   "词缀 deca-：十"
+  ]
+ },
+ {
+  "name": "decagon",
+  "trans": [
+   "n. 十边形",
+   "词缀 deca-：十"
+  ]
+ },
+ {
+  "name": "decalogue",
+  "trans": [
+   "n. 十诫",
+   "词缀 deca-：十"
+  ]
+ },
+ {
+  "name": "decameter",
+  "trans": [
+   "n. 十米",
+   "词缀 deca-：十"
+  ]
+ },
+ {
+  "name": "demigod",
+  "trans": [
+   "n. 半神半人",
+   "词缀 demi-：半"
+  ]
+ },
+ {
+  "name": "demitasse",
+  "trans": [
+   "n. 小咖啡杯",
+   "词缀 demi-：半"
+  ]
+ },
+ {
+  "name": "demimonde",
+  "trans": [
+   "n. 风流社会",
+   "词缀 demi-：半"
+  ]
+ },
+ {
+  "name": "demi-sec",
+  "trans": [
+   "a. 半干的",
+   "词缀 demi-：半"
+  ]
+ },
+ {
+  "name": "demi-pension",
+  "trans": [
+   "n. 半食宿",
+   "词缀 demi-：半"
+  ]
+ },
+ {
+  "name": "dermatology",
+  "trans": [
+   "n. 皮肤病学",
+   "词缀 derm-：皮肤",
+   "词缀 -ology：名词，表示\"...学\""
+  ]
+ },
+ {
+  "name": "epidermis",
+  "trans": [
+   "n. 表皮",
+   "词缀 derm-：皮肤",
+   "词缀 epi-：在...上/在...外"
+  ]
+ },
+ {
+  "name": "hypodermic",
+  "trans": [
+   "a. 皮下的",
+   "词缀 derm-：皮肤",
+   "词缀 hypo-：在...下/低于"
+  ]
+ },
+ {
+  "name": "dermatitis",
+  "trans": [
+   "n. 皮炎",
+   "词缀 derm-：皮肤",
+   "词缀 -itis：名词，表示\"炎症\""
+  ]
+ },
+ {
+  "name": "dermis",
+  "trans": [
+   "n. 真皮",
+   "词缀 derm-：皮肤"
+  ]
+ },
+ {
+  "name": "dioxide",
+  "trans": [
+   "n. 二氧化物",
+   "词缀 di-：二/两/分开"
+  ]
+ },
+ {
+  "name": "dialogue",
+  "trans": [
+   "n. 对话",
+   "词缀 di-：二/两/分开",
+   "词缀 dia-：通过/横过/分离"
+  ]
+ },
+ {
+  "name": "dilemma",
+  "trans": [
+   "n. 困境",
+   "词缀 di-：二/两/分开"
+  ]
+ },
+ {
+  "name": "diphthong",
+  "trans": [
+   "n. 双元音",
+   "词缀 di-：二/两/分开"
+  ]
+ },
+ {
+  "name": "divergent",
+  "trans": [
+   "a. 分叉的",
+   "词缀 di-：二/两/分开"
+  ]
+ },
+ {
+  "name": "diameter",
+  "trans": [
+   "n. 直径",
+   "词缀 dia-：通过/横过/分离"
+  ]
+ },
+ {
+  "name": "diagram",
+  "trans": [
+   "n. 图表",
+   "词缀 dia-：通过/横过/分离",
+   "词缀 -gram：名词，表示\"书写物/图\""
+  ]
+ },
+ {
+  "name": "diagonal",
+  "trans": [
+   "a./n. 对角的/对角线",
+   "词缀 dia-：通过/横过/分离"
+  ]
+ },
+ {
+  "name": "dialect",
+  "trans": [
+   "n. 方言",
+   "词缀 dia-：通过/横过/分离"
+  ]
+ },
+ {
+  "name": "dislike",
+  "trans": [
+   "v./n. 不喜欢",
+   "词缀 dis-：不/分开/否定"
+  ]
+ },
+ {
+  "name": "disappear",
+  "trans": [
+   "v. 消失",
+   "词缀 dis-：不/分开/否定"
+  ]
+ },
+ {
+  "name": "discover",
+  "trans": [
+   "v. 发现",
+   "词缀 dis-：不/分开/否定"
+  ]
+ },
+ {
+  "name": "disagree",
+  "trans": [
+   "v. 不同意",
+   "词缀 dis-：不/分开/否定"
+  ]
+ },
+ {
+  "name": "disconnect",
+  "trans": [
+   "v. 断开",
+   "词缀 dis-：不/分开/否定"
+  ]
+ },
+ {
+  "name": "dorsal",
+  "trans": [
+   "a. 背部的",
+   "词缀 dors-：背/背部"
+  ]
+ },
+ {
+  "name": "dorsum",
+  "trans": [
+   "n. 背部",
+   "词缀 dors-：背/背部"
+  ]
+ },
+ {
+  "name": "dorsiflexion",
+  "trans": [
+   "n. 背屈",
+   "词缀 dors-：背/背部"
+  ]
+ },
+ {
+  "name": "dorsoventral",
+  "trans": [
+   "a. 背腹的",
+   "词缀 dors-：背/背部"
+  ]
+ },
+ {
+  "name": "dorsolateral",
+  "trans": [
+   "a. 背外侧的",
+   "词缀 dors-：背/背部"
+  ]
+ },
+ {
+  "name": "dual",
+  "trans": [
+   "a. 双重的",
+   "词缀 du-/duo-：二/双"
+  ]
+ },
+ {
+  "name": "duet",
+  "trans": [
+   "n. 二重唱",
+   "词缀 du-/duo-：二/双"
+  ]
+ },
+ {
+  "name": "duplex",
+  "trans": [
+   "a./n. 双重的/复式公寓",
+   "词缀 du-/duo-：二/双"
+  ]
+ },
+ {
+  "name": "duplicate",
+  "trans": [
+   "v./a. 复制/复制的",
+   "词缀 du-/duo-：二/双"
+  ]
+ },
+ {
+  "name": "duplicity",
+  "trans": [
+   "n. 口是心非",
+   "词缀 du-/duo-：二/双"
+  ]
+ },
+ {
+  "name": "dysfunction",
+  "trans": [
+   "n. 功能障碍",
+   "词缀 dys-：不良/困难"
+  ]
+ },
+ {
+  "name": "dyslexia",
+  "trans": [
+   "n. 阅读障碍",
+   "词缀 dys-：不良/困难"
+  ]
+ },
+ {
+  "name": "dystopia",
+  "trans": [
+   "n. 反乌托邦",
+   "词缀 dys-：不良/困难"
+  ]
+ },
+ {
+  "name": "dyspepsia",
+  "trans": [
+   "n. 消化不良",
+   "词缀 dys-：不良/困难"
+  ]
+ },
+ {
+  "name": "dyspnea",
+  "trans": [
+   "n. 呼吸困难",
+   "词缀 dys-：不良/困难"
+  ]
+ },
+ {
+  "name": "exit",
+  "trans": [
+   "n./v. 出口/退出",
+   "词缀 e-/ef-：出/向外",
+   "词缀 ex-：出/向外/前任"
+  ]
+ },
+ {
+  "name": "effect",
+  "trans": [
+   "n. 效果",
+   "词缀 e-/ef-：出/向外"
+  ]
+ },
+ {
+  "name": "efficient",
+  "trans": [
+   "a. 高效的",
+   "词缀 e-/ef-：出/向外"
+  ]
+ },
+ {
+  "name": "emerge",
+  "trans": [
+   "v. 出现",
+   "词缀 e-/ef-：出/向外"
+  ]
+ },
+ {
+  "name": "eject",
+  "trans": [
+   "v. 弹出",
+   "词缀 e-/ef-：出/向外"
+  ]
+ },
+ {
+  "name": "eccentric",
+  "trans": [
+   "a. 古怪的",
+   "词缀 ec-：在外/向外"
+  ]
+ },
+ {
+  "name": "eclipse",
+  "trans": [
+   "n. 日食/月食",
+   "词缀 ec-：在外/向外"
+  ]
+ },
+ {
+  "name": "ecstasy",
+  "trans": [
+   "n. 狂喜",
+   "词缀 ec-：在外/向外"
+  ]
+ },
+ {
+  "name": "ectopic",
+  "trans": [
+   "a. 异位的",
+   "词缀 ec-：在外/向外",
+   "词缀 ecto-：外部/外"
+  ]
+ },
+ {
+  "name": "ecosystem",
+  "trans": [
+   "n. 生态系统",
+   "词缀 ec-：在外/向外",
+   "词缀 eco-：生态/环境"
+  ]
+ },
+ {
+  "name": "ecology",
+  "trans": [
+   "n. 生态学",
+   "词缀 eco-：生态/环境"
+  ]
+ },
+ {
+  "name": "ecotourism",
+  "trans": [
+   "n. 生态旅游",
+   "词缀 eco-：生态/环境"
+  ]
+ },
+ {
+  "name": "ecocide",
+  "trans": [
+   "n. 生态灭绝",
+   "词缀 eco-：生态/环境"
+  ]
+ },
+ {
+  "name": "ecophysiology",
+  "trans": [
+   "n. 生态生理学",
+   "词缀 eco-：生态/环境"
+  ]
+ },
+ {
+  "name": "ectoplasm",
+  "trans": [
+   "n. 外质",
+   "词缀 ecto-：外部/外"
+  ]
+ },
+ {
+  "name": "ectoderm",
+  "trans": [
+   "n. 外胚层",
+   "词缀 ecto-：外部/外"
+  ]
+ },
+ {
+  "name": "ectoparasite",
+  "trans": [
+   "n. 外寄生虫",
+   "词缀 ecto-：外部/外"
+  ]
+ },
+ {
+  "name": "ectomorph",
+  "trans": [
+   "n. 外胚层体型者",
+   "词缀 ecto-：外部/外"
+  ]
+ },
+ {
+  "name": "enjoy",
+  "trans": [
+   "v. 享受",
+   "词缀 en-/em-：使进入/置于内"
+  ]
+ },
+ {
+  "name": "enable",
+  "trans": [
+   "v. 使能够",
+   "词缀 en-/em-：使进入/置于内"
+  ]
+ },
+ {
+  "name": "enlarge",
+  "trans": [
+   "v. 扩大",
+   "词缀 en-/em-：使进入/置于内"
+  ]
+ },
+ {
+  "name": "empower",
+  "trans": [
+   "v. 授权",
+   "词缀 en-/em-：使进入/置于内"
+  ]
+ },
+ {
+  "name": "embrace",
+  "trans": [
+   "v. 拥抱",
+   "词缀 en-/em-：使进入/置于内"
+  ]
+ },
+ {
+  "name": "endocrine",
+  "trans": [
+   "a./n. 内分泌的/激素",
+   "词缀 endo-：内部"
+  ]
+ },
+ {
+  "name": "endoscopy",
+  "trans": [
+   "n. 内窥镜检查",
+   "词缀 endo-：内部"
+  ]
+ },
+ {
+  "name": "endoskeleton",
+  "trans": [
+   "n. 内骨骼",
+   "词缀 endo-：内部"
+  ]
+ },
+ {
+  "name": "endothermic",
+  "trans": [
+   "a. 吸热的",
+   "词缀 endo-：内部"
+  ]
+ },
+ {
+  "name": "endoplasm",
+  "trans": [
+   "n. 内质",
+   "词缀 endo-：内部"
+  ]
+ },
+ {
+  "name": "epidemic",
+  "trans": [
+   "n./a. 流行病/流行性的",
+   "a./n. 流行性的/流行病",
+   "词缀 epi-：在...上/在...外",
+   "词缀 -emic：形容词"
+  ]
+ },
+ {
+  "name": "episode",
+  "trans": [
+   "n. 片段",
+   "词缀 epi-：在...上/在...外"
+  ]
+ },
+ {
+  "name": "epilogue",
+  "trans": [
+   "n. 后记",
+   "词缀 epi-：在...上/在...外"
+  ]
+ },
+ {
+  "name": "epitaph",
+  "trans": [
+   "n. 墓志铭",
+   "词缀 epi-：在...上/在...外"
+  ]
+ },
+ {
+  "name": "equal",
+  "trans": [
+   "a. 相等的",
+   "词缀 equi-：相等/平等"
+  ]
+ },
+ {
+  "name": "equivalent",
+  "trans": [
+   "a. 等价的",
+   "词缀 equi-：相等/平等"
+  ]
+ },
+ {
+  "name": "equilibrium",
+  "trans": [
+   "n. 平衡",
+   "词缀 equi-：相等/平等"
+  ]
+ },
+ {
+  "name": "equilateral",
+  "trans": [
+   "a. 等边的",
+   "词缀 equi-：相等/平等"
+  ]
+ },
+ {
+  "name": "equinox",
+  "trans": [
+   "n. 昼夜平分点",
+   "词缀 equi-：相等/平等"
+  ]
+ },
+ {
+  "name": "ergonomics",
+  "trans": [
+   "n. 人体工程学",
+   "词缀 ergo-：工作/力"
+  ]
+ },
+ {
+  "name": "ergometer",
+  "trans": [
+   "n. 测力计",
+   "词缀 ergo-：工作/力"
+  ]
+ },
+ {
+  "name": "ergophobia",
+  "trans": [
+   "n. 工作恐惧症",
+   "词缀 ergo-：工作/力"
+  ]
+ },
+ {
+  "name": "ergosphere",
+  "trans": [
+   "n. 能层",
+   "词缀 ergo-：工作/力"
+  ]
+ },
+ {
+  "name": "ergocalciferol",
+  "trans": [
+   "n. 麦角钙化醇",
+   "词缀 ergo-：工作/力"
+  ]
+ },
+ {
+  "name": "ethnic",
+  "trans": [
+   "a. 种族的",
+   "词缀 ethno-：种族/民族"
+  ]
+ },
+ {
+  "name": "ethnology",
+  "trans": [
+   "n. 民族学",
+   "词缀 ethno-：种族/民族"
+  ]
+ },
+ {
+  "name": "ethnography",
+  "trans": [
+   "n. 人种志",
+   "词缀 ethno-：种族/民族"
+  ]
+ },
+ {
+  "name": "ethnocentrism",
+  "trans": [
+   "n. 民族中心主义",
+   "词缀 ethno-：种族/民族"
+  ]
+ },
+ {
+  "name": "ethnomusicology",
+  "trans": [
+   "n. 民族音乐学",
+   "词缀 ethno-：种族/民族"
+  ]
+ },
+ {
+  "name": "eulogy",
+  "trans": [
+   "n. 颂词",
+   "词缀 eu-：好/优"
+  ]
+ },
+ {
+  "name": "euphemism",
+  "trans": [
+   "n. 委婉语",
+   "词缀 eu-：好/优"
+  ]
+ },
+ {
+  "name": "euphoria",
+  "trans": [
+   "n. 欣快症",
+   "词缀 eu-：好/优"
+  ]
+ },
+ {
+  "name": "euthanasia",
+  "trans": [
+   "n. 安乐死",
+   "词缀 eu-：好/优"
+  ]
+ },
+ {
+  "name": "eugenics",
+  "trans": [
+   "n. 优生学",
+   "词缀 eu-：好/优"
+  ]
+ },
+ {
+  "name": "export",
+  "trans": [
+   "v./n. 出口",
+   "词缀 ex-：出/向外/前任"
+  ]
+ },
+ {
+  "name": "exclude",
+  "trans": [
+   "v. 排除",
+   "词缀 ex-：出/向外/前任"
+  ]
+ },
+ {
+  "name": "ex-wife",
+  "trans": [
+   "n. 前妻",
+   "词缀 ex-：出/向外/前任"
+  ]
+ },
+ {
+  "name": "expand",
+  "trans": [
+   "v. 扩张",
+   "词缀 ex-：出/向外/前任"
+  ]
+ },
+ {
+  "name": "extraordinary",
+  "trans": [
+   "a. 非凡的",
+   "词缀 extra-：以外/超过"
+  ]
+ },
+ {
+  "name": "extracurricular",
+  "trans": [
+   "a. 课外的",
+   "词缀 extra-：以外/超过"
+  ]
+ },
+ {
+  "name": "extraterrestrial",
+  "trans": [
+   "a. 地球外的",
+   "词缀 extra-：以外/超过"
+  ]
+ },
+ {
+  "name": "extrovert",
+  "trans": [
+   "n. 外向的人",
+   "词缀 extra-：以外/超过"
+  ]
+ },
+ {
+  "name": "extravagant",
+  "trans": [
+   "a. 奢侈的",
+   "词缀 extra-：以外/超过"
+  ]
+ },
+ {
+  "name": "ferrous",
+  "trans": [
+   "a. 铁的/亚铁的",
+   "词缀 ferro-：铁"
+  ]
+ },
+ {
+  "name": "ferromagnetic",
+  "trans": [
+   "a. 铁磁的",
+   "词缀 ferro-：铁"
+  ]
+ },
+ {
+  "name": "ferroalloy",
+  "trans": [
+   "n. 铁合金",
+   "词缀 ferro-：铁"
+  ]
+ },
+ {
+  "name": "ferroconcrete",
+  "trans": [
+   "n. 钢筋混凝土",
+   "词缀 ferro-：铁"
+  ]
+ },
+ {
+  "name": "ferroelectric",
+  "trans": [
+   "a. 铁电的",
+   "词缀 ferro-：铁"
+  ]
+ },
+ {
+  "name": "forehead",
+  "trans": [
+   "n. 前额",
+   "词缀 fore-：前/先/预"
+  ]
+ },
+ {
+  "name": "forecast",
+  "trans": [
+   "n./v. 预报",
+   "词缀 fore-：前/先/预"
+  ]
+ },
+ {
+  "name": "foresee",
+  "trans": [
+   "v. 预见",
+   "词缀 fore-：前/先/预"
+  ]
+ },
+ {
+  "name": "foreground",
+  "trans": [
+   "n. 前景",
+   "词缀 fore-：前/先/预"
+  ]
+ },
+ {
+  "name": "forearm",
+  "trans": [
+   "n. 前臂",
+   "词缀 fore-：前/先/预"
+  ]
+ },
+ {
+  "name": "gastric",
+  "trans": [
+   "a. 胃的",
+   "词缀 gastro-：胃/腹部"
+  ]
+ },
+ {
+  "name": "gastritis",
+  "trans": [
+   "n. 胃炎",
+   "词缀 gastro-：胃/腹部"
+  ]
+ },
+ {
+  "name": "gastroenterology",
+  "trans": [
+   "n. 胃肠病学",
+   "词缀 gastro-：胃/腹部"
+  ]
+ },
+ {
+  "name": "gastronomy",
+  "trans": [
+   "n. 美食学",
+   "词缀 gastro-：胃/腹部"
+  ]
+ },
+ {
+  "name": "gastropod",
+  "trans": [
+   "n. 腹足动物",
+   "词缀 gastro-：胃/腹部"
+  ]
+ },
+ {
+  "name": "geography",
+  "trans": [
+   "n. 地理学",
+   "词缀 geo-：地球/土地",
+   "词缀 -graphy：名词，表示\"书写法/学科\""
+  ]
+ },
+ {
+  "name": "geology",
+  "trans": [
+   "n. 地质学",
+   "词缀 geo-：地球/土地",
+   "词缀 -logy：名词，表示\"...学/论\""
+  ]
+ },
+ {
+  "name": "geometry",
+  "trans": [
+   "n. 几何学",
+   "词缀 geo-：地球/土地",
+   "词缀 -metry：名词，表示\"测量学/法\""
+  ]
+ },
+ {
+  "name": "geothermal",
+  "trans": [
+   "a. 地热的",
+   "词缀 geo-：地球/土地"
+  ]
+ },
+ {
+  "name": "geophysics",
+  "trans": [
+   "n. 地球物理学",
+   "词缀 geo-：地球/土地"
+  ]
+ },
+ {
+  "name": "glycogen",
+  "trans": [
+   "n. 糖原",
+   "词缀 glyco-：糖/葡萄糖"
+  ]
+ },
+ {
+  "name": "glycolysis",
+  "trans": [
+   "n. 糖酵解",
+   "词缀 glyco-：糖/葡萄糖"
+  ]
+ },
+ {
+  "name": "glycoprotein",
+  "trans": [
+   "n. 糖蛋白",
+   "词缀 glyco-：糖/葡萄糖"
+  ]
+ },
+ {
+  "name": "glycoside",
+  "trans": [
+   "n. 糖苷",
+   "词缀 glyco-：糖/葡萄糖"
+  ]
+ },
+ {
+  "name": "glycemic",
+  "trans": [
+   "a. 血糖的",
+   "词缀 glyco-：糖/葡萄糖",
+   "词缀 -emic：形容词"
+  ]
+ },
+ {
+  "name": "gynecology",
+  "trans": [
+   "n. 妇科学",
+   "词缀 gyn-：女性/雌"
+  ]
+ },
+ {
+  "name": "gynarchy",
+  "trans": [
+   "n. 女性政治",
+   "词缀 gyn-：女性/雌"
+  ]
+ },
+ {
+  "name": "misogyny",
+  "trans": [
+   "n. 厌女症",
+   "词缀 gyn-：女性/雌"
+  ]
+ },
+ {
+  "name": "philogyny",
+  "trans": [
+   "n. 喜爱女性",
+   "词缀 gyn-：女性/雌"
+  ]
+ },
+ {
+  "name": "hemisphere",
+  "trans": [
+   "n. 半球",
+   "词缀 hemi-：半"
+  ]
+ },
+ {
+  "name": "hemicycle",
+  "trans": [
+   "n. 半圆形",
+   "词缀 hemi-：半"
+  ]
+ },
+ {
+  "name": "hemiplegia",
+  "trans": [
+   "n. 半身不遂",
+   "词缀 hemi-：半"
+  ]
+ },
+ {
+  "name": "hemiptera",
+  "trans": [
+   "n. 半翅目",
+   "词缀 hemi-：半"
+  ]
+ },
+ {
+  "name": "hemicrania",
+  "trans": [
+   "n. 偏头痛",
+   "词缀 hemi-：半"
+  ]
+ },
+ {
+  "name": "hemoglobin",
+  "trans": [
+   "n. 血红蛋白",
+   "词缀 hemo-：血"
+  ]
+ },
+ {
+  "name": "hemophilia",
+  "trans": [
+   "n. 血友病",
+   "词缀 hemo-：血"
+  ]
+ },
+ {
+  "name": "hemorrhage",
+  "trans": [
+   "n. 出血",
+   "词缀 hemo-：血"
+  ]
+ },
+ {
+  "name": "hemodialysis",
+  "trans": [
+   "n. 血液透析",
+   "词缀 hemo-：血"
+  ]
+ },
+ {
+  "name": "hepatitis",
+  "trans": [
+   "n. 肝炎",
+   "词缀 hemo-：血",
+   "词缀 -itis：名词，表示\"炎症\""
+  ]
+ },
+ {
+  "name": "heptagon",
+  "trans": [
+   "n. 七边形",
+   "词缀 hepta-：七"
+  ]
+ },
+ {
+  "name": "heptameter",
+  "trans": [
+   "n. 七步格",
+   "词缀 hepta-：七"
+  ]
+ },
+ {
+  "name": "heptathlon",
+  "trans": [
+   "n. 七项全能",
+   "词缀 hepta-：七"
+  ]
+ },
+ {
+  "name": "heptane",
+  "trans": [
+   "n. 庚烷",
+   "词缀 hepta-：七"
+  ]
+ },
+ {
+  "name": "heptarchy",
+  "trans": [
+   "n. 七头政治",
+   "词缀 hepta-：七"
+  ]
+ },
+ {
+  "name": "heterosexual",
+  "trans": [
+   "a. 异性恋的",
+   "词缀 hetero-：异/不同"
+  ]
+ },
+ {
+  "name": "heterogeneous",
+  "trans": [
+   "a. 异质的",
+   "词缀 hetero-：异/不同"
+  ]
+ },
+ {
+  "name": "heterodox",
+  "trans": [
+   "a. 异端的",
+   "词缀 hetero-：异/不同"
+  ]
+ },
+ {
+  "name": "heteronym",
+  "trans": [
+   "n. 同形异音词",
+   "词缀 hetero-：异/不同"
+  ]
+ },
+ {
+  "name": "heterochromia",
+  "trans": [
+   "n. 异色症",
+   "词缀 hetero-：异/不同"
+  ]
+ },
+ {
+  "name": "hexagon",
+  "trans": [
+   "n. 六边形",
+   "词缀 hexa-：六"
+  ]
+ },
+ {
+  "name": "hexameter",
+  "trans": [
+   "n. 六步格",
+   "词缀 hexa-：六"
+  ]
+ },
+ {
+  "name": "hexapod",
+  "trans": [
+   "n. 六足动物",
+   "词缀 hexa-：六"
+  ]
+ },
+ {
+  "name": "hexahedron",
+  "trans": [
+   "n. 六面体",
+   "词缀 hexa-：六",
+   "词缀 -hedron：名词，表示\"...面体\""
+  ]
+ },
+ {
+  "name": "hexachord",
+  "trans": [
+   "n. 六声音阶",
+   "词缀 hexa-：六"
+  ]
+ },
+ {
+  "name": "histology",
+  "trans": [
+   "n. 组织学",
+   "词缀 histo-：组织"
+  ]
+ },
+ {
+  "name": "histamine",
+  "trans": [
+   "n. 组胺",
+   "词缀 histo-：组织"
+  ]
+ },
+ {
+  "name": "histochemistry",
+  "trans": [
+   "n. 组织化学",
+   "词缀 histo-：组织"
+  ]
+ },
+ {
+  "name": "histogenesis",
+  "trans": [
+   "n. 组织发生",
+   "词缀 histo-：组织"
+  ]
+ },
+ {
+  "name": "histopathology",
+  "trans": [
+   "n. 组织病理学",
+   "词缀 histo-：组织"
+  ]
+ },
+ {
+  "name": "homosexual",
+  "trans": [
+   "a. 同性恋的",
+   "词缀 homo-：同/相同"
+  ]
+ },
+ {
+  "name": "homogeneous",
+  "trans": [
+   "a. 同质的",
+   "词缀 homo-：同/相同"
+  ]
+ },
+ {
+  "name": "homonym",
+  "trans": [
+   "n. 同音异义词",
+   "词缀 homo-：同/相同"
+  ]
+ },
+ {
+  "name": "homogenize",
+  "trans": [
+   "v. 使均匀",
+   "词缀 homo-：同/相同"
+  ]
+ },
+ {
+  "name": "homocentric",
+  "trans": [
+   "a. 同心的",
+   "词缀 homo-：同/相同"
+  ]
+ },
+ {
+  "name": "hydroelectric",
+  "trans": [
+   "a. 水力发电的",
+   "词缀 hydro-：水/氢"
+  ]
+ },
+ {
+  "name": "hydrogen",
+  "trans": [
+   "n. 氢",
+   "词缀 hydro-：水/氢"
+  ]
+ },
+ {
+  "name": "hydrotherapy",
+  "trans": [
+   "n. 水疗法",
+   "词缀 hydro-：水/氢"
+  ]
+ },
+ {
+  "name": "hydrodynamics",
+  "trans": [
+   "n. 流体动力学",
+   "词缀 hydro-：水/氢"
+  ]
+ },
+ {
+  "name": "hydroponics",
+  "trans": [
+   "n. 水培法",
+   "词缀 hydro-：水/氢"
+  ]
+ },
+ {
+  "name": "hyperactive",
+  "trans": [
+   "a. 过度活跃的",
+   "词缀 hyper-：超过/过多"
+  ]
+ },
+ {
+  "name": "hypermarket",
+  "trans": [
+   "n. 大型超市",
+   "词缀 hyper-：超过/过多"
+  ]
+ },
+ {
+  "name": "hypertension",
+  "trans": [
+   "n. 高血压",
+   "词缀 hyper-：超过/过多"
+  ]
+ },
+ {
+  "name": "hyperbole",
+  "trans": [
+   "n. 夸张法",
+   "词缀 hyper-：超过/过多"
+  ]
+ },
+ {
+  "name": "hypersensitive",
+  "trans": [
+   "a. 过敏的",
+   "词缀 hyper-：超过/过多"
+  ]
+ },
+ {
+  "name": "hypothesis",
+  "trans": [
+   "n. 假设",
+   "词缀 hypo-：在...下/低于"
+  ]
+ },
+ {
+  "name": "hypothermia",
+  "trans": [
+   "n. 体温过低",
+   "词缀 hypo-：在...下/低于"
+  ]
+ },
+ {
+  "name": "hypoglycemia",
+  "trans": [
+   "n. 低血糖",
+   "词缀 hypo-：在...下/低于"
+  ]
+ },
+ {
+  "name": "hypotenuse",
+  "trans": [
+   "n. 斜边",
+   "词缀 hypo-：在...下/低于"
+  ]
+ },
+ {
+  "name": "icon",
+  "trans": [
+   "n. 图标/偶像",
+   "词缀 icono-：图像/偶像"
+  ]
+ },
+ {
+  "name": "iconic",
+  "trans": [
+   "a. 标志性的",
+   "词缀 icono-：图像/偶像"
+  ]
+ },
+ {
+  "name": "iconoclast",
+  "trans": [
+   "n. 打破传统者",
+   "词缀 icono-：图像/偶像",
+   "词缀 -ast：名词，表示\"人\""
+  ]
+ },
+ {
+  "name": "iconography",
+  "trans": [
+   "n. 图像学",
+   "词缀 icono-：图像/偶像"
+  ]
+ },
+ {
+  "name": "iconolatry",
+  "trans": [
+   "n. 偶像崇拜",
+   "词缀 icono-：图像/偶像"
+  ]
+ },
+ {
+  "name": "idiosyncrasy",
+  "trans": [
+   "n. 特质",
+   "词缀 idio-：个人的/独特的"
+  ]
+ },
+ {
+  "name": "idiom",
+  "trans": [
+   "n. 习语",
+   "词缀 idio-：个人的/独特的"
+  ]
+ },
+ {
+  "name": "idiot",
+  "trans": [
+   "n. 白痴",
+   "词缀 idio-：个人的/独特的"
+  ]
+ },
+ {
+  "name": "idiolect",
+  "trans": [
+   "n. 个人语言",
+   "词缀 idio-：个人的/独特的"
+  ]
+ },
+ {
+  "name": "idiopathic",
+  "trans": [
+   "a. 特发性的",
+   "词缀 idio-：个人的/独特的"
+  ]
+ },
+ {
+  "name": "illegal",
+  "trans": [
+   "a. 非法的",
+   "词缀 il-/im-/in-/ir-：不/无/向内"
+  ]
+ },
+ {
+  "name": "impossible",
+  "trans": [
+   "a. 不可能的",
+   "词缀 il-/im-/in-/ir-：不/无/向内"
+  ]
+ },
+ {
+  "name": "inactive",
+  "trans": [
+   "a. 不活跃的",
+   "词缀 il-/im-/in-/ir-：不/无/向内"
+  ]
+ },
+ {
+  "name": "irregular",
+  "trans": [
+   "a. 不规则的",
+   "词缀 il-/im-/in-/ir-：不/无/向内"
+  ]
+ },
+ {
+  "name": "import",
+  "trans": [
+   "v./n. 进口",
+   "词缀 il-/im-/in-/ir-：不/无/向内"
+  ]
+ },
+ {
+  "name": "immune",
+  "trans": [
+   "a. 免疫的",
+   "词缀 immuno-：免疫"
+  ]
+ },
+ {
+  "name": "immunology",
+  "trans": [
+   "n. 免疫学",
+   "词缀 immuno-：免疫"
+  ]
+ },
+ {
+  "name": "immunodeficiency",
+  "trans": [
+   "n. 免疫缺陷",
+   "词缀 immuno-：免疫"
+  ]
+ },
+ {
+  "name": "immunoglobulin",
+  "trans": [
+   "n. 免疫球蛋白",
+   "词缀 immuno-：免疫"
+  ]
+ },
+ {
+  "name": "immunosuppressant",
+  "trans": [
+   "n. 免疫抑制剂",
+   "词缀 immuno-：免疫"
+  ]
+ },
+ {
+  "name": "infrastructure",
+  "trans": [
+   "n. 基础设施",
+   "词缀 infra-：在下/低于"
+  ]
+ },
+ {
+  "name": "infrared",
+  "trans": [
+   "a. 红外线的",
+   "词缀 infra-：在下/低于"
+  ]
+ },
+ {
+  "name": "infrasonic",
+  "trans": [
+   "a. 次声的",
+   "词缀 infra-：在下/低于"
+  ]
+ },
+ {
+  "name": "infrasound",
+  "trans": [
+   "n. 次声",
+   "词缀 infra-：在下/低于"
+  ]
+ },
+ {
+  "name": "infrahuman",
+  "trans": [
+   "a. 低于人类的",
+   "词缀 infra-：在下/低于"
+  ]
+ },
+ {
+  "name": "international",
+  "trans": [
+   "a. 国际的",
+   "词缀 inter-：在...之间/相互"
+  ]
+ },
+ {
+  "name": "internet",
+  "trans": [
+   "n. 互联网",
+   "词缀 inter-：在...之间/相互"
+  ]
+ },
+ {
+  "name": "interact",
+  "trans": [
+   "v. 互动",
+   "词缀 inter-：在...之间/相互"
+  ]
+ },
+ {
+  "name": "interview",
+  "trans": [
+   "n./v. 面试/采访",
+   "词缀 inter-：在...之间/相互"
+  ]
+ },
+ {
+  "name": "interrupt",
+  "trans": [
+   "v. 打断",
+   "词缀 inter-：在...之间/相互"
+  ]
+ },
+ {
+  "name": "intravenous",
+  "trans": [
+   "a. 静脉内的",
+   "词缀 intra-：在内/内部"
+  ]
+ },
+ {
+  "name": "intramural",
+  "trans": [
+   "a. 校内的",
+   "词缀 intra-：在内/内部"
+  ]
+ },
+ {
+  "name": "intranet",
+  "trans": [
+   "n. 内联网",
+   "词缀 intra-：在内/内部"
+  ]
+ },
+ {
+  "name": "intracellular",
+  "trans": [
+   "a. 细胞内的",
+   "词缀 intra-：在内/内部"
+  ]
+ },
+ {
+  "name": "intrauterine",
+  "trans": [
+   "a. 子宫内的",
+   "词缀 intra-：在内/内部"
+  ]
+ },
+ {
+  "name": "introduce",
+  "trans": [
+   "v. 介绍",
+   "词缀 intro-：向内/入内"
+  ]
+ },
+ {
+  "name": "introvert",
+  "trans": [
+   "n. 内向的人",
+   "词缀 intro-：向内/入内"
+  ]
+ },
+ {
+  "name": "introspection",
+  "trans": [
+   "n. 内省",
+   "词缀 intro-：向内/入内"
+  ]
+ },
+ {
+  "name": "introjection",
+  "trans": [
+   "n. 内射",
+   "词缀 intro-：向内/入内"
+  ]
+ },
+ {
+  "name": "intromission",
+  "trans": [
+   "n. 插入",
+   "词缀 intro-：向内/入内"
+  ]
+ },
+ {
+  "name": "isothermal",
+  "trans": [
+   "a. 等温的",
+   "词缀 iso-：相同/相等"
+  ]
+ },
+ {
+  "name": "isometric",
+  "trans": [
+   "a. 等距的",
+   "词缀 iso-：相同/相等"
+  ]
+ },
+ {
+  "name": "isomorphic",
+  "trans": [
+   "a. 同形的",
+   "词缀 iso-：相同/相等"
+  ]
+ },
+ {
+  "name": "isotope",
+  "trans": [
+   "n. 同位素",
+   "词缀 iso-：相同/相等"
+  ]
+ },
+ {
+  "name": "isosceles",
+  "trans": [
+   "a. 等腰的",
+   "词缀 iso-：相同/相等"
+  ]
+ },
+ {
+  "name": "kilogram",
+  "trans": [
+   "n. 千克",
+   "词缀 kilo-：千"
+  ]
+ },
+ {
+  "name": "kilometer",
+  "trans": [
+   "n. 千米",
+   "词缀 kilo-：千"
+  ]
+ },
+ {
+  "name": "kilowatt",
+  "trans": [
+   "n. 千瓦",
+   "词缀 kilo-：千"
+  ]
+ },
+ {
+  "name": "kilobyte",
+  "trans": [
+   "n. 千字节",
+   "词缀 kilo-：千"
+  ]
+ },
+ {
+  "name": "kilohertz",
+  "trans": [
+   "n. 千赫",
+   "词缀 kilo-：千"
+  ]
+ },
+ {
+  "name": "macroeconomics",
+  "trans": [
+   "n. 宏观经济学",
+   "词缀 macro-：大/宏观/长"
+  ]
+ },
+ {
+  "name": "macroscope",
+  "trans": [
+   "n. 宏观观察仪",
+   "词缀 macro-：大/宏观/长"
+  ]
+ },
+ {
+  "name": "macrocosm",
+  "trans": [
+   "n. 宏观世界",
+   "词缀 macro-：大/宏观/长"
+  ]
+ },
+ {
+  "name": "macrobiotic",
+  "trans": [
+   "a. 长寿饮食法的",
+   "词缀 macro-：大/宏观/长"
+  ]
+ },
+ {
+  "name": "macroclimate",
+  "trans": [
+   "n. 大气候",
+   "词缀 macro-：大/宏观/长"
+  ]
+ },
+ {
+  "name": "malnutrition",
+  "trans": [
+   "n. 营养不良",
+   "词缀 mal-：坏/恶/不良"
+  ]
+ },
+ {
+  "name": "malfunction",
+  "trans": [
+   "n./v. 故障",
+   "词缀 mal-：坏/恶/不良"
+  ]
+ },
+ {
+  "name": "malice",
+  "trans": [
+   "n. 恶意",
+   "词缀 mal-：坏/恶/不良"
+  ]
+ },
+ {
+  "name": "malicious",
+  "trans": [
+   "a. 恶意的",
+   "词缀 mal-：坏/恶/不良"
+  ]
+ },
+ {
+  "name": "malady",
+  "trans": [
+   "n. 疾病",
+   "词缀 mal-：坏/恶/不良"
+  ]
+ },
+ {
+  "name": "megaphone",
+  "trans": [
+   "n. 扩音器",
+   "词缀 mega-：大/百万"
+  ]
+ },
+ {
+  "name": "megalopolis",
+  "trans": [
+   "n. 特大城市",
+   "词缀 mega-：大/百万"
+  ]
+ },
+ {
+  "name": "megabyte",
+  "trans": [
+   "n. 兆字节",
+   "词缀 mega-：大/百万"
+  ]
+ },
+ {
+  "name": "megastar",
+  "trans": [
+   "n. 巨星",
+   "词缀 mega-：大/百万"
+  ]
+ },
+ {
+  "name": "megaton",
+  "trans": [
+   "n. 百万吨级",
+   "词缀 mega-：大/百万"
+  ]
+ },
+ {
+  "name": "mesopotamia",
+  "trans": [
+   "n. 美索不达米亚",
+   "词缀 meso-：中间"
+  ]
+ },
+ {
+  "name": "mesosphere",
+  "trans": [
+   "n. 中间层",
+   "词缀 meso-：中间"
+  ]
+ },
+ {
+  "name": "mesoderm",
+  "trans": [
+   "n. 中胚层",
+   "词缀 meso-：中间"
+  ]
+ },
+ {
+  "name": "meson",
+  "trans": [
+   "n. 介子",
+   "词缀 meso-：中间"
+  ]
+ },
+ {
+  "name": "mesolithic",
+  "trans": [
+   "a. 中石器时代的",
+   "词缀 meso-：中间"
+  ]
+ },
+ {
+  "name": "metaphor",
+  "trans": [
+   "n. 隐喻",
+   "词缀 meta-：变化/超越/在...后"
+  ]
+ },
+ {
+  "name": "metamorphosis",
+  "trans": [
+   "n. 变形",
+   "词缀 meta-：变化/超越/在...后"
+  ]
+ },
+ {
+  "name": "metabolism",
+  "trans": [
+   "n. 新陈代谢",
+   "词缀 meta-：变化/超越/在...后"
+  ]
+ },
+ {
+  "name": "metaphysics",
+  "trans": [
+   "n. 形而上学",
+   "词缀 meta-：变化/超越/在...后"
+  ]
+ },
+ {
+  "name": "metadata",
+  "trans": [
+   "n. 元数据",
+   "词缀 meta-：变化/超越/在...后"
+  ]
+ },
+ {
+  "name": "meteorology",
+  "trans": [
+   "n. 气象学",
+   "词缀 meteor-：大气/流星",
+   "词缀 -logy：名词，表示\"...学/论\""
+  ]
+ },
+ {
+  "name": "meteor",
+  "trans": [
+   "n. 流星",
+   "词缀 meteor-：大气/流星"
+  ]
+ },
+ {
+  "name": "meteorite",
+  "trans": [
+   "n. 陨石",
+   "词缀 meteor-：大气/流星"
+  ]
+ },
+ {
+  "name": "meteoroid",
+  "trans": [
+   "n. 流星体",
+   "词缀 meteor-：大气/流星"
+  ]
+ },
+ {
+  "name": "meteorological",
+  "trans": [
+   "a. 气象学的",
+   "词缀 meteor-：大气/流星"
+  ]
+ },
+ {
+  "name": "microscope",
+  "trans": [
+   "n. 显微镜",
+   "词缀 micro-：微/小/微观"
+  ]
+ },
+ {
+  "name": "microwave",
+  "trans": [
+   "n. 微波",
+   "词缀 micro-：微/小/微观"
+  ]
+ },
+ {
+  "name": "microorganism",
+  "trans": [
+   "n. 微生物",
+   "词缀 micro-：微/小/微观"
+  ]
+ },
+ {
+  "name": "microchip",
+  "trans": [
+   "n. 微芯片",
+   "词缀 micro-：微/小/微观"
+  ]
+ },
+ {
+  "name": "microcosm",
+  "trans": [
+   "n. 微观世界",
+   "词缀 micro-：微/小/微观"
+  ]
+ },
+ {
+  "name": "midnight",
+  "trans": [
+   "n. 午夜",
+   "词缀 mid-：中间"
+  ]
+ },
+ {
+  "name": "midday",
+  "trans": [
+   "n. 正午",
+   "词缀 mid-：中间"
+  ]
+ },
+ {
+  "name": "midterm",
+  "trans": [
+   "n. 期中",
+   "词缀 mid-：中间"
+  ]
+ },
+ {
+  "name": "midway",
+  "trans": [
+   "n./ad. 中途/中途地",
+   "词缀 mid-：中间"
+  ]
+ },
+ {
+  "name": "midlife",
+  "trans": [
+   "n. 中年",
+   "词缀 mid-：中间"
+  ]
+ },
+ {
+  "name": "millimeter",
+  "trans": [
+   "n. 毫米",
+   "词缀 milli-：千/千分之一"
+  ]
+ },
+ {
+  "name": "milligram",
+  "trans": [
+   "n. 毫克",
+   "词缀 milli-：千/千分之一"
+  ]
+ },
+ {
+  "name": "milliliter",
+  "trans": [
+   "n. 毫升",
+   "词缀 milli-：千/千分之一"
+  ]
+ },
+ {
+  "name": "millennium",
+  "trans": [
+   "n. 千年",
+   "词缀 milli-：千/千分之一"
+  ]
+ },
+ {
+  "name": "millipede",
+  "trans": [
+   "n. 千足虫",
+   "词缀 milli-：千/千分之一"
+  ]
+ },
+ {
+  "name": "minibus",
+  "trans": [
+   "n. 小型公共汽车",
+   "词缀 mini-：小"
+  ]
+ },
+ {
+  "name": "miniskirt",
+  "trans": [
+   "n. 迷你裙",
+   "词缀 mini-：小"
+  ]
+ },
+ {
+  "name": "miniature",
+  "trans": [
+   "n. 微型画/微型模型",
+   "词缀 mini-：小"
+  ]
+ },
+ {
+  "name": "minimum",
+  "trans": [
+   "n./a. 最小量/最小的",
+   "词缀 mini-：小"
+  ]
+ },
+ {
+  "name": "minimize",
+  "trans": [
+   "v. 最小化",
+   "词缀 mini-：小"
+  ]
+ },
+ {
+  "name": "mistake",
+  "trans": [
+   "n./v. 错误/弄错",
+   "词缀 mis-：错/坏/不利"
+  ]
+ },
+ {
+  "name": "misunderstand",
+  "trans": [
+   "v. 误解",
+   "词缀 mis-：错/坏/不利"
+  ]
+ },
+ {
+  "name": "mislead",
+  "trans": [
+   "v. 误导",
+   "词缀 mis-：错/坏/不利"
+  ]
+ },
+ {
+  "name": "misfortune",
+  "trans": [
+   "n. 不幸",
+   "词缀 mis-：错/坏/不利"
+  ]
+ },
+ {
+  "name": "misuse",
+  "trans": [
+   "v./n. 误用",
+   "词缀 mis-：错/坏/不利"
+  ]
+ },
+ {
+  "name": "monopoly",
+  "trans": [
+   "n. 垄断",
+   "词缀 mono-：单一"
+  ]
+ },
+ {
+  "name": "monologue",
+  "trans": [
+   "n. 独白",
+   "词缀 mono-：单一"
+  ]
+ },
+ {
+  "name": "monotonous",
+  "trans": [
+   "a. 单调的",
+   "词缀 mono-：单一"
+  ]
+ },
+ {
+  "name": "monorail",
+  "trans": [
+   "n. 单轨铁路",
+   "词缀 mono-：单一"
+  ]
+ },
+ {
+  "name": "multimedia",
+  "trans": [
+   "n. 多媒体",
+   "词缀 multi-：多"
+  ]
+ },
+ {
+  "name": "multiple",
+  "trans": [
+   "a. 多个的",
+   "词缀 multi-：多"
+  ]
+ },
+ {
+  "name": "multinational",
+  "trans": [
+   "a. 跨国的",
+   "词缀 multi-：多"
+  ]
+ },
+ {
+  "name": "multicultural",
+  "trans": [
+   "a. 多元文化的",
+   "词缀 multi-：多"
+  ]
+ },
+ {
+  "name": "multipurpose",
+  "trans": [
+   "a. 多用途的",
+   "词缀 multi-：多"
+  ]
+ },
+ {
+  "name": "nanotechnology",
+  "trans": [
+   "n. 纳米技术",
+   "词缀 nano-：纳/十亿分之一/极小"
+  ]
+ },
+ {
+  "name": "nanometer",
+  "trans": [
+   "n. 纳米",
+   "词缀 nano-：纳/十亿分之一/极小"
+  ]
+ },
+ {
+  "name": "nanosecond",
+  "trans": [
+   "n. 纳秒",
+   "词缀 nano-：纳/十亿分之一/极小"
+  ]
+ },
+ {
+  "name": "nanobot",
+  "trans": [
+   "n. 纳米机器人",
+   "词缀 nano-：纳/十亿分之一/极小"
+  ]
+ },
+ {
+  "name": "nanoscale",
+  "trans": [
+   "n. 纳米尺度",
+   "词缀 nano-：纳/十亿分之一/极小"
+  ]
+ },
+ {
+  "name": "narcotic",
+  "trans": [
+   "n. 麻醉剂",
+   "词缀 narco-：麻木/麻醉"
+  ]
+ },
+ {
+  "name": "narcolepsy",
+  "trans": [
+   "n. 发作性睡病",
+   "词缀 narco-：麻木/麻醉"
+  ]
+ },
+ {
+  "name": "narcoterrorism",
+  "trans": [
+   "n. 毒品恐怖主义",
+   "词缀 narco-：麻木/麻醉"
+  ]
+ },
+ {
+  "name": "narcotherapy",
+  "trans": [
+   "n. 麻醉疗法",
+   "词缀 narco-：麻木/麻醉"
+  ]
+ },
+ {
+  "name": "narcosis",
+  "trans": [
+   "n. 麻醉状态",
+   "词缀 narco-：麻木/麻醉"
+  ]
+ },
+ {
+  "name": "neonatal",
+  "trans": [
+   "a. 新生儿的",
+   "词缀 neo-：新"
+  ]
+ },
+ {
+  "name": "neoclassical",
+  "trans": [
+   "a. 新古典主义的",
+   "词缀 neo-：新"
+  ]
+ },
+ {
+  "name": "neologism",
+  "trans": [
+   "n. 新词",
+   "词缀 neo-：新"
+  ]
+ },
+ {
+  "name": "neophyte",
+  "trans": [
+   "n. 新手",
+   "词缀 neo-：新"
+  ]
+ },
+ {
+  "name": "neolithic",
+  "trans": [
+   "a. 新石器时代的",
+   "词缀 neo-：新"
+  ]
+ },
+ {
+  "name": "nephrology",
+  "trans": [
+   "n. 肾脏病学",
+   "词缀 nephro-：肾脏"
+  ]
+ },
+ {
+  "name": "nephritis",
+  "trans": [
+   "n. 肾炎",
+   "词缀 nephro-：肾脏"
+  ]
+ },
+ {
+  "name": "nephron",
+  "trans": [
+   "n. 肾单位",
+   "词缀 nephro-：肾脏"
+  ]
+ },
+ {
+  "name": "nephrectomy",
+  "trans": [
+   "n. 肾切除术",
+   "词缀 nephro-：肾脏"
+  ]
+ },
+ {
+  "name": "nephropathy",
+  "trans": [
+   "n. 肾病",
+   "词缀 nephro-：肾脏"
+  ]
+ },
+ {
+  "name": "neurology",
+  "trans": [
+   "n. 神经学",
+   "词缀 neuro-：神经",
+   "词缀 -ology：名词，表示\"...学\""
+  ]
+ },
+ {
+  "name": "neuron",
+  "trans": [
+   "n. 神经元",
+   "词缀 neuro-：神经"
+  ]
+ },
+ {
+  "name": "neurosis",
+  "trans": [
+   "n. 神经官能症",
+   "词缀 neuro-：神经",
+   "词缀 -osis：名词，表示\"状态/病变\""
+  ]
+ },
+ {
+  "name": "neurotransmitter",
+  "trans": [
+   "n. 神经递质",
+   "词缀 neuro-：神经"
+  ]
+ },
+ {
+  "name": "neurosurgery",
+  "trans": [
+   "n. 神经外科",
+   "词缀 neuro-：神经"
+  ]
+ },
+ {
+  "name": "nonsense",
+  "trans": [
+   "n. 胡说",
+   "词缀 non-：不/非/无"
+  ]
+ },
+ {
+  "name": "nonstop",
+  "trans": [
+   "a./ad. 直达的/地",
+   "词缀 non-：不/非/无"
+  ]
+ },
+ {
+  "name": "nonprofit",
+  "trans": [
+   "a. 非营利的",
+   "词缀 non-：不/非/无"
+  ]
+ },
+ {
+  "name": "nonviolent",
+  "trans": [
+   "a. 非暴力的",
+   "词缀 non-：不/非/无"
+  ]
+ },
+ {
+  "name": "nonfiction",
+  "trans": [
+   "n. 非小说类文学作品",
+   "词缀 non-：不/非/无"
+  ]
+ },
+ {
+  "name": "object",
+  "trans": [
+   "n./v. 物体/反对",
+   "词缀 ob-：逆/反/加强"
+  ]
+ },
+ {
+  "name": "obstacle",
+  "trans": [
+   "n. 障碍",
+   "词缀 ob-：逆/反/加强",
+   "词缀 -cle：名词，表示\"小\""
+  ]
+ },
+ {
+  "name": "obtain",
+  "trans": [
+   "v. 获得",
+   "词缀 ob-：逆/反/加强"
+  ]
+ },
+ {
+  "name": "oblige",
+  "trans": [
+   "v. 迫使",
+   "词缀 ob-：逆/反/加强"
+  ]
+ },
+ {
+  "name": "obscure",
+  "trans": [
+   "a. 模糊的",
+   "词缀 ob-：逆/反/加强"
+  ]
+ },
+ {
+  "name": "octagon",
+  "trans": [
+   "n. 八边形",
+   "词缀 octa-/octo-：八"
+  ]
+ },
+ {
+  "name": "octopus",
+  "trans": [
+   "n. 章鱼",
+   "词缀 octa-/octo-：八"
+  ]
+ },
+ {
+  "name": "octave",
+  "trans": [
+   "n. 八度音阶",
+   "词缀 octa-/octo-：八"
+  ]
+ },
+ {
+  "name": "octogenarian",
+  "trans": [
+   "n. 八十多岁的人",
+   "词缀 octa-/octo-：八"
+  ]
+ },
+ {
+  "name": "octahedron",
+  "trans": [
+   "n. 八面体",
+   "词缀 octa-/octo-：八",
+   "词缀 -hedron：名词，表示\"...面体\""
+  ]
+ },
+ {
+  "name": "omnipotent",
+  "trans": [
+   "a. 全能的",
+   "词缀 omni-：全/总"
+  ]
+ },
+ {
+  "name": "omnipresent",
+  "trans": [
+   "a. 无所不在的",
+   "词缀 omni-：全/总"
+  ]
+ },
+ {
+  "name": "omniscient",
+  "trans": [
+   "a. 全知的",
+   "词缀 omni-：全/总"
+  ]
+ },
+ {
+  "name": "omnivore",
+  "trans": [
+   "n. 杂食动物",
+   "词缀 omni-：全/总"
+  ]
+ },
+ {
+  "name": "omnibus",
+  "trans": [
+   "n. 选集/公共汽车",
+   "词缀 omni-：全/总"
+  ]
+ },
+ {
+  "name": "ophthalmology",
+  "trans": [
+   "n. 眼科学",
+   "词缀 ophthalmo-：眼睛",
+   "词缀 -ology：名词，表示\"...学\""
+  ]
+ },
+ {
+  "name": "ophthalmoscope",
+  "trans": [
+   "n. 检眼镜",
+   "词缀 ophthalmo-：眼睛"
+  ]
+ },
+ {
+  "name": "ophthalmic",
+  "trans": [
+   "a. 眼的",
+   "词缀 ophthalmo-：眼睛"
+  ]
+ },
+ {
+  "name": "ophthalmologist",
+  "trans": [
+   "n. 眼科医生",
+   "词缀 ophthalmo-：眼睛"
+  ]
+ },
+ {
+  "name": "ophthalmoplegia",
+  "trans": [
+   "n. 眼肌麻痹",
+   "词缀 ophthalmo-：眼睛"
+  ]
+ },
+ {
+  "name": "optometry",
+  "trans": [
+   "n. 验光学",
+   "词缀 opto-：视力/光学",
+   "词缀 -metry：名词，表示\"测量学/法\""
+  ]
+ },
+ {
+  "name": "optician",
+  "trans": [
+   "n. 眼镜商",
+   "词缀 opto-：视力/光学"
+  ]
+ },
+ {
+  "name": "optic",
+  "trans": [
+   "a. 眼的/光学的",
+   "词缀 opto-：视力/光学"
+  ]
+ },
+ {
+  "name": "optical",
+  "trans": [
+   "a. 光学的",
+   "词缀 opto-：视力/光学"
+  ]
+ },
+ {
+  "name": "optoelectronics",
+  "trans": [
+   "n. 光电子学",
+   "词缀 opto-：视力/光学"
+  ]
+ },
+ {
+  "name": "ornithology",
+  "trans": [
+   "n. 鸟类学",
+   "词缀 ornitho-：鸟"
+  ]
+ },
+ {
+  "name": "ornithopter",
+  "trans": [
+   "n. 扑翼飞机",
+   "词缀 ornitho-：鸟"
+  ]
+ },
+ {
+  "name": "ornithischian",
+  "trans": [
+   "n. 鸟臀目恐龙",
+   "词缀 ornitho-：鸟"
+  ]
+ },
+ {
+  "name": "ornithomorphic",
+  "trans": [
+   "a. 鸟形的",
+   "词缀 ornitho-：鸟"
+  ]
+ },
+ {
+  "name": "ornithopod",
+  "trans": [
+   "n. 鸟脚类恐龙",
+   "词缀 ornitho-：鸟"
+  ]
+ },
+ {
+  "name": "orthodox",
+  "trans": [
+   "a. 正统的",
+   "词缀 ortho-：正/直/标准"
+  ]
+ },
+ {
+  "name": "orthopedic",
+  "trans": [
+   "a. 矫形的",
+   "词缀 ortho-：正/直/标准"
+  ]
+ },
+ {
+  "name": "orthodontics",
+  "trans": [
+   "n. 正畸学",
+   "词缀 ortho-：正/直/标准"
+  ]
+ },
+ {
+  "name": "orthography",
+  "trans": [
+   "n. 正字法",
+   "词缀 ortho-：正/直/标准"
+  ]
+ },
+ {
+  "name": "orthogenesis",
+  "trans": [
+   "n. 直生论",
+   "词缀 ortho-：正/直/标准"
+  ]
+ },
+ {
+  "name": "osteoporosis",
+  "trans": [
+   "n. 骨质疏松症",
+   "词缀 osteo-：骨"
+  ]
+ },
+ {
+  "name": "osteopathy",
+  "trans": [
+   "n. 整骨疗法",
+   "词缀 osteo-：骨"
+  ]
+ },
+ {
+  "name": "osteoarthritis",
+  "trans": [
+   "n. 骨关节炎",
+   "词缀 osteo-：骨"
+  ]
+ },
+ {
+  "name": "osteoblast",
+  "trans": [
+   "n. 成骨细胞",
+   "词缀 osteo-：骨"
+  ]
+ },
+ {
+  "name": "osteoclast",
+  "trans": [
+   "n. 破骨细胞",
+   "词缀 osteo-：骨"
+  ]
+ },
+ {
+  "name": "otology",
+  "trans": [
+   "n. 耳科学",
+   "词缀 oto-：耳"
+  ]
+ },
+ {
+  "name": "otitis",
+  "trans": [
+   "n. 耳炎",
+   "词缀 oto-：耳"
+  ]
+ },
+ {
+  "name": "otoscope",
+  "trans": [
+   "n. 检耳镜",
+   "词缀 oto-：耳"
+  ]
+ },
+ {
+  "name": "otolaryngology",
+  "trans": [
+   "n. 耳鼻喉科学",
+   "词缀 oto-：耳"
+  ]
+ },
+ {
+  "name": "otorhinolaryngology",
+  "trans": [
+   "n. 耳鼻喉科学",
+   "词缀 oto-：耳"
+  ]
+ },
+ {
+  "name": "outside",
+  "trans": [
+   "n./ad./prep. 外面/在外面/在...外",
+   "词缀 out-：出/外/超过"
+  ]
+ },
+ {
+  "name": "outdoor",
+  "trans": [
+   "a. 户外的",
+   "词缀 out-：出/外/超过"
+  ]
+ },
+ {
+  "name": "outrun",
+  "trans": [
+   "v. 跑过",
+   "词缀 out-：出/外/超过"
+  ]
+ },
+ {
+  "name": "outlive",
+  "trans": [
+   "v. 比...活得长",
+   "词缀 out-：出/外/超过"
+  ]
+ },
+ {
+  "name": "outnumber",
+  "trans": [
+   "v. 数量超过",
+   "词缀 out-：出/外/超过"
+  ]
+ },
+ {
+  "name": "overeat",
+  "trans": [
+   "v. 吃得过多",
+   "词缀 over-：过度/在上/超过"
+  ]
+ },
+ {
+  "name": "oversleep",
+  "trans": [
+   "v. 睡过头",
+   "词缀 over-：过度/在上/超过"
+  ]
+ },
+ {
+  "name": "overlook",
+  "trans": [
+   "v. 俯瞰/忽略",
+   "词缀 over-：过度/在上/超过"
+  ]
+ },
+ {
+  "name": "overload",
+  "trans": [
+   "v./n. 超载",
+   "词缀 over-：过度/在上/超过"
+  ]
+ },
+ {
+  "name": "overseas",
+  "trans": [
+   "ad./a. 在海外/海外的",
+   "词缀 over-：过度/在上/超过"
+  ]
+ },
+ {
+  "name": "paleolithic",
+  "trans": [
+   "a. 旧石器时代的",
+   "词缀 paleo-：古/旧"
+  ]
+ },
+ {
+  "name": "paleontology",
+  "trans": [
+   "n. 古生物学",
+   "词缀 paleo-：古/旧"
+  ]
+ },
+ {
+  "name": "paleography",
+  "trans": [
+   "n. 古文书学",
+   "词缀 paleo-：古/旧"
+  ]
+ },
+ {
+  "name": "paleoclimate",
+  "trans": [
+   "n. 古气候",
+   "词缀 paleo-：古/旧"
+  ]
+ },
+ {
+  "name": "paleobotany",
+  "trans": [
+   "n. 古植物学",
+   "词缀 paleo-：古/旧"
+  ]
+ },
+ {
+  "name": "panorama",
+  "trans": [
+   "n. 全景",
+   "词缀 pan-：全/泛"
+  ]
+ },
+ {
+  "name": "pandemic",
+  "trans": [
+   "n./a. 大流行病/大流行的",
+   "a./n. 大流行的/大流行病",
+   "词缀 pan-：全/泛",
+   "词缀 -emic：形容词"
+  ]
+ },
+ {
+  "name": "pantheon",
+  "trans": [
+   "n. 万神殿",
+   "词缀 pan-：全/泛"
+  ]
+ },
+ {
+  "name": "panacea",
+  "trans": [
+   "n. 万灵药",
+   "词缀 pan-：全/泛"
+  ]
+ },
+ {
+  "name": "panchromatic",
+  "trans": [
+   "a. 全色的",
+   "词缀 pan-：全/泛"
+  ]
+ },
+ {
+  "name": "paragraph",
+  "trans": [
+   "n. 段落",
+   "词缀 para-：旁/侧/类似/保护",
+   "词缀 -graph：名词，表示\"书写工具/记录\""
+  ]
+ },
+ {
+  "name": "parallel",
+  "trans": [
+   "a. 平行的",
+   "词缀 para-：旁/侧/类似/保护"
+  ]
+ },
+ {
+  "name": "parasite",
+  "trans": [
+   "n. 寄生虫",
+   "词缀 para-：旁/侧/类似/保护"
+  ]
+ },
+ {
+  "name": "paramedic",
+  "trans": [
+   "n. 护理人员",
+   "词缀 para-：旁/侧/类似/保护"
+  ]
+ },
+ {
+  "name": "parachute",
+  "trans": [
+   "n. 降落伞",
+   "词缀 para-：旁/侧/类似/保护"
+  ]
+ },
+ {
+  "name": "pentagon",
+  "trans": [
+   "n. 五边形/五角大楼",
+   "词缀 penta-：五"
+  ]
+ },
+ {
+  "name": "pentathlon",
+  "trans": [
+   "n. 五项全能",
+   "词缀 penta-：五"
+  ]
+ },
+ {
+  "name": "pentameter",
+  "trans": [
+   "n. 五步格",
+   "词缀 penta-：五"
+  ]
+ },
+ {
+  "name": "pentagram",
+  "trans": [
+   "n. 五角星形",
+   "词缀 penta-：五"
+  ]
+ },
+ {
+  "name": "pentoxide",
+  "trans": [
+   "n. 五氧化物",
+   "词缀 penta-：五"
+  ]
+ },
+ {
+  "name": "perfect",
+  "trans": [
+   "a. 完美的",
+   "词缀 per-：通过/完全/每"
+  ]
+ },
+ {
+  "name": "perform",
+  "trans": [
+   "v. 执行/表演",
+   "词缀 per-：通过/完全/每"
+  ]
+ },
+ {
+  "name": "persist",
+  "trans": [
+   "v. 坚持",
+   "词缀 per-：通过/完全/每"
+  ]
+ },
+ {
+  "name": "perceive",
+  "trans": [
+   "v. 感知",
+   "词缀 per-：通过/完全/每"
+  ]
+ },
+ {
+  "name": "perimeter",
+  "trans": [
+   "n. 周长",
+   "词缀 peri-：周围/近"
+  ]
+ },
+ {
+  "name": "period",
+  "trans": [
+   "n. 时期/周期",
+   "词缀 peri-：周围/近"
+  ]
+ },
+ {
+  "name": "peripheral",
+  "trans": [
+   "a. 外围的",
+   "词缀 peri-：周围/近"
+  ]
+ },
+ {
+  "name": "periscope",
+  "trans": [
+   "n. 潜望镜",
+   "词缀 peri-：周围/近"
+  ]
+ },
+ {
+  "name": "perigee",
+  "trans": [
+   "n. 近地点",
+   "词缀 peri-：周围/近"
+  ]
+ },
+ {
+  "name": "polytechnic",
+  "trans": [
+   "a./n. 理工的/理工学院",
+   "词缀 poly-：多"
+  ]
+ },
+ {
+  "name": "polygon",
+  "trans": [
+   "n. 多边形",
+   "词缀 poly-：多"
+  ]
+ },
+ {
+  "name": "polygamy",
+  "trans": [
+   "n. 一夫多妻制",
+   "词缀 poly-：多"
+  ]
+ },
+ {
+  "name": "polyglot",
+  "trans": [
+   "a./n. 通晓多种语言的/人",
+   "词缀 poly-：多"
+  ]
+ },
+ {
+  "name": "polymer",
+  "trans": [
+   "n. 聚合物",
+   "词缀 poly-：多"
+  ]
+ },
+ {
+  "name": "postpone",
+  "trans": [
+   "v. 推迟",
+   "词缀 post-：后/之后"
+  ]
+ },
+ {
+  "name": "postwar",
+  "trans": [
+   "a. 战后的",
+   "词缀 post-：后/之后"
+  ]
+ },
+ {
+  "name": "postgraduate",
+  "trans": [
+   "n./a. 研究生/研究生的",
+   "词缀 post-：后/之后"
+  ]
+ },
+ {
+  "name": "postscript",
+  "trans": [
+   "n. 附言",
+   "词缀 post-：后/之后"
+  ]
+ },
+ {
+  "name": "postnatal",
+  "trans": [
+   "a. 产后的",
+   "词缀 post-：后/之后"
+  ]
+ },
+ {
+  "name": "preview",
+  "trans": [
+   "n./v. 预览/预演",
+   "词缀 pre-：前/预先"
+  ]
+ },
+ {
+  "name": "predict",
+  "trans": [
+   "v. 预测",
+   "词缀 pre-：前/预先"
+  ]
+ },
+ {
+  "name": "prepare",
+  "trans": [
+   "v. 准备",
+   "词缀 pre-：前/预先"
+  ]
+ },
+ {
+  "name": "preschool",
+  "trans": [
+   "n./a. 幼儿园/学龄前的",
+   "词缀 pre-：前/预先"
+  ]
+ },
+ {
+  "name": "prehistoric",
+  "trans": [
+   "a. 史前的",
+   "词缀 pre-：前/预先"
+  ]
+ },
+ {
+  "name": "progress",
+  "trans": [
+   "n./v. 进步/前进",
+   "词缀 pro-：向前/赞成/代替"
+  ]
+ },
+ {
+  "name": "promote",
+  "trans": [
+   "v. 促进/提升",
+   "词缀 pro-：向前/赞成/代替"
+  ]
+ },
+ {
+  "name": "pro-American",
+  "trans": [
+   "a. 亲美的",
+   "词缀 pro-：向前/赞成/代替"
+  ]
+ },
+ {
+  "name": "pronoun",
+  "trans": [
+   "n. 代词",
+   "词缀 pro-：向前/赞成/代替"
+  ]
+ },
+ {
+  "name": "propose",
+  "trans": [
+   "v. 提议",
+   "词缀 pro-：向前/赞成/代替"
+  ]
+ },
+ {
+  "name": "prototype",
+  "trans": [
+   "n. 原型",
+   "词缀 proto-：原始/首要"
+  ]
+ },
+ {
+  "name": "protocol",
+  "trans": [
+   "n. 协议/礼仪",
+   "词缀 proto-：原始/首要"
+  ]
+ },
+ {
+  "name": "protozoa",
+  "trans": [
+   "n. 原生动物",
+   "词缀 proto-：原始/首要"
+  ]
+ },
+ {
+  "name": "proton",
+  "trans": [
+   "n. 质子",
+   "词缀 proto-：原始/首要"
+  ]
+ },
+ {
+  "name": "protoplasm",
+  "trans": [
+   "n. 原生质",
+   "词缀 proto-：原始/首要"
+  ]
+ },
+ {
+  "name": "pseudonym",
+  "trans": [
+   "n. 笔名",
+   "词缀 pseudo-：伪/假"
+  ]
+ },
+ {
+  "name": "pseudoscience",
+  "trans": [
+   "n. 伪科学",
+   "词缀 pseudo-：伪/假"
+  ]
+ },
+ {
+  "name": "pseudo-intellectual",
+  "trans": [
+   "n. 伪知识分子",
+   "词缀 pseudo-：伪/假"
+  ]
+ },
+ {
+  "name": "pseudopod",
+  "trans": [
+   "n. 伪足",
+   "词缀 pseudo-：伪/假"
+  ]
+ },
+ {
+  "name": "pseudocode",
+  "trans": [
+   "n. 伪代码",
+   "词缀 pseudo-：伪/假"
+  ]
+ },
+ {
+  "name": "quadrilateral",
+  "trans": [
+   "n./a. 四边形/四边的",
+   "词缀 quadri-/quadru-：四"
+  ]
+ },
+ {
+  "name": "quadruple",
+  "trans": [
+   "a./v. 四倍的/使成四倍",
+   "词缀 quadri-/quadru-：四"
+  ]
+ },
+ {
+  "name": "quadrangle",
+  "trans": [
+   "n. 四边形/四方院",
+   "词缀 quadri-/quadru-：四"
+  ]
+ },
+ {
+  "name": "quadruped",
+  "trans": [
+   "n. 四足动物",
+   "词缀 quadri-/quadru-：四"
+  ]
+ },
+ {
+  "name": "quadrant",
+  "trans": [
+   "n. 象限",
+   "词缀 quadri-/quadru-：四"
+  ]
+ },
+ {
+  "name": "quasi-official",
+  "trans": [
+   "a. 半官方的",
+   "词缀 quasi-：准/半/类似"
+  ]
+ },
+ {
+  "name": "quasi-scientific",
+  "trans": [
+   "a. 准科学的",
+   "词缀 quasi-：准/半/类似"
+  ]
+ },
+ {
+  "name": "quasi-judicial",
+  "trans": [
+   "a. 准司法性的",
+   "词缀 quasi-：准/半/类似"
+  ]
+ },
+ {
+  "name": "quasi-public",
+  "trans": [
+   "a. 半公开的",
+   "词缀 quasi-：准/半/类似"
+  ]
+ },
+ {
+  "name": "quasi-contract",
+  "trans": [
+   "n. 准契约",
+   "词缀 quasi-：准/半/类似"
+  ]
+ },
+ {
+  "name": "return",
+  "trans": [
+   "v./n. 返回/归还",
+   "词缀 re-：再/回/重新"
+  ]
+ },
+ {
+  "name": "repeat",
+  "trans": [
+   "v./n. 重复",
+   "词缀 re-：再/回/重新"
+  ]
+ },
+ {
+  "name": "review",
+  "trans": [
+   "n./v. 复习/回顾",
+   "词缀 re-：再/回/重新"
+  ]
+ },
+ {
+  "name": "rewrite",
+  "trans": [
+   "v. 重写",
+   "词缀 re-：再/回/重新"
+  ]
+ },
+ {
+  "name": "react",
+  "trans": [
+   "v. 反应",
+   "词缀 re-：再/回/重新"
+  ]
+ },
+ {
+  "name": "retrograde",
+  "trans": [
+   "a./v. 后退的/倒退",
+   "词缀 retro-：向后/追溯"
+  ]
+ },
+ {
+  "name": "retrospect",
+  "trans": [
+   "n. 回顾",
+   "词缀 retro-：向后/追溯"
+  ]
+ },
+ {
+  "name": "retroactive",
+  "trans": [
+   "a. 追溯既往的",
+   "词缀 retro-：向后/追溯"
+  ]
+ },
+ {
+  "name": "retro-rocket",
+  "trans": [
+   "n. 制动火箭",
+   "词缀 retro-：向后/追溯"
+  ]
+ },
+ {
+  "name": "retrorse",
+  "trans": [
+   "a. 向下弯的",
+   "词缀 retro-：向后/追溯"
+  ]
+ },
+ {
+  "name": "separate",
+  "trans": [
+   "v./a. 分开/分开的",
+   "词缀 se-：分开/离开"
+  ]
+ },
+ {
+  "name": "select",
+  "trans": [
+   "v. 选择",
+   "词缀 se-：分开/离开"
+  ]
+ },
+ {
+  "name": "segregate",
+  "trans": [
+   "v. 隔离",
+   "词缀 se-：分开/离开"
+  ]
+ },
+ {
+  "name": "seduce",
+  "trans": [
+   "v. 引诱",
+   "词缀 se-：分开/离开"
+  ]
+ },
+ {
+  "name": "secede",
+  "trans": [
+   "v. 退出",
+   "词缀 se-：分开/离开"
+  ]
+ },
+ {
+  "name": "semicircle",
+  "trans": [
+   "n. 半圆",
+   "词缀 semi-：半"
+  ]
+ },
+ {
+  "name": "semifinal",
+  "trans": [
+   "n. 半决赛",
+   "词缀 semi-：半"
+  ]
+ },
+ {
+  "name": "semiconductor",
+  "trans": [
+   "n. 半导体",
+   "词缀 semi-：半"
+  ]
+ },
+ {
+  "name": "semi-automatic",
+  "trans": [
+   "a. 半自动的",
+   "词缀 semi-：半"
+  ]
+ },
+ {
+  "name": "semi-conscious",
+  "trans": [
+   "a. 半清醒的",
+   "词缀 semi-：半"
+  ]
+ },
+ {
+  "name": "subway",
+  "trans": [
+   "n. 地铁",
+   "词缀 sub-：在下/次/亚/副"
+  ]
+ },
+ {
+  "name": "submarine",
+  "trans": [
+   "n. 潜艇",
+   "词缀 sub-：在下/次/亚/副"
+  ]
+ },
+ {
+  "name": "subtitle",
+  "trans": [
+   "n. 副标题",
+   "词缀 sub-：在下/次/亚/副"
+  ]
+ },
+ {
+  "name": "substandard",
+  "trans": [
+   "a. 低于标准的",
+   "词缀 sub-：在下/次/亚/副"
+  ]
+ },
+ {
+  "name": "subconscious",
+  "trans": [
+   "a. 潜意识的",
+   "词缀 sub-：在下/次/亚/副"
+  ]
+ },
+ {
+  "name": "supermarket",
+  "trans": [
+   "n. 超市",
+   "词缀 super-：在上/超/超级"
+  ]
+ },
+ {
+  "name": "superstar",
+  "trans": [
+   "n. 超级明星",
+   "词缀 super-：在上/超/超级"
+  ]
+ },
+ {
+  "name": "supernatural",
+  "trans": [
+   "a. 超自然的",
+   "词缀 super-：在上/超/超级"
+  ]
+ },
+ {
+  "name": "superpower",
+  "trans": [
+   "n. 超级大国",
+   "词缀 super-：在上/超/超级"
+  ]
+ },
+ {
+  "name": "supervise",
+  "trans": [
+   "v. 监督",
+   "词缀 super-：在上/超/超级",
+   "词缀 -ise：动词/名词"
+  ]
+ },
+ {
+  "name": "supra-national",
+  "trans": [
+   "a. 超国家的",
+   "词缀 supra-：在上/超"
+  ]
+ },
+ {
+  "name": "suprarenal",
+  "trans": [
+   "a. 肾上腺的",
+   "词缀 supra-：在上/超"
+  ]
+ },
+ {
+  "name": "supraorbital",
+  "trans": [
+   "a. 眼眶上的",
+   "词缀 supra-：在上/超"
+  ]
+ },
+ {
+  "name": "supraclass",
+  "trans": [
+   "a. 超阶级的",
+   "词缀 supra-：在上/超"
+  ]
+ },
+ {
+  "name": "supramolecular",
+  "trans": [
+   "a. 超分子的",
+   "词缀 supra-：在上/超"
+  ]
+ },
+ {
+  "name": "synonym",
+  "trans": [
+   "n. 同义词",
+   "词缀 syn-/sym-：共同/相同"
+  ]
+ },
+ {
+  "name": "sympathy",
+  "trans": [
+   "n. 同情",
+   "词缀 syn-/sym-：共同/相同"
+  ]
+ },
+ {
+  "name": "symphony",
+  "trans": [
+   "n. 交响乐",
+   "词缀 syn-/sym-：共同/相同"
+  ]
+ },
+ {
+  "name": "syndrome",
+  "trans": [
+   "n. 综合症",
+   "词缀 syn-/sym-：共同/相同"
+  ]
+ },
+ {
+  "name": "synthetic",
+  "trans": [
+   "a. 合成的",
+   "词缀 syn-/sym-：共同/相同",
+   "词缀 -etic：形容词"
+  ]
+ },
+ {
+  "name": "telephone",
+  "trans": [
+   "n. 电话",
+   "词缀 tele-：远/电"
+  ]
+ },
+ {
+  "name": "television",
+  "trans": [
+   "n. 电视",
+   "词缀 tele-：远/电"
+  ]
+ },
+ {
+  "name": "telegram",
+  "trans": [
+   "n. 电报",
+   "词缀 tele-：远/电",
+   "词缀 -gram：名词，表示\"书写物/图\""
+  ]
+ },
+ {
+  "name": "telescope",
+  "trans": [
+   "n. 望远镜",
+   "词缀 tele-：远/电"
+  ]
+ },
+ {
+  "name": "telepathy",
+  "trans": [
+   "n. 心灵感应",
+   "词缀 tele-：远/电"
+  ]
+ },
+ {
+  "name": "tetrahedron",
+  "trans": [
+   "n. 四面体",
+   "词缀 tetra-：四",
+   "词缀 -hedron：名词，表示\"...面体\""
+  ]
+ },
+ {
+  "name": "tetralogy",
+  "trans": [
+   "n. 四部曲",
+   "词缀 tetra-：四"
+  ]
+ },
+ {
+  "name": "tetrapod",
+  "trans": [
+   "n. 四足动物",
+   "词缀 tetra-：四"
+  ]
+ },
+ {
+  "name": "tetrachord",
+  "trans": [
+   "n. 四弦琴",
+   "词缀 tetra-：四"
+  ]
+ },
+ {
+  "name": "tetroxide",
+  "trans": [
+   "n. 四氧化物",
+   "词缀 tetra-：四"
+  ]
+ },
+ {
+  "name": "transport",
+  "trans": [
+   "v./n. 运输/交通工具",
+   "词缀 trans-：横过/转移/变化"
+  ]
+ },
+ {
+  "name": "translate",
+  "trans": [
+   "v. 翻译",
+   "词缀 trans-：横过/转移/变化"
+  ]
+ },
+ {
+  "name": "transfer",
+  "trans": [
+   "v./n. 转移/转让",
+   "词缀 trans-：横过/转移/变化"
+  ]
+ },
+ {
+  "name": "transplant",
+  "trans": [
+   "v./n. 移植",
+   "词缀 trans-：横过/转移/变化"
+  ]
+ },
+ {
+  "name": "transparent",
+  "trans": [
+   "a. 透明的",
+   "词缀 trans-：横过/转移/变化"
+  ]
+ },
+ {
+  "name": "triangle",
+  "trans": [
+   "n. 三角形",
+   "词缀 tri-：三"
+  ]
+ },
+ {
+  "name": "tricycle",
+  "trans": [
+   "n. 三轮车",
+   "词缀 tri-：三"
+  ]
+ },
+ {
+  "name": "trilogy",
+  "trans": [
+   "n. 三部曲",
+   "词缀 tri-：三"
+  ]
+ },
+ {
+  "name": "triple",
+  "trans": [
+   "a./v. 三倍的/使成三倍",
+   "词缀 tri-：三"
+  ]
+ },
+ {
+  "name": "tripod",
+  "trans": [
+   "n. 三脚架",
+   "词缀 tri-：三"
+  ]
+ },
+ {
+  "name": "ultrasonic",
+  "trans": [
+   "a. 超声波的",
+   "词缀 ultra-：极端/超"
+  ]
+ },
+ {
+  "name": "ultraviolet",
+  "trans": [
+   "a. 紫外的",
+   "词缀 ultra-：极端/超"
+  ]
+ },
+ {
+  "name": "ultra-modern",
+  "trans": [
+   "a. 超现代的",
+   "词缀 ultra-：极端/超"
+  ]
+ },
+ {
+  "name": "ultra-conservative",
+  "trans": [
+   "a. 极端保守的",
+   "词缀 ultra-：极端/超"
+  ]
+ },
+ {
+  "name": "ultramarine",
+  "trans": [
+   "a. 深蓝色的",
+   "词缀 ultra-：极端/超"
+  ]
+ },
+ {
+  "name": "unhappy",
+  "trans": [
+   "a. 不高兴的",
+   "词缀 un-：不/相反/非"
+  ]
+ },
+ {
+  "name": "unable",
+  "trans": [
+   "a. 不能的",
+   "词缀 un-：不/相反/非"
+  ]
+ },
+ {
+  "name": "unlock",
+  "trans": [
+   "v. 开锁",
+   "词缀 un-：不/相反/非"
+  ]
+ },
+ {
+  "name": "undress",
+  "trans": [
+   "v. 脱衣服",
+   "词缀 un-：不/相反/非"
+  ]
+ },
+ {
+  "name": "unusual",
+  "trans": [
+   "a. 不寻常的",
+   "词缀 un-：不/相反/非"
+  ]
+ },
+ {
+  "name": "underground",
+  "trans": [
+   "a./ad./n. 地下的/在地下/地铁",
+   "词缀 under-：在...下/不足"
+  ]
+ },
+ {
+  "name": "underline",
+  "trans": [
+   "v. 下划线/强调",
+   "词缀 under-：在...下/不足"
+  ]
+ },
+ {
+  "name": "underestimate",
+  "trans": [
+   "v./n. 低估",
+   "词缀 under-：在...下/不足"
+  ]
+ },
+ {
+  "name": "underwear",
+  "trans": [
+   "n. 内衣",
+   "词缀 under-：在...下/不足"
+  ]
+ },
+ {
+  "name": "underdeveloped",
+  "trans": [
+   "a. 欠发达的",
+   "词缀 under-：在...下/不足"
+  ]
+ },
+ {
+  "name": "uniform",
+  "trans": [
+   "n./a. 制服/统一的",
+   "词缀 uni-：单/一",
+   "词缀 -form：形容词/名词"
+  ]
+ },
+ {
+  "name": "unique",
+  "trans": [
+   "a. 独特的",
+   "词缀 uni-：单/一"
+  ]
+ },
+ {
+  "name": "unite",
+  "trans": [
+   "v. 联合",
+   "词缀 uni-：单/一"
+  ]
+ },
+ {
+  "name": "universe",
+  "trans": [
+   "n. 宇宙",
+   "词缀 uni-：单/一"
+  ]
+ },
+ {
+  "name": "unilateral",
+  "trans": [
+   "a. 单边的",
+   "词缀 uni-：单/一"
+  ]
+ },
+ {
+  "name": "vice-president",
+  "trans": [
+   "n. 副总统/副总裁",
+   "词缀 vice-：副/代理"
+  ]
+ },
+ {
+  "name": "vice-chairman",
+  "trans": [
+   "n. 副主席",
+   "词缀 vice-：副/代理"
+  ]
+ },
+ {
+  "name": "vice-principal",
+  "trans": [
+   "n. 副校长",
+   "词缀 vice-：副/代理"
+  ]
+ },
+ {
+  "name": "vice-consul",
+  "trans": [
+   "n. 副领事",
+   "词缀 vice-：副/代理"
+  ]
+ },
+ {
+  "name": "vice-regent",
+  "trans": [
+   "n. 副摄政",
+   "词缀 vice-：副/代理"
+  ]
+ },
+ {
+  "name": "withdraw",
+  "trans": [
+   "v. 撤回",
+   "词缀 with-：向后/相反"
+  ]
+ },
+ {
+  "name": "withstand",
+  "trans": [
+   "v. 抵抗",
+   "词缀 with-：向后/相反"
+  ]
+ },
+ {
+  "name": "withhold",
+  "trans": [
+   "v. 扣留",
+   "词缀 with-：向后/相反"
+  ]
+ },
+ {
+  "name": "without",
+  "trans": [
+   "prep. 没有",
+   "词缀 with-：向后/相反"
+  ]
+ },
+ {
+  "name": "within",
+  "trans": [
+   "prep. 在...之内",
+   "词缀 with-：向后/相反"
+  ]
+ },
+ {
+  "name": "xenophobia",
+  "trans": [
+   "n. 仇外/排外",
+   "词缀 xeno-：外来/陌生/外国"
+  ]
+ },
+ {
+  "name": "xenophobic",
+  "trans": [
+   "a. 仇外的/排外的",
+   "词缀 xeno-：外来/陌生/外国"
+  ]
+ },
+ {
+  "name": "xenophile",
+  "trans": [
+   "n. 亲外者",
+   "词缀 xeno-：外来/陌生/外国"
+  ]
+ },
+ {
+  "name": "xenon",
+  "trans": [
+   "n. 氙气",
+   "词缀 xeno-：外来/陌生/外国"
+  ]
+ },
+ {
+  "name": "xenotransplant",
+  "trans": [
+   "n. 异种移植",
+   "词缀 xeno-：外来/陌生/外国"
+  ]
+ },
+ {
+  "name": "xerophyte",
+  "trans": [
+   "n. 旱生植物",
+   "词缀 xero-：干燥"
+  ]
+ },
+ {
+  "name": "xeroderma",
+  "trans": [
+   "n. 干皮病",
+   "词缀 xero-：干燥"
+  ]
+ },
+ {
+  "name": "xerography",
+  "trans": [
+   "n. 静电印刷术",
+   "词缀 xero-：干燥"
+  ]
+ },
+ {
+  "name": "xeriscape",
+  "trans": [
+   "n. 节水型园艺",
+   "词缀 xero-：干燥"
+  ]
+ },
+ {
+  "name": "xerothermic",
+  "trans": [
+   "a. 干热的",
+   "词缀 xero-：干燥"
+  ]
+ },
+ {
+  "name": "xylophone",
+  "trans": [
+   "n. 木琴",
+   "词缀 xylo-：木头"
+  ]
+ },
+ {
+  "name": "xylophagous",
+  "trans": [
+   "a. 食木的",
+   "词缀 xylo-：木头"
+  ]
+ },
+ {
+  "name": "xylose",
+  "trans": [
+   "n. 木糖",
+   "词缀 xylo-：木头"
+  ]
+ },
+ {
+  "name": "xylography",
+  "trans": [
+   "n. 木版印刷术",
+   "词缀 xylo-：木头"
+  ]
+ },
+ {
+  "name": "zoology",
+  "trans": [
+   "n. 动物学",
+   "词缀 zoo-：动物"
+  ]
+ },
+ {
+  "name": "zoo",
+  "trans": [
+   "n. 动物园",
+   "词缀 zoo-：动物"
+  ]
+ },
+ {
+  "name": "zooplankton",
+  "trans": [
+   "n. 浮游动物",
+   "词缀 zoo-：动物"
+  ]
+ },
+ {
+  "name": "zoogeography",
+  "trans": [
+   "n. 动物地理学",
+   "词缀 zoo-：动物"
+  ]
+ },
+ {
+  "name": "zoophile",
+  "trans": [
+   "n. 爱护动物者",
+   "词缀 zoo-：动物"
+  ]
+ },
+ {
+  "name": "zygote",
+  "trans": [
+   "n. 合子/受精卵",
+   "词缀 zyg-：轭/成对/结合"
+  ]
+ },
+ {
+  "name": "zygomatic",
+  "trans": [
+   "a. 颧骨的",
+   "词缀 zyg-：轭/成对/结合"
+  ]
+ },
+ {
+  "name": "zygomorphic",
+  "trans": [
+   "a. 两侧对称的",
+   "词缀 zyg-：轭/成对/结合"
+  ]
+ },
+ {
+  "name": "zygospore",
+  "trans": [
+   "n. 接合孢子",
+   "词缀 zyg-：轭/成对/结合"
+  ]
+ },
+ {
+  "name": "zygotene",
+  "trans": [
+   "n. 偶线期",
+   "词缀 zyg-：轭/成对/结合"
+  ]
+ },
+ {
+  "name": "zymology",
+  "trans": [
+   "n. 酶学/发酵学",
+   "词缀 zym-：酶/发酵"
+  ]
+ },
+ {
+  "name": "zymogen",
+  "trans": [
+   "n. 酶原",
+   "词缀 zym-：酶/发酵"
+  ]
+ },
+ {
+  "name": "zymosis",
+  "trans": [
+   "n. 发酵/传染病",
+   "词缀 zym-：酶/发酵"
+  ]
+ },
+ {
+  "name": "enzyme",
+  "trans": [
+   "n. 酶",
+   "词缀 zym-：酶/发酵"
+  ]
+ },
+ {
+  "name": "zymurgy",
+  "trans": [
+   "n. 酿造学",
+   "词缀 zym-：酶/发酵"
+  ]
+ },
+ {
+  "name": "arena",
+  "trans": [
+   "n. 竞技场",
+   "词缀 -a：名词"
+  ]
+ },
+ {
+  "name": "diploma",
+  "trans": [
+   "n. 文凭",
+   "词缀 -a：名词"
+  ]
+ },
+ {
+  "name": "drama",
+  "trans": [
+   "n. 戏剧",
+   "词缀 -a：名词"
+  ]
+ },
+ {
+  "name": "idea",
+  "trans": [
+   "n. 想法",
+   "词缀 -a：名词"
+  ]
+ },
+ {
+  "name": "umbrella",
+  "trans": [
+   "n. 雨伞",
+   "词缀 -a：名词"
+  ]
+ },
+ {
+  "name": "comfortable",
+  "trans": [
+   "a. 舒适的",
+   "词缀 -able/-ible：形容词，表示\"能够...的\""
+  ]
+ },
+ {
+  "name": "visible",
+  "trans": [
+   "a. 可见的",
+   "词缀 -able/-ible：形容词，表示\"能够...的\"",
+   "词缀 -ible：形容词"
+  ]
+ },
+ {
+  "name": "reliable",
+  "trans": [
+   "a. 可靠的",
+   "词缀 -able/-ible：形容词，表示\"能够...的\""
+  ]
+ },
+ {
+  "name": "flexible",
+  "trans": [
+   "a. 灵活的",
+   "词缀 -able/-ible：形容词，表示\"能够...的\"",
+   "词缀 -ible：形容词"
+  ]
+ },
+ {
+  "name": "sustainable",
+  "trans": [
+   "a. 可持续的",
+   "词缀 -able/-ible：形容词，表示\"能够...的\""
+  ]
+ },
+ {
+  "name": "comfortably",
+  "trans": [
+   "ad. 舒适地",
+   "词缀 -ably/-ibly：副词"
+  ]
+ },
+ {
+  "name": "visibly",
+  "trans": [
+   "ad. 明显地",
+   "词缀 -ably/-ibly：副词"
+  ]
+ },
+ {
+  "name": "reliably",
+  "trans": [
+   "ad. 可靠地",
+   "词缀 -ably/-ibly：副词"
+  ]
+ },
+ {
+  "name": "flexibly",
+  "trans": [
+   "ad. 灵活地",
+   "词缀 -ably/-ibly：副词"
+  ]
+ },
+ {
+  "name": "suitably",
+  "trans": [
+   "ad. 合适地",
+   "词缀 -ably/-ibly：副词"
+  ]
+ },
+ {
+  "name": "crustacea",
+  "trans": [
+   "n. 甲壳纲动物",
+   "词缀 -acea：名词，表示\"纲/目\""
+  ]
+ },
+ {
+  "name": "cetacea",
+  "trans": [
+   "n. 鲸目动物",
+   "词缀 -acea：名词，表示\"纲/目\""
+  ]
+ },
+ {
+  "name": "rosacea",
+  "trans": [
+   "n. 红斑痤疮",
+   "词缀 -acea：名词，表示\"纲/目\""
+  ]
+ },
+ {
+  "name": "liliacea",
+  "trans": [
+   "n. 百合科植物",
+   "词缀 -acea：名词，表示\"纲/目\""
+  ]
+ },
+ {
+  "name": "testacea",
+  "trans": [
+   "n. 有壳动物",
+   "词缀 -acea：名词，表示\"纲/目\""
+  ]
+ },
+ {
+  "name": "Rosaceae",
+  "trans": [
+   "n. 蔷薇科",
+   "词缀 -aceae：名词，表示\"科\""
+  ]
+ },
+ {
+  "name": "Liliaceae",
+  "trans": [
+   "n. 百合科",
+   "词缀 -aceae：名词，表示\"科\""
+  ]
+ },
+ {
+  "name": "Fabaceae",
+  "trans": [
+   "n. 豆科",
+   "词缀 -aceae：名词，表示\"科\""
+  ]
+ },
+ {
+  "name": "Poaceae",
+  "trans": [
+   "n. 禾本科",
+   "词缀 -aceae：名词，表示\"科\""
+  ]
+ },
+ {
+  "name": "Asteraceae",
+  "trans": [
+   "n. 菊科",
+   "词缀 -aceae：名词，表示\"科\""
+  ]
+ },
+ {
+  "name": "ballad",
+  "trans": [
+   "n. 民谣",
+   "词缀 -ad：名词"
+  ]
+ },
+ {
+  "name": "nomad",
+  "trans": [
+   "n. 游牧民族",
+   "词缀 -ad：名词"
+  ]
+ },
+ {
+  "name": "myriad",
+  "trans": [
+   "n./a. 无数/无数的",
+   "词缀 -ad：名词"
+  ]
+ },
+ {
+  "name": "olympiad",
+  "trans": [
+   "n. 奥林匹克运动会",
+   "词缀 -ad：名词"
+  ]
+ },
+ {
+  "name": "trichad",
+  "trans": [
+   "a. 三叉的",
+   "词缀 -ad：名词"
+  ]
+ },
+ {
+  "name": "lemonade",
+  "trans": [
+   "n. 柠檬水",
+   "词缀 -ade：名词"
+  ]
+ },
+ {
+  "name": "blockade",
+  "trans": [
+   "n. 封锁",
+   "词缀 -ade：名词"
+  ]
+ },
+ {
+  "name": "parade",
+  "trans": [
+   "n. 游行",
+   "词缀 -ade：名词"
+  ]
+ },
+ {
+  "name": "facade",
+  "trans": [
+   "n. 正面",
+   "词缀 -ade：名词"
+  ]
+ },
+ {
+  "name": "crusade",
+  "trans": [
+   "n. 十字军东征",
+   "词缀 -ade：名词"
+  ]
+ },
+ {
+  "name": "tornado",
+  "trans": [
+   "n. 龙卷风",
+   "词缀 -ado：名词"
+  ]
+ },
+ {
+  "name": "bravado",
+  "trans": [
+   "n. 虚张声势",
+   "词缀 -ado：名词"
+  ]
+ },
+ {
+  "name": "desperado",
+  "trans": [
+   "n. 亡命徒",
+   "词缀 -ado：名词"
+  ]
+ },
+ {
+  "name": "avocado",
+  "trans": [
+   "n. 鳄梨",
+   "词缀 -ado：名词"
+  ]
+ },
+ {
+  "name": "staccato",
+  "trans": [
+   "a./ad. 断音的/地",
+   "词缀 -ado：名词"
+  ]
+ },
+ {
+  "name": "package",
+  "trans": [
+   "n. 包裹",
+   "词缀 -age：名词，表示\"状态/集合\""
+  ]
+ },
+ {
+  "name": "storage",
+  "trans": [
+   "n. 存储",
+   "词缀 -age：名词，表示\"状态/集合\""
+  ]
+ },
+ {
+  "name": "wreckage",
+  "trans": [
+   "n. 残骸",
+   "词缀 -age：名词，表示\"状态/集合\""
+  ]
+ },
+ {
+  "name": "passage",
+  "trans": [
+   "n. 通道",
+   "词缀 -age：名词，表示\"状态/集合\""
+  ]
+ },
+ {
+  "name": "marriage",
+  "trans": [
+   "n. 婚姻",
+   "词缀 -age：名词，表示\"状态/集合\""
+  ]
+ },
+ {
+  "name": "millionaire",
+  "trans": [
+   "n. 百万富翁",
+   "词缀 -aire：名词，表示\"人\""
+  ]
+ },
+ {
+  "name": "billionaire",
+  "trans": [
+   "n. 亿万富翁",
+   "词缀 -aire：名词，表示\"人\""
+  ]
+ },
+ {
+  "name": "concessionaire",
+  "trans": [
+   "n. 特许权获得者",
+   "词缀 -aire：名词，表示\"人\""
+  ]
+ },
+ {
+  "name": "doctrinaire",
+  "trans": [
+   "n./a. 教条主义者/的",
+   "词缀 -aire：名词，表示\"人\""
+  ]
+ },
+ {
+  "name": "questionnaire",
+  "trans": [
+   "n. 问卷调查",
+   "词缀 -aire：名词，表示\"人\""
+  ]
+ },
+ {
+  "name": "personal",
+  "trans": [
+   "a. 个人的",
+   "词缀 -al：形容词"
+  ]
+ },
+ {
+  "name": "natural",
+  "trans": [
+   "a. 自然的",
+   "词缀 -al：形容词"
+  ]
+ },
+ {
+  "name": "musical",
+  "trans": [
+   "a. 音乐的",
+   "词缀 -al：形容词"
+  ]
+ },
+ {
+  "name": "gradual",
+  "trans": [
+   "a. 逐渐的",
+   "词缀 -al：形容词"
+  ]
+ },
+ {
+  "name": "national",
+  "trans": [
+   "a. 国家的",
+   "词缀 -al：形容词"
+  ]
+ },
+ {
+  "name": "arrival",
+  "trans": [
+   "n. 到达",
+   "词缀 -al：名词"
+  ]
+ },
+ {
+  "name": "approval",
+  "trans": [
+   "n. 批准",
+   "词缀 -al：名词"
+  ]
+ },
+ {
+  "name": "denial",
+  "trans": [
+   "n. 否认",
+   "词缀 -al：名词"
+  ]
+ },
+ {
+  "name": "refusal",
+  "trans": [
+   "n. 拒绝",
+   "词缀 -al：名词"
+  ]
+ },
+ {
+  "name": "rehearsal",
+  "trans": [
+   "n. 排练",
+   "词缀 -al：名词"
+  ]
+ },
+ {
+  "name": "American",
+  "trans": [
+   "n./a. 美国人/美国的",
+   "词缀 -an/-ian：形容词/名词，表示\"属于...的/人\""
+  ]
+ },
+ {
+  "name": "musician",
+  "trans": [
+   "n. 音乐家",
+   "词缀 -an/-ian：形容词/名词，表示\"属于...的/人\"",
+   "词缀 -ician：名词，表示\"专家/从业者\""
+  ]
+ },
+ {
+  "name": "historian",
+  "trans": [
+   "n. 历史学家",
+   "词缀 -an/-ian：形容词/名词，表示\"属于...的/人\""
+  ]
+ },
+ {
+  "name": "Canadian",
+  "trans": [
+   "n./a. 加拿大人/加拿大的",
+   "词缀 -an/-ian：形容词/名词，表示\"属于...的/人\""
+  ]
+ },
+ {
+  "name": "librarian",
+  "trans": [
+   "n. 图书管理员",
+   "词缀 -an/-ian：形容词/名词，表示\"属于...的/人\"",
+   "词缀 -arian：名词/形容词，表示\"...主义者/的\""
+  ]
+ },
+ {
+  "name": "Americana",
+  "trans": [
+   "n. 美国史料",
+   "词缀 -ana：名词，表示\"选集/资料\""
+  ]
+ },
+ {
+  "name": "Shakespeareana",
+  "trans": [
+   "n. 莎士比亚研究资料",
+   "词缀 -ana：名词，表示\"选集/资料\""
+  ]
+ },
+ {
+  "name": "Victoriana",
+  "trans": [
+   "n. 维多利亚时代文物",
+   "词缀 -ana：名词，表示\"选集/资料\""
+  ]
+ },
+ {
+  "name": "Canadiana",
+  "trans": [
+   "n. 加拿大史料",
+   "词缀 -ana：名词，表示\"选集/资料\""
+  ]
+ },
+ {
+  "name": "Africana",
+  "trans": [
+   "n. 非洲史料",
+   "词缀 -ana：名词，表示\"选集/资料\""
+  ]
+ },
+ {
+  "name": "importance",
+  "trans": [
+   "n. 重要性",
+   "词缀 -ance/-ence：名词，表示\"状态/性质\""
+  ]
+ },
+ {
+  "name": "independence",
+  "trans": [
+   "n. 独立",
+   "词缀 -ance/-ence：名词，表示\"状态/性质\""
+  ]
+ },
+ {
+  "name": "performance",
+  "trans": [
+   "n. 表演",
+   "词缀 -ance/-ence：名词，表示\"状态/性质\""
+  ]
+ },
+ {
+  "name": "difference",
+  "trans": [
+   "n. 不同",
+   "词缀 -ance/-ence：名词，表示\"状态/性质\""
+  ]
+ },
+ {
+  "name": "assistance",
+  "trans": [
+   "n. 帮助",
+   "词缀 -ance/-ence：名词，表示\"状态/性质\""
+  ]
+ },
+ {
+  "name": "acceptance",
+  "trans": [
+   "n. 接受",
+   "词缀 -ance/-ence：名词，表示\"状态/性质\""
+  ]
+ },
+ {
+  "name": "appearance",
+  "trans": [
+   "n. 出现",
+   "词缀 -ance/-ence：名词，表示\"状态/性质\""
+  ]
+ },
+ {
+  "name": "attendance",
+  "trans": [
+   "n. 出席",
+   "词缀 -ance/-ence：名词，表示\"状态/性质\""
+  ]
+ },
+ {
+  "name": "resistance",
+  "trans": [
+   "n. 抵抗",
+   "词缀 -ance/-ence：名词，表示\"状态/性质\""
+  ]
+ },
+ {
+  "name": "insurance",
+  "trans": [
+   "n. 保险",
+   "词缀 -ance/-ence：名词，表示\"状态/性质\""
+  ]
+ },
+ {
+  "name": "spontaneity",
+  "trans": [
+   "n. 自发性",
+   "词缀 -aneity：名词，表示\"性质\""
+  ]
+ },
+ {
+  "name": "simultaneity",
+  "trans": [
+   "n. 同时性",
+   "词缀 -aneity：名词，表示\"性质\""
+  ]
+ },
+ {
+  "name": "homogeneity",
+  "trans": [
+   "n. 同质性",
+   "词缀 -aneity：名词，表示\"性质\""
+  ]
+ },
+ {
+  "name": "heterogeneity",
+  "trans": [
+   "n. 异质性",
+   "词缀 -aneity：名词，表示\"性质\""
+  ]
+ },
+ {
+  "name": "contemporaneity",
+  "trans": [
+   "n. 同时代性",
+   "词缀 -aneity：名词，表示\"性质\""
+  ]
+ },
+ {
+  "name": "spontaneous",
+  "trans": [
+   "a. 自发的",
+   "词缀 -aneous：形容词",
+   "词缀 -eous：形容词"
+  ]
+ },
+ {
+  "name": "simultaneous",
+  "trans": [
+   "a. 同时的",
+   "词缀 -aneous：形容词",
+   "词缀 -eous：形容词"
+  ]
+ },
+ {
+  "name": "instantaneous",
+  "trans": [
+   "a. 瞬间的",
+   "词缀 -aneous：形容词"
+  ]
+ },
+ {
+  "name": "miscellaneous",
+  "trans": [
+   "a. 混杂的",
+   "词缀 -aneous：形容词"
+  ]
+ },
+ {
+  "name": "extraneous",
+  "trans": [
+   "a. 外部的",
+   "词缀 -aneous：形容词"
+  ]
+ },
+ {
+  "name": "urgency",
+  "trans": [
+   "n. 紧急",
+   "词缀 -ancy/-ency：名词，表示\"状态/性质\""
+  ]
+ },
+ {
+  "name": "vacancy",
+  "trans": [
+   "n. 空缺",
+   "词缀 -ancy/-ency：名词，表示\"状态/性质\""
+  ]
+ },
+ {
+  "name": "agency",
+  "trans": [
+   "n. 代理",
+   "词缀 -ancy/-ency：名词，表示\"状态/性质\""
+  ]
+ },
+ {
+  "name": "emergency",
+  "trans": [
+   "n. 突发事件",
+   "词缀 -ancy/-ency：名词，表示\"状态/性质\""
+  ]
+ },
+ {
+  "name": "frequency",
+  "trans": [
+   "n. 频率",
+   "词缀 -ancy/-ency：名词，表示\"状态/性质\""
+  ]
+ },
+ {
+  "name": "assistant",
+  "trans": [
+   "n. 助手",
+   "词缀 -ant/-ent：形容词/名词，表示\"...的/人/物\""
+  ]
+ },
+ {
+  "name": "student",
+  "trans": [
+   "n. 学生",
+   "词缀 -ant/-ent：形容词/名词，表示\"...的/人/物\""
+  ]
+ },
+ {
+  "name": "different",
+  "trans": [
+   "a. 不同的",
+   "词缀 -ant/-ent：形容词/名词，表示\"...的/人/物\""
+  ]
+ },
+ {
+  "name": "tolerant",
+  "trans": [
+   "a. 容忍的",
+   "词缀 -ant/-ent：形容词/名词，表示\"...的/人/物\""
+  ]
+ },
+ {
+  "name": "dependent",
+  "trans": [
+   "a. 依赖的",
+   "词缀 -ant/-ent：形容词/名词，表示\"...的/人/物\""
+  ]
+ },
+ {
+  "name": "claimant",
+  "trans": [
+   "n. 索赔人",
+   "词缀 -ant/-ent：形容词/名词，表示\"...的/人/物\""
+  ]
+ },
+ {
+  "name": "defendant",
+  "trans": [
+   "n. 被告",
+   "词缀 -ant/-ent：形容词/名词，表示\"...的/人/物\""
+  ]
+ },
+ {
+  "name": "servant",
+  "trans": [
+   "n. 仆人",
+   "词缀 -ant/-ent：形容词/名词，表示\"...的/人/物\""
+  ]
+ },
+ {
+  "name": "pollutant",
+  "trans": [
+   "n. 污染物",
+   "词缀 -ant/-ent：形容词/名词，表示\"...的/人/物\""
+  ]
+ },
+ {
+  "name": "disinfectant",
+  "trans": [
+   "n. 消毒剂",
+   "词缀 -ant/-ent：形容词/名词，表示\"...的/人/物\""
+  ]
+ },
+ {
+  "name": "solar",
+  "trans": [
+   "a. 太阳的",
+   "词缀 -ar：形容词"
+  ]
+ },
+ {
+  "name": "lunar",
+  "trans": [
+   "a. 月球的",
+   "词缀 -ar：形容词"
+  ]
+ },
+ {
+  "name": "muscular",
+  "trans": [
+   "a. 肌肉的",
+   "词缀 -ar：形容词"
+  ]
+ },
+ {
+  "name": "popular",
+  "trans": [
+   "a. 流行的",
+   "a. 受欢迎的",
+   "词缀 -ar：形容词",
+   "词缀 -ular：形容词"
+  ]
+ },
+ {
+  "name": "familiar",
+  "trans": [
+   "a. 熟悉的",
+   "词缀 -ar：形容词"
+  ]
+ },
+ {
+  "name": "wizard",
+  "trans": [
+   "n. 巫师",
+   "词缀 -ard：名词，常含贬义"
+  ]
+ },
+ {
+  "name": "coward",
+  "trans": [
+   "n. 懦夫",
+   "词缀 -ard：名词，常含贬义"
+  ]
+ },
+ {
+  "name": "drunkard",
+  "trans": [
+   "n. 酒鬼",
+   "词缀 -ard：名词，常含贬义"
+  ]
+ },
+ {
+  "name": "sluggard",
+  "trans": [
+   "n. 懒汉",
+   "词缀 -ard：名词，常含贬义"
+  ]
+ },
+ {
+  "name": "bastard",
+  "trans": [
+   "n. 私生子",
+   "词缀 -ard：名词，常含贬义"
+  ]
+ },
+ {
+  "name": "vegetarian",
+  "trans": [
+   "n./a. 素食者/的",
+   "词缀 -arian：名词/形容词，表示\"...主义者/的\""
+  ]
+ },
+ {
+  "name": "humanitarian",
+  "trans": [
+   "n./a. 人道主义者/的",
+   "词缀 -arian：名词/形容词，表示\"...主义者/的\""
+  ]
+ },
+ {
+  "name": "utilitarian",
+  "trans": [
+   "n./a. 功利主义者/的",
+   "词缀 -arian：名词/形容词，表示\"...主义者/的\""
+  ]
+ },
+ {
+  "name": "disciplinarian",
+  "trans": [
+   "n. 严格执行纪律者",
+   "词缀 -arian：名词/形容词，表示\"...主义者/的\""
+  ]
+ },
+ {
+  "name": "planetarium",
+  "trans": [
+   "n. 天文馆",
+   "词缀 -arium：名词，表示\"场所/容器\""
+  ]
+ },
+ {
+  "name": "sanitarium",
+  "trans": [
+   "n. 疗养院",
+   "词缀 -arium：名词，表示\"场所/容器\""
+  ]
+ },
+ {
+  "name": "terrarium",
+  "trans": [
+   "n. 玻璃容器",
+   "词缀 -arium：名词，表示\"场所/容器\""
+  ]
+ },
+ {
+  "name": "solarium",
+  "trans": [
+   "n. 日光浴室",
+   "词缀 -arium：名词，表示\"场所/容器\""
+  ]
+ },
+ {
+  "name": "imaginary",
+  "trans": [
+   "a. 想象的",
+   "词缀 -ary：形容词"
+  ]
+ },
+ {
+  "name": "elementary",
+  "trans": [
+   "a. 基础的",
+   "词缀 -ary：形容词"
+  ]
+ },
+ {
+  "name": "honorary",
+  "trans": [
+   "a. 荣誉的",
+   "词缀 -ary：形容词"
+  ]
+ },
+ {
+  "name": "secretary",
+  "trans": [
+   "n. 秘书",
+   "词缀 -ary：名词，表示\"人/场所\""
+  ]
+ },
+ {
+  "name": "missionary",
+  "trans": [
+   "n. 传教士",
+   "词缀 -ary：名词，表示\"人/场所\""
+  ]
+ },
+ {
+  "name": "adversary",
+  "trans": [
+   "n. 对手",
+   "词缀 -ary：名词，表示\"人/场所\""
+  ]
+ },
+ {
+  "name": "luminary",
+  "trans": [
+   "n. 杰出人物",
+   "词缀 -ary：名词，表示\"人/场所\""
+  ]
+ },
+ {
+  "name": "enthusiast",
+  "trans": [
+   "n. 热衷者",
+   "词缀 -ast：名词，表示\"人\""
+  ]
+ },
+ {
+  "name": "gymnast",
+  "trans": [
+   "n. 体操运动员",
+   "词缀 -ast：名词，表示\"人\""
+  ]
+ },
+ {
+  "name": "scholiast",
+  "trans": [
+   "n. 注释者",
+   "词缀 -ast：名词，表示\"人\""
+  ]
+ },
+ {
+  "name": "ecdysiast",
+  "trans": [
+   "n. 脱衣舞女",
+   "词缀 -ast：名词，表示\"人\""
+  ]
+ },
+ {
+  "name": "poetaster",
+  "trans": [
+   "n. 蹩脚诗人",
+   "词缀 -aster：名词，表示\"劣质的人/物\""
+  ]
+ },
+ {
+  "name": "criticaster",
+  "trans": [
+   "n. 低劣批评家",
+   "词缀 -aster：名词，表示\"劣质的人/物\""
+  ]
+ },
+ {
+  "name": "philosophaster",
+  "trans": [
+   "n. 肤浅哲学家",
+   "词缀 -aster：名词，表示\"劣质的人/物\""
+  ]
+ },
+ {
+  "name": "medicaster",
+  "trans": [
+   "n. 庸医",
+   "词缀 -aster：名词，表示\"劣质的人/物\""
+  ]
+ },
+ {
+  "name": "politicaster",
+  "trans": [
+   "n. 政客",
+   "词缀 -aster：名词，表示\"劣质的人/物\""
+  ]
+ },
+ {
+  "name": "activate",
+  "trans": [
+   "v. 激活",
+   "词缀 -ate：动词，表示\"使成为\""
+  ]
+ },
+ {
+  "name": "demonstrate",
+  "trans": [
+   "v. 证明",
+   "词缀 -ate：动词，表示\"使成为\""
+  ]
+ },
+ {
+  "name": "motivate",
+  "trans": [
+   "v. 激励",
+   "词缀 -ate：动词，表示\"使成为\""
+  ]
+ },
+ {
+  "name": "communicate",
+  "trans": [
+   "v. 沟通",
+   "词缀 -ate：动词，表示\"使成为\""
+  ]
+ },
+ {
+  "name": "graduate",
+  "trans": [
+   "v./n. 毕业/毕业生",
+   "n. 毕业生",
+   "词缀 -ate：动词，表示\"使成为\"",
+   "词缀 -ate：名词，表示\"人/职位\""
+  ]
+ },
+ {
+  "name": "candidate",
+  "trans": [
+   "n. 候选人",
+   "词缀 -ate：名词，表示\"人/职位\""
+  ]
+ },
+ {
+  "name": "advocate",
+  "trans": [
+   "n. 倡导者",
+   "词缀 -ate：名词，表示\"人/职位\""
+  ]
+ },
+ {
+  "name": "delegate",
+  "trans": [
+   "n. 代表",
+   "词缀 -ate：名词，表示\"人/职位\""
+  ]
+ },
+ {
+  "name": "curate",
+  "trans": [
+   "n. 助理牧师",
+   "词缀 -ate：名词，表示\"人/职位\""
+  ]
+ },
+ {
+  "name": "dramatic",
+  "trans": [
+   "a. 戏剧性的",
+   "词缀 -atic：形容词",
+   "词缀 -tic：形容词"
+  ]
+ },
+ {
+  "name": "systematic",
+  "trans": [
+   "a. 系统性的",
+   "a. 系统的",
+   "词缀 -atic：形容词",
+   "词缀 -tic：形容词"
+  ]
+ },
+ {
+  "name": "problematic",
+  "trans": [
+   "a. 有问题的",
+   "词缀 -atic：形容词"
+  ]
+ },
+ {
+  "name": "idiomatic",
+  "trans": [
+   "a. 符合语言习惯的",
+   "词缀 -atic：形容词"
+  ]
+ },
+ {
+  "name": "charismatic",
+  "trans": [
+   "a. 有魅力的",
+   "词缀 -atic：形容词"
+  ]
+ },
+ {
+  "name": "education",
+  "trans": [
+   "n. 教育",
+   "词缀 -ation：名词，表示\"动作/状态/结果\"",
+   "词缀 -ion/-tion/-sion：名词，表示\"动作/状态/结果\""
+  ]
+ },
+ {
+  "name": "information",
+  "trans": [
+   "n. 信息",
+   "词缀 -ation：名词，表示\"动作/状态/结果\""
+  ]
+ },
+ {
+  "name": "organization",
+  "trans": [
+   "n. 组织",
+   "词缀 -ation：名词，表示\"动作/状态/结果\"",
+   "词缀 -ization：名词，表示\"...化\""
+  ]
+ },
+ {
+  "name": "celebration",
+  "trans": [
+   "n. 庆祝",
+   "词缀 -ation：名词，表示\"动作/状态/结果\""
+  ]
+ },
+ {
+  "name": "specialization",
+  "trans": [
+   "n. 专门化",
+   "词缀 -ation：名词，表示\"动作/状态/结果\""
+  ]
+ },
+ {
+  "name": "informative",
+  "trans": [
+   "a. 提供信息的",
+   "词缀 -ative：形容词"
+  ]
+ },
+ {
+  "name": "talkative",
+  "trans": [
+   "a. 健谈的",
+   "词缀 -ative：形容词"
+  ]
+ },
+ {
+  "name": "argumentative",
+  "trans": [
+   "a. 好辩的",
+   "词缀 -ative：形容词"
+  ]
+ },
+ {
+  "name": "imaginative",
+  "trans": [
+   "a. 富有想象力的",
+   "词缀 -ative：形容词"
+  ]
+ },
+ {
+  "name": "authoritative",
+  "trans": [
+   "a. 权威的",
+   "词缀 -ative：形容词"
+  ]
+ },
+ {
+  "name": "generator",
+  "trans": [
+   "n. 发电机",
+   "词缀 -ator：名词，表示\"做...的人/物\""
+  ]
+ },
+ {
+  "name": "spectator",
+  "trans": [
+   "n. 观众",
+   "词缀 -ator：名词，表示\"做...的人/物\""
+  ]
+ },
+ {
+  "name": "narrator",
+  "trans": [
+   "n. 叙述者",
+   "词缀 -ator：名词，表示\"做...的人/物\""
+  ]
+ },
+ {
+  "name": "curator",
+  "trans": [
+   "n. 馆长",
+   "词缀 -ator：名词，表示\"做...的人/物\""
+  ]
+ },
+ {
+  "name": "dictator",
+  "trans": [
+   "n. 独裁者",
+   "词缀 -ator：名词，表示\"做...的人/物\""
+  ]
+ },
+ {
+  "name": "observatory",
+  "trans": [
+   "n. 天文台",
+   "词缀 -atory：名词"
+  ]
+ },
+ {
+  "name": "laboratory",
+  "trans": [
+   "n. 实验室",
+   "词缀 -atory：名词",
+   "词缀 -ory：名词/形容词"
+  ]
+ },
+ {
+  "name": "lavatory",
+  "trans": [
+   "n. 厕所",
+   "词缀 -atory：名词"
+  ]
+ },
+ {
+  "name": "conservatory",
+  "trans": [
+   "n. 温室",
+   "词缀 -atory：名词"
+  ]
+ },
+ {
+  "name": "purgatory",
+  "trans": [
+   "n. 炼狱",
+   "词缀 -atory：名词"
+  ]
+ },
+ {
+  "name": "patience",
+  "trans": [
+   "n. 耐心",
+   "词缀 -ce：名词",
+   "词缀 -ence：名词"
+  ]
+ },
+ {
+  "name": "presence",
+  "trans": [
+   "n. 出席",
+   "词缀 -ce：名词"
+  ]
+ },
+ {
+  "name": "violence",
+  "trans": [
+   "n. 暴力",
+   "词缀 -ce：名词",
+   "词缀 -ence：名词"
+  ]
+ },
+ {
+  "name": "justice",
+  "trans": [
+   "n. 正义",
+   "词缀 -ce：名词",
+   "词缀 -ice：名词"
+  ]
+ },
+ {
+  "name": "service",
+  "trans": [
+   "n. 服务",
+   "词缀 -ce：名词",
+   "词缀 -ice：名词"
+  ]
+ },
+ {
+  "name": "article",
+  "trans": [
+   "n. 文章",
+   "词缀 -cle：名词，表示\"小\""
+  ]
+ },
+ {
+  "name": "particle",
+  "trans": [
+   "n. 粒子",
+   "词缀 -cle：名词，表示\"小\""
+  ]
+ },
+ {
+  "name": "miracle",
+  "trans": [
+   "n. 奇迹",
+   "词缀 -cle：名词，表示\"小\""
+  ]
+ },
+ {
+  "name": "tentacle",
+  "trans": [
+   "n. 触手",
+   "词缀 -cle：名词，表示\"小\""
+  ]
+ },
+ {
+  "name": "molecule",
+  "trans": [
+   "n. 分子",
+   "词缀 -cule：名词，表示\"小\""
+  ]
+ },
+ {
+  "name": "animalcule",
+  "trans": [
+   "n. 微生物",
+   "词缀 -cule：名词，表示\"小\""
+  ]
+ },
+ {
+  "name": "minuscule",
+  "trans": [
+   "a./n. 极小的/小写字母",
+   "词缀 -cule：名词，表示\"小\""
+  ]
+ },
+ {
+  "name": "monticule",
+  "trans": [
+   "n. 小丘",
+   "词缀 -cule：名词，表示\"小\""
+  ]
+ },
+ {
+  "name": "fascicule",
+  "trans": [
+   "n. 分册",
+   "词缀 -cule：名词，表示\"小\""
+  ]
+ },
+ {
+  "name": "privacy",
+  "trans": [
+   "n. 隐私",
+   "词缀 -cy：名词，表示\"状态/性质\""
+  ]
+ },
+ {
+  "name": "accuracy",
+  "trans": [
+   "n. 准确性",
+   "词缀 -cy：名词，表示\"状态/性质\""
+  ]
+ },
+ {
+  "name": "democracy",
+  "trans": [
+   "n. 民主",
+   "词缀 -cy：名词，表示\"状态/性质\""
+  ]
+ },
+ {
+  "name": "infancy",
+  "trans": [
+   "n. 婴儿期",
+   "词缀 -cy：名词，表示\"状态/性质\""
+  ]
+ },
+ {
+  "name": "prophecy",
+  "trans": [
+   "n. 预言",
+   "词缀 -cy：名词，表示\"状态/性质\""
+  ]
+ },
+ {
+  "name": "bankruptcy",
+  "trans": [
+   "n. 破产",
+   "词缀 -cy：名词"
+  ]
+ },
+ {
+  "name": "conspiracy",
+  "trans": [
+   "n. 阴谋",
+   "词缀 -cy：名词"
+  ]
+ },
+ {
+  "name": "legacy",
+  "trans": [
+   "n. 遗产",
+   "词缀 -cy：名词"
+  ]
+ },
+ {
+  "name": "piracy",
+  "trans": [
+   "n. 海盗行为",
+   "词缀 -cy：名词"
+  ]
+ },
+ {
+  "name": "supremacy",
+  "trans": [
+   "n. 至高无上",
+   "词缀 -cy：名词"
+  ]
+ },
+ {
+  "name": "freedom",
+  "trans": [
+   "n. 自由",
+   "词缀 -dom：名词，表示\"状态/领域\""
+  ]
+ },
+ {
+  "name": "kingdom",
+  "trans": [
+   "n. 王国",
+   "词缀 -dom：名词，表示\"状态/领域\""
+  ]
+ },
+ {
+  "name": "wisdom",
+  "trans": [
+   "n. 智慧",
+   "词缀 -dom：名词，表示\"状态/领域\""
+  ]
+ },
+ {
+  "name": "boredom",
+  "trans": [
+   "n. 无聊",
+   "词缀 -dom：名词，表示\"状态/领域\""
+  ]
+ },
+ {
+  "name": "officialdom",
+  "trans": [
+   "n. 官场",
+   "词缀 -dom：名词，表示\"状态/领域\""
+  ]
+ },
+ {
+  "name": "stardom",
+  "trans": [
+   "n. 明星地位",
+   "词缀 -dom：名词，表示\"状态/领域\""
+  ]
+ },
+ {
+  "name": "earldom",
+  "trans": [
+   "n. 伯爵爵位",
+   "词缀 -dom：名词，表示\"状态/领域\""
+  ]
+ },
+ {
+  "name": "dukedom",
+  "trans": [
+   "n. 公爵领地",
+   "词缀 -dom：名词，表示\"状态/领域\""
+  ]
+ },
+ {
+  "name": "martyrdom",
+  "trans": [
+   "n. 殉难",
+   "词缀 -dom：名词，表示\"状态/领域\""
+  ]
+ },
+ {
+  "name": "serfdom",
+  "trans": [
+   "n. 农奴制",
+   "词缀 -dom：名词，表示\"状态/领域\""
+  ]
+ },
+ {
+  "name": "European",
+  "trans": [
+   "n./a. 欧洲人/的",
+   "词缀 -ean：形容词/名词"
+  ]
+ },
+ {
+  "name": "Mediterranean",
+  "trans": [
+   "a./n. 地中海的/地中海",
+   "词缀 -ean：形容词/名词"
+  ]
+ },
+ {
+  "name": "subterranean",
+  "trans": [
+   "a. 地下的",
+   "词缀 -ean：形容词/名词"
+  ]
+ },
+ {
+  "name": "Epicurean",
+  "trans": [
+   "a./n. 享乐主义的/者",
+   "词缀 -ean：形容词/名词"
+  ]
+ },
+ {
+  "name": "Procrustean",
+  "trans": [
+   "a. 强求一致的",
+   "词缀 -ean：形容词/名词"
+  ]
+ },
+ {
+  "name": "appendectomy",
+  "trans": [
+   "n. 阑尾切除术",
+   "词缀 -ectomy：名词，表示\"切除术\""
+  ]
+ },
+ {
+  "name": "tonsillectomy",
+  "trans": [
+   "n. 扁桃体切除术",
+   "词缀 -ectomy：名词，表示\"切除术\""
+  ]
+ },
+ {
+  "name": "mastectomy",
+  "trans": [
+   "n. 乳房切除术",
+   "词缀 -ectomy：名词，表示\"切除术\""
+  ]
+ },
+ {
+  "name": "hysterectomy",
+  "trans": [
+   "n. 子宫切除术",
+   "词缀 -ectomy：名词，表示\"切除术\""
+  ]
+ },
+ {
+  "name": "lobectomy",
+  "trans": [
+   "n. 肺叶切除术",
+   "词缀 -ectomy：名词，表示\"切除术\""
+  ]
+ },
+ {
+  "name": "walked",
+  "trans": [
+   "v. 走过，过去式",
+   "词缀 -ed：形容词/动词过去式/过去分词"
+  ]
+ },
+ {
+  "name": "painted",
+  "trans": [
+   "a. 粉刷了的",
+   "词缀 -ed：形容词/动词过去式/过去分词"
+  ]
+ },
+ {
+  "name": "excited",
+  "trans": [
+   "a. 兴奋的",
+   "词缀 -ed：形容词/动词过去式/过去分词"
+  ]
+ },
+ {
+  "name": "interested",
+  "trans": [
+   "a. 感兴趣的",
+   "词缀 -ed：形容词/动词过去式/过去分词"
+  ]
+ },
+ {
+  "name": "unexpected",
+  "trans": [
+   "a. 意外的",
+   "词缀 -ed：形容词/动词过去式/过去分词"
+  ]
+ },
+ {
+  "name": "bearded",
+  "trans": [
+   "a. 有胡须的",
+   "词缀 -ed：形容词/动词过去式/过去分词"
+  ]
+ },
+ {
+  "name": "skilled",
+  "trans": [
+   "a. 熟练的",
+   "词缀 -ed：形容词/动词过去式/过去分词"
+  ]
+ },
+ {
+  "name": "moneyed",
+  "trans": [
+   "a. 有钱的",
+   "词缀 -ed：形容词/动词过去式/过去分词"
+  ]
+ },
+ {
+  "name": "privileged",
+  "trans": [
+   "a. 有特权的",
+   "词缀 -ed：形容词/动词过去式/过去分词"
+  ]
+ },
+ {
+  "name": "talented",
+  "trans": [
+   "a. 有才能的",
+   "词缀 -ed：形容词/动词过去式/过去分词"
+  ]
+ },
+ {
+  "name": "employee",
+  "trans": [
+   "n. 雇员",
+   "词缀 -ee：名词，表示\"受动者\""
+  ]
+ },
+ {
+  "name": "trainee",
+  "trans": [
+   "n. 学员",
+   "词缀 -ee：名词，表示\"受动者\""
+  ]
+ },
+ {
+  "name": "refugee",
+  "trans": [
+   "n. 难民",
+   "词缀 -ee：名词，表示\"受动者\""
+  ]
+ },
+ {
+  "name": "nominee",
+  "trans": [
+   "n. 被提名者",
+   "词缀 -ee：名词，表示\"受动者\""
+  ]
+ },
+ {
+  "name": "payee",
+  "trans": [
+   "n. 收款人",
+   "词缀 -ee：名词，表示\"受动者\""
+  ]
+ },
+ {
+  "name": "addressee",
+  "trans": [
+   "n. 收信人",
+   "词缀 -ee：名词，表示\"受动者\""
+  ]
+ },
+ {
+  "name": "consignee",
+  "trans": [
+   "n. 收货人",
+   "词缀 -ee：名词，表示\"受动者\""
+  ]
+ },
+ {
+  "name": "donee",
+  "trans": [
+   "n. 受赠人",
+   "词缀 -ee：名词，表示\"受动者\""
+  ]
+ },
+ {
+  "name": "mortgagee",
+  "trans": [
+   "n. 抵押权人",
+   "词缀 -ee：名词，表示\"受动者\""
+  ]
+ },
+ {
+  "name": "patentee",
+  "trans": [
+   "n. 专利权人",
+   "词缀 -ee：名词，表示\"受动者\""
+  ]
+ },
+ {
+  "name": "engineer",
+  "trans": [
+   "n. 工程师",
+   "词缀 -eer：名词，表示\"从事...的人\""
+  ]
+ },
+ {
+  "name": "volunteer",
+  "trans": [
+   "n. 志愿者",
+   "词缀 -eer：名词，表示\"从事...的人\""
+  ]
+ },
+ {
+  "name": "mountaineer",
+  "trans": [
+   "n. 登山者",
+   "词缀 -eer：名词，表示\"从事...的人\""
+  ]
+ },
+ {
+  "name": "profiteer",
+  "trans": [
+   "n. 投机商",
+   "词缀 -eer：名词，表示\"从事...的人\""
+  ]
+ },
+ {
+  "name": "racketeer",
+  "trans": [
+   "n. 诈骗者",
+   "词缀 -eer：名词，表示\"从事...的人\""
+  ]
+ },
+ {
+  "name": "academic",
+  "trans": [
+   "a./n. 学术的/学者",
+   "词缀 -emic：形容词"
+  ]
+ },
+ {
+  "name": "endemic",
+  "trans": [
+   "a./n. 地方性的/地方病",
+   "词缀 -emic：形容词"
+  ]
+ },
+ {
+  "name": "shorten",
+  "trans": [
+   "v. 缩短",
+   "词缀 -en：动词/形容词"
+  ]
+ },
+ {
+  "name": "strengthen",
+  "trans": [
+   "v. 加强",
+   "词缀 -en：动词/形容词"
+  ]
+ },
+ {
+  "name": "wooden",
+  "trans": [
+   "a. 木制的",
+   "词缀 -en：动词/形容词"
+  ]
+ },
+ {
+  "name": "golden",
+  "trans": [
+   "a. 金色的",
+   "词缀 -en：动词/形容词"
+  ]
+ },
+ {
+  "name": "darken",
+  "trans": [
+   "v. 变暗",
+   "词缀 -en：动词/形容词"
+  ]
+ },
+ {
+  "name": "broaden",
+  "trans": [
+   "v. 拓宽",
+   "词缀 -en：动词/形容词"
+  ]
+ },
+ {
+  "name": "awaken",
+  "trans": [
+   "v. 唤醒",
+   "词缀 -en：动词/形容词"
+  ]
+ },
+ {
+  "name": "quicken",
+  "trans": [
+   "v. 加快",
+   "词缀 -en：动词/形容词"
+  ]
+ },
+ {
+  "name": "hearten",
+  "trans": [
+   "v. 鼓励",
+   "词缀 -en：动词/形容词"
+  ]
+ },
+ {
+  "name": "listen",
+  "trans": [
+   "v. 倾听",
+   "词缀 -en：动词/形容词"
+  ]
+ },
+ {
+  "name": "confidence",
+  "trans": [
+   "n. 信心",
+   "词缀 -ence：名词"
+  ]
+ },
+ {
+  "name": "evidence",
+  "trans": [
+   "n. 证据",
+   "词缀 -ence：名词"
+  ]
+ },
+ {
+  "name": "silence",
+  "trans": [
+   "n. 安静",
+   "词缀 -ence：名词"
+  ]
+ },
+ {
+  "name": "efficiency",
+  "trans": [
+   "n. 效率",
+   "词缀 -ency：名词"
+  ]
+ },
+ {
+  "name": "tendency",
+  "trans": [
+   "n. 趋势",
+   "词缀 -ency：名词"
+  ]
+ },
+ {
+  "name": "presidency",
+  "trans": [
+   "n. 总统任期",
+   "词缀 -ency：名词"
+  ]
+ },
+ {
+  "name": "fluency",
+  "trans": [
+   "n. 流利",
+   "词缀 -ency：名词"
+  ]
+ },
+ {
+  "name": "latency",
+  "trans": [
+   "n. 潜伏期",
+   "词缀 -ency：名词"
+  ]
+ },
+ {
+  "name": "comedienne",
+  "trans": [
+   "n. 女喜剧演员",
+   "词缀 -enne：名词，表示\"女性\""
+  ]
+ },
+ {
+  "name": "tragedienne",
+  "trans": [
+   "n. 女悲剧演员",
+   "词缀 -enne：名词，表示\"女性\""
+  ]
+ },
+ {
+  "name": "equestrienne",
+  "trans": [
+   "n. 女骑手",
+   "词缀 -enne：名词，表示\"女性\""
+  ]
+ },
+ {
+  "name": "Parisienne",
+  "trans": [
+   "n. 巴黎女人",
+   "词缀 -enne：名词，表示\"女性\""
+  ]
+ },
+ {
+  "name": "doyenne",
+  "trans": [
+   "n. 女性前辈",
+   "词缀 -enne：名词，表示\"女性\""
+  ]
+ },
+ {
+  "name": "president",
+  "trans": [
+   "n. 总统",
+   "词缀 -ent：名词/形容词"
+  ]
+ },
+ {
+  "name": "resident",
+  "trans": [
+   "n. 居民",
+   "词缀 -ent：名词/形容词"
+  ]
+ },
+ {
+  "name": "agent",
+  "trans": [
+   "n. 代理人",
+   "词缀 -ent：名词/形容词"
+  ]
+ },
+ {
+  "name": "patient",
+  "trans": [
+   "n. 病人",
+   "词缀 -ent：名词/形容词"
+  ]
+ },
+ {
+  "name": "correspondent",
+  "trans": [
+   "n. 通讯员",
+   "词缀 -ent：名词/形容词"
+  ]
+ },
+ {
+  "name": "righteous",
+  "trans": [
+   "a. 正直的",
+   "词缀 -eous：形容词"
+  ]
+ },
+ {
+  "name": "courageous",
+  "trans": [
+   "a. 勇敢的",
+   "词缀 -eous：形容词",
+   "词缀 -ous：形容词，表示\"充满...的\""
+  ]
+ },
+ {
+  "name": "gorgeous",
+  "trans": [
+   "a. 华丽的",
+   "词缀 -eous：形容词"
+  ]
+ },
+ {
+  "name": "teacher",
+  "trans": [
+   "n. 老师",
+   "词缀 -er/-or：名词，表示\"人或物\""
+  ]
+ },
+ {
+  "name": "actor",
+  "trans": [
+   "n. 演员",
+   "词缀 -er/-or：名词，表示\"人或物\""
+  ]
+ },
+ {
+  "name": "driver",
+  "trans": [
+   "n. 司机",
+   "词缀 -er/-or：名词，表示\"人或物\""
+  ]
+ },
+ {
+  "name": "collector",
+  "trans": [
+   "n. 收藏家",
+   "词缀 -er/-or：名词，表示\"人或物\""
+  ]
+ },
+ {
+  "name": "brighter",
+  "trans": [
+   "a. 更明亮的",
+   "词缀 -er/-or：名词，表示\"人或物\""
+  ]
+ },
+ {
+  "name": "Londoner",
+  "trans": [
+   "n. 伦敦人",
+   "词缀 -er：名词，表示\"...地方的人\""
+  ]
+ },
+ {
+  "name": "villager",
+  "trans": [
+   "n. 村民",
+   "词缀 -er：名词，表示\"...地方的人\""
+  ]
+ },
+ {
+  "name": "teenager",
+  "trans": [
+   "n. 青少年",
+   "词缀 -er：名词，表示\"...地方的人\""
+  ]
+ },
+ {
+  "name": "foreigner",
+  "trans": [
+   "n. 外国人",
+   "词缀 -er：名词，表示\"...地方的人\""
+  ]
+ },
+ {
+  "name": "highlander",
+  "trans": [
+   "n. 高地人",
+   "词缀 -er：名词，表示\"...地方的人\""
+  ]
+ },
+ {
+  "name": "northern",
+  "trans": [
+   "a. 北方的",
+   "词缀 -ern：形容词/名词"
+  ]
+ },
+ {
+  "name": "western",
+  "trans": [
+   "a. 西方的",
+   "词缀 -ern：形容词/名词"
+  ]
+ },
+ {
+  "name": "eastern",
+  "trans": [
+   "a. 东方的",
+   "词缀 -ern：形容词/名词"
+  ]
+ },
+ {
+  "name": "southern",
+  "trans": [
+   "a. 南方的",
+   "词缀 -ern：形容词/名词"
+  ]
+ },
+ {
+  "name": "cavern",
+  "trans": [
+   "n. 大洞穴",
+   "词缀 -ern：形容词/名词"
+  ]
+ },
+ {
+  "name": "bakery",
+  "trans": [
+   "n. 面包店",
+   "词缀 -ery：名词，表示\"场所/行为/集合\""
+  ]
+ },
+ {
+  "name": "machinery",
+  "trans": [
+   "n. 机械",
+   "词缀 -ery：名词，表示\"场所/行为/集合\"",
+   "词缀 -ry：名词，表示\"集合/场所/行为\""
+  ]
+ },
+ {
+  "name": "robbery",
+  "trans": [
+   "n. 抢劫",
+   "词缀 -ery：名词，表示\"场所/行为/集合\""
+  ]
+ },
+ {
+  "name": "scenery",
+  "trans": [
+   "n. 风景",
+   "词缀 -ery：名词，表示\"场所/行为/集合\""
+  ]
+ },
+ {
+  "name": "trickery",
+  "trans": [
+   "n. 欺骗",
+   "词缀 -ery：名词，表示\"场所/行为/集合\""
+  ]
+ },
+ {
+  "name": "nursery",
+  "trans": [
+   "n. 托儿所",
+   "词缀 -ery：名词，表示\"场所/行为/集合\""
+  ]
+ },
+ {
+  "name": "pottery",
+  "trans": [
+   "n. 陶器",
+   "词缀 -ery：名词，表示\"场所/行为/集合\""
+  ]
+ },
+ {
+  "name": "surgery",
+  "trans": [
+   "n. 外科手术",
+   "词缀 -ery：名词，表示\"场所/行为/集合\""
+  ]
+ },
+ {
+  "name": "refinery",
+  "trans": [
+   "n. 精炼厂",
+   "词缀 -ery：名词，表示\"场所/行为/集合\""
+  ]
+ },
+ {
+  "name": "brewery",
+  "trans": [
+   "n. 啤酒厂",
+   "词缀 -ery：名词，表示\"场所/行为/集合\""
+  ]
+ },
+ {
+  "name": "adolescence",
+  "trans": [
+   "n. 青春期",
+   "词缀 -escence：名词，表示\"过程/状态\""
+  ]
+ },
+ {
+  "name": "luminescence",
+  "trans": [
+   "n. 发光",
+   "词缀 -escence：名词，表示\"过程/状态\""
+  ]
+ },
+ {
+  "name": "fluorescence",
+  "trans": [
+   "n. 荧光",
+   "词缀 -escence：名词，表示\"过程/状态\""
+  ]
+ },
+ {
+  "name": "phosphorescence",
+  "trans": [
+   "n. 磷光",
+   "词缀 -escence：名词，表示\"过程/状态\""
+  ]
+ },
+ {
+  "name": "effervescence",
+  "trans": [
+   "n. 冒泡",
+   "词缀 -escence：名词，表示\"过程/状态\""
+  ]
+ },
+ {
+  "name": "adolescent",
+  "trans": [
+   "a./n. 青春期的/青少年",
+   "词缀 -escent：形容词"
+  ]
+ },
+ {
+  "name": "luminescent",
+  "trans": [
+   "a. 发光的",
+   "词缀 -escent：形容词"
+  ]
+ },
+ {
+  "name": "fluorescent",
+  "trans": [
+   "a. 荧光的",
+   "词缀 -escent：形容词"
+  ]
+ },
+ {
+  "name": "phosphorescent",
+  "trans": [
+   "a. 发磷光的",
+   "词缀 -escent：形容词"
+  ]
+ },
+ {
+  "name": "effervescent",
+  "trans": [
+   "a. 冒泡的",
+   "词缀 -escent：形容词"
+  ]
+ },
+ {
+  "name": "Chinese",
+  "trans": [
+   "n./a. 中国人/中文/中国的",
+   "词缀 -ese：形容词/名词，表示\"...国的/人/语\""
+  ]
+ },
+ {
+  "name": "Japanese",
+  "trans": [
+   "n./a. 日本人/日文/日本的",
+   "词缀 -ese：形容词/名词，表示\"...国的/人/语\""
+  ]
+ },
+ {
+  "name": "Portuguese",
+  "trans": [
+   "n./a. 葡萄牙人/语/的",
+   "词缀 -ese：形容词/名词，表示\"...国的/人/语\""
+  ]
+ },
+ {
+  "name": "journalese",
+  "trans": [
+   "n. 新闻文体",
+   "词缀 -ese：形容词/名词，表示\"...国的/人/语\""
+  ]
+ },
+ {
+  "name": "officialese",
+  "trans": [
+   "n. 公文用语",
+   "词缀 -ese：形容词/名词，表示\"...国的/人/语\""
+  ]
+ },
+ {
+  "name": "computerese",
+  "trans": [
+   "n. 计算机术语",
+   "词缀 -ese：形容词/名词，表示\"...国的/人/语\""
+  ]
+ },
+ {
+  "name": "educationese",
+  "trans": [
+   "n. 教育界术语",
+   "词缀 -ese：形容词/名词，表示\"...国的/人/语\""
+  ]
+ },
+ {
+  "name": "picturesque",
+  "trans": [
+   "a. 如画的",
+   "词缀 -esque：形容词，表示\"...风格的\""
+  ]
+ },
+ {
+  "name": "statuesque",
+  "trans": [
+   "a. 雕塑般的",
+   "词缀 -esque：形容词，表示\"...风格的\""
+  ]
+ },
+ {
+  "name": "Kafkaesque",
+  "trans": [
+   "a. 卡夫卡风格的",
+   "词缀 -esque：形容词，表示\"...风格的\""
+  ]
+ },
+ {
+  "name": "grotesque",
+  "trans": [
+   "a. 怪诞的",
+   "词缀 -esque：形容词，表示\"...风格的\""
+  ]
+ },
+ {
+  "name": "arabesque",
+  "trans": [
+   "n./a. 阿拉伯式花纹/的",
+   "词缀 -esque：形容词，表示\"...风格的\""
+  ]
+ },
+ {
+  "name": "Romanesque",
+  "trans": [
+   "a. 罗马式的",
+   "词缀 -esque：形容词，表示\"...风格的\""
+  ]
+ },
+ {
+  "name": "Lincolnesque",
+  "trans": [
+   "a. 林肯风格的",
+   "词缀 -esque：形容词，表示\"...风格的\""
+  ]
+ },
+ {
+  "name": "actress",
+  "trans": [
+   "n. 女演员",
+   "词缀 -ess：名词，表示\"女性\""
+  ]
+ },
+ {
+  "name": "lioness",
+  "trans": [
+   "n. 母狮",
+   "词缀 -ess：名词，表示\"女性\""
+  ]
+ },
+ {
+  "name": "goddess",
+  "trans": [
+   "n. 女神",
+   "词缀 -ess：名词，表示\"女性\""
+  ]
+ },
+ {
+  "name": "waitress",
+  "trans": [
+   "n. 女服务员",
+   "词缀 -ess：名词，表示\"女性\""
+  ]
+ },
+ {
+  "name": "hostess",
+  "trans": [
+   "n. 女主人",
+   "词缀 -ess：名词，表示\"女性\""
+  ]
+ },
+ {
+  "name": "princess",
+  "trans": [
+   "n. 公主",
+   "词缀 -ess：名词，表示\"女性\""
+  ]
+ },
+ {
+  "name": "duchess",
+  "trans": [
+   "n. 公爵夫人",
+   "词缀 -ess：名词，表示\"女性\""
+  ]
+ },
+ {
+  "name": "countess",
+  "trans": [
+   "n. 伯爵夫人",
+   "词缀 -ess：名词，表示\"女性\""
+  ]
+ },
+ {
+  "name": "baroness",
+  "trans": [
+   "n. 男爵夫人",
+   "词缀 -ess：名词，表示\"女性\""
+  ]
+ },
+ {
+  "name": "mayoress",
+  "trans": [
+   "n. 女市长",
+   "词缀 -ess：名词，表示\"女性\""
+  ]
+ },
+ {
+  "name": "fastest",
+  "trans": [
+   "a./ad. 最快的/地",
+   "词缀 -est：形容词/副词最高级"
+  ]
+ },
+ {
+  "name": "happiest",
+  "trans": [
+   "a. 最快乐的",
+   "词缀 -est：形容词/副词最高级"
+  ]
+ },
+ {
+  "name": "biggest",
+  "trans": [
+   "a. 最大的",
+   "词缀 -est：形容词/副词最高级"
+  ]
+ },
+ {
+  "name": "coldest",
+  "trans": [
+   "a. 最冷的",
+   "词缀 -est：形容词/副词最高级"
+  ]
+ },
+ {
+  "name": "strongest",
+  "trans": [
+   "a. 最强壮的",
+   "词缀 -est：形容词/副词最高级"
+  ]
+ },
+ {
+  "name": "booklet",
+  "trans": [
+   "n. 小册子",
+   "词缀 -et：名词，表示\"小\"",
+   "词缀 -let：名词，表示\"小\""
+  ]
+ },
+ {
+  "name": "sonnet",
+  "trans": [
+   "n. 十四行诗",
+   "词缀 -et：名词，表示\"小\""
+  ]
+ },
+ {
+  "name": "trumpet",
+  "trans": [
+   "n. 小号",
+   "词缀 -et：名词，表示\"小\""
+  ]
+ },
+ {
+  "name": "banner",
+  "trans": [
+   "n. 旗帜",
+   "词缀 -et：名词，表示\"小\""
+  ]
+ },
+ {
+  "name": "pocket",
+  "trans": [
+   "n. 口袋",
+   "词缀 -et：名词，表示\"小\""
+  ]
+ },
+ {
+  "name": "energetic",
+  "trans": [
+   "a. 精力充沛的",
+   "词缀 -etic：形容词"
+  ]
+ },
+ {
+  "name": "sympathetic",
+  "trans": [
+   "a. 同情的",
+   "词缀 -etic：形容词"
+  ]
+ },
+ {
+  "name": "pathetic",
+  "trans": [
+   "a. 可怜的",
+   "词缀 -etic：形容词"
+  ]
+ },
+ {
+  "name": "aesthetic",
+  "trans": [
+   "a. 美学的",
+   "词缀 -etic：形容词"
+  ]
+ },
+ {
+  "name": "cigarette",
+  "trans": [
+   "n. 香烟",
+   "词缀 -ette：名词，表示\"小/女性\""
+  ]
+ },
+ {
+  "name": "kitchenette",
+  "trans": [
+   "n. 小厨房",
+   "词缀 -ette：名词，表示\"小/女性\""
+  ]
+ },
+ {
+  "name": "diskette",
+  "trans": [
+   "n. 软盘",
+   "词缀 -ette：名词，表示\"小/女性\""
+  ]
+ },
+ {
+  "name": "owlet",
+  "trans": [
+   "n. 小猫头鹰",
+   "词缀 -ette：名词，表示\"小/女性\""
+  ]
+ },
+ {
+  "name": "rosette",
+  "trans": [
+   "n. 玫瑰花结",
+   "词缀 -ette：名词，表示\"小/女性\""
+  ]
+ },
+ {
+  "name": "luncheonette",
+  "trans": [
+   "n. 便餐店",
+   "词缀 -ette：名词，表示\"小/女性\""
+  ]
+ },
+ {
+  "name": "statuette",
+  "trans": [
+   "n. 小雕像",
+   "词缀 -ette：名词，表示\"小/女性\""
+  ]
+ },
+ {
+  "name": "novelette",
+  "trans": [
+   "n. 中篇小说",
+   "词缀 -ette：名词，表示\"小/女性\""
+  ]
+ },
+ {
+  "name": "etiquette",
+  "trans": [
+   "n. 礼仪",
+   "词缀 -ette：名词，表示\"小/女性\""
+  ]
+ },
+ {
+  "name": "variety",
+  "trans": [
+   "n. 多样性",
+   "词缀 -ety：名词"
+  ]
+ },
+ {
+  "name": "anxiety",
+  "trans": [
+   "n. 焦虑",
+   "词缀 -ety：名词"
+  ]
+ },
+ {
+  "name": "society",
+  "trans": [
+   "n. 社会",
+   "词缀 -ety：名词"
+  ]
+ },
+ {
+  "name": "propriety",
+  "trans": [
+   "n. 得体",
+   "词缀 -ety：名词"
+  ]
+ },
+ {
+  "name": "notoriety",
+  "trans": [
+   "n. 臭名昭著",
+   "词缀 -ety：名词"
+  ]
+ },
+ {
+  "name": "amateur",
+  "trans": [
+   "n. 业余爱好者",
+   "词缀 -eur：名词，表示\"人\""
+  ]
+ },
+ {
+  "name": "entrepreneur",
+  "trans": [
+   "n. 企业家",
+   "词缀 -eur：名词，表示\"人\""
+  ]
+ },
+ {
+  "name": "connoisseur",
+  "trans": [
+   "n. 鉴赏家",
+   "词缀 -eur：名词，表示\"人\""
+  ]
+ },
+ {
+  "name": "poseur",
+  "trans": [
+   "n. 装模作样的人",
+   "词缀 -eur：名词，表示\"人\""
+  ]
+ },
+ {
+  "name": "liqueur",
+  "trans": [
+   "n. 利口酒",
+   "词缀 -eur：名词，表示\"人\""
+  ]
+ },
+ {
+  "name": "satisfaction",
+  "trans": [
+   "n. 满意",
+   "词缀 -faction：名词，表示\"形成/状态\""
+  ]
+ },
+ {
+  "name": "liquefaction",
+  "trans": [
+   "n. 液化",
+   "词缀 -faction：名词，表示\"形成/状态\""
+  ]
+ },
+ {
+  "name": "putrefaction",
+  "trans": [
+   "n. 腐烂",
+   "词缀 -faction：名词，表示\"形成/状态\""
+  ]
+ },
+ {
+  "name": "petrifaction",
+  "trans": [
+   "n. 石化",
+   "词缀 -faction：名词，表示\"形成/状态\""
+  ]
+ },
+ {
+  "name": "stupefaction",
+  "trans": [
+   "n. 目瞪口呆",
+   "词缀 -faction：名词，表示\"形成/状态\""
+  ]
+ },
+ {
+  "name": "scientific",
+  "trans": [
+   "a. 科学的",
+   "词缀 -fic：形容词"
+  ]
+ },
+ {
+  "name": "specific",
+  "trans": [
+   "a. 具体的",
+   "词缀 -fic：形容词",
+   "词缀 -ic：形容词，表示\"...的\""
+  ]
+ },
+ {
+  "name": "terrific",
+  "trans": [
+   "a. 极好的",
+   "词缀 -fic：形容词",
+   "词缀 -ic：形容词，表示\"...的\""
+  ]
+ },
+ {
+  "name": "horrific",
+  "trans": [
+   "a. 可怕的",
+   "词缀 -fic：形容词"
+  ]
+ },
+ {
+  "name": "prolific",
+  "trans": [
+   "a. 多产的",
+   "词缀 -fic：形容词"
+  ]
+ },
+ {
+  "name": "classification",
+  "trans": [
+   "n. 分类",
+   "词缀 -fication：名词，表示\"形成/...化\""
+  ]
+ },
+ {
+  "name": "identification",
+  "trans": [
+   "n. 识别",
+   "词缀 -fication：名词，表示\"形成/...化\""
+  ]
+ },
+ {
+  "name": "certification",
+  "trans": [
+   "n. 认证",
+   "词缀 -fication：名词，表示\"形成/...化\""
+  ]
+ },
+ {
+  "name": "notification",
+  "trans": [
+   "n. 通知",
+   "词缀 -fication：名词，表示\"形成/...化\""
+  ]
+ },
+ {
+  "name": "justification",
+  "trans": [
+   "n. 辩护",
+   "词缀 -fication：名词，表示\"形成/...化\""
+  ]
+ },
+ {
+  "name": "twofold",
+  "trans": [
+   "a./ad. 两倍的/地",
+   "词缀 -fold：形容词/副词，表示\"倍\""
+  ]
+ },
+ {
+  "name": "manifold",
+  "trans": [
+   "a. 多种多样的",
+   "词缀 -fold：形容词/副词，表示\"倍\""
+  ]
+ },
+ {
+  "name": "hundredfold",
+  "trans": [
+   "a./ad. 百倍的/地",
+   "词缀 -fold：形容词/副词，表示\"倍\""
+  ]
+ },
+ {
+  "name": "multifold",
+  "trans": [
+   "a. 多倍的",
+   "词缀 -fold：形容词/副词，表示\"倍\""
+  ]
+ },
+ {
+  "name": "tenfold",
+  "trans": [
+   "a./ad. 十倍的/地",
+   "词缀 -fold：形容词/副词，表示\"倍\""
+  ]
+ },
+ {
+  "name": "threefold",
+  "trans": [
+   "a./ad. 三倍的/地",
+   "词缀 -fold：形容词/副词，表示\"倍\""
+  ]
+ },
+ {
+  "name": "fourfold",
+  "trans": [
+   "a./ad. 四倍的/地",
+   "词缀 -fold：形容词/副词，表示\"倍\""
+  ]
+ },
+ {
+  "name": "fivefold",
+  "trans": [
+   "a./ad. 五倍的/地",
+   "词缀 -fold：形容词/副词，表示\"倍\""
+  ]
+ },
+ {
+  "name": "sixfold",
+  "trans": [
+   "a./ad. 六倍的/地",
+   "词缀 -fold：形容词/副词，表示\"倍\""
+  ]
+ },
+ {
+  "name": "platform",
+  "trans": [
+   "n. 平台",
+   "词缀 -form：形容词/名词"
+  ]
+ },
+ {
+  "name": "reform",
+  "trans": [
+   "v./n. 改革",
+   "词缀 -form：形容词/名词"
+  ]
+ },
+ {
+  "name": "transform",
+  "trans": [
+   "v. 转变",
+   "词缀 -form：形容词/名词"
+  ]
+ },
+ {
+  "name": "conform",
+  "trans": [
+   "v. 符合",
+   "词缀 -form：形容词/名词"
+  ]
+ },
+ {
+  "name": "beautiful",
+  "trans": [
+   "a. 美丽的",
+   "词缀 -ful：形容词，表示\"充满...的\""
+  ]
+ },
+ {
+  "name": "helpful",
+  "trans": [
+   "a. 有帮助的",
+   "词缀 -ful：形容词，表示\"充满...的\""
+  ]
+ },
+ {
+  "name": "thankful",
+  "trans": [
+   "a. 感激的",
+   "词缀 -ful：形容词，表示\"充满...的\""
+  ]
+ },
+ {
+  "name": "forgetful",
+  "trans": [
+   "a. 健忘的",
+   "词缀 -ful：形容词，表示\"充满...的\""
+  ]
+ },
+ {
+  "name": "spoonful",
+  "trans": [
+   "n. 一匙的量",
+   "词缀 -ful：形容词，表示\"充满...的\""
+  ]
+ },
+ {
+  "name": "simplify",
+  "trans": [
+   "v. 简化",
+   "词缀 -fy/-ify：动词，表示\"使成为\""
+  ]
+ },
+ {
+  "name": "beautify",
+  "trans": [
+   "v. 美化",
+   "词缀 -fy/-ify：动词，表示\"使成为\""
+  ]
+ },
+ {
+  "name": "classify",
+  "trans": [
+   "v. 分类",
+   "词缀 -fy/-ify：动词，表示\"使成为\""
+  ]
+ },
+ {
+  "name": "justify",
+  "trans": [
+   "v. 证明...有理",
+   "词缀 -fy/-ify：动词，表示\"使成为\""
+  ]
+ },
+ {
+  "name": "terrify",
+  "trans": [
+   "v. 恐吓",
+   "词缀 -fy/-ify：动词，表示\"使成为\""
+  ]
+ },
+ {
+  "name": "purify",
+  "trans": [
+   "v. 净化",
+   "词缀 -fy/-ify：动词，表示\"使成为\""
+  ]
+ },
+ {
+  "name": "intensify",
+  "trans": [
+   "v. 加强",
+   "词缀 -fy/-ify：动词，表示\"使成为\""
+  ]
+ },
+ {
+  "name": "horrify",
+  "trans": [
+   "v. 使恐惧",
+   "词缀 -fy/-ify：动词，表示\"使成为\""
+  ]
+ },
+ {
+  "name": "notify",
+  "trans": [
+   "v. 通知",
+   "词缀 -fy/-ify：动词，表示\"使成为\""
+  ]
+ },
+ {
+  "name": "testify",
+  "trans": [
+   "v. 作证",
+   "词缀 -fy/-ify：动词，表示\"使成为\""
+  ]
+ },
+ {
+  "name": "program",
+  "trans": [
+   "n. 程序",
+   "词缀 -gram：名词，表示\"书写物/图\""
+  ]
+ },
+ {
+  "name": "monogram",
+  "trans": [
+   "n. 字母组合",
+   "词缀 -gram：名词，表示\"书写物/图\""
+  ]
+ },
+ {
+  "name": "hologram",
+  "trans": [
+   "n. 全息图",
+   "词缀 -gram：名词，表示\"书写物/图\""
+  ]
+ },
+ {
+  "name": "photograph",
+  "trans": [
+   "n. 照片",
+   "词缀 -graph：名词，表示\"书写工具/记录\""
+  ]
+ },
+ {
+  "name": "telegraph",
+  "trans": [
+   "n. 电报",
+   "词缀 -graph：名词，表示\"书写工具/记录\""
+  ]
+ },
+ {
+  "name": "photography",
+  "trans": [
+   "n. 摄影术",
+   "词缀 -graphy：名词，表示\"书写法/学科\""
+  ]
+ },
+ {
+  "name": "calligraphy",
+  "trans": [
+   "n. 书法",
+   "词缀 -graphy：名词，表示\"书写法/学科\""
+  ]
+ },
+ {
+  "name": "polyhedron",
+  "trans": [
+   "n. 多面体",
+   "词缀 -hedron：名词，表示\"...面体\""
+  ]
+ },
+ {
+  "name": "dodecahedron",
+  "trans": [
+   "n. 十二面体",
+   "词缀 -hedron：名词，表示\"...面体\""
+  ]
+ },
+ {
+  "name": "childhood",
+  "trans": [
+   "n. 童年",
+   "词缀 -hood：名词，表示\"状态/时期\""
+  ]
+ },
+ {
+  "name": "brotherhood",
+  "trans": [
+   "n. 兄弟情谊",
+   "词缀 -hood：名词，表示\"状态/时期\""
+  ]
+ },
+ {
+  "name": "neighborhood",
+  "trans": [
+   "n. 邻里",
+   "词缀 -hood：名词，表示\"状态/时期\""
+  ]
+ },
+ {
+  "name": "motherhood",
+  "trans": [
+   "n. 母性",
+   "词缀 -hood：名词，表示\"状态/时期\""
+  ]
+ },
+ {
+  "name": "likelihood",
+  "trans": [
+   "n. 可能性",
+   "词缀 -hood：名词，表示\"状态/时期\""
+  ]
+ },
+ {
+  "name": "manhood",
+  "trans": [
+   "n. 成年男子",
+   "词缀 -hood：名词，表示\"状态/时期\""
+  ]
+ },
+ {
+  "name": "womanhood",
+  "trans": [
+   "n. 女子成年期",
+   "词缀 -hood：名词，表示\"状态/时期\""
+  ]
+ },
+ {
+  "name": "boyhood",
+  "trans": [
+   "n. 少年时代",
+   "词缀 -hood：名词，表示\"状态/时期\""
+  ]
+ },
+ {
+  "name": "girlhood",
+  "trans": [
+   "n. 少女时代",
+   "词缀 -hood：名词，表示\"状态/时期\""
+  ]
+ },
+ {
+  "name": "priesthood",
+  "trans": [
+   "n. 祭司职位",
+   "词缀 -hood：名词，表示\"状态/时期\""
+  ]
+ },
+ {
+  "name": "commercial",
+  "trans": [
+   "a. 商业的",
+   "词缀 -ial：形容词"
+  ]
+ },
+ {
+  "name": "financial",
+  "trans": [
+   "a. 金融的",
+   "词缀 -ial：形容词"
+  ]
+ },
+ {
+  "name": "industrial",
+  "trans": [
+   "a. 工业的",
+   "词缀 -ial：形容词"
+  ]
+ },
+ {
+  "name": "confidential",
+  "trans": [
+   "a. 机密的",
+   "词缀 -ial：形容词"
+  ]
+ },
+ {
+  "name": "essential",
+  "trans": [
+   "a. 必要的",
+   "词缀 -ial：形容词"
+  ]
+ },
+ {
+  "name": "physician",
+  "trans": [
+   "n. 内科医生",
+   "词缀 -ian：名词，表示\"专家/人\"",
+   "词缀 -ician：名词，表示\"专家/从业者\""
+  ]
+ },
+ {
+  "name": "technician",
+  "trans": [
+   "n. 技术员",
+   "词缀 -ian：名词，表示\"专家/人\"",
+   "词缀 -ician：名词，表示\"专家/从业者\""
+  ]
+ },
+ {
+  "name": "comedian",
+  "trans": [
+   "n. 喜剧演员",
+   "词缀 -ian：名词，表示\"专家/人\""
+  ]
+ },
+ {
+  "name": "pedestrian",
+  "trans": [
+   "n. 行人",
+   "词缀 -ian：名词，表示\"专家/人\""
+  ]
+ },
+ {
+  "name": "guardian",
+  "trans": [
+   "n. 监护人",
+   "词缀 -ian：名词，表示\"专家/人\""
+  ]
+ },
+ {
+  "name": "psoriasis",
+  "trans": [
+   "n. 牛皮癣",
+   "词缀 -iasis：名词，表示\"病态\""
+  ]
+ },
+ {
+  "name": "elephantiasis",
+  "trans": [
+   "n. 象皮病",
+   "词缀 -iasis：名词，表示\"病态\""
+  ]
+ },
+ {
+  "name": "amoebiasis",
+  "trans": [
+   "n. 阿米巴病",
+   "词缀 -iasis：名词，表示\"病态\""
+  ]
+ },
+ {
+  "name": "trichomoniasis",
+  "trans": [
+   "n. 滴虫病",
+   "词缀 -iasis：名词，表示\"病态\""
+  ]
+ },
+ {
+  "name": "candidiasis",
+  "trans": [
+   "n. 念珠菌病",
+   "词缀 -iasis：名词，表示\"病态\""
+  ]
+ },
+ {
+  "name": "psychiatric",
+  "trans": [
+   "a. 精神病学的",
+   "词缀 -iatric：形容词，表示\"医学的\""
+  ]
+ },
+ {
+  "name": "pediatric",
+  "trans": [
+   "a. 儿科的",
+   "词缀 -iatric：形容词，表示\"医学的\""
+  ]
+ },
+ {
+  "name": "geriatric",
+  "trans": [
+   "a. 老年医学的",
+   "词缀 -iatric：形容词，表示\"医学的\""
+  ]
+ },
+ {
+  "name": "podiatric",
+  "trans": [
+   "a. 足病学的",
+   "词缀 -iatric：形容词，表示\"医学的\""
+  ]
+ },
+ {
+  "name": "bariatric",
+  "trans": [
+   "a. 肥胖症治疗的",
+   "词缀 -iatric：形容词，表示\"医学的\""
+  ]
+ },
+ {
+  "name": "pediatrics",
+  "trans": [
+   "n. 儿科学",
+   "词缀 -iatrics：名词，表示\"医学分支\""
+  ]
+ },
+ {
+  "name": "geriatrics",
+  "trans": [
+   "n. 老年医学",
+   "词缀 -iatrics：名词，表示\"医学分支\""
+  ]
+ },
+ {
+  "name": "psychiatry",
+  "trans": [
+   "n. 精神病学",
+   "词缀 -iatrics：名词，表示\"医学分支\""
+  ]
+ },
+ {
+  "name": "podiatry",
+  "trans": [
+   "n. 足病学",
+   "词缀 -iatrics：名词，表示\"医学分支\""
+  ]
+ },
+ {
+  "name": "bariatrics",
+  "trans": [
+   "n. 肥胖症治疗学",
+   "词缀 -iatrics：名词，表示\"医学分支\""
+  ]
+ },
+ {
+  "name": "possibility",
+  "trans": [
+   "n. 可能性",
+   "词缀 -ibility：名词，表示\"可能性/能力\"",
+   "词缀 -ity/-ty：名词，表示\"性质/状态\""
+  ]
+ },
+ {
+  "name": "flexibility",
+  "trans": [
+   "n. 灵活性",
+   "词缀 -ibility：名词，表示\"可能性/能力\""
+  ]
+ },
+ {
+  "name": "visibility",
+  "trans": [
+   "n. 可见性",
+   "词缀 -ibility：名词，表示\"可能性/能力\""
+  ]
+ },
+ {
+  "name": "responsibility",
+  "trans": [
+   "n. 责任",
+   "词缀 -ibility：名词，表示\"可能性/能力\""
+  ]
+ },
+ {
+  "name": "compatibility",
+  "trans": [
+   "n. 兼容性",
+   "词缀 -ibility：名词，表示\"可能性/能力\""
+  ]
+ },
+ {
+  "name": "possible",
+  "trans": [
+   "a. 可能的",
+   "词缀 -ible：形容词"
+  ]
+ },
+ {
+  "name": "responsible",
+  "trans": [
+   "a. 负责的",
+   "词缀 -ible：形容词"
+  ]
+ },
+ {
+  "name": "compatible",
+  "trans": [
+   "a. 兼容的",
+   "词缀 -ible：形容词"
+  ]
+ },
+ {
+  "name": "poetic",
+  "trans": [
+   "a. 诗意的",
+   "词缀 -ic：形容词，表示\"...的\""
+  ]
+ },
+ {
+  "name": "classic",
+  "trans": [
+   "a. 经典的",
+   "词缀 -ic：形容词，表示\"...的\""
+  ]
+ },
+ {
+  "name": "historic",
+  "trans": [
+   "a. 历史性的",
+   "词缀 -ic：形容词，表示\"...的\""
+  ]
+ },
+ {
+  "name": "organic",
+  "trans": [
+   "a. 有机的",
+   "词缀 -ic：形容词，表示\"...的\""
+  ]
+ },
+ {
+  "name": "metallic",
+  "trans": [
+   "a. 金属的",
+   "词缀 -ic：形容词，表示\"...的\""
+  ]
+ },
+ {
+  "name": "heroic",
+  "trans": [
+   "a. 英雄的",
+   "词缀 -ic：形容词，表示\"...的\""
+  ]
+ },
+ {
+  "name": "scenic",
+  "trans": [
+   "a. 风景优美的",
+   "词缀 -ic：形容词，表示\"...的\""
+  ]
+ },
+ {
+  "name": "typical",
+  "trans": [
+   "a. 典型的",
+   "词缀 -ical：形容词"
+  ]
+ },
+ {
+  "name": "practical",
+  "trans": [
+   "a. 实际的",
+   "词缀 -ical：形容词"
+  ]
+ },
+ {
+  "name": "political",
+  "trans": [
+   "a. 政治的",
+   "词缀 -ical：形容词"
+  ]
+ },
+ {
+  "name": "historical",
+  "trans": [
+   "a. 历史的",
+   "词缀 -ical：形容词"
+  ]
+ },
+ {
+  "name": "economical",
+  "trans": [
+   "a. 节约的",
+   "词缀 -ical：形容词"
+  ]
+ },
+ {
+  "name": "practice",
+  "trans": [
+   "n. 实践",
+   "词缀 -ice：名词"
+  ]
+ },
+ {
+  "name": "office",
+  "trans": [
+   "n. 办公室",
+   "词缀 -ice：名词"
+  ]
+ },
+ {
+  "name": "prejudice",
+  "trans": [
+   "n. 偏见",
+   "词缀 -ice：名词"
+  ]
+ },
+ {
+  "name": "electrician",
+  "trans": [
+   "n. 电工",
+   "词缀 -ician：名词，表示\"专家/从业者\""
+  ]
+ },
+ {
+  "name": "beautician",
+  "trans": [
+   "n. 美容师",
+   "词缀 -ician：名词，表示\"专家/从业者\""
+  ]
+ },
+ {
+  "name": "electricity",
+  "trans": [
+   "n. 电",
+   "词缀 -icity：名词"
+  ]
+ },
+ {
+  "name": "publicity",
+  "trans": [
+   "n. 宣传",
+   "词缀 -icity：名词"
+  ]
+ },
+ {
+  "name": "simplicity",
+  "trans": [
+   "n. 简单",
+   "词缀 -icity：名词"
+  ]
+ },
+ {
+  "name": "authenticity",
+  "trans": [
+   "n. 真实性",
+   "词缀 -icity：名词"
+  ]
+ },
+ {
+  "name": "eccentricity",
+  "trans": [
+   "n. 古怪",
+   "词缀 -icity：名词"
+  ]
+ },
+ {
+  "name": "physics",
+  "trans": [
+   "n. 物理学",
+   "词缀 -ics：名词，表示\"学科\""
+  ]
+ },
+ {
+  "name": "mathematics",
+  "trans": [
+   "n. 数学",
+   "词缀 -ics：名词，表示\"学科\""
+  ]
+ },
+ {
+  "name": "economics",
+  "trans": [
+   "n. 经济学",
+   "词缀 -ics：名词，表示\"学科\""
+  ]
+ },
+ {
+  "name": "politics",
+  "trans": [
+   "n. 政治学",
+   "词缀 -ics：名词，表示\"学科\""
+  ]
+ },
+ {
+  "name": "genetics",
+  "trans": [
+   "n. 遗传学",
+   "词缀 -ics：名词，表示\"学科\""
+  ]
+ },
+ {
+  "name": "fluid",
+  "trans": [
+   "n./a. 流体/流动的",
+   "词缀 -id：形容词/名词"
+  ]
+ },
+ {
+  "name": "solid",
+  "trans": [
+   "n./a. 固体/固体的",
+   "词缀 -id：形容词/名词"
+  ]
+ },
+ {
+  "name": "humid",
+  "trans": [
+   "a. 潮湿的",
+   "词缀 -id：形容词/名词"
+  ]
+ },
+ {
+  "name": "valid",
+  "trans": [
+   "a. 有效的",
+   "词缀 -id：形容词/名词"
+  ]
+ },
+ {
+  "name": "splendid",
+  "trans": [
+   "a. 辉煌的",
+   "词缀 -id：形容词/名词"
+  ]
+ },
+ {
+  "name": "oxide",
+  "trans": [
+   "n. 氧化物",
+   "词缀 -ide：名词，表示\"化合物\""
+  ]
+ },
+ {
+  "name": "chloride",
+  "trans": [
+   "n. 氯化物",
+   "词缀 -ide：名词，表示\"化合物\""
+  ]
+ },
+ {
+  "name": "bromide",
+  "trans": [
+   "n. 溴化物",
+   "词缀 -ide：名词，表示\"化合物\""
+  ]
+ },
+ {
+  "name": "iodide",
+  "trans": [
+   "n. 碘化物",
+   "词缀 -ide：名词，表示\"化合物\""
+  ]
+ },
+ {
+  "name": "sulfide",
+  "trans": [
+   "n. 硫化物",
+   "词缀 -ide：名词，表示\"化合物\""
+  ]
+ },
+ {
+  "name": "cookie",
+  "trans": [
+   "n. 饼干",
+   "词缀 -ie：名词，表示\"小/亲昵\""
+  ]
+ },
+ {
+  "name": "movie",
+  "trans": [
+   "n. 电影",
+   "词缀 -ie：名词，表示\"小/亲昵\""
+  ]
+ },
+ {
+  "name": "rookie",
+  "trans": [
+   "n. 新手",
+   "词缀 -ie：名词，表示\"小/亲昵\""
+  ]
+ },
+ {
+  "name": "oldie",
+  "trans": [
+   "n. 老人/旧歌",
+   "词缀 -ie：名词，表示\"小/亲昵\""
+  ]
+ },
+ {
+  "name": "roomie",
+  "trans": [
+   "n. 室友",
+   "词缀 -ie：名词，表示\"小/亲昵\""
+  ]
+ },
+ {
+  "name": "cashier",
+  "trans": [
+   "n. 出纳员",
+   "词缀 -ier：名词"
+  ]
+ },
+ {
+  "name": "frontier",
+  "trans": [
+   "n. 边境",
+   "词缀 -ier：名词"
+  ]
+ },
+ {
+  "name": "barrier",
+  "trans": [
+   "n. 障碍",
+   "词缀 -ier：名词"
+  ]
+ },
+ {
+  "name": "carrier",
+  "trans": [
+   "n. 携带者",
+   "词缀 -ier：名词"
+  ]
+ },
+ {
+  "name": "glacier",
+  "trans": [
+   "n. 冰川",
+   "词缀 -ier：名词"
+  ]
+ },
+ {
+  "name": "missile",
+  "trans": [
+   "n. 导弹",
+   "词缀 -ile：形容词/名词"
+  ]
+ },
+ {
+  "name": "fertile",
+  "trans": [
+   "a. 肥沃的",
+   "词缀 -ile：形容词/名词"
+  ]
+ },
+ {
+  "name": "fragile",
+  "trans": [
+   "a. 易碎的",
+   "词缀 -ile：形容词/名词"
+  ]
+ },
+ {
+  "name": "mobile",
+  "trans": [
+   "a. 移动的",
+   "词缀 -ile：形容词/名词"
+  ]
+ },
+ {
+  "name": "hostile",
+  "trans": [
+   "a. 敌对的",
+   "词缀 -ile：形容词/名词"
+  ]
+ },
+ {
+  "name": "ability",
+  "trans": [
+   "n. 能力",
+   "词缀 -ility：名词"
+  ]
+ },
+ {
+  "name": "stability",
+  "trans": [
+   "n. 稳定性",
+   "词缀 -ility：名词"
+  ]
+ },
+ {
+  "name": "mobility",
+  "trans": [
+   "n. 流动性",
+   "词缀 -ility：名词"
+  ]
+ },
+ {
+  "name": "fertility",
+  "trans": [
+   "n. 肥沃",
+   "词缀 -ility：名词"
+  ]
+ },
+ {
+  "name": "fragility",
+  "trans": [
+   "n. 脆弱",
+   "词缀 -ility：名词"
+  ]
+ },
+ {
+  "name": "medicine",
+  "trans": [
+   "n. 医学",
+   "词缀 -ine：名词/形容词"
+  ]
+ },
+ {
+  "name": "routine",
+  "trans": [
+   "n./a. 常规/常规的",
+   "词缀 -ine：名词/形容词"
+  ]
+ },
+ {
+  "name": "gasoline",
+  "trans": [
+   "n. 汽油",
+   "词缀 -ine：名词/形容词"
+  ]
+ },
+ {
+  "name": "marine",
+  "trans": [
+   "a. 海洋的",
+   "词缀 -ine：名词/形容词"
+  ]
+ },
+ {
+  "name": "divine",
+  "trans": [
+   "a. 神圣的",
+   "词缀 -ine：名词/形容词"
+  ]
+ },
+ {
+  "name": "swimming",
+  "trans": [
+   "n./a. 游泳/游泳的",
+   "词缀 -ing：名词/形容词/现在分词"
+  ]
+ },
+ {
+  "name": "interesting",
+  "trans": [
+   "a. 有趣的",
+   "词缀 -ing：名词/形容词/现在分词"
+  ]
+ },
+ {
+  "name": "building",
+  "trans": [
+   "n. 建筑物",
+   "词缀 -ing：名词/形容词/现在分词"
+  ]
+ },
+ {
+  "name": "feeling",
+  "trans": [
+   "n. 感觉",
+   "词缀 -ing：名词/形容词/现在分词"
+  ]
+ },
+ {
+  "name": "surprising",
+  "trans": [
+   "a. 令人惊讶的",
+   "词缀 -ing：名词/形容词/现在分词"
+  ]
+ },
+ {
+  "name": "reading",
+  "trans": [
+   "n. 阅读",
+   "词缀 -ing：名词"
+  ]
+ },
+ {
+  "name": "writing",
+  "trans": [
+   "n. 写作",
+   "词缀 -ing：名词"
+  ]
+ },
+ {
+  "name": "meeting",
+  "trans": [
+   "n. 会议",
+   "词缀 -ing：名词"
+  ]
+ },
+ {
+  "name": "training",
+  "trans": [
+   "n. 培训",
+   "词缀 -ing：名词"
+  ]
+ },
+ {
+  "name": "clothing",
+  "trans": [
+   "n. 衣服",
+   "词缀 -ing：名词"
+  ]
+ },
+ {
+  "name": "action",
+  "trans": [
+   "n. 行动",
+   "词缀 -ion/-tion/-sion：名词，表示\"动作/状态/结果\""
+  ]
+ },
+ {
+  "name": "decision",
+  "trans": [
+   "n. 决定",
+   "词缀 -ion/-tion/-sion：名词，表示\"动作/状态/结果\""
+  ]
+ },
+ {
+  "name": "discussion",
+  "trans": [
+   "n. 讨论",
+   "词缀 -ion/-tion/-sion：名词，表示\"动作/状态/结果\""
+  ]
+ },
+ {
+  "name": "imagination",
+  "trans": [
+   "n. 想象",
+   "词缀 -ion/-tion/-sion：名词，表示\"动作/状态/结果\""
+  ]
+ },
+ {
+  "name": "fashion",
+  "trans": [
+   "n. 时尚",
+   "词缀 -ion/-tion/-sion：名词，表示\"动作/状态/结果\""
+  ]
+ },
+ {
+  "name": "passion",
+  "trans": [
+   "n. 激情",
+   "词缀 -ion/-tion/-sion：名词，表示\"动作/状态/结果\""
+  ]
+ },
+ {
+  "name": "mission",
+  "trans": [
+   "n. 使命",
+   "词缀 -ion/-tion/-sion：名词，表示\"动作/状态/结果\""
+  ]
+ },
+ {
+  "name": "vision",
+  "trans": [
+   "n. 视力",
+   "词缀 -ion/-tion/-sion：名词，表示\"动作/状态/结果\""
+  ]
+ },
+ {
+  "name": "session",
+  "trans": [
+   "n. 会议",
+   "词缀 -ion/-tion/-sion：名词，表示\"动作/状态/结果\""
+  ]
+ },
+ {
+  "name": "superior",
+  "trans": [
+   "a./n. 优越的/上级",
+   "词缀 -ior：形容词/名词"
+  ]
+ },
+ {
+  "name": "inferior",
+  "trans": [
+   "a./n. 较差的/下级",
+   "词缀 -ior：形容词/名词"
+  ]
+ },
+ {
+  "name": "junior",
+  "trans": [
+   "a./n. 年少的/下级",
+   "词缀 -ior：形容词/名词"
+  ]
+ },
+ {
+  "name": "senior",
+  "trans": [
+   "a./n. 年长的/上级",
+   "词缀 -ior：形容词/名词"
+  ]
+ },
+ {
+  "name": "ulterior",
+  "trans": [
+   "a. 隐秘的",
+   "词缀 -ior：形容词/名词"
+  ]
+ },
+ {
+  "name": "curious",
+  "trans": [
+   "a. 好奇的",
+   "词缀 -ious：形容词",
+   "词缀 -ous：形容词，表示\"充满...的\""
+  ]
+ },
+ {
+  "name": "serious",
+  "trans": [
+   "a. 严肃的",
+   "词缀 -ious：形容词"
+  ]
+ },
+ {
+  "name": "obvious",
+  "trans": [
+   "a. 明显的",
+   "词缀 -ious：形容词"
+  ]
+ },
+ {
+  "name": "previous",
+  "trans": [
+   "a. 先前的",
+   "词缀 -ious：形容词"
+  ]
+ },
+ {
+  "name": "various",
+  "trans": [
+   "a. 各种各样的",
+   "词缀 -ious：形容词"
+  ]
+ },
+ {
+  "name": "exercise",
+  "trans": [
+   "n./v. 练习",
+   "词缀 -ise：动词/名词"
+  ]
+ },
+ {
+  "name": "compromise",
+  "trans": [
+   "n./v. 妥协",
+   "词缀 -ise：动词/名词"
+  ]
+ },
+ {
+  "name": "despise",
+  "trans": [
+   "v. 鄙视",
+   "词缀 -ise：动词/名词"
+  ]
+ },
+ {
+  "name": "surprise",
+  "trans": [
+   "n./v. 惊讶/使惊讶",
+   "词缀 -ise：动词/名词"
+  ]
+ },
+ {
+  "name": "foolish",
+  "trans": [
+   "a. 愚蠢的",
+   "词缀 -ish：形容词，表示\"稍微...的/...民族的\""
+  ]
+ },
+ {
+  "name": "childish",
+  "trans": [
+   "a. 孩子气的",
+   "词缀 -ish：形容词，表示\"稍微...的/...民族的\""
+  ]
+ },
+ {
+  "name": "reddish",
+  "trans": [
+   "a. 略带红色的",
+   "词缀 -ish：形容词，表示\"稍微...的/...民族的\""
+  ]
+ },
+ {
+  "name": "British",
+  "trans": [
+   "a. 英国的",
+   "词缀 -ish：形容词，表示\"稍微...的/...民族的\""
+  ]
+ },
+ {
+  "name": "selfish",
+  "trans": [
+   "a. 自私的",
+   "词缀 -ish：形容词，表示\"稍微...的/...民族的\""
+  ]
+ },
+ {
+  "name": "publish",
+  "trans": [
+   "v. 出版",
+   "词缀 -ish：动词"
+  ]
+ },
+ {
+  "name": "finish",
+  "trans": [
+   "v. 完成",
+   "词缀 -ish：动词"
+  ]
+ },
+ {
+  "name": "punish",
+  "trans": [
+   "v. 惩罚",
+   "词缀 -ish：动词"
+  ]
+ },
+ {
+  "name": "vanish",
+  "trans": [
+   "v. 消失",
+   "词缀 -ish：动词"
+  ]
+ },
+ {
+  "name": "nourish",
+  "trans": [
+   "v. 滋养",
+   "词缀 -ish：动词"
+  ]
+ },
+ {
+  "name": "realism",
+  "trans": [
+   "n. 现实主义",
+   "词缀 -ism：名词，表示\"主义/学说/状态\""
+  ]
+ },
+ {
+  "name": "capitalism",
+  "trans": [
+   "n. 资本主义",
+   "词缀 -ism：名词，表示\"主义/学说/状态\""
+  ]
+ },
+ {
+  "name": "Buddhism",
+  "trans": [
+   "n. 佛教",
+   "词缀 -ism：名词，表示\"主义/学说/状态\""
+  ]
+ },
+ {
+  "name": "journalism",
+  "trans": [
+   "n. 新闻业",
+   "词缀 -ism：名词，表示\"主义/学说/状态\""
+  ]
+ },
+ {
+  "name": "criticism",
+  "trans": [
+   "n. 批评",
+   "词缀 -ism：名词，表示\"主义/学说/状态\""
+  ]
+ },
+ {
+  "name": "tourism",
+  "trans": [
+   "n. 旅游业",
+   "词缀 -ism：名词，表示\"主义/学说/状态\""
+  ]
+ },
+ {
+  "name": "artist",
+  "trans": [
+   "n. 艺术家",
+   "词缀 -ist：名词，表示\"主义者/从事者\""
+  ]
+ },
+ {
+  "name": "scientist",
+  "trans": [
+   "n. 科学家",
+   "词缀 -ist：名词，表示\"主义者/从事者\""
+  ]
+ },
+ {
+  "name": "pianist",
+  "trans": [
+   "n. 钢琴家",
+   "词缀 -ist：名词，表示\"主义者/从事者\""
+  ]
+ },
+ {
+  "name": "realist",
+  "trans": [
+   "n. 现实主义者",
+   "词缀 -ist：名词，表示\"主义者/从事者\""
+  ]
+ },
+ {
+  "name": "dentist",
+  "trans": [
+   "n. 牙医",
+   "词缀 -ist：名词，表示\"主义者/从事者\""
+  ]
+ },
+ {
+  "name": "journalist",
+  "trans": [
+   "n. 记者",
+   "词缀 -ist：名词，表示\"主义者/从事者\""
+  ]
+ },
+ {
+  "name": "novelist",
+  "trans": [
+   "n. 小说家",
+   "词缀 -ist：名词，表示\"主义者/从事者\""
+  ]
+ },
+ {
+  "name": "violinist",
+  "trans": [
+   "n. 小提琴手",
+   "词缀 -ist：名词，表示\"主义者/从事者\""
+  ]
+ },
+ {
+  "name": "receptionist",
+  "trans": [
+   "n. 接待员",
+   "词缀 -ist：名词，表示\"主义者/从事者\""
+  ]
+ },
+ {
+  "name": "minister",
+  "trans": [
+   "n. 部长",
+   "词缀 -ister：名词，表示“人”"
+  ]
+ },
+ {
+  "name": "spinster",
+  "trans": [
+   "n. 未婚女性",
+   "词缀 -ister：名词，表示“人”"
+  ]
+ },
+ {
+  "name": "barrister",
+  "trans": [
+   "n. 出庭律师",
+   "词缀 -ister：名词，表示“人”"
+  ]
+ },
+ {
+  "name": "chorister",
+  "trans": [
+   "n. 唱诗班成员",
+   "词缀 -ister：名词，表示“人”"
+  ]
+ },
+ {
+  "name": "palmister",
+  "trans": [
+   "n. 看手相者",
+   "词缀 -ister：名词，表示“人”"
+  ]
+ },
+ {
+  "name": "Israelite",
+  "trans": [
+   "n./a. 以色列人/的",
+   "词缀 -ite：名词"
+  ]
+ },
+ {
+  "name": "socialite",
+  "trans": [
+   "n. 社会名流",
+   "词缀 -ite：名词"
+  ]
+ },
+ {
+  "name": "graphite",
+  "trans": [
+   "n. 石墨",
+   "词缀 -ite：名词"
+  ]
+ },
+ {
+  "name": "favorite",
+  "trans": [
+   "n. 最爱",
+   "a./n. 最爱的/最爱",
+   "词缀 -ite：名词",
+   "词缀 -ite：形容词"
+  ]
+ },
+ {
+  "name": "opposite",
+  "trans": [
+   "n. 对立面",
+   "词缀 -ite：名词"
+  ]
+ },
+ {
+  "name": "definite",
+  "trans": [
+   "a. 明确的",
+   "词缀 -ite：形容词"
+  ]
+ },
+ {
+  "name": "infinite",
+  "trans": [
+   "a. 无限的",
+   "词缀 -ite：形容词"
+  ]
+ },
+ {
+  "name": "polite",
+  "trans": [
+   "a. 礼貌的",
+   "词缀 -ite：形容词"
+  ]
+ },
+ {
+  "name": "exquisite",
+  "trans": [
+   "a. 精致的",
+   "词缀 -ite：形容词"
+  ]
+ },
+ {
+  "name": "competition",
+  "trans": [
+   "n. 竞争",
+   "词缀 -ition：名词"
+  ]
+ },
+ {
+  "name": "exhibition",
+  "trans": [
+   "n. 展览",
+   "词缀 -ition：名词"
+  ]
+ },
+ {
+  "name": "addition",
+  "trans": [
+   "n. 增加",
+   "词缀 -ition：名词"
+  ]
+ },
+ {
+  "name": "definition",
+  "trans": [
+   "n. 定义",
+   "词缀 -ition：名词"
+  ]
+ },
+ {
+  "name": "recognition",
+  "trans": [
+   "n. 识别",
+   "词缀 -ition：名词"
+  ]
+ },
+ {
+  "name": "ambitious",
+  "trans": [
+   "a. 有雄心的",
+   "词缀 -itious：形容词",
+   "词缀 -tious：形容词"
+  ]
+ },
+ {
+  "name": "superstitious",
+  "trans": [
+   "a. 迷信的",
+   "词缀 -itious：形容词",
+   "词缀 -tious：形容词"
+  ]
+ },
+ {
+  "name": "fictitious",
+  "trans": [
+   "a. 虚构的",
+   "词缀 -itious：形容词",
+   "词缀 -tious：形容词"
+  ]
+ },
+ {
+  "name": "nutritious",
+  "trans": [
+   "a. 有营养的",
+   "词缀 -itious：形容词"
+  ]
+ },
+ {
+  "name": "expeditious",
+  "trans": [
+   "a. 迅速的",
+   "词缀 -itious：形容词"
+  ]
+ },
+ {
+  "name": "arthritis",
+  "trans": [
+   "n. 关节炎",
+   "词缀 -itis：名词，表示\"炎症\""
+  ]
+ },
+ {
+  "name": "bronchitis",
+  "trans": [
+   "n. 支气管炎",
+   "词缀 -itis：名词，表示\"炎症\""
+  ]
+ },
+ {
+  "name": "appendicitis",
+  "trans": [
+   "n. 阑尾炎",
+   "词缀 -itis：名词，表示\"炎症\""
+  ]
+ },
+ {
+  "name": "attitude",
+  "trans": [
+   "n. 态度",
+   "词缀 -itude：名词，表示\"状态\""
+  ]
+ },
+ {
+  "name": "altitude",
+  "trans": [
+   "n. 高度",
+   "词缀 -itude：名词，表示\"状态\""
+  ]
+ },
+ {
+  "name": "latitude",
+  "trans": [
+   "n. 纬度",
+   "词缀 -itude：名词，表示\"状态\""
+  ]
+ },
+ {
+  "name": "longitude",
+  "trans": [
+   "n. 经度",
+   "词缀 -itude：名词，表示\"状态\""
+  ]
+ },
+ {
+  "name": "multitude",
+  "trans": [
+   "n. 众多",
+   "词缀 -itude：名词，表示\"状态\"",
+   "词缀 -tude：名词，表示\"状态\""
+  ]
+ },
+ {
+  "name": "activity",
+  "trans": [
+   "n. 活动",
+   "词缀 -ity/-ty：名词，表示\"性质/状态\"",
+   "词缀 -ivity：名词"
+  ]
+ },
+ {
+  "name": "reality",
+  "trans": [
+   "n. 现实",
+   "词缀 -ity/-ty：名词，表示\"性质/状态\""
+  ]
+ },
+ {
+  "name": "certainty",
+  "trans": [
+   "n. 必然",
+   "词缀 -ity/-ty：名词，表示\"性质/状态\""
+  ]
+ },
+ {
+  "name": "generosity",
+  "trans": [
+   "n. 慷慨",
+   "词缀 -ity/-ty：名词，表示\"性质/状态\""
+  ]
+ },
+ {
+  "name": "equality",
+  "trans": [
+   "n. 平等",
+   "词缀 -ity/-ty：名词，表示\"性质/状态\""
+  ]
+ },
+ {
+  "name": "quality",
+  "trans": [
+   "n. 质量",
+   "词缀 -ity/-ty：名词，表示\"性质/状态\""
+  ]
+ },
+ {
+  "name": "quantity",
+  "trans": [
+   "n. 数量",
+   "词缀 -ity/-ty：名词，表示\"性质/状态\""
+  ]
+ },
+ {
+  "name": "diversity",
+  "trans": [
+   "n. 多样性",
+   "词缀 -ity/-ty：名词，表示\"性质/状态\""
+  ]
+ },
+ {
+  "name": "popularity",
+  "trans": [
+   "n. 受欢迎程度",
+   "词缀 -ity/-ty：名词，表示\"性质/状态\""
+  ]
+ },
+ {
+  "name": "active",
+  "trans": [
+   "a. 活跃的",
+   "词缀 -ive：形容词，表示\"有...性质的\""
+  ]
+ },
+ {
+  "name": "creative",
+  "trans": [
+   "a. 创造性的",
+   "词缀 -ive：形容词，表示\"有...性质的\""
+  ]
+ },
+ {
+  "name": "sensitive",
+  "trans": [
+   "a. 敏感的",
+   "词缀 -ive：形容词，表示\"有...性质的\""
+  ]
+ },
+ {
+  "name": "effective",
+  "trans": [
+   "a. 有效的",
+   "词缀 -ive：形容词，表示\"有...性质的\""
+  ]
+ },
+ {
+  "name": "native",
+  "trans": [
+   "n. 本地人",
+   "词缀 -ive：名词"
+  ]
+ },
+ {
+  "name": "relative",
+  "trans": [
+   "n. 亲戚",
+   "词缀 -ive：名词"
+  ]
+ },
+ {
+  "name": "alternative",
+  "trans": [
+   "n. 替代物, 选择",
+   "词缀 -ive：名词"
+  ]
+ },
+ {
+  "name": "creativity",
+  "trans": [
+   "n. 创造力",
+   "词缀 -ivity：名词"
+  ]
+ },
+ {
+  "name": "productivity",
+  "trans": [
+   "n. 生产力",
+   "词缀 -ivity：名词"
+  ]
+ },
+ {
+  "name": "sensitivity",
+  "trans": [
+   "n. 敏感性",
+   "词缀 -ivity：名词"
+  ]
+ },
+ {
+  "name": "relativity",
+  "trans": [
+   "n. 相对性",
+   "词缀 -ivity：名词"
+  ]
+ },
+ {
+  "name": "modernization",
+  "trans": [
+   "n. 现代化",
+   "词缀 -ization：名词，表示\"...化\""
+  ]
+ },
+ {
+  "name": "globalization",
+  "trans": [
+   "n. 全球化",
+   "词缀 -ization：名词，表示\"...化\""
+  ]
+ },
+ {
+  "name": "civilization",
+  "trans": [
+   "n. 文明",
+   "词缀 -ization：名词，表示\"...化\""
+  ]
+ },
+ {
+  "name": "industrialization",
+  "trans": [
+   "n. 工业化",
+   "词缀 -ization：名词，表示\"...化\""
+  ]
+ },
+ {
+  "name": "realize/realise",
+  "trans": [
+   "v. 意识到",
+   "词缀 -ize/-ise：动词，表示\"使成为/...化\""
+  ]
+ },
+ {
+  "name": "organize/organise",
+  "trans": [
+   "v. 组织",
+   "词缀 -ize/-ise：动词，表示\"使成为/...化\""
+  ]
+ },
+ {
+  "name": "modernize/modernise",
+  "trans": [
+   "v. 现代化",
+   "词缀 -ize/-ise：动词，表示\"使成为/...化\""
+  ]
+ },
+ {
+  "name": "apologize/apologise",
+  "trans": [
+   "v. 道歉",
+   "词缀 -ize/-ise：动词，表示\"使成为/...化\""
+  ]
+ },
+ {
+  "name": "specialize/specialise",
+  "trans": [
+   "v. 专门从事",
+   "词缀 -ize/-ise：动词，表示\"使成为/...化\""
+  ]
+ },
+ {
+  "name": "criticize",
+  "trans": [
+   "v. 批评",
+   "词缀 -ize/-ise：动词，表示\"使成为/...化\""
+  ]
+ },
+ {
+  "name": "emphasize",
+  "trans": [
+   "v. 强调",
+   "词缀 -ize/-ise：动词，表示\"使成为/...化\""
+  ]
+ },
+ {
+  "name": "summarize",
+  "trans": [
+   "v. 总结",
+   "词缀 -ize/-ise：动词，表示\"使成为/...化\""
+  ]
+ },
+ {
+  "name": "symbolize",
+  "trans": [
+   "v. 象征",
+   "词缀 -ize/-ise：动词，表示\"使成为/...化\""
+  ]
+ },
+ {
+  "name": "characterize",
+  "trans": [
+   "v. 描述...特征",
+   "词缀 -ize/-ise：动词，表示\"使成为/...化\""
+  ]
+ },
+ {
+  "name": "lambkin",
+  "trans": [
+   "n. 小羊羔",
+   "词缀 -kin：名词，表示\"小\""
+  ]
+ },
+ {
+  "name": "napkin",
+  "trans": [
+   "n. 餐巾",
+   "词缀 -kin：名词，表示\"小\""
+  ]
+ },
+ {
+  "name": "pumpkin",
+  "trans": [
+   "n. 南瓜",
+   "词缀 -kin：名词，表示\"小\""
+  ]
+ },
+ {
+  "name": "bodkin",
+  "trans": [
+   "n. 锥子",
+   "词缀 -kin：名词，表示\"小\""
+  ]
+ },
+ {
+  "name": "manikin",
+  "trans": [
+   "n. 人体模型",
+   "词缀 -kin：名词，表示\"小\""
+  ]
+ },
+ {
+  "name": "hopeless",
+  "trans": [
+   "a. 无望的",
+   "词缀 -less：形容词，表示\"没有...的\""
+  ]
+ },
+ {
+  "name": "fearless",
+  "trans": [
+   "a. 无畏的",
+   "词缀 -less：形容词，表示\"没有...的\""
+  ]
+ },
+ {
+  "name": "useless",
+  "trans": [
+   "a. 无用的",
+   "词缀 -less：形容词，表示\"没有...的\""
+  ]
+ },
+ {
+  "name": "careless",
+  "trans": [
+   "a. 粗心的",
+   "词缀 -less：形容词，表示\"没有...的\""
+  ]
+ },
+ {
+  "name": "endless",
+  "trans": [
+   "a. 无止境的",
+   "词缀 -less：形容词，表示\"没有...的\""
+  ]
+ },
+ {
+  "name": "homeless",
+  "trans": [
+   "a. 无家可归的",
+   "词缀 -less：形容词"
+  ]
+ },
+ {
+  "name": "jobless",
+  "trans": [
+   "a. 失业的",
+   "词缀 -less：形容词"
+  ]
+ },
+ {
+  "name": "childless",
+  "trans": [
+   "a. 无子女的",
+   "词缀 -less：形容词"
+  ]
+ },
+ {
+  "name": "wireless",
+  "trans": [
+   "a. 无线的",
+   "词缀 -less：形容词"
+  ]
+ },
+ {
+  "name": "priceless",
+  "trans": [
+   "a. 无价的",
+   "词缀 -less：形容词"
+  ]
+ },
+ {
+  "name": "leaflet",
+  "trans": [
+   "n. 传单",
+   "词缀 -let：名词，表示\"小\""
+  ]
+ },
+ {
+  "name": "piglet",
+  "trans": [
+   "n. 小猪",
+   "词缀 -let：名词，表示\"小\""
+  ]
+ },
+ {
+  "name": "ringlet",
+  "trans": [
+   "n. 小卷发",
+   "词缀 -let：名词，表示\"小\""
+  ]
+ },
+ {
+  "name": "starlet",
+  "trans": [
+   "n. 小明星",
+   "词缀 -let：名词，表示\"小\""
+  ]
+ },
+ {
+  "name": "childlike",
+  "trans": [
+   "a. 孩子般的",
+   "词缀 -like：形容词，表示\"像...的\""
+  ]
+ },
+ {
+  "name": "lifelike",
+  "trans": [
+   "a. 栩栩如生的",
+   "词缀 -like：形容词，表示\"像...的\""
+  ]
+ },
+ {
+  "name": "bell-like",
+  "trans": [
+   "a. 像铃的",
+   "词缀 -like：形容词，表示\"像...的\""
+  ]
+ },
+ {
+  "name": "sportsmanlike",
+  "trans": [
+   "a. 有运动员风度的",
+   "词缀 -like：形容词，表示\"像...的\""
+  ]
+ },
+ {
+  "name": "businesslike",
+  "trans": [
+   "a. 有条理的",
+   "词缀 -like：形容词，表示\"像...的\""
+  ]
+ },
+ {
+  "name": "godlike",
+  "trans": [
+   "a. 上帝般的",
+   "词缀 -like：形容词，表示\"像...的\""
+  ]
+ },
+ {
+  "name": "warlike",
+  "trans": [
+   "a. 好战的",
+   "词缀 -like：形容词，表示\"像...的\""
+  ]
+ },
+ {
+  "name": "homelike",
+  "trans": [
+   "a. 像家一样的",
+   "词缀 -like：形容词，表示\"像...的\""
+  ]
+ },
+ {
+  "name": "springlike",
+  "trans": [
+   "a. 如春天的",
+   "词缀 -like：形容词，表示\"像...的\""
+  ]
+ },
+ {
+  "name": "catlike",
+  "trans": [
+   "a. 像猫的",
+   "词缀 -like：形容词，表示\"像...的\""
+  ]
+ },
+ {
+  "name": "duckling",
+  "trans": [
+   "n. 小鸭子",
+   "词缀 -ling：名词，表示\"小/卑劣\""
+  ]
+ },
+ {
+  "name": "gosling",
+  "trans": [
+   "n. 小鹅",
+   "词缀 -ling：名词，表示\"小/卑劣\""
+  ]
+ },
+ {
+  "name": "fledgling",
+  "trans": [
+   "n. 刚会飞的鸟",
+   "词缀 -ling：名词，表示\"小/卑劣\""
+  ]
+ },
+ {
+  "name": "weakling",
+  "trans": [
+   "n. 弱者",
+   "词缀 -ling：名词，表示\"小/卑劣\""
+  ]
+ },
+ {
+  "name": "underling",
+  "trans": [
+   "n. 下属",
+   "词缀 -ling：名词，表示\"小/卑劣\""
+  ]
+ },
+ {
+  "name": "biological",
+  "trans": [
+   "a. 生物学的",
+   "词缀 -logical：形容词，表示\"...学的\""
+  ]
+ },
+ {
+  "name": "psychological",
+  "trans": [
+   "a. 心理学的",
+   "词缀 -logical：形容词，表示\"...学的\""
+  ]
+ },
+ {
+  "name": "logical",
+  "trans": [
+   "a. 合乎逻辑的",
+   "词缀 -logical：形容词，表示\"...学的\""
+  ]
+ },
+ {
+  "name": "geological",
+  "trans": [
+   "a. 地质学的",
+   "词缀 -logical：形容词，表示\"...学的\""
+  ]
+ },
+ {
+  "name": "sociological",
+  "trans": [
+   "a. 社会学的",
+   "词缀 -logical：形容词，表示\"...学的\""
+  ]
+ },
+ {
+  "name": "biologist",
+  "trans": [
+   "n. 生物学家",
+   "词缀 -logist：名词，表示\"...学家\"",
+   "词缀 -ologist：名词，表示\"...学家/专家\""
+  ]
+ },
+ {
+  "name": "psychologist",
+  "trans": [
+   "n. 心理学家",
+   "词缀 -logist：名词，表示\"...学家\"",
+   "词缀 -ologist：名词，表示\"...学家/专家\""
+  ]
+ },
+ {
+  "name": "geologist",
+  "trans": [
+   "n. 地质学家",
+   "词缀 -logist：名词，表示\"...学家\""
+  ]
+ },
+ {
+  "name": "sociologist",
+  "trans": [
+   "n. 社会学家",
+   "词缀 -logist：名词，表示\"...学家\""
+  ]
+ },
+ {
+  "name": "archaeologist",
+  "trans": [
+   "n. 考古学家",
+   "词缀 -logist：名词，表示\"...学家\"",
+   "词缀 -ologist：名词，表示\"...学家/专家\""
+  ]
+ },
+ {
+  "name": "psychology",
+  "trans": [
+   "n. 心理学",
+   "词缀 -logy：名词，表示\"...学/论\""
+  ]
+ },
+ {
+  "name": "technology",
+  "trans": [
+   "n. 技术",
+   "词缀 -logy：名词，表示\"...学/论\""
+  ]
+ },
+ {
+  "name": "sociology",
+  "trans": [
+   "n. 社会学",
+   "词缀 -logy：名词，表示\"...学/论\""
+  ]
+ },
+ {
+  "name": "etymology",
+  "trans": [
+   "n. 词源学",
+   "词缀 -logy：名词，表示\"...学/论\""
+  ]
+ },
+ {
+  "name": "criminology",
+  "trans": [
+   "n. 犯罪学",
+   "词缀 -logy：名词，表示\"...学/论\""
+  ]
+ },
+ {
+  "name": "quickly",
+  "trans": [
+   "ad. 快速地",
+   "词缀 -ly：副词/形容词"
+  ]
+ },
+ {
+  "name": "happily",
+  "trans": [
+   "ad. 快乐地",
+   "词缀 -ly：副词/形容词"
+  ]
+ },
+ {
+  "name": "friendly",
+  "trans": [
+   "a. 友好的",
+   "词缀 -ly：副词/形容词"
+  ]
+ },
+ {
+  "name": "timely",
+  "trans": [
+   "a. 及时的",
+   "词缀 -ly：副词/形容词"
+  ]
+ },
+ {
+  "name": "hourly",
+  "trans": [
+   "a./ad. 每小时的/地",
+   "词缀 -ly：副词/形容词"
+  ]
+ },
+ {
+  "name": "weekly",
+  "trans": [
+   "a./ad. 每周的/地",
+   "词缀 -ly：副词/形容词"
+  ]
+ },
+ {
+  "name": "monthly",
+  "trans": [
+   "a./ad. 每月的/地",
+   "词缀 -ly：副词/形容词"
+  ]
+ },
+ {
+  "name": "yearly",
+  "trans": [
+   "a./ad. 每年的/地",
+   "词缀 -ly：副词/形容词"
+  ]
+ },
+ {
+  "name": "daily",
+  "trans": [
+   "a./ad. 每天的/地",
+   "词缀 -ly：副词/形容词"
+  ]
+ },
+ {
+  "name": "costly",
+  "trans": [
+   "a. 昂贵的",
+   "词缀 -ly：副词/形容词"
+  ]
+ },
+ {
+  "name": "enjoyment",
+  "trans": [
+   "n. 享受",
+   "词缀 -ment：名词，表示\"行为/结果/状态\""
+  ]
+ },
+ {
+  "name": "agreement",
+  "trans": [
+   "n. 协议",
+   "词缀 -ment：名词，表示\"行为/结果/状态\""
+  ]
+ },
+ {
+  "name": "development",
+  "trans": [
+   "n. 发展",
+   "词缀 -ment：名词，表示\"行为/结果/状态\""
+  ]
+ },
+ {
+  "name": "government",
+  "trans": [
+   "n. 政府",
+   "词缀 -ment：名词，表示\"行为/结果/状态\""
+  ]
+ },
+ {
+  "name": "replacement",
+  "trans": [
+   "n. 替代",
+   "词缀 -ment：名词，表示\"行为/结果/状态\""
+  ]
+ },
+ {
+  "name": "payment",
+  "trans": [
+   "n. 支付",
+   "词缀 -ment：名词，表示\"行为/结果/状态\""
+  ]
+ },
+ {
+  "name": "treatment",
+  "trans": [
+   "n. 治疗",
+   "词缀 -ment：名词，表示\"行为/结果/状态\""
+  ]
+ },
+ {
+  "name": "statement",
+  "trans": [
+   "n. 陈述",
+   "词缀 -ment：名词，表示\"行为/结果/状态\""
+  ]
+ },
+ {
+  "name": "movement",
+  "trans": [
+   "n. 运动",
+   "词缀 -ment：名词，表示\"行为/结果/状态\""
+  ]
+ },
+ {
+  "name": "employment",
+  "trans": [
+   "n. 就业",
+   "词缀 -ment：名词，表示\"行为/结果/状态\""
+  ]
+ },
+ {
+  "name": "thermometer",
+  "trans": [
+   "n. 温度计",
+   "词缀 -meter：名词，表示\"测量仪/计\""
+  ]
+ },
+ {
+  "name": "speedometer",
+  "trans": [
+   "n. 速度计",
+   "词缀 -meter：名词，表示\"测量仪/计\""
+  ]
+ },
+ {
+  "name": "odometer",
+  "trans": [
+   "n. 里程表",
+   "词缀 -meter：名词，表示\"测量仪/计\""
+  ]
+ },
+ {
+  "name": "altimeter",
+  "trans": [
+   "n. 高度计",
+   "词缀 -meter：名词，表示\"测量仪/计\""
+  ]
+ },
+ {
+  "name": "symmetry",
+  "trans": [
+   "n. 对称",
+   "词缀 -metry：名词，表示\"测量学/法\""
+  ]
+ },
+ {
+  "name": "trigonometry",
+  "trans": [
+   "n. 三角学",
+   "词缀 -metry：名词，表示\"测量学/法\""
+  ]
+ },
+ {
+  "name": "thermometry",
+  "trans": [
+   "n. 测温学",
+   "词缀 -metry：名词，表示\"测量学/法\""
+  ]
+ },
+ {
+  "name": "almost",
+  "trans": [
+   "ad. 几乎",
+   "词缀 -most：形容词，表示\"最...\""
+  ]
+ },
+ {
+  "name": "foremost",
+  "trans": [
+   "a. 最重要的",
+   "词缀 -most：形容词，表示\"最...\""
+  ]
+ },
+ {
+  "name": "utmost",
+  "trans": [
+   "a. 极度的",
+   "词缀 -most：形容词，表示\"最...\""
+  ]
+ },
+ {
+  "name": "innermost",
+  "trans": [
+   "a. 最里面的",
+   "词缀 -most：形容词，表示\"最...\""
+  ]
+ },
+ {
+  "name": "outermost",
+  "trans": [
+   "a. 最外面的",
+   "词缀 -most：形容词，表示\"最...\""
+  ]
+ },
+ {
+  "name": "happiness",
+  "trans": [
+   "n. 幸福",
+   "词缀 -ness：名词，表示\"性质/状态\""
+  ]
+ },
+ {
+  "name": "kindness",
+  "trans": [
+   "n. 善良",
+   "词缀 -ness：名词，表示\"性质/状态\""
+  ]
+ },
+ {
+  "name": "darkness",
+  "trans": [
+   "n. 黑暗",
+   "词缀 -ness：名词，表示\"性质/状态\""
+  ]
+ },
+ {
+  "name": "weakness",
+  "trans": [
+   "n. 弱点",
+   "词缀 -ness：名词，表示\"性质/状态\""
+  ]
+ },
+ {
+  "name": "emptiness",
+  "trans": [
+   "n. 空虚",
+   "词缀 -ness：名词，表示\"性质/状态\""
+  ]
+ },
+ {
+  "name": "business",
+  "trans": [
+   "n. 商业",
+   "词缀 -ness：名词，表示\"性质/状态\""
+  ]
+ },
+ {
+  "name": "illness",
+  "trans": [
+   "n. 疾病",
+   "词缀 -ness：名词，表示\"性质/状态\""
+  ]
+ },
+ {
+  "name": "fitness",
+  "trans": [
+   "n. 健康",
+   "词缀 -ness：名词，表示\"性质/状态\""
+  ]
+ },
+ {
+  "name": "awareness",
+  "trans": [
+   "n. 意识",
+   "词缀 -ness：名词，表示\"性质/状态\""
+  ]
+ },
+ {
+  "name": "willingness",
+  "trans": [
+   "n. 意愿",
+   "词缀 -ness：名词，表示\"性质/状态\""
+  ]
+ },
+ {
+  "name": "beatnik",
+  "trans": [
+   "n. 垮掉的一代",
+   "词缀 -nik：名词，表示\"...的人\""
+  ]
+ },
+ {
+  "name": "folknik",
+  "trans": [
+   "n. 民谣爱好者",
+   "词缀 -nik：名词，表示\"...的人\""
+  ]
+ },
+ {
+  "name": "peacenik",
+  "trans": [
+   "n. 反战分子",
+   "词缀 -nik：名词，表示\"...的人\""
+  ]
+ },
+ {
+  "name": "computernik",
+  "trans": [
+   "n. 电脑迷",
+   "词缀 -nik：名词，表示\"...的人\""
+  ]
+ },
+ {
+  "name": "no-goodnik",
+  "trans": [
+   "n. 无用的人",
+   "词缀 -nik：名词，表示\"...的人\""
+  ]
+ },
+ {
+  "name": "hillock",
+  "trans": [
+   "n. 小丘",
+   "词缀 -ock：名词，表示\"小\""
+  ]
+ },
+ {
+  "name": "bullock",
+  "trans": [
+   "n. 小公牛",
+   "词缀 -ock：名词，表示\"小\""
+  ]
+ },
+ {
+  "name": "mattock",
+  "trans": [
+   "n. 鹤嘴锄",
+   "词缀 -ock：名词，表示\"小\""
+  ]
+ },
+ {
+  "name": "paddock",
+  "trans": [
+   "n. 围场",
+   "词缀 -ock：名词，表示\"小\""
+  ]
+ },
+ {
+  "name": "tussock",
+  "trans": [
+   "n. 草丛",
+   "词缀 -ock：名词，表示\"小\""
+  ]
+ },
+ {
+  "name": "humanoid",
+  "trans": [
+   "a./n. 类人的/类人生物",
+   "词缀 -oid：形容词/名词，表示\"似...的/体\""
+  ]
+ },
+ {
+  "name": "spheroid",
+  "trans": [
+   "n. 球体",
+   "词缀 -oid：形容词/名词，表示\"似...的/体\""
+  ]
+ },
+ {
+  "name": "celluloid",
+  "trans": [
+   "n. 赛璐珞",
+   "词缀 -oid：形容词/名词，表示\"似...的/体\""
+  ]
+ },
+ {
+  "name": "dermatologist",
+  "trans": [
+   "n. 皮肤科医生",
+   "词缀 -ologist：名词，表示\"...学家/专家\""
+  ]
+ },
+ {
+  "name": "oncology",
+  "trans": [
+   "n. 肿瘤学",
+   "词缀 -ology：名词，表示\"...学\""
+  ]
+ },
+ {
+  "name": "carcinoma",
+  "trans": [
+   "n. 癌",
+   "词缀 -oma：名词，表示\"肿瘤\""
+  ]
+ },
+ {
+  "name": "sarcoma",
+  "trans": [
+   "n. 肉瘤",
+   "词缀 -oma：名词，表示\"肿瘤\""
+  ]
+ },
+ {
+  "name": "melanoma",
+  "trans": [
+   "n. 黑色素瘤",
+   "词缀 -oma：名词，表示\"肿瘤\""
+  ]
+ },
+ {
+  "name": "lymphoma",
+  "trans": [
+   "n. 淋巴瘤",
+   "词缀 -oma：名词，表示\"肿瘤\""
+  ]
+ },
+ {
+  "name": "glaucoma",
+  "trans": [
+   "n. 青光眼",
+   "词缀 -oma：名词，表示\"肿瘤\""
+  ]
+ },
+ {
+  "name": "cartoon",
+  "trans": [
+   "n. 卡通",
+   "词缀 -oon：名词"
+  ]
+ },
+ {
+  "name": "balloon",
+  "trans": [
+   "n. 气球",
+   "词缀 -oon：名词"
+  ]
+ },
+ {
+  "name": "typhoon",
+  "trans": [
+   "n. 台风",
+   "词缀 -oon：名词"
+  ]
+ },
+ {
+  "name": "monsoon",
+  "trans": [
+   "n. 季风",
+   "词缀 -oon：名词"
+  ]
+ },
+ {
+  "name": "baboon",
+  "trans": [
+   "n. 狒狒",
+   "词缀 -oon：名词"
+  ]
+ },
+ {
+  "name": "doctor",
+  "trans": [
+   "n. 医生",
+   "词缀 -or：名词，表示\"人/物\""
+  ]
+ },
+ {
+  "name": "conductor",
+  "trans": [
+   "n. 指挥",
+   "词缀 -or：名词，表示\"人/物\""
+  ]
+ },
+ {
+  "name": "professor",
+  "trans": [
+   "n. 教授",
+   "词缀 -or：名词，表示\"人/物\""
+  ]
+ },
+ {
+  "name": "editor",
+  "trans": [
+   "n. 编辑",
+   "词缀 -or：名词，表示\"人/物\""
+  ]
+ },
+ {
+  "name": "inventor",
+  "trans": [
+   "n. 发明家",
+   "词缀 -or：名词，表示\"人/物\""
+  ]
+ },
+ {
+  "name": "factory",
+  "trans": [
+   "n. 工厂",
+   "词缀 -ory：名词/形容词"
+  ]
+ },
+ {
+  "name": "dormitory",
+  "trans": [
+   "n. 宿舍",
+   "词缀 -ory：名词/形容词"
+  ]
+ },
+ {
+  "name": "territory",
+  "trans": [
+   "n. 领土",
+   "词缀 -ory：名词/形容词"
+  ]
+ },
+ {
+  "name": "victory",
+  "trans": [
+   "n. 胜利",
+   "词缀 -ory：名词/形容词"
+  ]
+ },
+ {
+  "name": "glucose",
+  "trans": [
+   "n. 葡萄糖",
+   "词缀 -ose：形容词/名词"
+  ]
+ },
+ {
+  "name": "sucrose",
+  "trans": [
+   "n. 蔗糖",
+   "词缀 -ose：形容词/名词"
+  ]
+ },
+ {
+  "name": "fructose",
+  "trans": [
+   "n. 果糖",
+   "词缀 -ose：形容词/名词"
+  ]
+ },
+ {
+  "name": "lactose",
+  "trans": [
+   "n. 乳糖",
+   "词缀 -ose：形容词/名词"
+  ]
+ },
+ {
+  "name": "verbose",
+  "trans": [
+   "a. 冗长的",
+   "词缀 -ose：形容词/名词"
+  ]
+ },
+ {
+  "name": "tuberculosis",
+  "trans": [
+   "n. 肺结核",
+   "词缀 -osis：名词，表示\"状态/病变\""
+  ]
+ },
+ {
+  "name": "psychosis",
+  "trans": [
+   "n. 精神病",
+   "词缀 -osis：名词，表示\"状态/病变\""
+  ]
+ },
+ {
+  "name": "thrombosis",
+  "trans": [
+   "n. 血栓形成",
+   "词缀 -osis：名词，表示\"状态/病变\""
+  ]
+ },
+ {
+  "name": "hypnosis",
+  "trans": [
+   "n. 催眠状态",
+   "词缀 -osis：名词，表示\"状态/病变\""
+  ]
+ },
+ {
+  "name": "dangerous",
+  "trans": [
+   "a. 危险的",
+   "词缀 -ous：形容词，表示\"充满...的\""
+  ]
+ },
+ {
+  "name": "famous",
+  "trans": [
+   "a. 著名的",
+   "词缀 -ous：形容词，表示\"充满...的\""
+  ]
+ },
+ {
+  "name": "nervous",
+  "trans": [
+   "a. 紧张的",
+   "词缀 -ous：形容词，表示\"充满...的\""
+  ]
+ },
+ {
+  "name": "numerous",
+  "trans": [
+   "a. 许多的",
+   "词缀 -ous：形容词，表示\"充满...的\""
+  ]
+ },
+ {
+  "name": "generous",
+  "trans": [
+   "a. 慷慨的",
+   "词缀 -ous：形容词，表示\"充满...的\""
+  ]
+ },
+ {
+  "name": "prosperous",
+  "trans": [
+   "a. 繁荣的",
+   "词缀 -ous：形容词，表示\"充满...的\""
+  ]
+ },
+ {
+  "name": "ridiculous",
+  "trans": [
+   "a. 荒谬的",
+   "词缀 -ous：形容词，表示\"充满...的\""
+  ]
+ },
+ {
+  "name": "tremendous",
+  "trans": [
+   "a. 巨大的",
+   "词缀 -ous：形容词，表示\"充满...的\""
+  ]
+ },
+ {
+  "name": "waterproof",
+  "trans": [
+   "a. 防水的",
+   "词缀 -proof：形容词，表示\"防...的\""
+  ]
+ },
+ {
+  "name": "bulletproof",
+  "trans": [
+   "a. 防弹的",
+   "词缀 -proof：形容词，表示\"防...的\""
+  ]
+ },
+ {
+  "name": "fireproof",
+  "trans": [
+   "a. 防火的",
+   "词缀 -proof：形容词，表示\"防...的\""
+  ]
+ },
+ {
+  "name": "rustproof",
+  "trans": [
+   "a. 防锈的",
+   "词缀 -proof：形容词，表示\"防...的\""
+  ]
+ },
+ {
+  "name": "foolproof",
+  "trans": [
+   "a. 简单明了的",
+   "词缀 -proof：形容词，表示\"防...的\""
+  ]
+ },
+ {
+  "name": "soundproof",
+  "trans": [
+   "a. 隔音的",
+   "词缀 -proof：形容词，表示\"防...的\""
+  ]
+ },
+ {
+  "name": "poetry",
+  "trans": [
+   "n. 诗歌",
+   "词缀 -ry：名词，表示\"集合/场所/行为\""
+  ]
+ },
+ {
+  "name": "jewelry",
+  "trans": [
+   "n. 珠宝",
+   "词缀 -ry：名词，表示\"集合/场所/行为\""
+  ]
+ },
+ {
+  "name": "weaponry",
+  "trans": [
+   "n. 武器",
+   "词缀 -ry：名词，表示\"集合/场所/行为\""
+  ]
+ },
+ {
+  "name": "citizenry",
+  "trans": [
+   "n. 全体公民",
+   "词缀 -ry：名词，表示\"集合/场所/行为\""
+  ]
+ },
+ {
+  "name": "books",
+  "trans": [
+   "n. 书",
+   "词缀 -s：名词复数/动词第三人称"
+  ]
+ },
+ {
+  "name": "runs",
+  "trans": [
+   "v. 跑，第三人称单数",
+   "词缀 -s：名词复数/动词第三人称"
+  ]
+ },
+ {
+  "name": "cars",
+  "trans": [
+   "n. 汽车",
+   "词缀 -s：名词复数/动词第三人称"
+  ]
+ },
+ {
+  "name": "days",
+  "trans": [
+   "n. 日子",
+   "词缀 -s：名词复数/动词第三人称"
+  ]
+ },
+ {
+  "name": "works",
+  "trans": [
+   "n./v. 作品/工作",
+   "词缀 -s：名词复数/动词第三人称"
+  ]
+ },
+ {
+  "name": "friendship",
+  "trans": [
+   "n. 友谊",
+   "词缀 -ship：名词，表示\"状态/身份/技能\""
+  ]
+ },
+ {
+  "name": "leadership",
+  "trans": [
+   "n. 领导力",
+   "词缀 -ship：名词，表示\"状态/身份/技能\""
+  ]
+ },
+ {
+  "name": "citizenship",
+  "trans": [
+   "n. 公民身份",
+   "词缀 -ship：名词，表示\"状态/身份/技能\""
+  ]
+ },
+ {
+  "name": "scholarship",
+  "trans": [
+   "n. 奖学金",
+   "词缀 -ship：名词，表示\"状态/身份/技能\""
+  ]
+ },
+ {
+  "name": "partnership",
+  "trans": [
+   "n. 伙伴关系",
+   "词缀 -ship：名词，表示\"状态/身份/技能\""
+  ]
+ },
+ {
+  "name": "relationship",
+  "trans": [
+   "n. 关系",
+   "词缀 -ship：名词，表示\"状态/身份/技能\""
+  ]
+ },
+ {
+  "name": "membership",
+  "trans": [
+   "n. 会员资格",
+   "词缀 -ship：名词，表示\"状态/身份/技能\""
+  ]
+ },
+ {
+  "name": "ownership",
+  "trans": [
+   "n. 所有权",
+   "词缀 -ship：名词，表示\"状态/身份/技能\""
+  ]
+ },
+ {
+  "name": "internship",
+  "trans": [
+   "n. 实习",
+   "词缀 -ship：名词，表示\"状态/身份/技能\""
+  ]
+ },
+ {
+  "name": "championship",
+  "trans": [
+   "n. 锦标赛",
+   "词缀 -ship：名词，表示\"状态/身份/技能\""
+  ]
+ },
+ {
+  "name": "expansion",
+  "trans": [
+   "n. 扩张",
+   "词缀 -sion：名词"
+  ]
+ },
+ {
+  "name": "extension",
+  "trans": [
+   "n. 延伸",
+   "词缀 -sion：名词"
+  ]
+ },
+ {
+  "name": "comprehension",
+  "trans": [
+   "n. 理解",
+   "词缀 -sion：名词"
+  ]
+ },
+ {
+  "name": "suspension",
+  "trans": [
+   "n. 暂停",
+   "词缀 -sion：名词"
+  ]
+ },
+ {
+  "name": "diversion",
+  "trans": [
+   "n. 转移",
+   "词缀 -sion：名词"
+  ]
+ },
+ {
+  "name": "handsome",
+  "trans": [
+   "a. 英俊的",
+   "词缀 -some：形容词，表示\"引起...的/有...倾向的\""
+  ]
+ },
+ {
+  "name": "troublesome",
+  "trans": [
+   "a. 麻烦的",
+   "词缀 -some：形容词，表示\"引起...的/有...倾向的\""
+  ]
+ },
+ {
+  "name": "lonesome",
+  "trans": [
+   "a. 寂寞的",
+   "词缀 -some：形容词，表示\"引起...的/有...倾向的\""
+  ]
+ },
+ {
+  "name": "awesome",
+  "trans": [
+   "a. 令人敬畏的",
+   "词缀 -some：形容词，表示\"引起...的/有...倾向的\""
+  ]
+ },
+ {
+  "name": "wholesome",
+  "trans": [
+   "a. 有益健康的",
+   "词缀 -some：形容词，表示\"引起...的/有...倾向的\""
+  ]
+ },
+ {
+  "name": "tiresome",
+  "trans": [
+   "a. 令人厌倦的",
+   "词缀 -some：形容词，表示\"引起...的/有...倾向的\""
+  ]
+ },
+ {
+  "name": "gangster",
+  "trans": [
+   "n. 歹徒",
+   "词缀 -ster：名词，表示\"做...的人\""
+  ]
+ },
+ {
+  "name": "youngster",
+  "trans": [
+   "n. 年轻人",
+   "词缀 -ster：名词，表示\"做...的人\""
+  ]
+ },
+ {
+  "name": "songster",
+  "trans": [
+   "n. 歌手",
+   "词缀 -ster：名词，表示\"做...的人\""
+  ]
+ },
+ {
+  "name": "trickster",
+  "trans": [
+   "n. 骗子",
+   "词缀 -ster：名词，表示\"做...的人\""
+  ]
+ },
+ {
+  "name": "oldster",
+  "trans": [
+   "n. 老人",
+   "词缀 -ster：名词，表示\"做...的人\""
+  ]
+ },
+ {
+  "name": "warmth",
+  "trans": [
+   "n. 温暖",
+   "词缀 -th：名词，表示\"状态/过程\""
+  ]
+ },
+ {
+  "name": "length",
+  "trans": [
+   "n. 长度",
+   "词缀 -th：名词，表示\"状态/过程\""
+  ]
+ },
+ {
+  "name": "strength",
+  "trans": [
+   "n. 力量",
+   "词缀 -th：名词，表示\"状态/过程\""
+  ]
+ },
+ {
+  "name": "truth",
+  "trans": [
+   "n. 真相",
+   "词缀 -th：名词，表示\"状态/过程\""
+  ]
+ },
+ {
+  "name": "depth",
+  "trans": [
+   "n. 深度",
+   "词缀 -th：名词，表示\"状态/过程\""
+  ]
+ },
+ {
+  "name": "birth",
+  "trans": [
+   "n. 出生",
+   "词缀 -th：名词，表示\"状态/过程\""
+  ]
+ },
+ {
+  "name": "death",
+  "trans": [
+   "n. 死亡",
+   "词缀 -th：名词，表示\"状态/过程\""
+  ]
+ },
+ {
+  "name": "growth",
+  "trans": [
+   "n. 成长",
+   "词缀 -th：名词，表示\"状态/过程\""
+  ]
+ },
+ {
+  "name": "health",
+  "trans": [
+   "n. 健康",
+   "词缀 -th：名词，表示\"状态/过程\""
+  ]
+ },
+ {
+  "name": "wealth",
+  "trans": [
+   "n. 财富",
+   "词缀 -th：名词，表示\"状态/过程\""
+  ]
+ },
+ {
+  "name": "romantic",
+  "trans": [
+   "a. 浪漫的",
+   "词缀 -tic：形容词"
+  ]
+ },
+ {
+  "name": "democratic",
+  "trans": [
+   "a. 民主的",
+   "词缀 -tic：形容词"
+  ]
+ },
+ {
+  "name": "attention",
+  "trans": [
+   "n. 注意",
+   "词缀 -tion：名词"
+  ]
+ },
+ {
+  "name": "intention",
+  "trans": [
+   "n. 意图",
+   "词缀 -tion：名词"
+  ]
+ },
+ {
+  "name": "convention",
+  "trans": [
+   "n. 大会",
+   "词缀 -tion：名词"
+  ]
+ },
+ {
+  "name": "invention",
+  "trans": [
+   "n. 发明",
+   "词缀 -tion：名词"
+  ]
+ },
+ {
+  "name": "suggestion",
+  "trans": [
+   "n. 建议",
+   "词缀 -tion：名词"
+  ]
+ },
+ {
+  "name": "cautious",
+  "trans": [
+   "a. 谨慎的",
+   "词缀 -tious：形容词"
+  ]
+ },
+ {
+  "name": "infectious",
+  "trans": [
+   "a. 传染的",
+   "词缀 -tious：形容词"
+  ]
+ },
+ {
+  "name": "gratitude",
+  "trans": [
+   "n. 感激",
+   "词缀 -tude：名词，表示\"状态\""
+  ]
+ },
+ {
+  "name": "solitude",
+  "trans": [
+   "n. 孤独",
+   "词缀 -tude：名词，表示\"状态\""
+  ]
+ },
+ {
+  "name": "magnitude",
+  "trans": [
+   "n. 巨大",
+   "词缀 -tude：名词，表示\"状态\""
+  ]
+ },
+ {
+  "name": "aptitude",
+  "trans": [
+   "n. 天资",
+   "词缀 -tude：名词，表示\"状态\""
+  ]
+ },
+ {
+  "name": "safety",
+  "trans": [
+   "n. 安全",
+   "词缀 -ty：名词"
+  ]
+ },
+ {
+  "name": "loyalty",
+  "trans": [
+   "n. 忠诚",
+   "词缀 -ty：名词"
+  ]
+ },
+ {
+  "name": "royalty",
+  "trans": [
+   "n. 皇室",
+   "词缀 -ty：名词"
+  ]
+ },
+ {
+  "name": "cruelty",
+  "trans": [
+   "n. 残忍",
+   "词缀 -ty：名词"
+  ]
+ },
+ {
+  "name": "penalty",
+  "trans": [
+   "n. 惩罚",
+   "词缀 -ty：名词"
+  ]
+ },
+ {
+  "name": "circular",
+  "trans": [
+   "a. 圆形的",
+   "词缀 -ular：形容词"
+  ]
+ },
+ {
+  "name": "particular",
+  "trans": [
+   "a. 特定的",
+   "词缀 -ular：形容词"
+  ]
+ },
+ {
+  "name": "regular",
+  "trans": [
+   "a. 规则的",
+   "词缀 -ular：形容词"
+  ]
+ },
+ {
+  "name": "cellular",
+  "trans": [
+   "a. 细胞的",
+   "词缀 -ular：形容词"
+  ]
+ },
+ {
+  "name": "capsule",
+  "trans": [
+   "n. 胶囊",
+   "词缀 -ule：名词，表示\"小\""
+  ]
+ },
+ {
+  "name": "module",
+  "trans": [
+   "n. 模块",
+   "词缀 -ule：名词，表示\"小\""
+  ]
+ },
+ {
+  "name": "globule",
+  "trans": [
+   "n. 小球体",
+   "词缀 -ule：名词，表示\"小\""
+  ]
+ },
+ {
+  "name": "granule",
+  "trans": [
+   "n. 颗粒",
+   "词缀 -ule：名词，表示\"小\""
+  ]
+ },
+ {
+  "name": "nodule",
+  "trans": [
+   "n. 小结节",
+   "词缀 -ule：名词，表示\"小\""
+  ]
+ },
+ {
+  "name": "continuous",
+  "trans": [
+   "a. 连续的",
+   "词缀 -uous：形容词"
+  ]
+ },
+ {
+  "name": "conspicuous",
+  "trans": [
+   "a. 显眼的",
+   "词缀 -uous：形容词"
+  ]
+ },
+ {
+  "name": "strenuous",
+  "trans": [
+   "a. 费力的",
+   "词缀 -uous：形容词"
+  ]
+ },
+ {
+  "name": "contemptuous",
+  "trans": [
+   "a. 轻蔑的",
+   "词缀 -uous：形容词"
+  ]
+ },
+ {
+  "name": "pleasure",
+  "trans": [
+   "n. 快乐",
+   "词缀 -ure：名词，表示\"动作/结果/状态\""
+  ]
+ },
+ {
+  "name": "pressure",
+  "trans": [
+   "n. 压力",
+   "词缀 -ure：名词，表示\"动作/结果/状态\""
+  ]
+ },
+ {
+  "name": "failure",
+  "trans": [
+   "n. 失败",
+   "词缀 -ure：名词，表示\"动作/结果/状态\""
+  ]
+ },
+ {
+  "name": "closure",
+  "trans": [
+   "n. 关闭",
+   "词缀 -ure：名词，表示\"动作/结果/状态\""
+  ]
+ },
+ {
+  "name": "exposure",
+  "trans": [
+   "n. 暴露",
+   "词缀 -ure：名词，表示\"动作/结果/状态\""
+  ]
+ },
+ {
+  "name": "forward",
+  "trans": [
+   "ad. 向前",
+   "词缀 -ward：形容词/副词，表示\"向...的/地\"",
+   "词缀 -ward：介词/副词"
+  ]
+ },
+ {
+  "name": "backward",
+  "trans": [
+   "ad. 向后",
+   "词缀 -ward：形容词/副词，表示\"向...的/地\"",
+   "词缀 -ward：介词/副词"
+  ]
+ },
+ {
+  "name": "upward",
+  "trans": [
+   "ad. 向上",
+   "词缀 -ward：形容词/副词，表示\"向...的/地\""
+  ]
+ },
+ {
+  "name": "homeward",
+  "trans": [
+   "ad./a. 向家/的",
+   "词缀 -ward：形容词/副词，表示\"向...的/地\""
+  ]
+ },
+ {
+  "name": "afterward",
+  "trans": [
+   "ad. 之后",
+   "词缀 -ward：形容词/副词，表示\"向...的/地\""
+  ]
+ },
+ {
+  "name": "toward",
+  "trans": [
+   "prep. 向",
+   "词缀 -ward：介词/副词"
+  ]
+ },
+ {
+  "name": "outward",
+  "trans": [
+   "ad. 向外",
+   "词缀 -ward：介词/副词"
+  ]
+ },
+ {
+  "name": "inward",
+  "trans": [
+   "ad. 向内",
+   "词缀 -ward：介词/副词"
+  ]
+ },
+ {
+  "name": "afterwards",
+  "trans": [
+   "ad. 之后",
+   "词缀 -wards：副词，表示\"向...\""
+  ]
+ },
+ {
+  "name": "towards",
+  "trans": [
+   "prep. 向",
+   "词缀 -wards：副词，表示\"向...\""
+  ]
+ },
+ {
+  "name": "upwards",
+  "trans": [
+   "ad. 向上",
+   "词缀 -wards：副词，表示\"向...\""
+  ]
+ },
+ {
+  "name": "downwards",
+  "trans": [
+   "ad. 向下",
+   "词缀 -wards：副词，表示\"向...\""
+  ]
+ },
+ {
+  "name": "onwards",
+  "trans": [
+   "ad. 向前",
+   "词缀 -wards：副词，表示\"向...\""
+  ]
+ },
+ {
+  "name": "clockwise",
+  "trans": [
+   "ad./a. 顺时针方向/的",
+   "词缀 -wise：副词/形容词，表示\"方向/方面/方式\""
+  ]
+ },
+ {
+  "name": "likewise",
+  "trans": [
+   "ad. 同样地",
+   "词缀 -wise：副词/形容词，表示\"方向/方面/方式\""
+  ]
+ },
+ {
+  "name": "otherwise",
+  "trans": [
+   "ad. 否则",
+   "词缀 -wise：副词/形容词，表示\"方向/方面/方式\""
+  ]
+ },
+ {
+  "name": "lengthwise",
+  "trans": [
+   "ad. 纵向地",
+   "词缀 -wise：副词/形容词，表示\"方向/方面/方式\""
+  ]
+ },
+ {
+  "name": "sunny",
+  "trans": [
+   "a. 阳光明媚的",
+   "词缀 -y：形容词"
+  ]
+ },
+ {
+  "name": "cloudy",
+  "trans": [
+   "a. 多云的",
+   "词缀 -y：形容词"
+  ]
+ },
+ {
+  "name": "dirty",
+  "trans": [
+   "a. 脏的",
+   "词缀 -y：形容词"
+  ]
+ },
+ {
+  "name": "hairy",
+  "trans": [
+   "a. 多毛的",
+   "词缀 -y：形容词"
+  ]
+ },
+ {
+  "name": "funny",
+  "trans": [
+   "a. 好笑的",
+   "词缀 -y：形容词"
+  ]
+ }
+]
