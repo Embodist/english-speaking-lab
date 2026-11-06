@@ -33,6 +33,23 @@ updated: 2026-11-05
 
 完整清单和计数见 `manifest.json`。
 
+## 远程仓库
+
+- 私有 fork：<https://github.com/Embodist/qwerty-learner-english-lab>
+- 本地克隆：`~/english/qwerty-learner`
+- `origin` = 上游 `RealKai42/qwerty-learner`
+- `english-lab` = 私有 fork（本地 `main` 跟踪 `english-lab/main`）
+
+```bash
+cd ~/english/qwerty-learner
+# 用私有 fork 的版本
+git pull english-lab main
+# 拉上游更新后再合并
+git fetch origin && git merge origin/master
+```
+
+fork 内的说明见 `ENGLISH-LAB.md`。
+
 ## 本地已装好
 
 qwerty-learner 已克隆到 `~/english/qwerty-learner`，依赖已安装，20 个词库已注册。发音使用本地 Piper，不再依赖有道在线音频。
