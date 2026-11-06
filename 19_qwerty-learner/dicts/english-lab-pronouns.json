@@ -1,0 +1,517 @@
+[
+ {
+  "name": "I",
+  "trans": [
+   "我",
+   "代词",
+   "例句：I'm just checking in on that matter."
+  ],
+  "usphone": "ai",
+  "ukphone": "ai"
+ },
+ {
+  "name": "me",
+  "trans": [
+   "我（宾格）",
+   "代词",
+   "例句：Can you let me know ahead of time?"
+  ],
+  "usphone": "mi:",
+  "ukphone": "mi:"
+ },
+ {
+  "name": "my",
+  "trans": [
+   "我的",
+   "代词",
+   "例句：This isn't my area of expertise."
+  ],
+  "usphone": "mai",
+  "ukphone": "mai"
+ },
+ {
+  "name": "mine",
+  "trans": [
+   "我的（名词性物主代词）",
+   "代词"
+  ],
+  "usphone": "main",
+  "ukphone": "main"
+ },
+ {
+  "name": "myself",
+  "trans": [
+   "我自己",
+   "代词",
+   "例句：I may not have explained myself clearly."
+  ],
+  "usphone": "mai'self",
+  "ukphone": "mai'self"
+ },
+ {
+  "name": "you",
+  "trans": [
+   "你/你们",
+   "代词",
+   "例句：Can you let me know ahead of time?"
+  ],
+  "usphone": "ju:",
+  "ukphone": "ju:"
+ },
+ {
+  "name": "your",
+  "trans": [
+   "你的/你们的",
+   "代词",
+   "例句：I'm not sure I'm following your point."
+  ],
+  "usphone": "juә",
+  "ukphone": "juә"
+ },
+ {
+  "name": "yours",
+  "trans": [
+   "你的/你们的",
+   "代词",
+   "例句：Now, the floor is yours to speak."
+  ],
+  "usphone": "juәz",
+  "ukphone": "juәz"
+ },
+ {
+  "name": "yourself",
+  "trans": [
+   "你自己",
+   "代词",
+   "例句：Try not to push yourself too hard."
+  ],
+  "usphone": "juә'self",
+  "ukphone": "juә'self"
+ },
+ {
+  "name": "yourselves",
+  "trans": [
+   "你们自己",
+   "代词"
+  ],
+  "usphone": "jɔ:'selvz,jjә-,jә-",
+  "ukphone": "jɔ:'selvz,jjә-,jә-"
+ },
+ {
+  "name": "he",
+  "trans": [
+   "他",
+   "代词",
+   "例句：He's very well-respected among colleagues."
+  ],
+  "usphone": "hi:",
+  "ukphone": "hi:"
+ },
+ {
+  "name": "him",
+  "trans": [
+   "他（宾格）",
+   "代词"
+  ],
+  "usphone": "him",
+  "ukphone": "him"
+ },
+ {
+  "name": "his",
+  "trans": [
+   "他的",
+   "代词"
+  ],
+  "usphone": "hiz",
+  "ukphone": "hiz"
+ },
+ {
+  "name": "himself",
+  "trans": [
+   "他自己",
+   "代词"
+  ],
+  "usphone": "him'self",
+  "ukphone": "him'self"
+ },
+ {
+  "name": "she",
+  "trans": [
+   "她",
+   "代词",
+   "例句：She's our go-to person for this type of issue."
+  ],
+  "usphone": "ʃi:",
+  "ukphone": "ʃi:"
+ },
+ {
+  "name": "her",
+  "trans": [
+   "她/她的",
+   "代词"
+  ],
+  "usphone": "hә:",
+  "ukphone": "hә:"
+ },
+ {
+  "name": "hers",
+  "trans": [
+   "她的",
+   "代词"
+  ],
+  "usphone": "hә:z",
+  "ukphone": "hә:z"
+ },
+ {
+  "name": "herself",
+  "trans": [
+   "她自己",
+   "代词"
+  ],
+  "usphone": "hә:'self",
+  "ukphone": "hә:'self"
+ },
+ {
+  "name": "it",
+  "trans": [
+   "它",
+   "代词",
+   "例句：I'm taking care of it."
+  ],
+  "usphone": "it",
+  "ukphone": "it"
+ },
+ {
+  "name": "its",
+  "trans": [
+   "它的",
+   "代词",
+   "例句：Each option comes with its own challenges."
+  ],
+  "usphone": "its",
+  "ukphone": "its"
+ },
+ {
+  "name": "itself",
+  "trans": [
+   "它自己",
+   "代词"
+  ],
+  "usphone": "it'self",
+  "ukphone": "it'self"
+ },
+ {
+  "name": "we",
+  "trans": [
+   "我们",
+   "代词",
+   "例句：We're running short on time."
+  ],
+  "usphone": "wi:",
+  "ukphone": "wi:"
+ },
+ {
+  "name": "us",
+  "trans": [
+   "我们（宾格）",
+   "代词",
+   "例句：I don't want us to lose sight of the bigger picture."
+  ],
+  "usphone": "ʌs",
+  "ukphone": "ʌs"
+ },
+ {
+  "name": "our",
+  "trans": [
+   "我们的",
+   "代词",
+   "例句：This needs our immediate focus."
+  ],
+  "usphone": "'auә",
+  "ukphone": "'auә"
+ },
+ {
+  "name": "ours",
+  "trans": [
+   "我们的",
+   "代词"
+  ],
+  "usphone": "'auәz",
+  "ukphone": "'auәz"
+ },
+ {
+  "name": "ourselves",
+  "trans": [
+   "我们自己",
+   "代词"
+  ],
+  "usphone": ".auә'selvz",
+  "ukphone": ".auә'selvz"
+ },
+ {
+  "name": "they",
+  "trans": [
+   "他们/她们/它们",
+   "代词",
+   "例句：I'll have what they're having."
+  ],
+  "usphone": "ðei",
+  "ukphone": "ðei"
+ },
+ {
+  "name": "them",
+  "trans": [
+   "他们（宾格）",
+   "代词",
+   "例句：We need to figure out how to win them over."
+  ],
+  "usphone": "ðem",
+  "ukphone": "ðem"
+ },
+ {
+  "name": "their",
+  "trans": [
+   "他们的",
+   "代词"
+  ],
+  "usphone": "ðєә",
+  "ukphone": "ðєә"
+ },
+ {
+  "name": "theirs",
+  "trans": [
+   "他们的",
+   "代词"
+  ],
+  "usphone": "ðєәz",
+  "ukphone": "ðєәz"
+ },
+ {
+  "name": "themselves",
+  "trans": [
+   "他们自己",
+   "代词"
+  ],
+  "usphone": "ðәm'selvz",
+  "ukphone": "ðәm'selvz"
+ },
+ {
+  "name": "this",
+  "trans": [
+   "这个",
+   "代词",
+   "例句：Let's revisit this later."
+  ],
+  "usphone": "θis",
+  "ukphone": "θis"
+ },
+ {
+  "name": "that",
+  "trans": [
+   "那个",
+   "代词",
+   "例句：I'm just checking in on that matter."
+  ],
+  "usphone": "ðæt",
+  "ukphone": "ðæt"
+ },
+ {
+  "name": "these",
+  "trans": [
+   "这些",
+   "代词",
+   "例句：Are there any differences between these two versions?"
+  ],
+  "usphone": "ði:z",
+  "ukphone": "ði:z"
+ },
+ {
+  "name": "those",
+  "trans": [
+   "那些",
+   "代词"
+  ],
+  "usphone": "ðәuz",
+  "ukphone": "ðәuz"
+ },
+ {
+  "name": "who",
+  "trans": [
+   "谁（主格）",
+   "代词",
+   "例句：Thanks for your thoughts. Who else would like to weigh in?"
+  ],
+  "usphone": "hu:",
+  "ukphone": "hu:"
+ },
+ {
+  "name": "whom",
+  "trans": [
+   "谁（宾格）",
+   "代词"
+  ],
+  "usphone": "hu:m",
+  "ukphone": "hu:m"
+ },
+ {
+  "name": "whose",
+  "trans": [
+   "谁的",
+   "代词"
+  ],
+  "usphone": "hu:z",
+  "ukphone": "hu:z"
+ },
+ {
+  "name": "which",
+  "trans": [
+   "哪一个/哪些",
+   "代词",
+   "例句：It depends on which factor matters most to you."
+  ],
+  "usphone": "hwitʃ",
+  "ukphone": "hwitʃ"
+ },
+ {
+  "name": "what",
+  "trans": [
+   "什么",
+   "代词",
+   "例句：Let's focus on what we can control."
+  ],
+  "usphone": "hwɒt",
+  "ukphone": "hwɒt"
+ },
+ {
+  "name": "someone",
+  "trans": [
+   "某人",
+   "代词",
+   "例句：Let's assign someone to take ownership of this."
+  ],
+  "usphone": "'sʌmwʌn",
+  "ukphone": "'sʌmwʌn"
+ },
+ {
+  "name": "somebody",
+  "trans": [
+   "某人",
+   "代词"
+  ],
+  "usphone": "'sʌmbɒdi",
+  "ukphone": "'sʌmbɒdi"
+ },
+ {
+  "name": "anyone",
+  "trans": [
+   "任何人",
+   "代词",
+   "例句：Does anyone see any potential problems with this approach?"
+  ],
+  "usphone": "'eniwʌn",
+  "ukphone": "'eniwʌn"
+ },
+ {
+  "name": "anybody",
+  "trans": [
+   "任何人",
+   "代词"
+  ],
+  "usphone": "'enibɒdi",
+  "ukphone": "'enibɒdi"
+ },
+ {
+  "name": "everyone",
+  "trans": [
+   "每个人",
+   "代词",
+   "例句：We need to keep everyone informed."
+  ],
+  "usphone": "'evriwʌn",
+  "ukphone": "'evriwʌn"
+ },
+ {
+  "name": "everybody",
+  "trans": [
+   "每个人",
+   "代词"
+  ],
+  "usphone": "'evribɒdi",
+  "ukphone": "'evribɒdi"
+ },
+ {
+  "name": "nobody",
+  "trans": [
+   "没有人",
+   "代词"
+  ],
+  "usphone": "'nәubɒdi",
+  "ukphone": "'nәubɒdi"
+ },
+ {
+  "name": "no one",
+  "trans": [
+   "没有人",
+   "代词",
+   "例句：There's no one-size-fits-all solution."
+  ],
+  "usphone": "nəu wʌn",
+  "ukphone": "nəu wʌn"
+ },
+ {
+  "name": "something",
+  "trans": [
+   "某事",
+   "代词",
+   "例句：Sorry to cut in, but can I add something here?"
+  ],
+  "usphone": "'sʌmθiŋ",
+  "ukphone": "'sʌmθiŋ"
+ },
+ {
+  "name": "anything",
+  "trans": [
+   "任何事",
+   "代词",
+   "例句：I'll let you know if anything changes."
+  ],
+  "usphone": "'eniθiŋ",
+  "ukphone": "'eniθiŋ"
+ },
+ {
+  "name": "everything",
+  "trans": [
+   "每件事",
+   "代词",
+   "例句：That changes everything."
+  ],
+  "usphone": "'evriθiŋ",
+  "ukphone": "'evriθiŋ"
+ },
+ {
+  "name": "nothing",
+  "trans": [
+   "没有什么",
+   "代词",
+   "例句：I want to make sure nothing slips through the cracks."
+  ],
+  "usphone": "'nʌθiŋ",
+  "ukphone": "'nʌθiŋ"
+ },
+ {
+  "name": "each other",
+  "trans": [
+   "彼此",
+   "代词",
+   "例句：Let's avoid making assumptions about each other's intentions."
+  ]
+ },
+ {
+  "name": "one another",
+  "trans": [
+   "互相",
+   "代词",
+   "例句：It's important to be honest with one another."
+  ]
+ }
+]

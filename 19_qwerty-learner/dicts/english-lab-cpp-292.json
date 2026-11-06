@@ -1,0 +1,2630 @@
+[
+ {
+  "name": "undefined",
+  "trans": [
+   "a. 不明确的, 未下定义的；未阐明的, 未解释的, 不确定的, 不明确的",
+   "C++ · P.2: Write in ISO Standard C++"
+  ],
+  "usphone": "ˌʌndɪfˈaɪnd",
+  "ukphone": "ˌʌndɪfˈaɪnd"
+ },
+ {
+  "name": "enforceable",
+  "trans": [
+   "a. 可实施的, 可强行的",
+   "C++ · I.6: Prefer for expressing preconditions"
+  ],
+  "usphone": "ɛnfˈɔːsəbəl",
+  "ukphone": "ɛnfˈɔːsəbəl"
+ },
+ {
+  "name": "modernize",
+  "trans": [
+   "vi. 现代化；vt. 使现代化",
+   "C++ · In.not: Non-aims"
+  ],
+  "usphone": "mˈɒdənˌaɪz",
+  "ukphone": "mˈɒdənˌaɪz"
+ },
+ {
+  "name": "deletion",
+  "trans": [
+   "n. 删除, 删除部分；缺失, 中间缺失(染色体)",
+   "C++ · C.21: If you define or any copy, move, or destructor function, define or them all"
+  ],
+  "usphone": "dɪlˈiːʃən",
+  "ukphone": "dɪlˈiːʃən"
+ },
+ {
+  "name": "beware",
+  "trans": [
+   "v. 小心, 谨防",
+   "C++ · I.2: Avoid non- global variables"
+  ],
+  "usphone": "bɪwˈeə",
+  "ukphone": "bɪwˈeə"
+ },
+ {
+  "name": "mechanically",
+  "trans": [
+   "adv. 机械, 用机械, 机械学, 物理, 力学, 呆板, 无意识, 手工操作, 技工",
+   "C++ · In.0: Don’t panic!"
+  ],
+  "usphone": "mɪkˈanɪkli",
+  "ukphone": "mɪkˈanɪkli"
+ },
+ {
+  "name": "axiom",
+  "trans": [
+   "n. 自明之理, 公理, 原理, 格言；公理, 原理, 原则",
+   "C++ · T.11: Whenever possible use standard concepts"
+  ],
+  "usphone": "ˈaksɪəm",
+  "ukphone": "ˈaksɪəm"
+ },
+ {
+  "name": "publicly",
+  "trans": [
+   "adv. 公然地, 以公众名义",
+   "C++ · C.35: A base class destructor should be either public and virtual, or protected and non-virtual"
+  ],
+  "usphone": "pˈʌblɪkli",
+  "ukphone": "pˈʌblɪkli"
+ },
+ {
+  "name": "socket",
+  "trans": [
+   "n. 窝, 穴, 插座, 眼窝；vt. 插进插座",
+   "C++ · C.36: A destructor must not fail"
+  ],
+  "usphone": "sˈɒkɪt",
+  "ukphone": "sˈɒkɪt"
+ },
+ {
+  "name": "distract",
+  "trans": [
+   "vt. 转移, 分心, 使发狂",
+   "C++ · In.struct: The structure of this document"
+  ],
+  "usphone": "dɪstɹˈakt",
+  "ukphone": "dɪstɹˈakt"
+ },
+ {
+  "name": "unsafe",
+  "trans": [
+   "a. 不安全的, 不安稳的, 危险的；不安全",
+   "C++ · I.30: Encapsulate rule violations"
+  ],
+  "usphone": "ʌnsˈeɪf",
+  "ukphone": "ʌnsˈeɪf"
+ },
+ {
+  "name": "exhaustion",
+  "trans": [
+   "n. 抽空, 耗尽, 疲惫, 筋疲力尽；抽空",
+   "C++ · F.6: If your function must not throw, declare it"
+  ],
+  "usphone": "ɛɡzˈɔːstʃən",
+  "ukphone": "ɛɡzˈɔːstʃən"
+ },
+ {
+  "name": "standardized",
+  "trans": [
+   "a. 标准化的；标准的；定型的",
+   "C++ · SL.con.4: don’t use or for arguments that are not trivially-copyable"
+  ],
+  "usphone": "stˈandədˌaɪzd",
+  "ukphone": "stˈandədˌaɪzd"
+ },
+ {
+  "name": "erroneous",
+  "trans": [
+   "a. 错误的, 不正确的；错误的, 不正确的",
+   "C++ · T.61: Do not over-parameterize members (SCARY)"
+  ],
+  "usphone": "ɛɹˈəʊniəs",
+  "ukphone": "ɛɹˈəʊniəs"
+ },
+ {
+  "name": "unexpectedly",
+  "trans": [
+   "adv. 想不到的, 突然的, 意外的, 出乎意料的",
+   "C++ · ES.46: Avoid lossy (narrowing, truncating) arithmetic conversions"
+  ],
+  "usphone": "ˌʌnɛkspˈɛktɪdli",
+  "ukphone": "ˌʌnɛkspˈɛktɪdli"
+ },
+ {
+  "name": "exceptionally",
+  "trans": [
+   "adv. 特殊地；异常地；例外地",
+   "C++ · C.64: A move operation should move and leave its source in a valid state"
+  ],
+  "usphone": "ɛksˈɛpʃənəli",
+  "ukphone": "ɛksˈɛpʃənəli"
+ },
+ {
+  "name": "tighten",
+  "trans": [
+   "vt. 勒紧, 使变紧；vi. 变紧, 绷紧",
+   "C++ · ES.40: Avoid complicated expressions"
+  ],
+  "usphone": "tˈaɪtən",
+  "ukphone": "tˈaɪtən"
+ },
+ {
+  "name": "postpone",
+  "trans": [
+   "vt. 延迟, 使延期, 缓办, 搁延；vi. 延缓, 延缓发作",
+   "C++ · P.5: Prefer compile-time checking to run-time checking"
+  ],
+  "usphone": "pəʊstpˈəʊn",
+  "ukphone": "pəʊstpˈəʊn"
+ },
+ {
+  "name": "shorthand",
+  "trans": [
+   "n. 速记；速记法, 速记, 记录文字",
+   "C++ · NL.27: Use a suffix for code files and for interface files"
+  ],
+  "usphone": "ʃˈɔːthand",
+  "ukphone": "ʃˈɔːthand"
+ },
+ {
+  "name": "deemed",
+  "trans": [
+   "v. 认为, 相信( deem的过去式和过去分词 ); 想",
+   "C++ · C.31: All resources acquired by a class must be released by the class’s destructor"
+  ],
+  "usphone": "dˈiːmd",
+  "ukphone": "dˈiːmd"
+ },
+ {
+  "name": "unacceptable",
+  "trans": [
+   "a. 无法接受的, 不受欢迎的；不能接受的, 不受欢迎的, 难以承认的",
+   "C++ · CP.61: Use to spawn concurrent tasks"
+  ],
+  "usphone": "ʌnɐksˈɛptəbəl",
+  "ukphone": "ʌnɐksˈɛptəbəl"
+ },
+ {
+  "name": "preferably",
+  "trans": [
+   "adv. 更可取地, 更好地, 更合意地",
+   "C++ · CP.4: Think in terms of tasks, rather than threads"
+  ],
+  "usphone": "pɹˈɛfɹəblˌɪ",
+  "ukphone": "pɹˈɛfɹəblˌɪ"
+ },
+ {
+  "name": "prematurely",
+  "trans": [
+   "adv. 过早地, 贸然地",
+   "C++ · Per.7: Design to enable optimization"
+  ],
+  "usphone": "pɹɪmətʃˈʊəli",
+  "ukphone": "pɹɪmətʃˈʊəli"
+ },
+ {
+  "name": "complain",
+  "trans": [
+   "v. 抱怨, 抗议, 控诉",
+   "C++ · E.6: Use RAII to prevent leaks"
+  ],
+  "usphone": "kəmplˈeɪn",
+  "ukphone": "kəmplˈeɪn"
+ },
+ {
+  "name": "unchecked",
+  "trans": [
+   "a. 未加抑制的, 未经检查的；未选中的",
+   "C++ · SL.con.3: Avoid bounds errors"
+  ],
+  "usphone": "ʌntʃˈɛkt",
+  "ukphone": "ʌntʃˈɛkt"
+ },
+ {
+  "name": "needlessly",
+  "trans": [
+   "adv. 不必要地；无用地",
+   "C++ · R.3: A raw pointer (a ) is non-owning"
+  ],
+  "usphone": "nˈiːdləsli",
+  "ukphone": "nˈiːdləsli"
+ },
+ {
+  "name": "premature",
+  "trans": [
+   "a. 早产的, 过早的, 不成熟的；n. 早产儿, 过早发生的事物",
+   "C++ · I.11: Never transfer ownership by a raw pointer () or reference ()"
+  ],
+  "usphone": "pɹɪmətʃˈʊə",
+  "ukphone": "pɹɪmətʃˈʊə"
+ },
+ {
+  "name": "bogus",
+  "trans": [
+   "a. 假的, 伪造的；伪的, 伪造的",
+   "C++ · Per.6: Don’t make claims about performance without measurements"
+  ],
+  "usphone": "bˈəʊɡəs",
+  "ukphone": "bˈəʊɡəs"
+ },
+ {
+  "name": "modernization",
+  "trans": [
+   "n. 现代化",
+   "C++ · In.not: Non-aims"
+  ],
+  "usphone": "mˌɒdənaɪzˈeɪʃən",
+  "ukphone": "mˌɒdənaɪzˈeɪʃən"
+ },
+ {
+  "name": "unavoidable",
+  "trans": [
+   "a. 不可避免的, 不得已的, 不能作废的；难免的",
+   "C++ · F.21: To return multiple “out” values, prefer returning a struct"
+  ],
+  "usphone": "ʌnɐvˈɔɪdəbəl",
+  "ukphone": "ʌnɐvˈɔɪdəbəl"
+ },
+ {
+  "name": "bloated",
+  "trans": [
+   "a. 发胀的, 浮肿的, 傲慢的",
+   "C++ · Per.7: Design to enable optimization"
+  ],
+  "usphone": "blˈəʊtɪd",
+  "ukphone": "blˈəʊtɪd"
+ },
+ {
+  "name": "abort",
+  "trans": [
+   "vi. 流产, 中途失败；vt. 使流产, 使失败, 使中止",
+   "C++ · I.6: Prefer for expressing preconditions"
+  ],
+  "usphone": "ɐbˈɔːt",
+  "ukphone": "ɐbˈɔːt"
+ },
+ {
+  "name": "cryptic",
+  "trans": [
+   "a. 神秘的, 含义模糊的, 隐藏的；隐蔽的",
+   "C++ · E.27: If you can’t throw exceptions, use error codes systematically"
+  ],
+  "usphone": "kɹˈɪptɪk",
+  "ukphone": "kɹˈɪptɪk"
+ },
+ {
+  "name": "glossary",
+  "trans": [
+   "n. 专业词典, 术语集, 词表；图文集",
+   "C++ · Glossary"
+  ],
+  "usphone": "ɡlˈɒsəɹi",
+  "ukphone": "ɡlˈɒsəɹi"
+ },
+ {
+  "name": "deprive",
+  "trans": [
+   "vt. 剥夺, 使丧失；剥夺, 剥夺, 夺去",
+   "C++ · ES.49: If you must use a cast, use a named cast"
+  ],
+  "usphone": "dɪpɹˈaɪv",
+  "ukphone": "dɪpɹˈaɪv"
+ },
+ {
+  "name": "esoteric",
+  "trans": [
+   "a. 秘教的, 奥秘的, 秘传的；体内的, 内部的, 隐的",
+   "C++ · F.16: For “in” parameters, pass cheaply-copied types by value and others by reference to"
+  ],
+  "usphone": "ˌɛsəʊtˈɛɹɪk",
+  "ukphone": "ˌɛsəʊtˈɛɹɪk"
+ },
+ {
+  "name": "preclude",
+  "trans": [
+   "vt. 预先排除, 预防, 阻止, 妨碍；预防, 排除, 消除",
+   "C++ · C.128: Virtual functions should specify exactly one of , , or"
+  ],
+  "usphone": "pɹɪklˈuːd",
+  "ukphone": "pɹɪklˈuːd"
+ },
+ {
+  "name": "wrongly",
+  "trans": [
+   "adv. 错误地, 不恰当地, 不正确地, 不正直地, 不公正地",
+   "C++ · T.25: Avoid complementary constraints"
+  ],
+  "usphone": "ɹˈɒŋli",
+  "ukphone": "ɹˈɒŋli"
+ },
+ {
+  "name": "cheaply",
+  "trans": [
+   "adv. 便宜地",
+   "C++ · F.20: For “out” output values, prefer return values to output parameters"
+  ],
+  "usphone": "tʃˈiːpli",
+  "ukphone": "tʃˈiːpli"
+ },
+ {
+  "name": "constructor",
+  "trans": [
+   "构造函数",
+   "C++ · C.2: Use if the class has an invariant; use if the data members can vary independently"
+  ],
+  "usphone": "kənstɹˈʌktə",
+  "ukphone": "kənstɹˈʌktə"
+ },
+ {
+  "name": "destructor",
+  "trans": [
+   "析构函数",
+   "C++ · F.52: Prefer capturing by reference in lambdas that will be used locally, including passed to algorithms"
+  ],
+  "usphone": "dɪstɹˈʌktə",
+  "ukphone": "dɪstɹˈʌktə"
+ },
+ {
+  "name": "initialization",
+  "trans": [
+   "初始化",
+   "C++ · C.42: If a constructor cannot construct a valid object, throw an exception"
+  ],
+  "usphone": "ɪnˌɪʃəlaɪzˈeɪʃən",
+  "ukphone": "ɪnˌɪʃəlaɪzˈeɪʃən"
+ },
+ {
+  "name": "namespace",
+  "trans": [
+   "命名空间",
+   "C++ · I.1: Make interfaces explicit"
+  ],
+  "usphone": "nˈeɪmspeɪs",
+  "ukphone": "nˈeɪmspeɪs"
+ },
+ {
+  "name": "GSL",
+  "trans": [
+   "指南支持库",
+   "C++ · P.11: Encapsulate messy constructs, rather than spreading through the code"
+  ],
+  "usphone": "dʒˌiːˌɛsˈɛl",
+  "ukphone": "dʒˌiːˌɛsˈɛl"
+ },
+ {
+  "name": "initializer",
+  "trans": [
+   "初始化器",
+   "C++ · C.13: If data member uses another data member , declare before"
+  ],
+  "usphone": "ɪnˈɪʃəlˌaɪzə",
+  "ukphone": "ɪnˈɪʃəlˌaɪzə"
+ },
+ {
+  "name": "RAII",
+  "trans": [
+   "资源获取即初始化",
+   "C++ · E.6: Use RAII to prevent leaks"
+  ],
+  "usphone": "ɹˈaɪi",
+  "ukphone": "ɹˈaɪi"
+ },
+ {
+  "name": "copyable",
+  "trans": [
+   "可拷贝的",
+   "C++ · F.7: For general use, take or arguments rather than smart pointers"
+  ],
+  "usphone": "kˈɒpɪəbəl",
+  "ukphone": "kˈɒpɪəbəl"
+ },
+ {
+  "name": "concurrency",
+  "trans": [
+   "并发",
+   "C++ · CP.1: Assume that your code will run as part of a multi-threaded program"
+  ],
+  "usphone": "kəŋkˈʌɹənsi",
+  "ukphone": "kəŋkˈʌɹənsi"
+ },
+ {
+  "name": "postcondition",
+  "trans": [
+   "后置条件",
+   "C++ · I.7: State postconditions"
+  ],
+  "usphone": "pˌəʊstkəndˈɪʃən",
+  "ukphone": "pˌəʊstkəndˈɪʃən"
+ },
+ {
+  "name": "deallocation",
+  "trans": [
+   "释放",
+   "C++ · P.8: Don’t leak any resources"
+  ],
+  "usphone": "diːˌaləkˈeɪʃən",
+  "ukphone": "diːˌaləkˈeɪʃən"
+ },
+ {
+  "name": "default constructor",
+  "trans": [
+   "默认构造函数",
+   "C++ · C.43: Ensure that a copyable class has a default constructor"
+  ],
+  "usphone": "dɪfˈɒlt kənstɹˈʌktə",
+  "ukphone": "dɪfˈɒlt kənstɹˈʌktə"
+ },
+ {
+  "name": "enumeration",
+  "trans": [
+   "枚举",
+   "C++ · Enum.2: Use enumerations to represent sets of related named constants"
+  ],
+  "usphone": "ɪnjˌuːməɹˈeɪʃən",
+  "ukphone": "ɪnjˌuːməɹˈeɪʃən"
+ },
+ {
+  "name": "polymorphic",
+  "trans": [
+   "多态的",
+   "C++ · C.67: A polymorphic class should suppress public copy/move"
+  ],
+  "usphone": "pˌɒlɪmˈɔːfɪk",
+  "ukphone": "pˌɒlɪmˈɔːfɪk"
+ },
+ {
+  "name": "rvalue",
+  "trans": [
+   "右值",
+   "C++ · F.19: For “forward” parameters, pass by and only the parameter"
+  ],
+  "usphone": "ˈɑːvˈaljuː",
+  "ukphone": "ˈɑːvˈaljuː"
+ },
+ {
+  "name": "coroutine",
+  "trans": [
+   "协程",
+   "C++ · CP.51: Do not use capturing lambdas that are coroutines"
+  ],
+  "usphone": "kˈɒɹuːtˌiːn",
+  "ukphone": "kˈɒɹuːtˌiːn"
+ },
+ {
+  "name": "iterator",
+  "trans": [
+   "迭代器",
+   "C++ · I.11: Never transfer ownership by a raw pointer () or reference ()"
+  ],
+  "usphone": "ˈɪtəɹˌeɪtə",
+  "ukphone": "ˈɪtəɹˌeɪtə"
+ },
+ {
+  "name": "precondition",
+  "trans": [
+   "前置条件",
+   "C++ · I.6: Prefer for expressing preconditions"
+  ],
+  "usphone": "pɹˌiːkəndˈɪʃən",
+  "ukphone": "pɹˌiːkəndˈɪʃən"
+ },
+ {
+  "name": "dereference",
+  "trans": [
+   "解引用",
+   "C++ · ES.65: Don’t dereference an invalid pointer"
+  ],
+  "usphone": "dˌiːɹˈɛfɹəns",
+  "ukphone": "dˌiːɹˈɛfɹəns"
+ },
+ {
+  "name": "enumerator",
+  "trans": [
+   "枚举成员",
+   "C++ · Enum.2: Use enumerations to represent sets of related named constants"
+  ],
+  "usphone": "ɪnjˈuːməɹˌeɪtə",
+  "ukphone": "ɪnjˈuːməɹˌeɪtə"
+ },
+ {
+  "name": "copy constructor",
+  "trans": [
+   "拷贝构造函数",
+   "C++ · C.67: A polymorphic class should suppress public copy/move"
+  ],
+  "usphone": "kˈɒpɪ kənstɹˈʌktə",
+  "ukphone": "kˈɒpɪ kənstɹˈʌktə"
+ },
+ {
+  "name": "move constructor",
+  "trans": [
+   "移动构造函数",
+   "C++ · C.21: If you define or any copy, move, or destructor function, define or them all"
+  ],
+  "usphone": "mˈuːv kənstɹˈʌktə",
+  "ukphone": "mˈuːv kənstɹˈʌktə"
+ },
+ {
+  "name": "variadic",
+  "trans": [
+   "可变参数的",
+   "C++ · T.100: Use variadic templates when you need a function that takes a variable number of arguments of a variety of types"
+  ],
+  "usphone": "vˌeəɹɪˈadɪk",
+  "ukphone": "vˌeəɹɪˈadɪk"
+ },
+ {
+  "name": "indirection",
+  "trans": [
+   "间接访问",
+   "C++ · F.16: For “in” parameters, pass cheaply-copied types by value and others by reference to"
+  ],
+  "usphone": "ɪndaɪɹˈɛkʃən",
+  "ukphone": "ɪndaɪɹˈɛkʃən"
+ },
+ {
+  "name": "metaprogramming",
+  "trans": [
+   "元编程",
+   "C++ · T.10: Specify concepts for all template arguments"
+  ],
+  "usphone": "mˌɛtəpɹˈəʊɡɹamɪŋ",
+  "ukphone": "mˌɛtəpɹˈəʊɡɹamɪŋ"
+ },
+ {
+  "name": "STL",
+  "trans": [
+   "标准模板库",
+   "C++ · C.100: Follow the STL when defining a container"
+  ],
+  "usphone": "ˌɛstˌiːˈɛl",
+  "ukphone": "ˌɛstˌiːˈɛl"
+ },
+ {
+  "name": "deadlock",
+  "trans": [
+   "死锁",
+   "C++ · CP.9: Whenever feasible use tools to validate your concurrent code"
+  ],
+  "usphone": "dˈɛdlɒk",
+  "ukphone": "dˈɛdlɒk"
+ },
+ {
+  "name": "implementer",
+  "trans": [
+   "实现者",
+   "C++ · C.129: When designing a class hierarchy, distinguish between implementation inheritance and interface inheritance"
+  ],
+  "usphone": "ˈɪmplɪməntə",
+  "ukphone": "ˈɪmplɪməntə"
+ },
+ {
+  "name": "lvalue",
+  "trans": [
+   "左值",
+   "C++ · ES.56: Write only when you need to explicitly move an object to another scope"
+  ],
+  "usphone": "ˈɛlvˈaljuː",
+  "ukphone": "ˈɛlvˈaljuː"
+ },
+ {
+  "name": "parallelism",
+  "trans": [
+   "并行",
+   "C++ · CP.par: Parallelism"
+  ],
+  "usphone": "pˈaɹəlˌɛlɪzəm",
+  "ukphone": "pˈaɹəlˌɛlɪzəm"
+ },
+ {
+  "name": "variadic template",
+  "trans": [
+   "可变参数模板",
+   "C++ · I.9: If an interface is a template, document its parameters using concepts"
+  ],
+  "usphone": "vˌeəɹɪˈadɪk tˈɛmpleɪt",
+  "ukphone": "vˌeəɹɪˈadɪk tˈɛmpleɪt"
+ },
+ {
+  "name": "mutable",
+  "trans": [
+   "可变的",
+   "C++ · I.2: Avoid non- global variables"
+  ],
+  "usphone": "mjˈuːtəbəl",
+  "ukphone": "mjˈuːtəbəl"
+ },
+ {
+  "name": "refactor",
+  "trans": [
+   "重构",
+   "C++ · C.32: If a class has a raw pointer () or reference (), consider whether it might be owning"
+  ],
+  "usphone": "ɹɪfˈaktə",
+  "ukphone": "ɹɪfˈaktə"
+ },
+ {
+  "name": "rvalue reference",
+  "trans": [
+   "右值引用",
+   "C++ · ES.56: Write only when you need to explicitly move an object to another scope"
+  ],
+  "usphone": "ˈɑːvˈaljuː ɹˈɛfɹəns",
+  "ukphone": "ˈɑːvˈaljuː ɹˈɛfɹəns"
+ },
+ {
+  "name": "callee",
+  "trans": [
+   "被调用者",
+   "C++ · F.45: Don’t return a"
+  ],
+  "usphone": "kˈaliː",
+  "ukphone": "kˈaliː"
+ },
+ {
+  "name": "debug",
+  "trans": [
+   "调试",
+   "C++ · I.6: Prefer for expressing preconditions"
+  ],
+  "usphone": "dˈiːbˌʌɡ",
+  "ukphone": "dˈiːbˌʌɡ"
+ },
+ {
+  "name": "idiom",
+  "trans": [
+   "惯用法",
+   "C++ · C.41: A constructor should create a fully initialized object"
+  ],
+  "usphone": "ˈɪdɪəm",
+  "ukphone": "ˈɪdɪəm"
+ },
+ {
+  "name": "mutex",
+  "trans": [
+   "互斥量",
+   "C++ · CP.22: Never call unknown code while holding a lock (e.g., a callback)"
+  ],
+  "usphone": "mjˈuːtɛks",
+  "ukphone": "mjˈuːtɛks"
+ },
+ {
+  "name": "TMP",
+  "trans": [
+   "模板元编程",
+   "C++ · T.121: Use template metaprogramming primarily to emulate concepts"
+  ],
+  "usphone": "tˌiːˌɛmpˈiː",
+  "ukphone": "tˌiːˌɛmpˈiː"
+ },
+ {
+  "name": "vectorization",
+  "trans": [
+   "向量化",
+   "C++ · CP.mess: Message passing"
+  ],
+  "usphone": "vˌɛktəɹaɪzˈeɪʃən",
+  "ukphone": "vˌɛktəɹaɪzˈeɪʃən"
+ },
+ {
+  "name": "checkable",
+  "trans": [
+   "可检查的",
+   "C++ · In.struct: The structure of this document"
+  ],
+  "usphone": "tʃˈɛkəbəl",
+  "ukphone": "tʃˈɛkəbəl"
+ },
+ {
+  "name": "linker",
+  "trans": [
+   "链接器",
+   "C++ · Glossary"
+  ],
+  "usphone": "lˈɪŋkə",
+  "ukphone": "lˈɪŋkə"
+ },
+ {
+  "name": "callback",
+  "trans": [
+   "回调",
+   "C++ · F.1: “Package” meaningful operations as carefully named functions"
+  ],
+  "usphone": "kˈɔːlbak",
+  "ukphone": "kˈɔːlbak"
+ },
+ {
+  "name": "const",
+  "trans": [
+   "常量限定",
+   "C++ · ES.56: Write only when you need to explicitly move an object to another scope"
+  ],
+  "usphone": "kˈɒnst",
+  "ukphone": "kˈɒnst"
+ },
+ {
+  "name": "deallocate",
+  "trans": [
+   "释放",
+   "C++ · R.5: Prefer scoped objects, don’t heap-allocate unnecessarily"
+  ],
+  "usphone": "diːˈaləkˌeɪt",
+  "ukphone": "diːˈaləkˌeɪt"
+ },
+ {
+  "name": "declarator",
+  "trans": [
+   "声明符",
+   "C++ · ES.10: Declare one name (only) per declaration"
+  ],
+  "usphone": "dɪklˈaɹeɪtə",
+  "ukphone": "dɪklˈaɹeɪtə"
+ },
+ {
+  "name": "fallthrough",
+  "trans": [
+   "贯穿",
+   "C++ · ES.78: Don’t rely on implicit fallthrough in statements"
+  ],
+  "usphone": "fˈɔːlθɹuː",
+  "ukphone": "fˈɔːlθɹuː"
+ },
+ {
+  "name": "getter",
+  "trans": [
+   "访问器",
+   "C++ · C.131: Avoid trivial getters and setters"
+  ],
+  "usphone": "ɡˈɛtə",
+  "ukphone": "ɡˈɛtə"
+ },
+ {
+  "name": "pImpl",
+  "trans": [
+   "实现指针惯用法",
+   "C++ · I.27: For stable library ABI, consider the Pimpl idiom"
+  ],
+  "usphone": "pˈiː ˈɪmpəl",
+  "ukphone": "pˈiː ˈɪmpəl"
+ },
+ {
+  "name": "recompilation",
+  "trans": [
+   "重新编译",
+   "C++ · I.27: For stable library ABI, consider the Pimpl idiom"
+  ],
+  "usphone": "ɹˌiːkˌɒmpɪlˈeɪʃən",
+  "ukphone": "ɹˌiːkˌɒmpɪlˈeɪʃən"
+ },
+ {
+  "name": "setter",
+  "trans": [
+   "修改器",
+   "C++ · C.131: Avoid trivial getters and setters"
+  ],
+  "usphone": "sˈɛtə",
+  "ukphone": "sˈɛtə"
+ },
+ {
+  "name": "type erasure",
+  "trans": [
+   "类型擦除",
+   "C++ · T.49: Where possible, avoid type-erasure"
+  ],
+  "usphone": "tˈaɪp ɪɹˈeɪʒə",
+  "ukphone": "tˈaɪp ɪɹˈeɪʒə"
+ },
+ {
+  "name": "bool",
+  "trans": [
+   "布尔类型",
+   "C++ · ES.87: Don’t add redundant or to conditions"
+  ],
+  "usphone": "bˈuːl",
+  "ukphone": "bˈuːl"
+ },
+ {
+  "name": "callable",
+  "trans": [
+   "可调用的",
+   "C++ · Discussion: Use a factory function if you need “virtual behavior” during initialization"
+  ],
+  "usphone": "kˈɔːləbəl",
+  "ukphone": "kˈɔːləbəl"
+ },
+ {
+  "name": "deleter",
+  "trans": [
+   "删除器",
+   "C++ · Discussion: Never return or throw while holding a resource not owned by a handle"
+  ],
+  "usphone": "dɪlˈɛtə",
+  "ukphone": "dɪlˈɛtə"
+ },
+ {
+  "name": "encapsulation",
+  "trans": [
+   "封装",
+   "C++ · Glossary"
+  ],
+  "usphone": "ɛŋkˌapsuːlˈeɪʃən",
+  "ukphone": "ɛŋkˌapsuːlˈeɪʃən"
+ },
+ {
+  "name": "immutability",
+  "trans": [
+   "不可变性",
+   "C++ · P.10: Prefer immutable data to mutable data"
+  ],
+  "usphone": "ɪmjˌuːtəbˈɪlɪti",
+  "ukphone": "ɪmjˌuːtəbˈɪlɪti"
+ },
+ {
+  "name": "noexcept",
+  "trans": [
+   "不抛出异常",
+   "C++ · C.37: Make destructors"
+  ],
+  "usphone": "nˈəʊkssɛpt",
+  "ukphone": "nˈəʊkssɛpt"
+ },
+ {
+  "name": "NVI",
+  "trans": [
+   "非虚接口",
+   "C++ · Discussion: Make base class destructors public and virtual, or protected and non-virtual"
+  ],
+  "usphone": "ˌɛnvˌiːˈaɪ",
+  "ukphone": "ˌɛnvˌiːˈaɪ"
+ },
+ {
+  "name": "polymorphism",
+  "trans": [
+   "多态",
+   "C++ · C.146: Use where class hierarchy navigation is unavoidable"
+  ],
+  "usphone": "pˈɒlɪmˌɔːfɪzəm",
+  "ukphone": "pˈɒlɪmˌɔːfɪzəm"
+ },
+ {
+  "name": "recompile",
+  "trans": [
+   "重新编译",
+   "C++ · C.129: When designing a class hierarchy, distinguish between implementation inheritance and interface inheritance"
+  ],
+  "usphone": "ɹˌiːkəmpˈaɪl",
+  "ukphone": "ɹˌiːkəmpˈaɪl"
+ },
+ {
+  "name": "rollback",
+  "trans": [
+   "回滚",
+   "C++ · Discussion: Destructors, deallocation, and swap must never fail"
+  ],
+  "usphone": "ɹˈəʊlbak",
+  "ukphone": "ɹˈəʊlbak"
+ },
+ {
+  "name": "struct",
+  "trans": [
+   "结构体",
+   "C++ · C.11: Make concrete types regular"
+  ],
+  "usphone": "stɹˈʌkt",
+  "ukphone": "stɹˈʌkt"
+ },
+ {
+  "name": "unary",
+  "trans": [
+   "一元的",
+   "C++ · R.31: If you have non- smart pointers, follow the basic pattern from"
+  ],
+  "usphone": "jˈunəɹi",
+  "ukphone": "jˈunəɹi"
+ },
+ {
+  "name": "verbosity",
+  "trans": [
+   "冗长",
+   "C++ · C.162: Overload operations that are roughly equivalent"
+  ],
+  "usphone": "vɜːbˈɒsɪti",
+  "ukphone": "vɜːbˈɒsɪti"
+ },
+ {
+  "name": "allocator",
+  "trans": [
+   "分配器",
+   "C++ · T.61: Do not over-parameterize members (SCARY)"
+  ],
+  "usphone": "ˈaləkˌeɪtə",
+  "ukphone": "ˈaləkˌeɪtə"
+ },
+ {
+  "name": "async",
+  "trans": [
+   "异步的",
+   "C++ · C.13: If data member uses another data member , declare before"
+  ],
+  "usphone": "ɐsˈɪŋk",
+  "ukphone": "ɐsˈɪŋk"
+ },
+ {
+  "name": "constexpr",
+  "trans": [
+   "常量表达式",
+   "C++ · Per.11: Move computation from run time to compile time"
+  ],
+  "usphone": "kənstˈɛkspə",
+  "ukphone": "kənstˈɛkspə"
+ },
+ {
+  "name": "covariant",
+  "trans": [
+   "协变的",
+   "C++ · C.130: For making deep copies of polymorphic classes prefer a virtual function instead of public copy construction/assignment"
+  ],
+  "usphone": "kˈɒveəɹˌiənt",
+  "ukphone": "kˈɒveəɹˌiənt"
+ },
+ {
+  "name": "downcast",
+  "trans": [
+   "向下转型",
+   "C++ · C.146: Use where class hierarchy navigation is unavoidable"
+  ],
+  "usphone": "dˈaʊŋkast",
+  "ukphone": "dˈaʊŋkast"
+ },
+ {
+  "name": "freestanding",
+  "trans": [
+   "独立的",
+   "C++ · C.129: When designing a class hierarchy, distinguish between implementation inheritance and interface inheritance"
+  ],
+  "usphone": "fɹˈiːstandɪŋ",
+  "ukphone": "fɹˈiːstandɪŋ"
+ },
+ {
+  "name": "invalidation",
+  "trans": [
+   "失效",
+   "C++ · F.43: Never (directly or indirectly) return a pointer or a reference to a local object"
+  ],
+  "usphone": "ɪnvˌalɪdˈeɪʃən",
+  "ukphone": "ɪnvˌalɪdˈeɪʃən"
+ },
+ {
+  "name": "negation",
+  "trans": [
+   "否定",
+   "C++ · ES.87: Don’t add redundant or to conditions"
+  ],
+  "usphone": "nɪɡˈeɪʃən",
+  "ukphone": "nɪɡˈeɪʃən"
+ },
+ {
+  "name": "nullptr",
+  "trans": [
+   "空指针字面量",
+   "C++ · C.43: Ensure that a copyable class has a default constructor"
+  ],
+  "usphone": "nˈʌlptə",
+  "ukphone": "nˈʌlptə"
+ },
+ {
+  "name": "subexpression",
+  "trans": [
+   "子表达式",
+   "C++ · R.13: Perform at most one explicit resource allocation in a single expression statement"
+  ],
+  "usphone": "sˌʌbɪkspɹˈɛʃən",
+  "ukphone": "sˌʌbɪkspɹˈɛʃən"
+ },
+ {
+  "name": "vtable",
+  "trans": [
+   "虚函数表",
+   "C++ · C.90: Rely on constructors and assignment operators, not and"
+  ],
+  "usphone": "vˈiːtˈeɪbəl",
+  "ukphone": "vˈiːtˈeɪbəl"
+ },
+ {
+  "name": "writable",
+  "trans": [
+   "可写的",
+   "C++ · CP.3: Minimize explicit sharing of writable data"
+  ],
+  "usphone": "ɹˈaɪtəbəl",
+  "ukphone": "ɹˈaɪtəbəl"
+ },
+ {
+  "name": "copy elision",
+  "trans": [
+   "拷贝消除",
+   "C++ · Discussion: Return containers by value (relying on move or copy elision for efficiency)"
+  ],
+  "usphone": "kˈɒpɪ ɪlˈɪʒən",
+  "ukphone": "kˈɒpɪ ɪlˈɪʒən"
+ },
+ {
+  "name": "elision",
+  "trans": [
+   "省略",
+   "C++ · Discussion: Return containers by value (relying on move or copy elision for efficiency)"
+  ],
+  "usphone": "ɪlˈɪʒən",
+  "ukphone": "ɪlˈɪʒən"
+ },
+ {
+  "name": "scalable",
+  "trans": [
+   "可扩展的",
+   "C++ · CP.102: Carefully study the literature"
+  ],
+  "usphone": "skˈeɪləbəl",
+  "ukphone": "skˈeɪləbəl"
+ },
+ {
+  "name": "stack unwinding",
+  "trans": [
+   "栈展开",
+   "C++ · Discussion: Destructors, deallocation, and swap must never fail"
+  ],
+  "usphone": "stˈak ʌnwˈaɪndɪŋ",
+  "ukphone": "stˈak ʌnwˈaɪndɪŋ"
+ },
+ {
+  "name": "underflow",
+  "trans": [
+   "下溢",
+   "C++ · ES.104: Don’t underflow"
+  ],
+  "usphone": "ˌʌndəflˈəʊ",
+  "ukphone": "ˌʌndəflˈəʊ"
+ },
+ {
+  "name": "pointer",
+  "trans": [
+   "指针",
+   "C++ · P.1: Express ideas directly in code"
+  ],
+  "usphone": "pˈɔɪntə",
+  "ukphone": "pˈɔɪntə"
+ },
+ {
+  "name": "template",
+  "trans": [
+   "模板",
+   "C++ · ES.11: Use to avoid redundant repetition of type names"
+  ],
+  "usphone": "tˈɛmpleɪt",
+  "ukphone": "tˈɛmpleɪt"
+ },
+ {
+  "name": "parameter",
+  "trans": [
+   "形参",
+   "C++ · I.12: Declare a pointer that must not be null as"
+  ],
+  "usphone": "pəɹˈamɪtə",
+  "ukphone": "pəɹˈamɪtə"
+ },
+ {
+  "name": "compiler",
+  "trans": [
+   "编译器",
+   "C++ · C.146: Use where class hierarchy navigation is unavoidable"
+  ],
+  "usphone": "kəmpˈaɪlə",
+  "ukphone": "kəmpˈaɪlə"
+ },
+ {
+  "name": "explicit",
+  "trans": [
+   "显式的",
+   "C++ · F.20: For “out” output values, prefer return values to output parameters"
+  ],
+  "usphone": "ɛksplˈɪsɪt",
+  "ukphone": "ɛksplˈɪsɪt"
+ },
+ {
+  "name": "semantics",
+  "trans": [
+   "语义",
+   "C++ · T.10: Specify concepts for all template arguments"
+  ],
+  "usphone": "səmˈantɪks",
+  "ukphone": "səmˈantɪks"
+ },
+ {
+  "name": "macro",
+  "trans": [
+   "宏",
+   "C++ · ES.9: Avoid names"
+  ],
+  "usphone": "mˈakɹəʊ",
+  "ukphone": "mˈakɹəʊ"
+ },
+ {
+  "name": "invariant",
+  "trans": [
+   "不变量",
+   "C++ · C.2: Use if the class has an invariant; use if the data members can vary independently"
+  ],
+  "usphone": "ɪnvˈeəɹiənt",
+  "ukphone": "ɪnvˈeəɹiənt"
+ },
+ {
+  "name": "header",
+  "trans": [
+   "头文件",
+   "C++ · ES.8: Avoid similar-looking names"
+  ],
+  "usphone": "hˈɛdə",
+  "ukphone": "hˈɛdə"
+ },
+ {
+  "name": "lambda",
+  "trans": [
+   "匿名函数",
+   "C++ · F.50: Use a lambda when a function won’t do (to capture local variables, or to write a local function)"
+  ],
+  "usphone": "lˈamdə",
+  "ukphone": "lˈamdə"
+ },
+ {
+  "name": "overload",
+  "trans": [
+   "重载",
+   "C++ · C.170: If you feel like overloading a lambda, use a generic lambda"
+  ],
+  "usphone": "ˌəʊvəlˈəʊd",
+  "ukphone": "ˌəʊvəlˈəʊd"
+ },
+ {
+  "name": "allocation",
+  "trans": [
+   "分配",
+   "C++ · Pro.bounds: Bounds safety profile"
+  ],
+  "usphone": "ˌaləkˈeɪʃən",
+  "ukphone": "ˌaləkˈeɪʃən"
+ },
+ {
+  "name": "bounds",
+  "trans": [
+   "边界",
+   "C++ · In.force: Enforcement"
+  ],
+  "usphone": "bˈaʊndz",
+  "ukphone": "bˈaʊndz"
+ },
+ {
+  "name": "compile time",
+  "trans": [
+   "编译期",
+   "C++ · Per.11: Move computation from run time to compile time"
+  ],
+  "usphone": "kəmpˈaɪl tˈaɪm",
+  "ukphone": "kəmpˈaɪl tˈaɪm"
+ },
+ {
+  "name": "smart pointer",
+  "trans": [
+   "智能指针",
+   "C++ · I.11: Never transfer ownership by a raw pointer () or reference ()"
+  ],
+  "usphone": "smˈɑːt pˈɔɪntə",
+  "ukphone": "smˈɑːt pˈɔɪntə"
+ },
+ {
+  "name": "caller",
+  "trans": [
+   "调用者",
+   "C++ · I.1: Make interfaces explicit"
+  ],
+  "usphone": "kˈɔːlə",
+  "ukphone": "kˈɔːlə"
+ },
+ {
+  "name": "error-prone",
+  "trans": [
+   "易出错的",
+   "C++ · In.aims: Aims"
+  ],
+  "usphone": "ˈɛɹəpɹˈəʊn",
+  "ukphone": "ˈɛɹəpɹˈəʊn"
+ },
+ {
+  "name": "ISO",
+  "trans": [
+   "国际标准化组织",
+   "C++ · P.2: Write in ISO Standard C++"
+  ],
+  "usphone": "ˈaɪzəʊ",
+  "ukphone": "ˈaɪzəʊ"
+ },
+ {
+  "name": "undefined behavior",
+  "trans": [
+   "未定义行为",
+   "C++ · P.2: Write in ISO Standard C++"
+  ],
+  "usphone": "ˌʌndɪfˈaɪnd bɪhˈeɪvjə",
+  "ukphone": "ˌʌndɪfˈaɪnd bɪhˈeɪvjə"
+ },
+ {
+  "name": "raw pointer",
+  "trans": [
+   "裸指针",
+   "C++ · I.10: Use exceptions to signal a failure to perform a required task"
+  ],
+  "usphone": "ɹˈɔː pˈɔɪntə",
+  "ukphone": "ɹˈɔː pˈɔɪntə"
+ },
+ {
+  "name": "class hierarchy",
+  "trans": [
+   "类层次结构",
+   "C++ · C.133: Avoid data"
+  ],
+  "usphone": "klˈas hˈaɪəɹɑːki",
+  "ukphone": "klˈas hˈaɪəɹɑːki"
+ },
+ {
+  "name": "optimization",
+  "trans": [
+   "优化",
+   "C++ · P.9: Don’t waste time or space"
+  ],
+  "usphone": "ˌɒptɪmaɪzˈeɪʃən",
+  "ukphone": "ˌɒptɪmaɪzˈeɪʃən"
+ },
+ {
+  "name": "abstraction",
+  "trans": [
+   "抽象",
+   "C++ · CPL.3: If you must use C for interfaces, use C++ in the calling code using such interfaces"
+  ],
+  "usphone": "ɐbstɹˈakʃən",
+  "ukphone": "ɐbstɹˈakʃən"
+ },
+ {
+  "name": "unsigned",
+  "trans": [
+   "无符号的",
+   "C++ · ES.46: Avoid lossy (narrowing, truncating) arithmetic conversions"
+  ],
+  "usphone": "ʌnsˈaɪnd",
+  "ukphone": "ʌnsˈaɪnd"
+ },
+ {
+  "name": "alias",
+  "trans": [
+   "别名",
+   "C++ · T.42: Use template aliases to simplify notation and hide implementation details"
+  ],
+  "usphone": "ˈeɪliəs",
+  "ukphone": "ˈeɪliəs"
+ },
+ {
+  "name": "trivial",
+  "trans": [
+   "平凡的",
+   "C++ · C.131: Avoid trivial getters and setters"
+  ],
+  "usphone": "tɹˈɪvɪəl",
+  "ukphone": "tɹˈɪvɪəl"
+ },
+ {
+  "name": "reuse",
+  "trans": [
+   "复用",
+   "C++ · CP.61: Use to spawn concurrent tasks"
+  ],
+  "usphone": "ɹiːjˈuːz",
+  "ukphone": "ɹiːjˈuːz"
+ },
+ {
+  "name": "template argument",
+  "trans": [
+   "模板实参",
+   "C++ · T.2: Use templates to express algorithms that apply to many argument types"
+  ],
+  "usphone": "tˈɛmpleɪt ˈɑːɡjuːmənt",
+  "ukphone": "tˈɛmpleɪt ˈɑːɡjuːmənt"
+ },
+ {
+  "name": "ABI",
+  "trans": [
+   "应用二进制接口",
+   "C++ · I.11: Never transfer ownership by a raw pointer () or reference ()"
+  ],
+  "usphone": "ˈabaɪ",
+  "ukphone": "ˈabaɪ"
+ },
+ {
+  "name": "overhead",
+  "trans": [
+   "开销",
+   "C++ · F.23: Use a to indicate that “null” is not a valid value"
+  ],
+  "usphone": "ˌəʊvəhˈɛd",
+  "ukphone": "ˌəʊvəhˈɛd"
+ },
+ {
+  "name": "unnamed",
+  "trans": [
+   "未命名的",
+   "C++ · F.9: Unused parameters should be unnamed"
+  ],
+  "usphone": "ʌnnˈeɪmd",
+  "ukphone": "ʌnnˈeɪmd"
+ },
+ {
+  "name": "cleanup",
+  "trans": [
+   "清理",
+   "C++ · E.16: Destructors, deallocation, , and exception type copy/move construction must never fail"
+  ],
+  "usphone": "klˈiːnʌp",
+  "ukphone": "klˈiːnʌp"
+ },
+ {
+  "name": "generic programming",
+  "trans": [
+   "泛型编程",
+   "C++ · C.162: Overload operations that are roughly equivalent"
+  ],
+  "usphone": "dʒənˈɛɹɪk pɹˈəʊɡɹamɪŋ",
+  "ukphone": "dʒənˈɛɹɪk pɹˈəʊɡɹamɪŋ"
+ },
+ {
+  "name": "overflow",
+  "trans": [
+   "溢出",
+   "C++ · P.5: Prefer compile-time checking to run-time checking"
+  ],
+  "usphone": "ˌəʊvəflˈəʊ",
+  "ukphone": "ˌəʊvəflˈəʊ"
+ },
+ {
+  "name": "template parameter",
+  "trans": [
+   "模板参数",
+   "C++ · ES.56: Write only when you need to explicitly move an object to another scope"
+  ],
+  "usphone": "tˈɛmpleɪt pəɹˈamɪtə",
+  "ukphone": "tˈɛmpleɪt pəɹˈamɪtə"
+ },
+ {
+  "name": "locking",
+  "trans": [
+   "加锁",
+   "C++ · CP.111: Use a conventional pattern if you really need double-checked locking"
+  ],
+  "usphone": "lˈɒkɪŋ",
+  "ukphone": "lˈɒkɪŋ"
+ },
+ {
+  "name": "synchronization",
+  "trans": [
+   "同步",
+   "C++ · F.53: Avoid capturing by reference in lambdas that will be used non-locally, including returned, stored on the heap, or passed to another thread"
+  ],
+  "usphone": "sˌɪŋkɹənaɪzˈeɪʃən",
+  "ukphone": "sˌɪŋkɹənaɪzˈeɪʃən"
+ },
+ {
+  "name": "dangling pointer",
+  "trans": [
+   "悬空指针",
+   "C++ · F.7: For general use, take or arguments rather than smart pointers"
+  ],
+  "usphone": "dˈaŋɡəlɪŋ pˈɔɪntə",
+  "ukphone": "dˈaŋɡəlɪŋ pˈɔɪntə"
+ },
+ {
+  "name": "heap",
+  "trans": [
+   "堆",
+   "C++ · FAQ.58: Is the same as or the proposed ?"
+  ],
+  "usphone": "hˈiːp",
+  "ukphone": "hˈiːp"
+ },
+ {
+  "name": "assertion",
+  "trans": [
+   "断言",
+   "C++ · GSL.assert: Assertions"
+  ],
+  "usphone": "ɐsˈɜːʃən",
+  "ukphone": "ɐsˈɜːʃən"
+ },
+ {
+  "name": "analyzer",
+  "trans": [
+   "分析器",
+   "C++ · P.12: Use supporting tools as appropriate"
+  ],
+  "usphone": "ˈanɐlˌaɪzə",
+  "ukphone": "ˈanɐlˌaɪzə"
+ },
+ {
+  "name": "bounds safety",
+  "trans": [
+   "边界安全",
+   "C++ · Pro.safety: Type-safety profile"
+  ],
+  "usphone": "bˈaʊndz sˈeɪfti",
+  "ukphone": "bˈaʊndz sˈeɪfti"
+ },
+ {
+  "name": "cache",
+  "trans": [
+   "缓存",
+   "C++ · P.9: Don’t waste time or space"
+  ],
+  "usphone": "kˈaʃ",
+  "ukphone": "kˈaʃ"
+ },
+ {
+  "name": "handler",
+  "trans": [
+   "处理器",
+   "C++ · I.10: Use exceptions to signal a failure to perform a required task"
+  ],
+  "usphone": "hˈandlə",
+  "ukphone": "hˈandlə"
+ },
+ {
+  "name": "inline",
+  "trans": [
+   "内联",
+   "C++ · F.3: Keep functions short and simple"
+  ],
+  "usphone": "ˈɪnlaɪn",
+  "ukphone": "ˈɪnlaɪn"
+ },
+ {
+  "name": "override",
+  "trans": [
+   "重写",
+   "C++ · C.120: Use class hierarchies to represent concepts with inherent hierarchical structure (only)"
+  ],
+  "usphone": "ˌəʊvəɹˈaɪd",
+  "ukphone": "ˌəʊvəɹˈaɪd"
+ },
+ {
+  "name": "swap",
+  "trans": [
+   "交换",
+   "C++ · C.83: For value-like types, consider providing a swap function"
+  ],
+  "usphone": "swˈɒp",
+  "ukphone": "swˈɒp"
+ },
+ {
+  "name": "portable",
+  "trans": [
+   "可移植的",
+   "C++ · ES.64: Use the notation for construction"
+  ],
+  "usphone": "pˈɔːtəbəl",
+  "ukphone": "pˈɔːtəbəl"
+ },
+ {
+  "name": "specialization",
+  "trans": [
+   "特化",
+   "C++ · R.31: If you have non- smart pointers, follow the basic pattern from"
+  ],
+  "usphone": "spˌɛʃəlaɪzˈeɪʃən",
+  "ukphone": "spˌɛʃəlaɪzˈeɪʃən"
+ },
+ {
+  "name": "atomic",
+  "trans": [
+   "原子的",
+   "C++ · F.27: Use a to share ownership"
+  ],
+  "usphone": "ɐtˈɒmɪk",
+  "ukphone": "ɐtˈɒmɪk"
+ },
+ {
+  "name": "resource leak",
+  "trans": [
+   "资源泄漏",
+   "C++ · E.1: Develop an error-handling strategy early in a design"
+  ],
+  "usphone": "ɹɪzˈɔːs lˈiːk",
+  "ukphone": "ɹɪzˈɔːs lˈiːk"
+ },
+ {
+  "name": "static analysis",
+  "trans": [
+   "静态分析",
+   "C++ · I.12: Declare a pointer that must not be null as"
+  ],
+  "usphone": "stˈatɪk ɐnˈaləsˌɪs",
+  "ukphone": "stˈatɪk ɐnˈaləsˌɪs"
+ },
+ {
+  "name": "detached",
+  "trans": [
+   "分离的",
+   "C++ · CP.24: Think of a as a global container"
+  ],
+  "usphone": "dɪtˈatʃt",
+  "ukphone": "dɪtˈatʃt"
+ },
+ {
+  "name": "movable",
+  "trans": [
+   "可移动的",
+   "C++ · F.7: For general use, take or arguments rather than smart pointers"
+  ],
+  "usphone": "mˈuːvəbəl",
+  "ukphone": "mˈuːvəbəl"
+ },
+ {
+  "name": "singleton",
+  "trans": [
+   "单例",
+   "C++ · I.3: Avoid singletons"
+  ],
+  "usphone": "sˈɪŋɡəltən",
+  "ukphone": "sˈɪŋɡəltən"
+ },
+ {
+  "name": "value semantics",
+  "trans": [
+   "值语义",
+   "C++ · C.61: A copy operation should copy"
+  ],
+  "usphone": "vˈaljuː səmˈantɪks",
+  "ukphone": "vˈaljuː səmˈantɪks"
+ },
+ {
+  "name": "wrapper",
+  "trans": [
+   "包装器",
+   "C++ · ES.50: Don’t cast away"
+  ],
+  "usphone": "ɹˈapə",
+  "ukphone": "ɹˈapə"
+ },
+ {
+  "name": "API",
+  "trans": [
+   "应用编程接口",
+   "C++ · I.11: Never transfer ownership by a raw pointer () or reference ()"
+  ],
+  "usphone": "ˌeɪpˌiːˈaɪ",
+  "ukphone": "ˌeɪpˌiːˈaɪ"
+ },
+ {
+  "name": "forwarding",
+  "trans": [
+   "转发",
+   "C++ · F.45: Don’t return a"
+  ],
+  "usphone": "fˈɔːwədɪŋ",
+  "ukphone": "fˈɔːwədɪŋ"
+ },
+ {
+  "name": "naked pointer",
+  "trans": [
+   "裸指针",
+   "C++ · R.11: Avoid calling and explicitly"
+  ],
+  "usphone": "nˈeɪkɪd pˈɔɪntə",
+  "ukphone": "nˈeɪkɪd pˈɔɪntə"
+ },
+ {
+  "name": "assert",
+  "trans": [
+   "断言",
+   "C++ · Glossary"
+  ],
+  "usphone": "ɐsˈɜːt",
+  "ukphone": "ɐsˈɜːt"
+ },
+ {
+  "name": "diagnostic",
+  "trans": [
+   "诊断信息",
+   "C++ · I.12: Declare a pointer that must not be null as"
+  ],
+  "usphone": "dˌaɪəɡnˈɒstɪk",
+  "ukphone": "dˌaɪəɡnˈɒstɪk"
+ },
+ {
+  "name": "directive",
+  "trans": [
+   "指示/指令",
+   "C++ · SF.13: Use portable header identifiers in statements"
+  ],
+  "usphone": "daɪɹˈɛktɪv",
+  "ukphone": "daɪɹˈɛktɪv"
+ },
+ {
+  "name": "move semantics",
+  "trans": [
+   "移动语义",
+   "C++ · P.9: Don’t waste time or space"
+  ],
+  "usphone": "mˈuːv səmˈantɪks",
+  "ukphone": "mˈuːv səmˈantɪks"
+ },
+ {
+  "name": "zero-overhead",
+  "trans": [
+   "零开销",
+   "C++ · In.aims: Aims"
+  ],
+  "usphone": "zˈiəɹəʊˌəʊvəhˈɛd",
+  "ukphone": "zˈiəɹəʊˌəʊvəhˈɛd"
+ },
+ {
+  "name": "buffer overflow",
+  "trans": [
+   "缓冲区溢出",
+   "C++ · ES.27: Use or for arrays on the stack"
+  ],
+  "usphone": "bˈʌfəɹ ˌəʊvəflˈəʊ",
+  "ukphone": "bˈʌfəɹ ˌəʊvəflˈəʊ"
+ },
+ {
+  "name": "copy semantics",
+  "trans": [
+   "拷贝语义",
+   "C++ · C.130: For making deep copies of polymorphic classes prefer a virtual function instead of public copy construction/assignment"
+  ],
+  "usphone": "kˈɒpɪ səmˈantɪks",
+  "ukphone": "kˈɒpɪ səmˈantɪks"
+ },
+ {
+  "name": "cyclic",
+  "trans": [
+   "循环的",
+   "C++ · R.24: Use to break cycles of s"
+  ],
+  "usphone": "sˈaɪklɪk",
+  "ukphone": "sˈaɪklɪk"
+ },
+ {
+  "name": "header-only",
+  "trans": [
+   "仅头文件",
+   "C++ · A.2: Express potentially reusable parts as a library"
+  ],
+  "usphone": "hˈɛdəɹˈəʊnli",
+  "ukphone": "hˈɛdəɹˈəʊnli"
+ },
+ {
+  "name": "linking",
+  "trans": [
+   "链接",
+   "C++ · T.83: Do not declare a member function template virtual"
+  ],
+  "usphone": "lˈɪŋkɪŋ",
+  "ukphone": "lˈɪŋkɪŋ"
+ },
+ {
+  "name": "aggregate",
+  "trans": [
+   "聚合体",
+   "C++ · F.27: Use a to share ownership"
+  ],
+  "usphone": "ˈaɡɹɪɡˌeɪt",
+  "ukphone": "ˈaɡɹɪɡˌeɪt"
+ },
+ {
+  "name": "dynamic allocation",
+  "trans": [
+   "动态分配",
+   "C++ · C.10: Prefer concrete types over class hierarchies"
+  ],
+  "usphone": "daɪnˈamɪk ˌaləkˈeɪʃən",
+  "ukphone": "daɪnˈamɪk ˌaləkˈeɪʃən"
+ },
+ {
+  "name": "forwarding reference",
+  "trans": [
+   "转发引用",
+   "C++ · ES.56: Write only when you need to explicitly move an object to another scope"
+  ],
+  "usphone": "fˈɔːwədɪŋ ɹˈɛfɹəns",
+  "ukphone": "fˈɔːwədɪŋ ɹˈɛfɹəns"
+ },
+ {
+  "name": "inline function",
+  "trans": [
+   "内联函数",
+   "C++ · SF.2: A header file must not contain object definitions or non-inline function definitions"
+  ],
+  "usphone": "ˈɪnlaɪn fˈʌŋkʃən",
+  "ukphone": "ˈɪnlaɪn fˈʌŋkʃən"
+ },
+ {
+  "name": "intrusive",
+  "trans": [
+   "侵入式的",
+   "C++ · C.136: Use multiple inheritance to represent the union of implementation attributes"
+  ],
+  "usphone": "ɪntɹˈuːsɪv",
+  "ukphone": "ɪntɹˈuːsɪv"
+ },
+ {
+  "name": "robust",
+  "trans": [
+   "健壮的",
+   "C++ · E.2: Throw an exception to signal that a function can’t perform its assigned task"
+  ],
+  "usphone": "ɹəʊbˈʌst",
+  "ukphone": "ɹəʊbˈʌst"
+ },
+ {
+  "name": "shared pointer",
+  "trans": [
+   "共享指针",
+   "C++ · C.127: A class with a virtual function should have a virtual or protected destructor"
+  ],
+  "usphone": "ʃˈeəd pˈɔɪntə",
+  "ukphone": "ʃˈeəd pˈɔɪntə"
+ },
+ {
+  "name": "type deduction",
+  "trans": [
+   "类型推导",
+   "C++ · F.45: Don’t return a"
+  ],
+  "usphone": "tˈaɪp dɪdˈʌkʃən",
+  "ukphone": "tˈaɪp dɪdˈʌkʃən"
+ },
+ {
+  "name": "unspecified behavior",
+  "trans": [
+   "未指定行为",
+   "C++ · A.4: There should be no cycles among libraries"
+  ],
+  "usphone": "ʌnspˈɛsɪfˌaɪd bɪhˈeɪvjə",
+  "ukphone": "ʌnspˈɛsɪfˌaɪd bɪhˈeɪvjə"
+ },
+ {
+  "name": "unwind",
+  "trans": [
+   "展开",
+   "C++ · Discussion: Destructors, deallocation, and swap must never fail"
+  ],
+  "usphone": "ʌnwˈaɪnd",
+  "ukphone": "ʌnwˈaɪnd"
+ },
+ {
+  "name": "dangling reference",
+  "trans": [
+   "悬空引用",
+   "C++ · In.force: Enforcement"
+  ],
+  "usphone": "dˈaŋɡəlɪŋ ɹˈɛfɹəns",
+  "ukphone": "dˈaŋɡəlɪŋ ɹˈɛfɹəns"
+ },
+ {
+  "name": "perfect forwarding",
+  "trans": [
+   "完美转发",
+   "C++ · F.45: Don’t return a"
+  ],
+  "usphone": "pˈɜːfɛkt fˈɔːwədɪŋ",
+  "ukphone": "pˈɜːfɛkt fˈɔːwədɪŋ"
+ },
+ {
+  "name": "regression",
+  "trans": [
+   "回归",
+   "C++ · CP.101: Distrust your hardware/compiler combination"
+  ],
+  "usphone": "ɹɪɡɹˈɛʃən",
+  "ukphone": "ɹɪɡɹˈɛʃən"
+ },
+ {
+  "name": "runtime",
+  "trans": [
+   "运行时",
+   "C++ · FAQ.58: Is the same as or the proposed ?"
+  ],
+  "usphone": "ɹˈʌntaɪm",
+  "ukphone": "ɹˈʌntaɪm"
+ },
+ {
+  "name": "object",
+  "trans": [
+   "对象",
+   "C++ · I.11: Never transfer ownership by a raw pointer () or reference ()"
+  ],
+  "usphone": "ˈɒbdʒɛkt",
+  "ukphone": "ˈɒbdʒɛkt"
+ },
+ {
+  "name": "member",
+  "trans": [
+   "成员",
+   "C++ · I.5: State preconditions (if any)"
+  ],
+  "usphone": "mˈɛmbə",
+  "ukphone": "mˈɛmbə"
+ },
+ {
+  "name": "exception",
+  "trans": [
+   "异常",
+   "C++ · R.13: Perform at most one explicit resource allocation in a single expression statement"
+  ],
+  "usphone": "ɛksˈɛpʃən",
+  "ukphone": "ɛksˈɛpʃən"
+ },
+ {
+  "name": "interface",
+  "trans": [
+   "接口",
+   "C++ · C.135: Use multiple inheritance to represent multiple distinct interfaces"
+  ],
+  "usphone": "ˈɪntəfˌeɪs",
+  "ukphone": "ˈɪntəfˌeɪs"
+ },
+ {
+  "name": "reference",
+  "trans": [
+   "引用",
+   "C++ · P.1: Express ideas directly in code"
+  ],
+  "usphone": "ɹˈɛfɹəns",
+  "ukphone": "ɹˈɛfɹəns"
+ },
+ {
+  "name": "variable",
+  "trans": [
+   "变量",
+   "C++ · I.10: Use exceptions to signal a failure to perform a required task"
+  ],
+  "usphone": "vˈeəɹɪəbəl",
+  "ukphone": "vˈeəɹɪəbəl"
+ },
+ {
+  "name": "argument",
+  "trans": [
+   "实参",
+   "C++ · F.7: For general use, take or arguments rather than smart pointers"
+  ],
+  "usphone": "ˈɑːɡjuːmənt",
+  "ukphone": "ˈɑːɡjuːmənt"
+ },
+ {
+  "name": "implementation",
+  "trans": [
+   "实现",
+   "C++ · Per.7: Design to enable optimization"
+  ],
+  "usphone": "ˌɪmplɪməntˈeɪʃən",
+  "ukphone": "ˌɪmplɪməntˈeɪʃən"
+ },
+ {
+  "name": "handle",
+  "trans": [
+   "句柄",
+   "C++ · C.con: Containers and other resource handles"
+  ],
+  "usphone": "hˈandəl",
+  "ukphone": "hˈandəl"
+ },
+ {
+  "name": "resource",
+  "trans": [
+   "资源",
+   "C++ · Glossary"
+  ],
+  "usphone": "ɹɪzˈɔːs",
+  "ukphone": "ɹɪzˈɔːs"
+ },
+ {
+  "name": "concept",
+  "trans": [
+   "概念",
+   "C++ · I.4: Make interfaces precisely and strongly typed"
+  ],
+  "usphone": "kˈɒnsɛpt",
+  "ukphone": "kˈɒnsɛpt"
+ },
+ {
+  "name": "scope",
+  "trans": [
+   "作用域",
+   "C++ · P.12: Use supporting tools as appropriate"
+  ],
+  "usphone": "skˈəʊp",
+  "ukphone": "skˈəʊp"
+ },
+ {
+  "name": "access",
+  "trans": [
+   "访问",
+   "C++ · C.145: Access polymorphic objects through pointers and references"
+  ],
+  "usphone": "ˈaksɛs",
+  "ukphone": "ˈaksɛs"
+ },
+ {
+  "name": "standard library",
+  "trans": [
+   "标准库",
+   "C++ · F.17: For “in-out” parameters, pass by reference to non-"
+  ],
+  "usphone": "stˈandəd lˈaɪbɹəɹi",
+  "ukphone": "stˈandəd lˈaɪbɹəɹi"
+ },
+ {
+  "name": "virtual",
+  "trans": [
+   "虚的",
+   "C++ · C.120: Use class hierarchies to represent concepts with inherent hierarchical structure (only)"
+  ],
+  "usphone": "vˈɜːtʃuːəl",
+  "ukphone": "vˈɜːtʃuːəl"
+ },
+ {
+  "name": "thread",
+  "trans": [
+   "线程",
+   "C++ · CP.1: Assume that your code will run as part of a multi-threaded program"
+  ],
+  "usphone": "θɹˈɛd",
+  "ukphone": "θɹˈɛd"
+ },
+ {
+  "name": "container",
+  "trans": [
+   "容器",
+   "C++ · ES.64: Use the notation for construction"
+  ],
+  "usphone": "kəntˈeɪnə",
+  "ukphone": "kəntˈeɪnə"
+ },
+ {
+  "name": "array",
+  "trans": [
+   "数组",
+   "C++ · Per.7: Design to enable optimization"
+  ],
+  "usphone": "ɐɹˈeɪ",
+  "ukphone": "ɐɹˈeɪ"
+ },
+ {
+  "name": "assignment",
+  "trans": [
+   "赋值",
+   "C++ · C.67: A polymorphic class should suppress public copy/move"
+  ],
+  "usphone": "ɐsˈaɪnmənt",
+  "ukphone": "ɐsˈaɪnmənt"
+ },
+ {
+  "name": "operator",
+  "trans": [
+   "运算符",
+   "C++ · F.47: Return from assignment operators"
+  ],
+  "usphone": "ˈɒpəɹˌeɪtə",
+  "ukphone": "ˈɒpəɹˌeɪtə"
+ },
+ {
+  "name": "definition",
+  "trans": [
+   "定义",
+   "C++ · SF.22: Use an unnamed (anonymous) namespace for all internal/non-exported entities"
+  ],
+  "usphone": "dˌɛfɪnˈɪʃən",
+  "ukphone": "dˌɛfɪnˈɪʃən"
+ },
+ {
+  "name": "statement",
+  "trans": [
+   "语句",
+   "C++ · I.6: Prefer for expressing preconditions"
+  ],
+  "usphone": "stˈeɪtmənt",
+  "ukphone": "stˈeɪtmənt"
+ },
+ {
+  "name": "base class",
+  "trans": [
+   "基类",
+   "C++ · C.67: A polymorphic class should suppress public copy/move"
+  ],
+  "usphone": "bˈeɪs klˈas",
+  "ukphone": "bˈeɪs klˈas"
+ },
+ {
+  "name": "declaration",
+  "trans": [
+   "声明",
+   "C++ · C.7: Don’t define a class or enum and declare a variable of its type in the same statement"
+  ],
+  "usphone": "dˌɛkləɹˈeɪʃən",
+  "ukphone": "dˌɛkləɹˈeɪʃən"
+ },
+ {
+  "name": "performance",
+  "trans": [
+   "性能",
+   "C++ · I.10: Use exceptions to signal a failure to perform a required task"
+  ],
+  "usphone": "pəfˈɔːməns",
+  "ukphone": "pəfˈɔːməns"
+ },
+ {
+  "name": "programming",
+  "trans": [
+   "编程",
+   "C++ · In.0: Don’t panic!"
+  ],
+  "usphone": "pɹˈəʊɡɹamɪŋ",
+  "ukphone": "pɹˈəʊɡɹamɪŋ"
+ },
+ {
+  "name": "cast",
+  "trans": [
+   "类型转换",
+   "C++ · ES.64: Use the notation for construction"
+  ],
+  "usphone": "kˈast",
+  "ukphone": "kˈast"
+ },
+ {
+  "name": "expression",
+  "trans": [
+   "表达式",
+   "C++ · ES.42: Keep use of pointers simple and straightforward"
+  ],
+  "usphone": "ɛkspɹˈɛʃən",
+  "ukphone": "ɛkspɹˈɛʃən"
+ },
+ {
+  "name": "behavior",
+  "trans": [
+   "行为",
+   "C++ · C.67: A polymorphic class should suppress public copy/move"
+  ],
+  "usphone": "bɪhˈeɪvjə",
+  "ukphone": "bɪhˈeɪvjə"
+ },
+ {
+  "name": "leak",
+  "trans": [
+   "泄漏",
+   "C++ · R.1: Manage resources automatically using resource handles and RAII (Resource Acquisition Is Initialization)"
+  ],
+  "usphone": "lˈiːk",
+  "ukphone": "lˈiːk"
+ },
+ {
+  "name": "ownership",
+  "trans": [
+   "所有权",
+   "C++ · P.6: What cannot be checked at compile time should be checkable at run time"
+  ],
+  "usphone": "ˈəʊnəʃˌɪp",
+  "ukphone": "ˈəʊnəʃˌɪp"
+ },
+ {
+  "name": "string",
+  "trans": [
+   "字符串",
+   "C++ · R.2: In interfaces, use raw pointers to denote individual objects (only)"
+  ],
+  "usphone": "stɹˈɪŋ",
+  "ukphone": "stɹˈɪŋ"
+ },
+ {
+  "name": "derived class",
+  "trans": [
+   "派生类",
+   "C++ · C.10: Prefer concrete types over class hierarchies"
+  ],
+  "usphone": "dɪɹˈaɪvd klˈas",
+  "ukphone": "dɪɹˈaɪvd klˈas"
+ },
+ {
+  "name": "static",
+  "trans": [
+   "静态的",
+   "C++ · ES.42: Keep use of pointers simple and straightforward"
+  ],
+  "usphone": "stˈatɪk",
+  "ukphone": "stˈatɪk"
+ },
+ {
+  "name": "run time",
+  "trans": [
+   "运行期",
+   "C++ · In.force: Enforcement"
+  ],
+  "usphone": "ɹˈʌn tˈaɪm",
+  "ukphone": "ɹˈʌn tˈaɪm"
+ },
+ {
+  "name": "lifetime",
+  "trans": [
+   "生命周期",
+   "C++ · I.11: Never transfer ownership by a raw pointer () or reference ()"
+  ],
+  "usphone": "lˈaɪftaɪm",
+  "ukphone": "lˈaɪftaɪm"
+ },
+ {
+  "name": "profile",
+  "trans": [
+   "规范集",
+   "C++ · Pro.safety: Type-safety profile"
+  ],
+  "usphone": "pɹˈəʊfaɪl",
+  "ukphone": "pɹˈəʊfaɪl"
+ },
+ {
+  "name": "violation",
+  "trans": [
+   "违规",
+   "C++ · In.not: Non-aims"
+  ],
+  "usphone": "vaɪəlˈeɪʃən",
+  "ukphone": "vaɪəlˈeɪʃən"
+ },
+ {
+  "name": "return value",
+  "trans": [
+   "返回值",
+   "C++ · F.23: Use a to indicate that “null” is not a valid value"
+  ],
+  "usphone": "ɹɪtˈɜːn vˈaljuː",
+  "ukphone": "ɹɪtˈɜːn vˈaljuː"
+ },
+ {
+  "name": "data race",
+  "trans": [
+   "数据竞争",
+   "C++ · CP.9: Whenever feasible use tools to validate your concurrent code"
+  ],
+  "usphone": "dˈeɪtə ɹˈeɪs",
+  "ukphone": "dˈeɪtə ɹˈeɪs"
+ },
+ {
+  "name": "enforcement",
+  "trans": [
+   "强制实施",
+   "C++ · In.force: Enforcement"
+  ],
+  "usphone": "ɛnfˈɔːsmənt",
+  "ukphone": "ɛnfˈɔːsmənt"
+ },
+ {
+  "name": "destruction",
+  "trans": [
+   "销毁",
+   "C++ · I.11: Never transfer ownership by a raw pointer () or reference ()"
+  ],
+  "usphone": "dɪstɹˈʌkʃən",
+  "ukphone": "dɪstɹˈʌkʃən"
+ },
+ {
+  "name": "non-local",
+  "trans": [
+   "非局部的",
+   "C++ · R.37: Do not pass a pointer or reference obtained from an aliased smart pointer"
+  ],
+  "usphone": "nˈɒnlˈəʊkəl",
+  "ukphone": "nˈɒnlˈəʊkəl"
+ },
+ {
+  "name": "resource management",
+  "trans": [
+   "资源管理",
+   "C++ · P.6: What cannot be checked at compile time should be checkable at run time"
+  ],
+  "usphone": "ɹɪzˈɔːs mˈanɪdʒmənt",
+  "ukphone": "ɹɪzˈɔːs mˈanɪdʒmənt"
+ },
+ {
+  "name": "stack",
+  "trans": [
+   "栈",
+   "C++ · R.5: Prefer scoped objects, don’t heap-allocate unnecessarily"
+  ],
+  "usphone": "stˈak",
+  "ukphone": "stˈak"
+ },
+ {
+  "name": "function object",
+  "trans": [
+   "函数对象",
+   "C++ · CP.23: Think of a joining as a scoped container"
+  ],
+  "usphone": "fˈʌŋkʃən ˈɒbdʒɛkt",
+  "ukphone": "fˈʌŋkʃən ˈɒbdʒɛkt"
+ },
+ {
+  "name": "concrete type",
+  "trans": [
+   "具体类型",
+   "C++ · C.10: Prefer concrete types over class hierarchies"
+  ],
+  "usphone": "kˈɒŋkɹiːt tˈaɪp",
+  "ukphone": "kˈɒŋkɹiːt tˈaɪp"
+ },
+ {
+  "name": "non-virtual",
+  "trans": [
+   "非虚的",
+   "C++ · C.35: A base class destructor should be either public and virtual, or protected and non-virtual"
+  ],
+  "usphone": "nˈɒnvˈɜːtʃuːəl",
+  "ukphone": "nˈɒnvˈɜːtʃuːəl"
+ },
+ {
+  "name": "move assignment",
+  "trans": [
+   "移动赋值",
+   "C++ · ES.56: Write only when you need to explicitly move an object to another scope"
+  ],
+  "usphone": "mˈuːv ɐsˈaɪnmənt",
+  "ukphone": "mˈuːv ɐsˈaɪnmənt"
+ },
+ {
+  "name": "contract",
+  "trans": [
+   "契约",
+   "C++ · C.41: A constructor should create a fully initialized object"
+  ],
+  "usphone": "kˈɒntɹakt",
+  "ukphone": "kˈɒntɹakt"
+ },
+ {
+  "name": "lock-free",
+  "trans": [
+   "无锁的",
+   "C++ · CP.free: Lock-free programming"
+  ],
+  "usphone": "lˈɒkfɹˈiː",
+  "ukphone": "lˈɒkfɹˈiː"
+ },
+ {
+  "name": "factory function",
+  "trans": [
+   "工厂函数",
+   "C++ · C.41: A constructor should create a fully initialized object"
+  ],
+  "usphone": "fˈaktəɹi fˈʌŋkʃən",
+  "ukphone": "fˈaktəɹi fˈʌŋkʃən"
+ },
+ {
+  "name": "type-safe",
+  "trans": [
+   "类型安全的",
+   "C++ · ES.49: If you must use a cast, use a named cast"
+  ],
+  "usphone": "tˈaɪpsˈeɪf",
+  "ukphone": "tˈaɪpsˈeɪf"
+ },
+ {
+  "name": "abstract class",
+  "trans": [
+   "抽象类",
+   "C++ · Glossary"
+  ],
+  "usphone": "ˈabstɹakt klˈas",
+  "ukphone": "ˈabstɹakt klˈas"
+ },
+ {
+  "name": "global variable",
+  "trans": [
+   "全局变量",
+   "C++ · E.28: Avoid error handling based on global state (e.g. )"
+  ],
+  "usphone": "ɡlˈəʊbəl vˈeəɹɪəbəl",
+  "ukphone": "ɡlˈəʊbəl vˈeəɹɪəbəl"
+ },
+ {
+  "name": "copy assignment",
+  "trans": [
+   "拷贝赋值",
+   "C++ · C.21: If you define or any copy, move, or destructor function, define or them all"
+  ],
+  "usphone": "kˈɒpɪ ɐsˈaɪnmənt",
+  "ukphone": "kˈɒpɪ ɐsˈaɪnmənt"
+ },
+ {
+  "name": "lifetime safety",
+  "trans": [
+   "生命周期安全",
+   "C++ · F.7: For general use, take or arguments rather than smart pointers"
+  ],
+  "usphone": "lˈaɪftaɪm sˈeɪfti",
+  "ukphone": "lˈaɪftaɪm sˈeɪfti"
+ },
+ {
+  "name": "exception handling",
+  "trans": [
+   "异常处理",
+   "C++ · NR.3: Don’t avoid exceptions"
+  ],
+  "usphone": "ɛksˈɛpʃən hˈandlɪŋ",
+  "ukphone": "ɛksˈɛpʃən hˈandlɪŋ"
+ },
+ {
+  "name": "race condition",
+  "trans": [
+   "竞态条件",
+   "C++ · I.7: State postconditions"
+  ],
+  "usphone": "ɹˈeɪs kəndˈɪʃən",
+  "ukphone": "ɹˈeɪs kəndˈɪʃən"
+ },
+ {
+  "name": "source file",
+  "trans": [
+   "源文件",
+   "C++ · SF.22: Use an unnamed (anonymous) namespace for all internal/non-exported entities"
+  ],
+  "usphone": "sˈɔːs fˈaɪl",
+  "ukphone": "sˈɔːs fˈaɪl"
+ },
+ {
+  "name": "type safety",
+  "trans": [
+   "类型安全",
+   "C++ · Pro.safety: Type-safety profile"
+  ],
+  "usphone": "tˈaɪp sˈeɪfti",
+  "ukphone": "tˈaɪp sˈeɪfti"
+ },
+ {
+  "name": "suspension",
+  "trans": [
+   "挂起",
+   "C++ · CP.51: Do not use capturing lambdas that are coroutines"
+  ],
+  "usphone": "səspˈɛnʃən",
+  "ukphone": "səspˈɛnʃən"
+ },
+ {
+  "name": "user-defined type",
+  "trans": [
+   "用户定义类型",
+   "C++ · C: Classes and class hierarchies"
+  ],
+  "usphone": "jˈuːzədɪfˈaɪnd tˈaɪp",
+  "ukphone": "jˈuːzədɪfˈaɪnd tˈaɪp"
+ },
+ {
+  "name": "error code",
+  "trans": [
+   "错误码",
+   "C++ · C.42: If a constructor cannot construct a valid object, throw an exception"
+  ],
+  "usphone": "ˈɛɹə kˈəʊd",
+  "ukphone": "ˈɛɹə kˈəʊd"
+ },
+ {
+  "name": "thread-safe",
+  "trans": [
+   "线程安全的",
+   "C++ · I.3: Avoid singletons"
+  ],
+  "usphone": "θɹˈɛdsˈeɪf",
+  "ukphone": "θɹˈɛdsˈeɪf"
+ },
+ {
+  "name": "shared ownership",
+  "trans": [
+   "共享所有权",
+   "C++ · I.11: Never transfer ownership by a raw pointer () or reference ()"
+  ],
+  "usphone": "ʃˈeəd ˈəʊnəʃˌɪp",
+  "ukphone": "ʃˈeəd ˈəʊnəʃˌɪp"
+ },
+ {
+  "name": "implementation-defined",
+  "trans": [
+   "实现定义的",
+   "C++ · P.2: Write in ISO Standard C++"
+  ],
+  "usphone": "ˌɪmplɪməntˈeɪʃəndɪfˈaɪnd",
+  "ukphone": "ˌɪmplɪməntˈeɪʃəndɪfˈaɪnd"
+ },
+ {
+  "name": "object code",
+  "trans": [
+   "目标代码",
+   "C++ · Glossary"
+  ],
+  "usphone": "ˈɒbdʒɛkt kˈəʊd",
+  "ukphone": "ˈɒbdʒɛkt kˈəʊd"
+ },
+ {
+  "name": "legacy code",
+  "trans": [
+   "遗留代码",
+   "C++ · R.3: A raw pointer (a ) is non-owning"
+  ],
+  "usphone": "lˈɛɡəsi kˈəʊd",
+  "ukphone": "lˈɛɡəsi kˈəʊd"
+ },
+ {
+  "name": "side effect",
+  "trans": [
+   "副作用",
+   "C++ · F.52: Prefer capturing by reference in lambdas that will be used locally, including passed to algorithms"
+  ],
+  "usphone": "sˈaɪd ɪfˈɛkt",
+  "ukphone": "sˈaɪd ɪfˈɛkt"
+ },
+ {
+  "name": "thread safety",
+  "trans": [
+   "线程安全",
+   "C++ · CP.1: Assume that your code will run as part of a multi-threaded program"
+  ],
+  "usphone": "θɹˈɛd sˈeɪfti",
+  "ukphone": "θɹˈɛd sˈeɪfti"
+ },
+ {
+  "name": "constant expression",
+  "trans": [
+   "常量表达式",
+   "C++ · F.4: If a function might have to be evaluated at compile time, declare it"
+  ],
+  "usphone": "kˈɒnstənt ɛkspɹˈɛʃən",
+  "ukphone": "kˈɒnstənt ɛkspɹˈɛʃən"
+ },
+ {
+  "name": "message passing",
+  "trans": [
+   "消息传递",
+   "C++ · CP.3: Minimize explicit sharing of writable data"
+  ],
+  "usphone": "mˈɛsɪdʒ pˈasɪŋ",
+  "ukphone": "mˈɛsɪdʒ pˈasɪŋ"
+ },
+ {
+  "name": "trade-off",
+  "trans": [
+   "权衡",
+   "C++ · I.27: For stable library ABI, consider the Pimpl idiom"
+  ],
+  "usphone": "tɹˈeɪdˈɒf",
+  "ukphone": "tɹˈeɪdˈɒf"
+ },
+ {
+  "name": "code review",
+  "trans": [
+   "代码审查",
+   "C++ · In.force: Enforcement"
+  ],
+  "usphone": "kˈəʊd ɹɪvjˈuː",
+  "ukphone": "kˈəʊd ɹɪvjˈuː"
+ },
+ {
+  "name": "exception safety",
+  "trans": [
+   "异常安全",
+   "C++ · R.22: Use to make s"
+  ],
+  "usphone": "ɛksˈɛpʃən sˈeɪfti",
+  "ukphone": "ɛksˈɛpʃən sˈeɪfti"
+ },
+ {
+  "name": "ownership transfer",
+  "trans": [
+   "所有权转移",
+   "C++ · I.11: Never transfer ownership by a raw pointer () or reference ()"
+  ],
+  "usphone": "ˈəʊnəʃˌɪp tɹˈansfɜː",
+  "ukphone": "ˈəʊnəʃˌɪp tɹˈansfɜː"
+ },
+ {
+  "name": "pass by reference",
+  "trans": [
+   "按引用传递",
+   "C++ · F.52: Prefer capturing by reference in lambdas that will be used locally, including passed to algorithms"
+  ],
+  "usphone": "pˈas baɪ ɹˈɛfɹəns",
+  "ukphone": "pˈas baɪ ɹˈɛfɹəns"
+ },
+ {
+  "name": "pass by value",
+  "trans": [
+   "按值传递",
+   "C++ · CP.3: Minimize explicit sharing of writable data"
+  ],
+  "usphone": "pˈas baɪ vˈaljuː",
+  "ukphone": "pˈas baɪ vˈaljuː"
+ },
+ {
+  "name": "pure function",
+  "trans": [
+   "纯函数",
+   "C++ · F.8: Prefer pure functions"
+  ],
+  "usphone": "pjˈʊə fˈʌŋkʃən",
+  "ukphone": "pjˈʊə fˈʌŋkʃən"
+ },
+ {
+  "name": "thread pool",
+  "trans": [
+   "线程池",
+   "C++ · CP.61: Use to spawn concurrent tasks"
+  ],
+  "usphone": "θɹˈɛd pˈuːl",
+  "ukphone": "θɹˈɛd pˈuːl"
+ },
+ {
+  "name": "unit test",
+  "trans": [
+   "单元测试",
+   "C++ · A.1: Separate stable code from less stable code"
+  ],
+  "usphone": "jˈuːnɪt tˈɛst",
+  "ukphone": "jˈuːnɪt tˈɛst"
+ },
+ {
+  "name": "value type",
+  "trans": [
+   "值类型",
+   "C++ · E.15: Throw by value, catch exceptions from a hierarchy by reference"
+  ],
+  "usphone": "vˈaljuː tˈaɪp",
+  "ukphone": "vˈaljuː tˈaɪp"
+ },
+ {
+  "name": "exclusive ownership",
+  "trans": [
+   "独占所有权",
+   "C++ · I.11: Never transfer ownership by a raw pointer () or reference ()"
+  ],
+  "usphone": "ɛksklˈuːsɪv ˈəʊnəʃˌɪp",
+  "ukphone": "ɛksklˈuːsɪv ˈəʊnəʃˌɪp"
+ },
+ {
+  "name": "garbage collection",
+  "trans": [
+   "垃圾回收",
+   "C++ · P.8: Don’t leak any resources"
+  ],
+  "usphone": "ɡˈɑːbɪdʒ kəlˈɛkʃən",
+  "ukphone": "ɡˈɑːbɪdʒ kəlˈɛkʃən"
+ },
+ {
+  "name": "memory leak",
+  "trans": [
+   "内存泄漏",
+   "C++ · E: Error handling"
+  ],
+  "usphone": "mˈɛməɹi lˈiːk",
+  "ukphone": "mˈɛməɹi lˈiːk"
+ },
+ {
+  "name": "translation unit",
+  "trans": [
+   "翻译单元",
+   "C++ · I.22: Avoid complex initialization of global objects"
+  ],
+  "usphone": "tɹanslˈeɪʃən jˈuːnɪt",
+  "ukphone": "tɹanslˈeɪʃən jˈuːnɪt"
+ }
+]

@@ -193,5 +193,70 @@
     "tags": [
       "English Lab"
     ]
+  },
+  {
+    "id": "english-lab-all-words",
+    "file": "english-lab-all-words.json",
+    "name": "全部单词 3625",
+    "description": "从 1200 句、短语、词缀例词和 FSI 句型中提取的全部单词，ECDICT 释义。",
+    "category": "English Lab",
+    "length": 3625,
+    "language": "en",
+    "languageCategory": "en",
+    "tags": [
+      "English Lab"
+    ]
+  },
+  {
+    "id": "english-lab-new-words",
+    "file": "english-lab-new-words.json",
+    "name": "新词 3487",
+    "description": "排除常见功能词和代词后的内容词，ECDICT 释义。",
+    "category": "English Lab",
+    "length": 3463,
+    "language": "en",
+    "languageCategory": "en",
+    "tags": [
+      "English Lab"
+    ]
+  },
+  {
+    "id": "english-lab-pronouns",
+    "file": "english-lab-pronouns.json",
+    "name": "代词 54",
+    "description": "人称、物主、反身、指示、疑问和不定代词，附例句。",
+    "category": "English Lab",
+    "length": 54,
+    "language": "en",
+    "languageCategory": "en",
+    "tags": [
+      "English Lab"
+    ]
+  },
+  {
+    "id": "english-lab-paper-10k",
+    "file": "english-lab-paper-10k.json",
+    "name": "论文 10k 词",
+    "description": "论文阅读词表去重后的 10,127 个词，含 ECDICT 释义与音标。",
+    "category": "English Lab",
+    "length": 10127,
+    "language": "en",
+    "languageCategory": "en",
+    "tags": [
+      "English Lab"
+    ]
+  },
+  {
+    "id": "english-lab-cpp-292",
+    "file": "english-lab-cpp-292.json",
+    "name": "C++ 术语 292",
+    "description": "C++ Core Guidelines 词表中的 292 个术语。",
+    "category": "English Lab",
+    "length": 292,
+    "language": "en",
+    "languageCategory": "en",
+    "tags": [
+      "English Lab"
+    ]
   }
 ]
