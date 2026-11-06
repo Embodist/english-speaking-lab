@@ -35,14 +35,22 @@ updated: 2026-11-05
 
 ## 本地已装好
 
-qwerty-learner 已克隆到 `~/english/qwerty-learner`，依赖已安装，20 个词库已注册。
+qwerty-learner 已克隆到 `~/english/qwerty-learner`，依赖已安装，20 个词库已注册。发音使用本地 Piper，不再依赖有道在线音频。
 
 ```bash
 cd ~/english/english-speaking-lab
-bash scripts/start-qwerty.sh
+bash scripts/start-qwerty.sh      # 同时启动 Piper TTS (8010) 和 Vite (5173)
+bash scripts/stop-qwerty.sh       # 停止两个服务
 ```
 
 打开 `http://127.0.0.1:5173/gallery`，选择分类 **English Lab**。如果 5173 被占用，可以 `PORT=5174 bash scripts/start-qwerty.sh`。
+
+## 发音
+
+- **音标**：单词卡带 ECDICT 的 `usphone` / `ukphone`。
+- **音频**：qwerty 的喇叭按钮调用本地 `http://127.0.0.1:8010/tts`，由 Piper `en_US-lessac-medium` 生成，单词、短语、整句都可读。
+- **缓存**：音频缓存在 `~/.cache/qwerty-tts/`；第一次启动后第一个词约 20 秒加载模型，之后通常几十毫秒。
+- **日志**：`/tmp/qwerty-tts.log`。
 
 ## 新机器从零安装
 

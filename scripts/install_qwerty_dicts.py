@@ -66,7 +66,57 @@ def patch_registry(path, block):
     path.write_text(text, encoding="utf-8")
 
 
+LOCAL_TTS_MARKER = "// English Lab local TTS"
+
+
+def patch_pronunciation(repo):
+    path = repo / "src" / "hooks" / "usePronunciation.ts"
+    if not path.is_file():
+        print(f"skip pronunciation patch: {path} not found")
+        return
+    text = path.read_text(encoding="utf-8")
+    if LOCAL_TTS_MARKER not in text:
+        anchor = "const pronunciationApi = 'https://dict.youdao.com/dictvoice?audio='"
+        if anchor not in text:
+            print("skip pronunciation patch: anchor not found")
+            return
+        text = text.replace(
+            anchor,
+            anchor + "\nconst LOCAL_TTS_API = 'http://127.0.0.1:8010/tts?word=' " + LOCAL_TTS_MARKER,
+        )
+        old_cases = """    case 'uk':
+      return `${pronunciationApi}${word}&type=1`
+    case 'us':
+      return `${pronunciationApi}${word}&type=2`"""
+        new_cases = """    case 'uk':
+    case 'us':
+      return `${LOCAL_TTS_API}${encodeURIComponent(word)}&lang=${pronunciation}`"""
+        if old_cases in text:
+            text = text.replace(old_cases, new_cases)
+    if "format: ['wav', 'mp3']" not in text:
+        text = text.replace("format: ['mp3']", "format: ['wav', 'mp3']")
+    path.write_text(text, encoding="utf-8")
+    print(f"patched pronunciation: {path}")
+
+
 def main():
+    if len(sys.argv) < 2:
+        raise SystemExit(__doc__)
+    repo = Path(sys.argv[1]).expanduser().resolve()
+    dict_dir = repo / "public" / "dicts"
+    registry = repo / "src" / "resources" / "dictionary.ts"
+    if not dict_dir.is_dir() or not registry.is_file():
+        raise SystemExit(f"not a qwerty-learner repo: {repo}")
+
+    manifest = json.loads(MANIFEST.read_text(encoding="utf-8"))
+    for item in manifest:
+        shutil.copy2(DICTS / item["file"], dict_dir / item["file"])
+    patch_registry(registry, build_block(manifest))
+    patch_pronunciation(repo)
+    print(f"copied {len(manifest)} dictionaries to {dict_dir}")
+    print(f"patched {registry}")
+    print("next: cd", repo, "&& yarn install && yarn dev")
+    print("then open http://localhost:5173 and choose category 'English Lab'")
     if len(sys.argv) < 2:
         raise SystemExit(__doc__)
     repo = Path(sys.argv[1]).expanduser().resolve()

@@ -25,7 +25,9 @@ updated: 2026-11-05
 | `build_affix_apkg.py` | 导出前缀/后缀/例词 Anki 牌组 | `~/english/.venv/bin/python scripts/build_affix_apkg.py` |
 | `build_qwerty_dicts.py` | 生成 qwerty-learner 词库 JSON | `python scripts/build_qwerty_dicts.py` |
 | `install_qwerty_dicts.py` | 安装词库到本地 qwerty-learner | `python scripts/install_qwerty_dicts.py /path/to/qwerty-learner` |
-| `start-qwerty.sh` | 启动本地 qwerty-learner | `bash scripts/start-qwerty.sh` |
+| `start-qwerty.sh` | 启动本地 qwerty-learner + Piper 发音 | `bash scripts/start-qwerty.sh` |
+| `stop-qwerty.sh` | 停止 qwerty 与发音服务 | `bash scripts/stop-qwerty.sh` |
+| `qwerty_tts_server.py` | 本地 Piper TTS 接口（8010） | `~/english/.venv/bin/python scripts/qwerty_tts_server.py` |
 | `lab_server.py` | 同源 API：`/lab`、`/lab/asr`、`/lab/save` | 由 `start-web.sh` 启动 |
 | `start-translate.sh` | 启动 Hy-MT2 翻译服务（GPU，8081） | `bash scripts/start-translate.sh --background` |
 | `translate.sh` | 中文 → 英文草稿 | `bash scripts/translate.sh "中文"` |
